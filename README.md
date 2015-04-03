@@ -2,7 +2,7 @@
 
 > A community effort to tag Github repos.
 
-There are millions of repos on Github and many active Github users starred hunderds of them.
+There are millions of repos on Github and many active Github users starred hundreds of them.
 As the usage grows, organizing and discovering repos became more and more important.
 [Some users](https://github.com/kessler/add-tags-to-github-stars) requested Github to add tagging feature and
 [others](https://github.com/bayandin/awesome-awesomeness) started to build curated lists about topics they care.
