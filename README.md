@@ -119,7 +119,7 @@ Currently there are 37190 tagged repos and 518 tags. More repos and tags will be
 
 We decided to store all data in plain text to make Pull Request easier to use.
 
-**3. Who you are?**
+**3. Who are you?**
 
 We are developers from [Porter.io](https://porter.io) which is a free service to send daily digest of HackerNews stories about
 your favorite Github repos.
