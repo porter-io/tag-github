@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.652945", 
+  "description": "NSQ stats monitoring program.", 
+  "fork": false, 
+  "full_name": "tj/nsqtop", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:15.351949"
+}

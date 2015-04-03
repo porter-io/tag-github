@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.446032", 
+  "description": "Easy creation of slugs for your Eloquent models in Laravel 4.", 
+  "fork": false, 
+  "full_name": "cviebrock/eloquent-sluggable", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:05.666892"
+}

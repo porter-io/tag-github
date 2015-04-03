@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.493806", 
+  "description": "Clojure wrapper for the mongo-db java api", 
+  "fork": false, 
+  "full_name": "aboekhoff/congomongo", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:28.338558"
+}

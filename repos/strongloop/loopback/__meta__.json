@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.431803", 
+  "description": "LoopBack is an open source Node.js framework built on top of Express optimized for mobile, web, and other devices. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.", 
+  "fork": false, 
+  "full_name": "strongloop/loopback", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-21T14:55:10.785814"
+}

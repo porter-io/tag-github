@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.272162", 
+  "description": "Popup a textinput field to input text using IM (ibus, scim) in Sublime Text 2 under Linux.", 
+  "fork": false, 
+  "full_name": "xgenvn/InputHelper", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:32.957686"
+}

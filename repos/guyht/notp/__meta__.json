@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.115902", 
+  "description": "Node One Time Password library, supports HOTP, TOTP and works with Google Authenticator", 
+  "fork": false, 
+  "full_name": "guyht/notp", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:11.325246"
+}

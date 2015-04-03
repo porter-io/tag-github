@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.023254", 
+  "description": "Javascript parser for recurrent rules with ability to parse iCalendar RRULE format (from RFC 5545 spec). ", 
+  "fork": false, 
+  "full_name": "digITpro/rrule_parser", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:17.936924"
+}

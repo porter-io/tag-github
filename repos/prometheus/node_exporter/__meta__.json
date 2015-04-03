@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.567973", 
+  "description": "Simple exporter, exposing load, seconds since last login and a list of tags for the node it's running on.", 
+  "fork": false, 
+  "full_name": "prometheus/node_exporter", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:35.056174"
+}

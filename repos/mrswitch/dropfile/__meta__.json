@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:59.856483", 
+  "description": "Dropfile is a shim which uses Silverlight to recreate the part of the HTML5 FileAPI which lets us drag files into the IE browser and read em'", 
+  "fork": false, 
+  "full_name": "MrSwitch/dropfile", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:02.458076"
+}

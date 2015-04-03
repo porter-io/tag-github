@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.248647", 
+  "description": "Provide capabilities simliar to Maven's Shade plugin. Faster implementation than Gradle's FatJar.", 
+  "fork": false, 
+  "full_name": "johnrengelman/shadow", 
+  "language": "Groovy", 
+  "updated_at": "2015-02-27T23:41:27.247380"
+}

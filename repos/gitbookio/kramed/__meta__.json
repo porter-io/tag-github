@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.581762", 
+  "description": "A markdown (kramdown compatible) parser and compiler. Built for speed. (Fork of marked)", 
+  "fork": false, 
+  "full_name": "GitbookIO/kramed", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:19.057190"
+}

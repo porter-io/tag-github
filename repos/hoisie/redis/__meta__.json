@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.246206", 
+  "description": "A simple, powerful Redis client for Go", 
+  "fork": false, 
+  "full_name": "hoisie/redis", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:57.557332"
+}

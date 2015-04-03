@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.484504", 
+  "description": "Spatial indexing and proximity search for redis with geohashes", 
+  "fork": false, 
+  "full_name": "paulasmuth/redis_geohash", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:22.342431"
+}

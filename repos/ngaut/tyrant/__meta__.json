@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.839517", 
+  "description": "distributed  job scheduler based on mesos powered by golang", 
+  "fork": true, 
+  "full_name": "ngaut/tyrant", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-28T08:41:00.652771"
+}

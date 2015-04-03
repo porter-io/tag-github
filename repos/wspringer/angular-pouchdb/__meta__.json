@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.581547", 
+  "description": "Angular wrapper for PouchDB, making sure that callbacks are called within $rootScope.$apply(), and using $q promises instead of callbacks. On top of that, it supports an `ng-repeat`-alike directive for traversing the contents of your database.", 
+  "fork": false, 
+  "full_name": "wspringer/angular-pouchdb", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:38.101924"
+}

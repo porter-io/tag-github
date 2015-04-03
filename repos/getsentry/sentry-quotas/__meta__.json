@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.900110", 
+  "description": "An extension for Sentry which allows setting hard limits.", 
+  "fork": false, 
+  "full_name": "getsentry/sentry-quotas", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:09.720715"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.147145", 
+  "description": "Export ratings from Netflix using this Ruby on Rails code for the \"ratings exporter for Netflix\" service running on Heroku. **Note: Service Disabled After Netflix Changed API**", 
+  "fork": false, 
+  "full_name": "sorens/ratings-exporter", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:19.019111"
+}

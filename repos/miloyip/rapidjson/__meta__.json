@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.009577", 
+  "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API", 
+  "fork": false, 
+  "full_name": "miloyip/rapidjson", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:38.829895"
+}

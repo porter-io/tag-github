@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.754320", 
+  "description": "The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL CMS SignedData, TimeStamp and CAdES in pure JavaScript.", 
+  "fork": false, 
+  "full_name": "kjur/jsrsasign", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:57.451036"
+}

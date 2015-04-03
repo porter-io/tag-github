@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.912137", 
+  "description": "Reparent a running program to a new terminal", 
+  "fork": false, 
+  "full_name": "nelhage/reptyr", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:02.730968"
+}

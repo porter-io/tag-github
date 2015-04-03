@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.123901", 
+  "description": "A variation on Deep Belief Networks that allows labels to be used in pretraining. The application is tracing tongue surface contours from ultrasound images", 
+  "fork": false, 
+  "full_name": "jjberry/translational-DBN", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:08.853950"
+}

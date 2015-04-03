@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.951446", 
+  "description": "Modeled from the (Facebook Javascript SDK), now with the facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK).", 
+  "fork": false, 
+  "full_name": "Thuzi/facebook-node-sdk", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:41.712886"
+}

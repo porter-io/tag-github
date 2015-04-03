@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.459010", 
+  "description": "Library to parse and process opening_hours tag from OpenStreetMap data", 
+  "fork": false, 
+  "full_name": "AMDmi3/opening_hours.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:25.726367"
+}

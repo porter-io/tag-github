@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.785261", 
+  "description": "Open source, Django based DMS (document management system) with custom metadata indexing, file serving integration, OCR capabilities, document versioning and electronic signature verification.", 
+  "fork": false, 
+  "full_name": "mayan-edms/mayan-edms", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:54.455118"
+}

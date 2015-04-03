@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.510075", 
+  "description": "reCAPTCHA support for Symfony2. Comes with integration into Symfony Security Component", 
+  "fork": false, 
+  "full_name": "dmishh/RecaptchaBundle", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:14.767535"
+}

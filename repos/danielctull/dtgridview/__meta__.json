@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.617363", 
+  "description": "DEPRECATED, this isn't supported anymore. A two-dimensional scrolling view component for the iPhone, heavily inspired by UITableView.", 
+  "fork": false, 
+  "full_name": "danielctull/DTGridView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:30:49.729552"
+}

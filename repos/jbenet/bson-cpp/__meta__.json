@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.614244", 
+  "description": "Standalone repository for mongodb's BSON C++ Implementation", 
+  "fork": false, 
+  "full_name": "jbenet/bson-cpp", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:42.937929"
+}

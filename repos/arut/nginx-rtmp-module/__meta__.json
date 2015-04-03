@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.757040", 
+  "description": "NGINX-based Media Streaming Server", 
+  "fork": false, 
+  "full_name": "arut/nginx-rtmp-module", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:25.464028"
+}

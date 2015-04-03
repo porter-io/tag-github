@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.106768", 
+  "description": "Binding navigation commands for Pry to make a simple debugger", 
+  "fork": false, 
+  "full_name": "nixme/pry-nav", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:13.989386"
+}

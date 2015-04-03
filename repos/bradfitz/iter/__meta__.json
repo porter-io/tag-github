@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.475503", 
+  "description": "Range over integers [0,n). Seriously, that's it.", 
+  "fork": false, 
+  "full_name": "bradfitz/iter", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:42.625443"
+}

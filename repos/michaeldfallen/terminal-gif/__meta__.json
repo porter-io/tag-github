@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.445111", 
+  "description": "A simple wrapper around https://github.com/icholy/ttygif that allows you to record terminal commands to a gif in one command", 
+  "fork": false, 
+  "full_name": "michaeldfallen/terminal-gif", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:46.199660"
+}

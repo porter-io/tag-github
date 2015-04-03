@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.869554", 
+  "description": "A DDL shell for creating, managing, and inspecting schemas on HBase using KijiSchema", 
+  "fork": false, 
+  "full_name": "kijiproject/kiji-schema-shell", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:41:32.640793"
+}

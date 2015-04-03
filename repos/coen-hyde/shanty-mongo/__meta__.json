@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.262970", 
+  "description": "Shanty Mongo is a mongodb library for the Zend Framework. Its intention is to make working with mongodb documents as natural and as simple as possible. In particular allowing embedded documents to also have custom document classes.", 
+  "fork": false, 
+  "full_name": "coen-hyde/Shanty-Mongo", 
+  "language": "PHP", 
+  "updated_at": "2015-04-01T19:30:20.689681"
+}

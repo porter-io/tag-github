@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.406279", 
+  "description": "Use GitHub to Track Time and Budgets for your Development Projects(and really anything else you use GitHub for) - Ruby app that analyzes GitHub Issue Comments, Milestones, and Code Commit Messages for Time Tracking and Budget Tracking information", 
+  "fork": false, 
+  "full_name": "StephenOTT/GitHub-Time-Tracking", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:44.813989"
+}

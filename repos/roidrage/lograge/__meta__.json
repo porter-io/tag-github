@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.937419", 
+  "description": "An attempt to tame Rails' default policy to log everything.", 
+  "fork": false, 
+  "full_name": "roidrage/lograge", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:48.464509"
+}

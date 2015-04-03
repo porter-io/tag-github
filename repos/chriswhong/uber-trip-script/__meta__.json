@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.758808", 
+  "description": "Script that gets your uber Trip Data and exports it as geoJSON", 
+  "fork": false, 
+  "full_name": "chriswhong/uber-trip-script", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:43.909164"
+}

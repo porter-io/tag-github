@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.238362", 
+  "description": "Use embedded R from Clojure and Incanter", 
+  "fork": false, 
+  "full_name": "jolby/rincanter", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:23.947573"
+}

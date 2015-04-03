@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.941985", 
+  "description": "A generator library for concise, unambiguous and URL-safe UUIDs.", 
+  "fork": false, 
+  "full_name": "stochastic-technologies/shortuuid", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:50.071179"
+}

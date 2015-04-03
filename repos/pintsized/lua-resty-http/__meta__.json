@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.382741", 
+  "description": "Lua HTTP client cosocket driver for OpenResty / ngx_lua.", 
+  "fork": false, 
+  "full_name": "pintsized/lua-resty-http", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:43:40.323542"
+}

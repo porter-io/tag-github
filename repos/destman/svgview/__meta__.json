@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.732026", 
+  "description": "Tools to render simple SVG files at iOS using Core Graphics", 
+  "fork": false, 
+  "full_name": "destman/SVGView", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:01:54.987642"
+}

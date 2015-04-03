@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.908474", 
+  "description": "A collection of cryptographic primitives written in pure Lua", 
+  "fork": false, 
+  "full_name": "somesocks/lua-lockbox", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:43:25.614999"
+}

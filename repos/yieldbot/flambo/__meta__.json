@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.741447", 
+  "description": "A Clojure DSL for Apache Spark", 
+  "fork": false, 
+  "full_name": "yieldbot/flambo", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:54.276131"
+}

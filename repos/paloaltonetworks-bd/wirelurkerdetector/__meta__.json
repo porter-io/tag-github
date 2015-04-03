@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.592439", 
+  "description": "Script for detecting the WireLurker malware family", 
+  "fork": false, 
+  "full_name": "PaloAltoNetworks-BD/WireLurkerDetector", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:19.416853"
+}

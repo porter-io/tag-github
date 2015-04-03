@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.626994", 
+  "description": "Demo that uses the Text to Speech feature of Bing Translate to convert user entered text into speech", 
+  "fork": false, 
+  "full_name": "craic/bing_translate_text_to_speech", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:13.627841"
+}

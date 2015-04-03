@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.512584", 
+  "description": "A gem/plugin for Rails 3 & Rails 4 that enables client-side validation using ActiveModel + HTML5 Form Validation", 
+  "fork": false, 
+  "full_name": "amatsuda/html5_validators", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:25.158672"
+}

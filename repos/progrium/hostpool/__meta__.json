@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.455126", 
+  "description": "A worker pool manager for DigitalOcean hosts.", 
+  "fork": false, 
+  "full_name": "progrium/hostpool", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:26.183830"
+}

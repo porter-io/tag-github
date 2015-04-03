@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.249032", 
+  "description": "A very opinionated seed for creating Single Page Apps that uses NO framework at all. Just a bunch of component libs", 
+  "fork": false, 
+  "full_name": "auth0/single-page-app-seed", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:28:09.116861"
+}

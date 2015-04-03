@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.700775", 
+  "description": "Macaroons are flexible authorization credentials that support decentralized delegation, attenuation, and verification.", 
+  "fork": false, 
+  "full_name": "rescrv/libmacaroons", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:34.456152"
+}

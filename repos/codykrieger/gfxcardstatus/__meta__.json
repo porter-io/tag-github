@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.317511", 
+  "description": "gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand.", 
+  "fork": false, 
+  "full_name": "codykrieger/gfxCardStatus", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:12.822814"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.980841", 
+  "description": "generates a skeleton pyramid webapp with alembic, celery, gunicorn, rabbitmq and more", 
+  "fork": false, 
+  "full_name": "mazz/kifu", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:55.083121"
+}

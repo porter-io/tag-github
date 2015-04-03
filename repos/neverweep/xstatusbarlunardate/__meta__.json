@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.444639", 
+  "description": "\u5728\u72b6\u6001\u680f\u4e0b\u62c9\u548c\u9501\u5c4f\u754c\u9762\u65e5\u671f\u5904\u663e\u793a\u519c\u5386\u65f6\u95f4\u548c\u8282\u65e5\u3001\u8282\u6c14\u4fe1\u606f\uff0c\u8fd8\u53ef\u4ee5 Toast \u65b9\u5f0f\u63d0\u9192\u3002  Displays Chinese lunar calendar date, festivals and solar terms in drop-down statusbar and lockscreen. And also could notify user by toast.", 
+  "fork": false, 
+  "full_name": "neverweep/xStatusbarLunarDate", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:57.169144"
+}

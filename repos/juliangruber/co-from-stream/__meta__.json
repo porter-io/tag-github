@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.419692", 
+  "description": "Create a co generator stream from a node stream.", 
+  "fork": false, 
+  "full_name": "juliangruber/co-from-stream", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:48.992670"
+}

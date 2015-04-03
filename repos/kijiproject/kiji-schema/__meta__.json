@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.872160", 
+  "description": "A simple Java API and command line interface for importing, managing and retrieving data from HBase.", 
+  "fork": false, 
+  "full_name": "kijiproject/kiji-schema", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:32.646496"
+}

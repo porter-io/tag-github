@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.042429", 
+  "description": "Java library, based on Spring-WS, that enables handling SOAP on a purely XML level", 
+  "fork": false, 
+  "full_name": "reficio/soap-ws", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:12.977269"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.487104", 
+  "description": "A threaded web-spider written in Clojure", 
+  "fork": false, 
+  "full_name": "dakrone/itsy", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:57.198083"
+}

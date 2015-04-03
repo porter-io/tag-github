@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.469520", 
+  "description": "effect isolation in Python, to facilitate more purely functional code", 
+  "fork": false, 
+  "full_name": "radix/effect", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:34.294384"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.086320", 
+  "description": "Allows logging in via Facebook, Yahoo, Gmail, Twitter and Openid", 
+  "fork": false, 
+  "full_name": "agiliq/Django-Socialauth", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:55.312389"
+}

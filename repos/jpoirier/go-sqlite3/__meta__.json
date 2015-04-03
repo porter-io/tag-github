@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.470814", 
+  "description": "sqlite3 driver for go that using database/sql", 
+  "fork": true, 
+  "full_name": "jpoirier/go-sqlite3", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:01:57.612007"
+}

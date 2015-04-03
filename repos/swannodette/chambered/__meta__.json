@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.901100", 
+  "description": "Port of Notch's Minecraft JavaScript demo to ClojureScript", 
+  "fork": false, 
+  "full_name": "swannodette/chambered", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:38.629025"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.348927", 
+  "description": "Rails gem/plugin for dealing with request parameter parsing exceptions", 
+  "fork": false, 
+  "full_name": "kares/request_exception_handler", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:56.228947"
+}

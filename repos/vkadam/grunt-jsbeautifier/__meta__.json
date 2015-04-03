@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.679586", 
+  "description": "Beautify js, css, html and json files using Grunt and https://github.com/einars/js-beautify", 
+  "fork": false, 
+  "full_name": "vkadam/grunt-jsbeautifier", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:34.632907"
+}

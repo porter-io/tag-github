@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.091773", 
+  "description": "Electrum; Bitcoin thin client", 
+  "fork": false, 
+  "full_name": "spesmilo/electrum", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:58.486329"
+}

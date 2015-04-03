@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.460194", 
+  "description": "A photobooth script that automatically snaps a photo, applies a watermark, uploads to a remote server, generates a QRCode, shortens the URL, ouputs an HTML template, and displays it your web browser.", 
+  "fork": false, 
+  "full_name": "lmacken/photobooth.py", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:14.525564"
+}

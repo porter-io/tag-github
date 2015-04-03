@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.091580", 
+  "description": "The pre-generated C sources of the Nimrod compiler which aid in bootstrapping.", 
+  "fork": false, 
+  "full_name": "nim-lang/csources", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:52.966255"
+}

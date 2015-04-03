@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.659340", 
+  "description": "The Sleuth Kit\u00ae (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital forensics tools and the command line tools can be directly used to find evidence. ", 
+  "fork": false, 
+  "full_name": "sleuthkit/sleuthkit", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:01.607212"
+}

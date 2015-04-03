@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.309635", 
+  "description": "A module to provide a dirtree function which returns an array of a directory tree from a path string.", 
+  "fork": false, 
+  "full_name": "AlexCline/puppet-dirtree", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:37.028035"
+}

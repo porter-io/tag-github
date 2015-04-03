@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.271777", 
+  "description": "The module you need to solve node's SSL woes when including a custom certificate.", 
+  "fork": false, 
+  "full_name": "coolaj86/node-ssl-root-cas", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:44.420426"
+}

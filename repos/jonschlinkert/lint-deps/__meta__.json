@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.011018", 
+  "description": "Command-line tool to check for dependencies that are not listed in package.json, and optionally add them. Also tells you when packages that aren't used anywhere are listed in package.json.", 
+  "fork": false, 
+  "full_name": "jonschlinkert/lint-deps", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:03.266864"
+}

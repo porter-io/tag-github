@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.742957", 
+  "description": "Validation extensions for DataAnnotations, including optional MVC client validation implementations", 
+  "fork": false, 
+  "full_name": "srkirkland/DataAnnotationsExtensions", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:43:52.326551"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.052857", 
+  "description": "Common Lisp Library for the Gearman distributed job system.", 
+  "fork": false, 
+  "full_name": "taksatou/cl-gearman", 
+  "language": "Common Lisp", 
+  "updated_at": "2015-03-10T07:03:15.258788"
+}

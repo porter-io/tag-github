@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.796246", 
+  "description": "CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs.", 
+  "fork": false, 
+  "full_name": "mono/CocosSharp", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T08:15:59.240865"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.204041", 
+  "description": "Copy a database from one mongodb replica set to another database", 
+  "fork": false, 
+  "full_name": "MongoHQ/seed", 
+  "language": "Go", 
+  "updated_at": "2015-04-01T19:29:34.721308"
+}

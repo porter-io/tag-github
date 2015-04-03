@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.727523", 
+  "description": "HTTP wrapper around NRefactory allowing C# editor plugins to be written in any language.", 
+  "fork": false, 
+  "full_name": "OmniSharp/omnisharp-server", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:42:27.331897"
+}

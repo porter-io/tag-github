@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.852390", 
+  "description": "WebIDDelegatedAuth is a scaled down version of libAuthentication (https://github.com/melvincarvalho/libAuthentication). Whereas libAuthentication is a more general purpose PHP support library for the WebID protocol, WebIDDelegatedAuth can only be used to allow Web applications to support WebID authentication by delegating WebID authentication to their prefered third part WebID identification provider. All credit belongs to the initial authors of libAuthentication.", 
+  "fork": false, 
+  "full_name": "WebIDauth/WebIDDelegatedAuth", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:15.175412"
+}

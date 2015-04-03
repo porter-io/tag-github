@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.789237", 
+  "description": "A JVM Implementation of the Raft Consensus Protocol", 
+  "fork": false, 
+  "full_name": "mgodave/barge", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:55.520130"
+}

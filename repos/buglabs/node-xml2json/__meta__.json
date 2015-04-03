@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.364553", 
+  "description": "Converts XML to JSON using node-expat", 
+  "fork": false, 
+  "full_name": "buglabs/node-xml2json", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:25.012434"
+}

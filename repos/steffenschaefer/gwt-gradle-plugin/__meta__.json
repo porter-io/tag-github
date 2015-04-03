@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.180459", 
+  "description": "Gradle plugin to support GWT (http://www.gwtproject.org/) related tasks.", 
+  "fork": false, 
+  "full_name": "steffenschaefer/gwt-gradle-plugin", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:37.718295"
+}

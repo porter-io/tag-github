@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.888850", 
+  "description": "The original emulator of the Web Animations specification. Please use web-animations-js instead:", 
+  "fork": false, 
+  "full_name": "web-animations/web-animations-js-legacy", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:16.782757"
+}

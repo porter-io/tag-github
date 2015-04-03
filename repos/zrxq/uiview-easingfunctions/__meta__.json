@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.697328", 
+  "description": "A category on UIView that allows to use custom easing functions with block-based animations.", 
+  "fork": false, 
+  "full_name": "zrxq/UIView-EasingFunctions", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:40.655603"
+}

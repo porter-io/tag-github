@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.721948", 
+  "description": "Super-agent driven library for testing node.js HTTP servers using a fluent API", 
+  "fork": false, 
+  "full_name": "visionmedia/supertest", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:56.686255"
+}

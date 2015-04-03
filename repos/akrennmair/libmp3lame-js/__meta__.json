@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.034820", 
+  "description": "port of libmp3lame to JavaScript using emscripten", 
+  "fork": false, 
+  "full_name": "akrennmair/libmp3lame-js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:25.743603"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.873361", 
+  "description": "Immutable data structures with history for top-to-bottom properties in component based libraries like React. Based on Immutable.js", 
+  "fork": false, 
+  "full_name": "omniscientjs/immstruct", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:57.525669"
+}

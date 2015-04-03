@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.819454", 
+  "description": "XLS (BIFF5/BIFF8, Excel 95-2004 spreadsheet) and XML (Excel 2003/2004) parser", 
+  "fork": false, 
+  "full_name": "SheetJS/js-xls", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:13.524206"
+}

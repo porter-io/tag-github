@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.185653", 
+  "description": "Repack your project for deployment and distribution", 
+  "fork": false, 
+  "full_name": "zcaudate/lein-repack", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:42.403674"
+}

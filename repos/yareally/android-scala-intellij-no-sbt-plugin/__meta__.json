@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.278027", 
+  "description": "Directions on how to create a Scala based project in Intellij IDEA without having to resort to additional plugins or external building that cripples the nice features of the IDE.", 
+  "fork": false, 
+  "full_name": "yareally/android-scala-intellij-no-sbt-plugin", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:43:12.740473"
+}

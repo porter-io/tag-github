@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.421633", 
+  "description": "File-watching library for Scala. Built on Java 7's WatchService, RxScala and Akka actors.", 
+  "fork": false, 
+  "full_name": "lloydmeta/schwatcher", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:46.252703"
+}

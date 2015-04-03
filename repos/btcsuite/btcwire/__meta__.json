@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:29:13.857491", 
+  "description": "Implements the bitcoin wire protocol - core wire protocol package from btcd", 
+  "fork": false, 
+  "full_name": "btcsuite/btcwire", 
+  "updated_at": "2015-02-27T23:44:09.595229"
+}

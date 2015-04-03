@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.338682", 
+  "description": "Streaming multi-uploads for Sails/Express - supports disk, S3, gridfs, and custom file adapters", 
+  "fork": false, 
+  "full_name": "balderdashy/skipper", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:31.518114"
+}

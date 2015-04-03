@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.591099", 
+  "description": "A library for representing arbitrary byte size integers in JavaScript, both signed and unsigned.", 
+  "fork": false, 
+  "full_name": "dcodeIO/IntN.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:13.270123"
+}

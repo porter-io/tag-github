@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.942249", 
+  "description": "ActiveRecord plugin allowing you to hide and restore records without actually deleting them.", 
+  "fork": false, 
+  "full_name": "ActsAsParanoid/acts_as_paranoid", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:30.586417"
+}

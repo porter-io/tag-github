@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:59.180190", 
+  "description": "A universal interface to import email contacts from various providers including Yahoo, Gmail, Hotmail, AOL and Plaxo.", 
+  "fork": false, 
+  "full_name": "cardmagic/contacts", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:01.925641"
+}

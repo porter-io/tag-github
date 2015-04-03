@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.776685", 
+  "description": "Fork of Pieter's nice git GUI for OS X.  Includes branch/tag sidebar and various fixes. Current development focus is on removing legacy git command line usage in favour of libgit2 and objective-git.", 
+  "fork": true, 
+  "full_name": "rowanj/gitx", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T22:28:42.779832"
+}

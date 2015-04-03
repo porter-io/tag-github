@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.213719", 
+  "description": "mysql client in cluster, based on node-mysql", 
+  "fork": false, 
+  "full_name": "aleafs/easymysql", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:18.128933"
+}

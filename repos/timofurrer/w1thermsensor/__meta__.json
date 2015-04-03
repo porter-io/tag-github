@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.675952", 
+  "description": "This little pure python module provides a single class to get the temperature of a w1 sensor like DS1822, DS18S20 & DS18B20", 
+  "fork": false, 
+  "full_name": "timofurrer/w1thermsensor", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:41.896429"
+}

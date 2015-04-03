@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.059463", 
+  "description": "The DB that's replicated, sharded and transactional.", 
+  "fork": false, 
+  "full_name": "Treode/store", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:43:39.936517"
+}

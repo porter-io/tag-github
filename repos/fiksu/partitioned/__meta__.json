@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.333471", 
+  "description": "Postgres database table partitioning support for Rails", 
+  "fork": false, 
+  "full_name": "fiksu/partitioned", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:50.044551"
+}

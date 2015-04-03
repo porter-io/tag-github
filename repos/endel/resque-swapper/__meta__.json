@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.659949", 
+  "description": "Swapping tool for Resque server on runtime.", 
+  "fork": false, 
+  "full_name": "endel/resque-swapper", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:00.436480"
+}

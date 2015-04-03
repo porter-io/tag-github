@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.370022", 
+  "description": "A library for creating slugs. Babosa is an extraction and improvement of the string code from FriendlyId, intended to help developers create similar libraries or plugins.", 
+  "fork": false, 
+  "full_name": "norman/babosa", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:48.966678"
+}

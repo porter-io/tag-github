@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.307650", 
+  "description": "Schemaless database on top of SQLite", 
+  "fork": false, 
+  "full_name": "aheinze/MongoLite", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:41.958563"
+}

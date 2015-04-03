@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.249100", 
+  "description": "Check if a Buffer/Uint8Array is a WebP image", 
+  "fork": false, 
+  "full_name": "sindresorhus/is-webp", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.507159"
+}

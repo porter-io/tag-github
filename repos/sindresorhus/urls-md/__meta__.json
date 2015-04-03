@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.718384", 
+  "description": "Convert URLs to Markdown links: Extracts URLs from text \u2192 Gets their article title \u2192 Creates Markdown links", 
+  "fork": false, 
+  "full_name": "sindresorhus/urls-md", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.150704"
+}

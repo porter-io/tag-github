@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.562248", 
+  "description": "A Bash script to automate adaptive JPEG compression using common CLI tools", 
+  "fork": false, 
+  "full_name": "technopagan/adept-jpg-compressor", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:44:22.620149"
+}

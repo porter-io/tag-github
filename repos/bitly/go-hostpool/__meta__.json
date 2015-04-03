@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.366917", 
+  "description": "Intelligently and flexibly pool among multiple hosts from your Go application", 
+  "fork": false, 
+  "full_name": "bitly/go-hostpool", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:25.010317"
+}

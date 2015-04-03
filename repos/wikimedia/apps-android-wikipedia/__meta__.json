@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.700065", 
+  "description": "Github mirror of \"apps/android/wikipedia\" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing", 
+  "fork": false, 
+  "full_name": "wikimedia/apps-android-wikipedia", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:21.347279"
+}

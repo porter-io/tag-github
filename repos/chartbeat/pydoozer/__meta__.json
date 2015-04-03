@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.230866", 
+  "description": "Python client for Doozer using gevent", 
+  "fork": true, 
+  "full_name": "chartbeat/pydoozer", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:28:06.230922"
+}

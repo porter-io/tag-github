@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.677778", 
+  "description": "A Django application handling private messages between users.", 
+  "fork": false, 
+  "full_name": "arneb/django-messages", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:05.063964"
+}

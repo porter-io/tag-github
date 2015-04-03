@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.015155", 
+  "description": "A Vim plugin which shows a git diff in the gutter (sign column) and stages/reverts hunks.", 
+  "fork": false, 
+  "full_name": "airblade/vim-gitgutter", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:42:41.305334"
+}

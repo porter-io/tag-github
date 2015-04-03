@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.506513", 
+  "description": "pg_search builds ActiveRecord named scopes that take advantage of PostgreSQL's full text search ", 
+  "fork": false, 
+  "full_name": "Casecommons/pg_search", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:27.185997"
+}

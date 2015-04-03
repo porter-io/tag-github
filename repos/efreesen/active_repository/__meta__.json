@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.795398", 
+  "description": "An implementation of repository pattern that can connect with any ORM", 
+  "fork": false, 
+  "full_name": "efreesen/active_repository", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:24.376709"
+}

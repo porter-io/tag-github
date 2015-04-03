@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.620087", 
+  "description": "Check if a Buffer/Uint8Array is a GIF image", 
+  "fork": false, 
+  "full_name": "sindresorhus/is-gif", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.945762"
+}

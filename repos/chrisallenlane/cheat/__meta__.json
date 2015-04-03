@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.259895", 
+  "description": "cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.", 
+  "fork": false, 
+  "full_name": "chrisallenlane/cheat", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:06.395890"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.036471", 
+  "description": "use either the native Promise or Bluebird", 
+  "fork": false, 
+  "full_name": "normalize/native-or-bluebird", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:58.254177"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.902319", 
+  "description": "WebSocket-compatible realtime HTTP server implemented with Node.JS", 
+  "fork": false, 
+  "full_name": "rauchg/node.websocket.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:35.557488"
+}

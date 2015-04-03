@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.465373", 
+  "description": "Provides user management for your Symfony2 Project. Compatible with Doctrine ORM & ODM, and Propel.", 
+  "fork": true, 
+  "full_name": "FriendsOfSymfony/FOSUserBundle", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T22:28:10.465603"
+}

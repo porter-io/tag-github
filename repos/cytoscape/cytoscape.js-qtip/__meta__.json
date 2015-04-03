@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.919805", 
+  "description": "A Cytoscape.js extension that wraps the QTip jQuery library", 
+  "fork": false, 
+  "full_name": "cytoscape/cytoscape.js-qtip", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:30.526956"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.930605", 
+  "description": "Docker container for MariaDB 5.5 in Galera Cluster", 
+  "fork": true, 
+  "full_name": "DominicBoettger/docker-mariadb-galera", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T22:28:23.930738"
+}

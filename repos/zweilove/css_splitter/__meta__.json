@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.556921", 
+  "description": "Gem for splitting up stylesheets that go beyond the IE limit of 4095 selectors, for Rails 3.1+ apps using the Asset Pipeline.", 
+  "fork": false, 
+  "full_name": "zweilove/css_splitter", 
+  "language": "CSS", 
+  "updated_at": "2015-02-28T08:41:21.014271"
+}

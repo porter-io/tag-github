@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.397867", 
+  "description": "Backbone module for adding states to objects", 
+  "fork": false, 
+  "full_name": "crashlytics/backbone.statemanager", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:22.561311"
+}

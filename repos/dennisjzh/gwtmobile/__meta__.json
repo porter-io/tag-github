@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.241624", 
+  "description": "GWT Mobile is a cross-platform mobile development tool using Google Web Toolkit technology. It provides a set of UI widgets optimized for mobile devices, a ORM module to persist objects to the browser database, and a wrapper to access PhoneGap functions from GWT.", 
+  "fork": false, 
+  "full_name": "dennisjzh/GwtMobile", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:33.988677"
+}

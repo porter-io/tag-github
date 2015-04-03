@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.291366", 
+  "description": "WebSocket emulation - Node.js server", 
+  "fork": false, 
+  "full_name": "sockjs/sockjs-node", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:02:49.355004"
+}

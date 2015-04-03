@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.077347", 
+  "description": "Simple deploy solution for ruby applications (using github+bundler).", 
+  "fork": false, 
+  "full_name": "diogob/hercules", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:22.712699"
+}

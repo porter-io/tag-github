@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.252545", 
+  "description": "Easily get the device's current location on iOS.", 
+  "fork": false, 
+  "full_name": "intuit/LocationManager", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:02:13.260642"
+}

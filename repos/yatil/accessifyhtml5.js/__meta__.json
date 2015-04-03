@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.942866", 
+  "description": "While most browsers work all right with the new semantic elements of HTML5, they don\u2019t add the ARIA accessibility attributes that the specification demands. This small JavaScript adds those attributes to enhance accessibility of web sites.", 
+  "fork": false, 
+  "full_name": "yatil/accessifyhtml5.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:33.563210"
+}

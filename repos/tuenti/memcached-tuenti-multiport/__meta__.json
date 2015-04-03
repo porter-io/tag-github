@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.028853", 
+  "description": "UDP memcache implementation uses a single socket and wakes up all threads when a request arrives, creating excessive system usage and contention. This multiport implementation helps solving that situation.", 
+  "fork": true, 
+  "full_name": "tuenti/memcached-tuenti-multiport", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:27:37.030050"
+}

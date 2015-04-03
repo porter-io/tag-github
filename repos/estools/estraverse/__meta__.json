@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.376091", 
+  "description": "ECMAScript JS AST traversal functions", 
+  "fork": false, 
+  "full_name": "estools/estraverse", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:02:37.350407"
+}

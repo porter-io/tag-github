@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.413234", 
+  "description": "An nginx module for sending stats to statsd.", 
+  "fork": false, 
+  "full_name": "zebrafishlabs/nginx-statsd", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:51.953551"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.891770", 
+  "description": "A highly configurable utility to turn the state of any object-graph into a string representation", 
+  "fork": false, 
+  "full_name": "kbilsted/StatePrinter", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:42:32.266944"
+}

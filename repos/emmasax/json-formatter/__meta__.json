@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.251173", 
+  "description": "Takes JSON and renders it into an HTML list.", 
+  "fork": false, 
+  "full_name": "emmasax/json-formatter", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:07.542608"
+}

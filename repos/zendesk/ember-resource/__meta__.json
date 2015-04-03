@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.204744", 
+  "description": "A simple library to connect your Ember application to JSON backends", 
+  "fork": true, 
+  "full_name": "zendesk/ember-resource", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:28:58.204826"
+}

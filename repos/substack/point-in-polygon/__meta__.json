@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.933031", 
+  "description": "determine if a point is inside a polygon", 
+  "fork": false, 
+  "full_name": "substack/point-in-polygon", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.741732"
+}

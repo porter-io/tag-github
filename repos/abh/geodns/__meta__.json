@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.574175", 
+  "description": "DNS server with per-client targeted responses", 
+  "fork": false, 
+  "full_name": "abh/geodns", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:14.403422"
+}

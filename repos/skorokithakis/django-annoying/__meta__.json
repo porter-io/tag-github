@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.519013", 
+  "description": "A django application that tries to eliminate annoying things in the Django framework.", 
+  "fork": false, 
+  "full_name": "skorokithakis/django-annoying", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:31:53.503469"
+}

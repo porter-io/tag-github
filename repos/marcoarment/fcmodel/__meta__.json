@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.525403", 
+  "description": "An alternative to Core Data for people who like having direct SQL access.", 
+  "fork": false, 
+  "full_name": "marcoarment/FCModel", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:02:03.213270"
+}

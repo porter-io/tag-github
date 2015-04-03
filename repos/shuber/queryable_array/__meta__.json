@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.241289", 
+  "description": "Provides a simplified DSL allowing arrays of objects to be searched by their attributes", 
+  "fork": false, 
+  "full_name": "shuber/queryable_array", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:18.314516"
+}

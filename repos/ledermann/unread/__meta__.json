@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.000952", 
+  "description": "Ruby gem to manage read/unread status of ActiveRecord objects - and it's fast.", 
+  "fork": false, 
+  "full_name": "ledermann/unread", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:00.591871"
+}

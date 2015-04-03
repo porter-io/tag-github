@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.222896", 
+  "description": "Web app that can be trained to detect Github users based on coding style", 
+  "fork": false, 
+  "full_name": "mafintosh/code-style-detector", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:14.764969"
+}

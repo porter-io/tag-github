@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.616799", 
+  "description": "Rest OAuth2 Server is a Rails 3 app that let you open up your API and manage end-user authentication and client application authorization implementing the OAuth 2.0 Specifications (draft 13).", 
+  "fork": false, 
+  "full_name": "lelylan/rest-oauth2-server", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:14.964726"
+}

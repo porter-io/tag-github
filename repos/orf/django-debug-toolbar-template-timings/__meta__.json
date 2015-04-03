@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.877605", 
+  "description": "A django-debug-toolbar panel that displays template rendering times for your Django application", 
+  "fork": false, 
+  "full_name": "orf/django-debug-toolbar-template-timings", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:44.164716"
+}

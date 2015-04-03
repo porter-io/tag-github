@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.653238", 
+  "description": "a set of tools to help with securely redacting and stripping metadata from documents before publishing", 
+  "fork": false, 
+  "full_name": "micahflee/pdf-redact-tools", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:30:21.389615"
+}

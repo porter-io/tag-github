@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.659775", 
+  "description": "Template rendering middleware for koa, supporting many template engines", 
+  "fork": false, 
+  "full_name": "queckezz/koa-views", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:16.919455"
+}

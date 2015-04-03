@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.300441", 
+  "description": "A language-agnostic as well as storage-agnostic web interface for storing data into persistent storage systems, the metadata layer abstracts a lot of storage details and the pattern automation APIs take care of automating common data access patterns.", 
+  "fork": false, 
+  "full_name": "Netflix/staash", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:31.386966"
+}

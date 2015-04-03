@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.930953", 
+  "description": "A light-weight job scheduling system built on top of resque", 
+  "fork": false, 
+  "full_name": "resque/resque-scheduler", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:05.685962"
+}

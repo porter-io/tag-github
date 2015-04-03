@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.389556", 
+  "description": "  A python telnet/ssh server for modern UTF-8 and classic cp437 network virtual terminals. In spirit of classic software such as ami/x, teleguard, renegade, iniquity.", 
+  "fork": false, 
+  "full_name": "jquast/x84", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:18.782569"
+}

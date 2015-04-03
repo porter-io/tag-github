@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.175129", 
+  "description": "Objective-C Client Library for the Faye Pub-Sub messaging server (http://faye.jcoglan.com/)", 
+  "fork": false, 
+  "full_name": "pcrawfor/FayeObjC", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:00.307501"
+}

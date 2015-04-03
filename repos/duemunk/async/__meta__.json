@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.926292", 
+  "description": "Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch", 
+  "fork": false, 
+  "full_name": "duemunk/Async", 
+  "language": "Swift", 
+  "updated_at": "2015-02-27T23:42:35.580748"
+}

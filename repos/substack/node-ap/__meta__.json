@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.910679", 
+  "description": "Currying in javascript. Like .bind() without also setting `this`.", 
+  "fork": false, 
+  "full_name": "substack/node-ap", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.714912"
+}

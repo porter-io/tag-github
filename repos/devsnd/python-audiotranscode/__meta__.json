@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.636709", 
+  "description": "transcode using installed codecs (lame mp3, ogg vorbis, flac, aac, wav)", 
+  "fork": false, 
+  "full_name": "devsnd/python-audiotranscode", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:36.856736"
+}

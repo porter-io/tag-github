@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.140884", 
+  "description": "Wrapper around the Python serial module to control tosr0x USB relay boards.", 
+  "fork": false, 
+  "full_name": "amorphic/tosr0x", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:00.858923"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.092155", 
+  "description": "Django social auth app eliminate traditional registration form and let your users sign-up in few seconds with their existing social IDs such as Facebook, Twitter, Google, Amazon, Yahoo, Vkontakte and over 25 more. However, you can keep both traditional login system as well as social login.", 
+  "fork": false, 
+  "full_name": "LoginRadius/social-login-django", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:53.950919"
+}

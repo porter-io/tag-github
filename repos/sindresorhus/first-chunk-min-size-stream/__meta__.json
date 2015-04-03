@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.196127", 
+  "description": "Set the minimum size of the first chunk in a stream", 
+  "fork": false, 
+  "full_name": "sindresorhus/first-chunk-min-size-stream", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.313162"
+}

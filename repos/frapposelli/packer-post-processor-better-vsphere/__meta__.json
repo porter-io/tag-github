@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.463457", 
+  "description": "A dirty hack for a better Packer post-processor for vSphere", 
+  "fork": false, 
+  "full_name": "frapposelli/packer-post-processor-better-vsphere", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:55.207843"
+}

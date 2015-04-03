@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.665634", 
+  "description": "Angular directive which allows to declare sortable tables and to add pagination with very little effort.", 
+  "fork": false, 
+  "full_name": "samu/angular-table", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:24.367405"
+}

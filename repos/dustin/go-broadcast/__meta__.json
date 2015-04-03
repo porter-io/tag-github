@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.802735", 
+  "description": "A trivial channel pubsub I use in lots of projects.", 
+  "fork": false, 
+  "full_name": "dustin/go-broadcast", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:50.248306"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.904187", 
+  "description": "This is an example for node.js using express, ejs, auth, mongolian, makred, opts, i18n modules", 
+  "fork": false, 
+  "full_name": "baryon/node.blog", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:50.032436"
+}

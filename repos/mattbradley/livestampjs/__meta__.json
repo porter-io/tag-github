@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.663950", 
+  "description": "A simple, unobtrusive jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements using Moment.js.", 
+  "fork": false, 
+  "full_name": "mattbradley/livestampjs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:51.683627"
+}

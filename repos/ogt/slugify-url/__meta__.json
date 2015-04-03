@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.928781", 
+  "description": "Maps urls to simplified strings usable as filenames", 
+  "fork": false, 
+  "full_name": "ogt/slugify-url", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:50.521723"
+}

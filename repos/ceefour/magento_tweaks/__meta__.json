@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.067138", 
+  "description": "Useful tweaks to Magento: Make Register Checkout as default, Make \"Ship to this address\" as default, and more...", 
+  "fork": false, 
+  "full_name": "ceefour/magento_tweaks", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:52.934379"
+}

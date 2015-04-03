@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.549051", 
+  "description": "A distributed open source search engine and spider written in C/C++ for Linux on Intel/AMD. From gigablast dot com, which has binaries for download. See the README.md file at the very bottom of this page for instructions.", 
+  "fork": false, 
+  "full_name": "gigablast/open-source-search-engine", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:44:24.922291"
+}

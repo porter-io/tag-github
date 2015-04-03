@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.611920", 
+  "description": "CSP channels for Javascript (like Clojurescript's core.async, or Go)", 
+  "fork": false, 
+  "full_name": "ubolonton/js-csp", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-28T08:40:57.099885"
+}

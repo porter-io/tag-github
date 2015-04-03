@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.847065", 
+  "description": "Add soft remove to collections", 
+  "fork": false, 
+  "full_name": "zimme/meteor-collection-softremovable", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:02.488636"
+}

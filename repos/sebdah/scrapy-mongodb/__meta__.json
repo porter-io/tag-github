@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.546061", 
+  "description": "MongoDB pipeline for Scrapy. This module supports both MongoDB in standalone setups and replica sets. scrapy-mongodb will insert the items to MongoDB as soon as your spider finds data to extract.", 
+  "fork": false, 
+  "full_name": "sebdah/scrapy-mongodb", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:35.249351"
+}

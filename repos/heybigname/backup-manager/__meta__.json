@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.934781", 
+  "description": "Database backup manager for dumping to and restoring databases from S3, Dropbox, FTP, SFTP, and Rackspace Cloud", 
+  "fork": false, 
+  "full_name": "heybigname/backup-manager", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T08:16:32.169825"
+}

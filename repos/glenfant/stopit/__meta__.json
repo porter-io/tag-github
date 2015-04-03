@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.505368", 
+  "description": "Raise asynchronous exceptions in other thread, control the timeout of blocks or callables with a context manager or a decorator", 
+  "fork": false, 
+  "full_name": "glenfant/stopit", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:51.193233"
+}

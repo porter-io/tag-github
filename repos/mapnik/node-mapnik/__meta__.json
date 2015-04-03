@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.627409", 
+  "description": "Bindings to mapnik for node.js", 
+  "fork": false, 
+  "full_name": "mapnik/node-mapnik", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:00:54.789326"
+}

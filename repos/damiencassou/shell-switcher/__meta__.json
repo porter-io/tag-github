@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.072836", 
+  "description": "An emacs minor mode to easily switch between shell buffers (like with alt+tab)", 
+  "fork": false, 
+  "full_name": "DamienCassou/shell-switcher", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:42:18.885093"
+}

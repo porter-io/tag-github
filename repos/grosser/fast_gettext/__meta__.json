@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.398934", 
+  "description": "Ruby GetText, but 3.5x faster + 560x less memory + simple + clean namespace + threadsave + extendable + multiple backends + Rails3 ready", 
+  "fork": false, 
+  "full_name": "grosser/fast_gettext", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:57.135398"
+}

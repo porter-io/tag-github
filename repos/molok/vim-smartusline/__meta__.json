@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.375884", 
+  "description": "Vim plugin that changes the color of the statusbar of the focused window according with the current mode (normal/insert/replace)", 
+  "fork": false, 
+  "full_name": "molok/vim-smartusline", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:44:26.870290"
+}

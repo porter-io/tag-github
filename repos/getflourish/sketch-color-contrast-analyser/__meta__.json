@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:27.761812", 
+  "description": "A Sketch plugin that calculates the color contrast of two selected layers and evaluates it against the WCAG2.0", 
+  "fork": false, 
+  "full_name": "getflourish/Sketch-Color-Contrast-Analyser", 
+  "updated_at": "2015-02-27T23:42:46.885475"
+}

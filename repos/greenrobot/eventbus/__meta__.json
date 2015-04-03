@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.666387", 
+  "description": "Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.", 
+  "fork": false, 
+  "full_name": "greenrobot/EventBus", 
+  "language": "Java", 
+  "updated_at": "2015-03-21T14:57:12.354015"
+}

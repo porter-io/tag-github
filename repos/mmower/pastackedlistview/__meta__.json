@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.515090", 
+  "description": "A custom NSView subclass that displays a set of stackable boxes that can be expanded and collapsed", 
+  "fork": false, 
+  "full_name": "mmower/pastackedlistview", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:16.088641"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.329522", 
+  "description": "Lineman helps you build fat-client JavaScript apps. It produces happiness by building assets, mocking servers, running specs on every file change", 
+  "fork": false, 
+  "full_name": "linemanjs/lineman", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:03:48.259735"
+}

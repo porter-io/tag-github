@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.313142", 
+  "description": "STM M3 ARM Cores for Arduino IDE.Makes Arduino IDE supports stm32f103. ", 
+  "fork": false, 
+  "full_name": "MakerLabMe/STM32_Arduino_Cores", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:20.844863"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.550087", 
+  "description": "Spoofs placeholders in browsers that don't support them. (eg Firefox 3)", 
+  "fork": false, 
+  "full_name": "danbentley/placeholder", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:48.959475"
+}

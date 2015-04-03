@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.404957", 
+  "description": "A Leiningen task to run javadoc on your java sources", 
+  "fork": false, 
+  "full_name": "davidsantiago/lein-javadoc", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:40.364090"
+}

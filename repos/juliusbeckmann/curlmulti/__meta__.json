@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.863412", 
+  "description": "A simple PHP class for making parallel requests with curl using callbacks and retries.", 
+  "fork": false, 
+  "full_name": "JuliusBeckmann/CurlMulti", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:16.779820"
+}

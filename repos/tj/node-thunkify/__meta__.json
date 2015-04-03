@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.632511", 
+  "description": "Turn a regular node function into one which returns a thunk", 
+  "fork": false, 
+  "full_name": "tj/node-thunkify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.326738"
+}

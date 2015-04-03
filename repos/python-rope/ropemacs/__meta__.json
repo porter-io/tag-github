@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.104662", 
+  "description": "emacs mode that uses rope library to provide features like python refactorings and code-assists", 
+  "fork": false, 
+  "full_name": "python-rope/ropemacs", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:03.467377"
+}

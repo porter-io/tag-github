@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.182608", 
+  "description": "Go package captcha implements generation and verification of image and audio CAPTCHAs.", 
+  "fork": false, 
+  "full_name": "dchest/captcha", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:08.996431"
+}

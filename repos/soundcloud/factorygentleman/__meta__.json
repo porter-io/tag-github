@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.794502", 
+  "description": "A simple library to help define model factories for use when testing your iOS/Mac applications.", 
+  "fork": false, 
+  "full_name": "soundcloud/FactoryGentleman", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:37.795206"
+}

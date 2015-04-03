@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.394210", 
+  "description": "Parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets.", 
+  "fork": false, 
+  "full_name": "jonkemp/gulp-useref", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:33.913359"
+}

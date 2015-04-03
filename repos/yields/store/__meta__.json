@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.510429", 
+  "description": "local store, unserializes and serializes values automagically :)", 
+  "fork": false, 
+  "full_name": "yields/store", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:43.056005"
+}

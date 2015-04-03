@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.570920", 
+  "description": "mdns/zeroconf/bonjour service discovery add-on for node.js", 
+  "fork": false, 
+  "full_name": "agnat/node_mdns", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.539209"
+}

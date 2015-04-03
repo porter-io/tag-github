@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.126994", 
+  "description": "Rails 3 library that uploads all static assets to aliyun oss with a unique id encoded into the path", 
+  "fork": true, 
+  "full_name": "mangege/asset_oss", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:22.127060"
+}

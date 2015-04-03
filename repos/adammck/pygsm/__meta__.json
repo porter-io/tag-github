@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.684571", 
+  "description": "Send and receive SMS via a GSM modem in Python", 
+  "fork": false, 
+  "full_name": "adammck/pygsm", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:19.788961"
+}

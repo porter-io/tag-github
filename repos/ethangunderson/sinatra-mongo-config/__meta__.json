@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.258828", 
+  "description": "A simple wrapper for instantiating a MongoDB connection in Sinatra", 
+  "fork": false, 
+  "full_name": "ethangunderson/sinatra-mongo-config", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:50.977506"
+}

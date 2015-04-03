@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.866984", 
+  "description": "Various orchestration demo to be used with ComodIT. Showcasing how easy it is to deploy, scale, and manage complex deployments in the cloud with our API.", 
+  "fork": false, 
+  "full_name": "comodit/demos", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:25.657821"
+}

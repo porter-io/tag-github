@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.190188", 
+  "description": "A Heroku Buildpack for Ember CLI Applications", 
+  "fork": false, 
+  "full_name": "tonycoco/heroku-buildpack-ember-cli", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:05.426964"
+}

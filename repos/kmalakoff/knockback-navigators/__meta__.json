@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.258511", 
+  "description": "KnockbackNavigators.js provides page navigators, a pane navigator, and transition animations to help you make dynamic, single-page applications. They are platform-agnostic so you can even use them without using Knockback.js or Knockout.js!", 
+  "fork": false, 
+  "full_name": "kmalakoff/knockback-navigators", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:39.393612"
+}

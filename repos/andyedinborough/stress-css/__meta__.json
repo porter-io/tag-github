@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.324221", 
+  "description": "JavaScript to test each CSS class on a page and report which are hindering performance", 
+  "fork": false, 
+  "full_name": "andyedinborough/stress-css", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:03:21.395961"
+}

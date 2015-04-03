@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.883840", 
+  "description": "HBase adapters for Cascading", 
+  "fork": false, 
+  "full_name": "cwensel/cascading.hbase", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:55.752240"
+}

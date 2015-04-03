@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.926842", 
+  "description": "Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.", 
+  "fork": false, 
+  "full_name": "gorhill/httpswitchboard", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:23.409476"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.614824", 
+  "description": "Instrumentation for django page loads", 
+  "fork": false, 
+  "full_name": "theospears/django-speedbar", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:31.022888"
+}

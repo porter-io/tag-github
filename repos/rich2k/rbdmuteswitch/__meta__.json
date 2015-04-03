@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.464271", 
+  "description": "Prior to iOS 5 it was relatively straightforward to detect whether a device was muted by using an audio route to detect playback type.", 
+  "fork": false, 
+  "full_name": "Rich2k/RBDMuteSwitch", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:02:40.275387"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.515582", 
+  "description": "A yeoman generator for .gitignore files, sourcing from http://www.gitignore.io.", 
+  "fork": false, 
+  "full_name": "rorotikamobile/generator-gi", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:29.413113"
+}

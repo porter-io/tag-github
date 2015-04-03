@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:03.801058", 
+  "description": "jQuery plugin to execute a callback only after all deferreds have been resolved or rejected", 
+  "fork": false, 
+  "full_name": "soundcloud/jquery-whenall", 
+  "updated_at": "2015-02-27T23:42:05.970229"
+}

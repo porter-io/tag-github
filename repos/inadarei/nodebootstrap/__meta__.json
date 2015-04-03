@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.595878", 
+  "description": "NodeBootstrap - unobtrusive skeleton project for Node/Express.js with pre-configured best-practices. Kick-start your Node project development with tons of boilerplate taken care of, such as: clustering, error-handling, modularity, logging, views, environments etc.", 
+  "fork": false, 
+  "full_name": "inadarei/nodebootstrap", 
+  "language": "Shell", 
+  "updated_at": "2015-03-10T07:03:59.318293"
+}

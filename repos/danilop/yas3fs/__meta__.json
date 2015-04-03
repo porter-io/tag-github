@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.568452", 
+  "description": "YAS3FS (Yet Another S3-backed File System) is a Filesystem in Userspace (FUSE) interface to Amazon S3. It was inspired by s3fs but rewritten from scratch to implement a distributed cache synchronized by Amazon SNS notifications. A web console is provided to easily monitor the nodes of a cluster.", 
+  "fork": false, 
+  "full_name": "danilop/yas3fs", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:53.536585"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.571785", 
+  "description": "Debug vinyl file streams to see what files are run through your gulp pipeline", 
+  "fork": false, 
+  "full_name": "sindresorhus/gulp-debug", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.835557"
+}

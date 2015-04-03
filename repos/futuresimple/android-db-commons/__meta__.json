@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.498083", 
+  "description": "Some common utilities for ContentProvider/ContentResolver/Cursor and other db-related android stuff", 
+  "fork": false, 
+  "full_name": "futuresimple/android-db-commons", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:21.182277"
+}

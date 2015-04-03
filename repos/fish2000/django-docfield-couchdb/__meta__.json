@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.546950", 
+  "description": "Django fields that encapsulate docs and other idioms from a live CouchDB instance.", 
+  "fork": false, 
+  "full_name": "fish2000/django-docfield-couchdb", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:57.242064"
+}

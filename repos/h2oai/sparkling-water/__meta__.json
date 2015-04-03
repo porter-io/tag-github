@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.971097", 
+  "description": "Sparkling Water provides H2O functionality inside Spark cluster", 
+  "fork": false, 
+  "full_name": "h2oai/sparkling-water", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:19.779653"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.320360", 
+  "description": "An SBT plugin for dangerously fast development turnaround in Scala", 
+  "fork": false, 
+  "full_name": "spray/sbt-revolver", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:41:28.891209"
+}

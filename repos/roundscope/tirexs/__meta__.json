@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.055094", 
+  "description": "An Elixir based DSL for managing the ElasticSearch related stuff, such as indexes, scoped queries and so on.", 
+  "fork": false, 
+  "full_name": "roundscope/tirexs", 
+  "language": "Elixir", 
+  "updated_at": "2015-02-27T23:41:50.168406"
+}

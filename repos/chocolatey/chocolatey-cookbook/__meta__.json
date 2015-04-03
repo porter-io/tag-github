@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.906222", 
+  "description": "Chef cookbook to install chocolatey and packages on Windows", 
+  "fork": false, 
+  "full_name": "chocolatey/chocolatey-cookbook", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:21.892398"
+}

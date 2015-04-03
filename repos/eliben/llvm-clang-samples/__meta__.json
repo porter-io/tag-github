@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.749034", 
+  "description": "Examples of using the LLVM and Clang compilation libraries and tools", 
+  "fork": false, 
+  "full_name": "eliben/llvm-clang-samples", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:40.859130"
+}

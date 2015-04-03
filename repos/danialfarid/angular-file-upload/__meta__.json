@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.107971", 
+  "description": "An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers", 
+  "fork": false, 
+  "full_name": "danialfarid/angular-file-upload", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-21T14:57:12.150371"
+}

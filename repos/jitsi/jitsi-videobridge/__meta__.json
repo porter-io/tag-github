@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.180176", 
+  "description": "Jitsi Videobridge is an XMPP server component that allows for multiuser video communication. Unlike the expensive dedicated hardware videobridges, Jitsi Videobridge does not mix the video channels into a composite video stream, but only relays the received video channels to all call participants. Therefore, while it does need to run on a server with good network bandwidth, CPU horsepower is not that critical for performance. ", 
+  "fork": false, 
+  "full_name": "jitsi/jitsi-videobridge", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:19.798644"
+}

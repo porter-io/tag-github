@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.953850", 
+  "description": "The \"Cocktail Async Pack for Visual Studio 2012\" enables Cocktail/DevForce 2010 projects targeting .NET Framework 4.0 or Silverlight 5 to use the Async language feature in C# 5 and Visual Basic 11. This pack requires Visual Studio 2012 and will not work with Visual Studio 2010.", 
+  "fork": false, 
+  "full_name": "IdeaBlade/Cocktail.AsyncPack", 
+  "language": "C#", 
+  "updated_at": "2015-04-01T19:29:43.253509"
+}

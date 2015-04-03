@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.505094", 
+  "description": "An NSDate category to have humanly meaningful time intervals since todays date", 
+  "fork": false, 
+  "full_name": "sarperdag/SEHumanizedTimeDiff", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:20.315182"
+}

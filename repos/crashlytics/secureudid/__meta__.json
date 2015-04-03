@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.394945", 
+  "description": "DEPRECATED - SecureUDID is an open-source sandboxed UDID solution aimed at solving the main privacy issues that caused Apple to deprecate UDIDs.", 
+  "fork": false, 
+  "full_name": "crashlytics/secureudid", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:30:24.336733"
+}

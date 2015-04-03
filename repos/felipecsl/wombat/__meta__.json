@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.892022", 
+  "description": "Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.", 
+  "fork": false, 
+  "full_name": "felipecsl/wombat", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:41.146696"
+}

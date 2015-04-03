@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.222849", 
+  "description": "Ruby FFI bindings for libpcap.", 
+  "fork": false, 
+  "full_name": "sophsec/ffi-pcap", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:51.354723"
+}

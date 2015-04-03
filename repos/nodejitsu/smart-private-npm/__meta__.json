@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.209018", 
+  "description": "An intelligent routing proxy for npm with support for: private, whitelisted, and blacklisted packaged", 
+  "fork": false, 
+  "full_name": "nodejitsu/smart-private-npm", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:12.268271"
+}

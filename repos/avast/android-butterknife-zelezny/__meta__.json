@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.787421", 
+  "description": "Android Studio plug-in for generating ButterKnife injections from selected layout XML.", 
+  "fork": false, 
+  "full_name": "avast/android-butterknife-zelezny", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:23.120092"
+}

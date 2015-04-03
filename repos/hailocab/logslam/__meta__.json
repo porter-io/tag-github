@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.933366", 
+  "description": "A lightweight lumberjack protocol compliant logstash indexer", 
+  "fork": false, 
+  "full_name": "hailocab/logslam", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:38.426896"
+}

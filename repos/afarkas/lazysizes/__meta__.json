@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.787810", 
+  "description": "High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.", 
+  "fork": false, 
+  "full_name": "aFarkas/lazysizes", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:28.711098"
+}

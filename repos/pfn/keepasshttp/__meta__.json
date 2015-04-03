@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.200822", 
+  "description": "KeePass plugin to expose password entries securely (256bit AES/CBC) over HTTP", 
+  "fork": false, 
+  "full_name": "pfn/keepasshttp", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:18.111245"
+}

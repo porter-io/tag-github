@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.904154", 
+  "description": "Provision node script as a service via forever, allowing it to automatically start on boot, working across various Linux distros and OS", 
+  "fork": false, 
+  "full_name": "zapty/forever-service", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:21.705446"
+}

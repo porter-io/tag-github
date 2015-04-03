@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.524254", 
+  "description": "A SIMBL plugin for Safari 5.1 allowing tab switching by index (using Cmd-1, Cmd-2\u2026)", 
+  "fork": false, 
+  "full_name": "rs/SafariTabSwitching", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:47.320557"
+}

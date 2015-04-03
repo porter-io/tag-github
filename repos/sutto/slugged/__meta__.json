@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.318629", 
+  "description": "Super simple slugs for ActiveRecord 3+, with slug history. Formerly known as Pseudocephalopod.", 
+  "fork": false, 
+  "full_name": "Sutto/slugged", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:19.134955"
+}

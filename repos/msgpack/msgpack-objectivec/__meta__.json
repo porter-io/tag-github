@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.838752", 
+  "description": "MessagePack serializer implementation for Objective-C / msgpack.org[Objective-C]", 
+  "fork": false, 
+  "full_name": "msgpack/msgpack-objectivec", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:44:03.159979"
+}

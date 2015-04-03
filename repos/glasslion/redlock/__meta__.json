@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.125380", 
+  "description": "Distributed locks with Redis and Python", 
+  "fork": false, 
+  "full_name": "glasslion/redlock", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:11.585110"
+}

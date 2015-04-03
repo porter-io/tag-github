@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.967828", 
+  "description": "Custom container view controller for iOS5 that functions similarly to a UITabBarController, but the way to switch tabs is through a UISegmentedControl on top", 
+  "fork": false, 
+  "full_name": "jcmendez/JCMSegmentPageController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:43.252483"
+}

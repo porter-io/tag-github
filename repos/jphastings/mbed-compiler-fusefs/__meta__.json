@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.535370", 
+  "description": "The mbed compiler is very cool, but it'd be nice to be able to code in your favourite code editor. Hopefully this can be achieved by the power of fuse! This is currently only a proof-of concept as there is no API to the mbed cloud.", 
+  "fork": false, 
+  "full_name": "jphastings/mbed-Compiler-FuseFS", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:34.377151"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.754731", 
+  "description": "A PSP emulator for Android, Windows, Mac, Linux and Blackberry 10, written in C++. Want to contribute? Join us in #ppsspp on freenode (IRC) or just send pull requests / issues.", 
+  "fork": false, 
+  "full_name": "hrydgard/ppsspp", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:04:24.679582"
+}

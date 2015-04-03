@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.049263", 
+  "description": "(in-use) When looking at a JavaScript file, this extension will offer to beautify it for you. Uses http://jsbeautifier.org", 
+  "fork": false, 
+  "full_name": "rixth/jsbeautify-for-chrome", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:00.683460"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.089572", 
+  "description": "c2nim is a tool to translate Ansi C code to Nim. The output is human-readable Nim code that is meant to be tweaked by hand before and after the translation process.", 
+  "fork": false, 
+  "full_name": "nim-lang/c2nim", 
+  "language": "Nimrod", 
+  "updated_at": "2015-02-27T23:41:52.964294"
+}

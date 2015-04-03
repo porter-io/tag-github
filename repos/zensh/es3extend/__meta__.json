@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.380826", 
+  "description": "make ECMAScript 3 runtime environment Compatible with some ECMAScript 5 practical features.", 
+  "fork": false, 
+  "full_name": "zensh/ES3extend", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:55.064986"
+}

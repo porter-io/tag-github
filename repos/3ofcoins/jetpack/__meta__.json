@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.983314", 
+  "description": "**PROTOTYPE** FreeBSD Jail/ZFS based implementation of the Application Container Specification", 
+  "fork": false, 
+  "full_name": "3ofcoins/jetpack", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:21.749564"
+}

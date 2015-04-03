@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.834724", 
+  "description": "Vim plugin for rebuild tags files with ctags", 
+  "fork": false, 
+  "full_name": "jespino/vim-rebtags", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:42:14.030990"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.586950", 
+  "description": "Store and retrieve places near a lat/long pair, using leveldb.", 
+  "fork": false, 
+  "full_name": "Wayla/level-places", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:26.357549"
+}

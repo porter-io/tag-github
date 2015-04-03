@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.138370", 
+  "description": "This sample demonstrates the use of ADAL for JavaScript for securing an AngularJS based single page app, implemented with an ASP.NET Web API backend.", 
+  "fork": false, 
+  "full_name": "AzureADSamples/SinglePageApp-DotNet", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:03:26.059110"
+}

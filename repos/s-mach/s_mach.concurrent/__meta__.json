@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.525635", 
+  "description": "  s_mach.concurrent is an open-source Scala library that provides asynchronous serial and parallel execution flow control primitives for working with asynchronous tasks. An asynchronous task consists of two or more calls to function(s) that return a future result A \u21d2 Future[B] instead of the result A \u21d2 B. s_mach.concurrent also provides utility & convenience code for working with scala.concurrent.Future", 
+  "fork": false, 
+  "full_name": "S-Mach/s_mach.concurrent", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:01.467953"
+}

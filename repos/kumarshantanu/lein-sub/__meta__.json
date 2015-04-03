@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.390031", 
+  "description": "Leiningen plugin for executing tasks on sub-projects", 
+  "fork": false, 
+  "full_name": "kumarshantanu/lein-sub", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:15.090464"
+}

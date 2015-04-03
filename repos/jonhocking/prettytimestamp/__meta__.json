@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.749865", 
+  "description": "An NSDate Category that returns human readable, pretty timestamps between two dates.", 
+  "fork": false, 
+  "full_name": "jonhocking/PrettyTimestamp", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:44.041350"
+}

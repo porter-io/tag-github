@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.494515", 
+  "description": "JavaScript ORM that talks to RESTful interface, rather than database. For Node.js and browsers.", 
+  "fork": false, 
+  "full_name": "vdemedes/restie", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:07.701691"
+}

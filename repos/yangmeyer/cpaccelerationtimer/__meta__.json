@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.769431", 
+  "description": "Calls a block a given number of times, spread out over a given duration, with the between-calls delays determined by a given B\u00e9zier curve. Think of it as an NSTimer with custom acceleration.", 
+  "fork": false, 
+  "full_name": "yangmeyer/CPAccelerationTimer", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:01.850016"
+}

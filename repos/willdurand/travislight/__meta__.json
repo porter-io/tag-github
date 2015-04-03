@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.277094", 
+  "description": "A build monitoring tool (buildwall) that allows you to quickly detect failing projects for Travis-CI.", 
+  "fork": false, 
+  "full_name": "willdurand/TravisLight", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:48.717510"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.956144", 
+  "description": "unXOR will search a XORed file and try to guess the key using known-plaintext attacks.", 
+  "fork": false, 
+  "full_name": "tomchop/unxor", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:44.338001"
+}

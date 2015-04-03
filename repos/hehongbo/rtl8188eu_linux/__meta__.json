@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:50.530458", 
+  "description": "A Linux Driver for Realtek RTL8188EU WLAN-NIC and of course, 3.8+ kernels are supported.", 
+  "fork": false, 
+  "full_name": "hehongbo/rtl8188eu_linux", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:54.287470"
+}

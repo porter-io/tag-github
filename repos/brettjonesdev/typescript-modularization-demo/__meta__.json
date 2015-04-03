@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.950968", 
+  "description": "A demonstration of techniques for importing JavaScript modules in TypeScript via AMD in the browser.", 
+  "fork": false, 
+  "full_name": "brettjonesdev/typescript-modularization-demo", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:21.733942"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.077352", 
+  "description": "A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!", 
+  "fork": false, 
+  "full_name": "Redth/PushSharp", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T07:01:37.185297"
+}

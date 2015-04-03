@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.635730", 
+  "description": "Cgrep: a context-aware grep for source codes", 
+  "fork": false, 
+  "full_name": "awgn/cgrep", 
+  "language": "Haskell", 
+  "updated_at": "2015-02-27T23:44:00.409064"
+}

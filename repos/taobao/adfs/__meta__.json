@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.828880", 
+  "description": "ADFS (Ali Distributed File System) is an evolutional version of Hadoop which delivers high availability, auick-restart and other features.", 
+  "fork": false, 
+  "full_name": "taobao/ADFS", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:23.181148"
+}

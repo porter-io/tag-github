@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.271874", 
+  "description": "An open source tool to generate a complete backend from a MySql database.", 
+  "fork": false, 
+  "full_name": "jonseg/crud-admin-generator", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:56.127679"
+}

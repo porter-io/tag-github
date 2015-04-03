@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.727356", 
+  "description": "Simple SOCKS proxy via SSH and iptables", 
+  "fork": false, 
+  "full_name": "binwiederhier/socksproxy", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:24.176949"
+}

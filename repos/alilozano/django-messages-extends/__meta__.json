@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.287404", 
+  "description": "A Django app for extends Django's messages framework (django.contrib.messages). framework, adds sticky messages and persistent messages and multistorage. This is a rebuild of django-persistent-messages.", 
+  "fork": false, 
+  "full_name": "AliLozano/django-messages-extends", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:30:52.397680"
+}

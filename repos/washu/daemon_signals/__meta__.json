@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.955743", 
+  "description": "Enhances Process.daemon to provide a signal after daemonization", 
+  "fork": false, 
+  "full_name": "washu/daemon_signals", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:41.167628"
+}

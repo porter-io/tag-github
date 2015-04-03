@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.033295", 
+  "description": "Build more expressive integration tests with webdriver sugar for chai.js", 
+  "fork": false, 
+  "full_name": "goodeggs/chai-webdriver", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:03:15.182653"
+}

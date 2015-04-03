@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.062073", 
+  "description": "A simplified HTTP API for Sonos to simplify automation. Hostable on any node.js capable device, like a raspberry pi or similar.", 
+  "fork": false, 
+  "full_name": "jishi/node-sonos-http-api", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:22.694278"
+}

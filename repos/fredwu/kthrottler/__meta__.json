@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.454836", 
+  "description": "A Kohana port of Action Throtller (for Rails): http://github.com/fredwu/action_throttler", 
+  "fork": false, 
+  "full_name": "fredwu/kthrottler", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:55.143549"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.151428", 
+  "description": "Show busy/loading indicators on any element during $http requests (or any promise).", 
+  "fork": false, 
+  "full_name": "cgross/angular-busy", 
+  "language": "CSS", 
+  "updated_at": "2015-02-27T23:42:08.587328"
+}

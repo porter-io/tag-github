@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.953564", 
+  "description": "A generic library implementing hot reload for React components without unmounting or losing their state", 
+  "fork": false, 
+  "full_name": "gaearon/react-hot-api", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:24.861585"
+}

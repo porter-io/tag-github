@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.564376", 
+  "description": "Inspired by MailboxApp (http://mailboxapp.com). A UITableViewCell subclass that makes it easy to add long, short, left and right swiping of content in your table views. Features 4 swipe zones with customizable icons, colors and sizes.", 
+  "fork": false, 
+  "full_name": "JLZ/JZSwipeCell", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:13.222791"
+}

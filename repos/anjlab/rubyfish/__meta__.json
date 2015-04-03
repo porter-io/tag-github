@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.542267", 
+  "description": "RubyFish is a ruby port of python library jellyfish (http://github.com/sunlightlabs/jellyfish) for doing approximate and phonetic matching of strings", 
+  "fork": false, 
+  "full_name": "anjlab/rubyfish", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:57.713162"
+}

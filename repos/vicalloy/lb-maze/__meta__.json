@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.699871", 
+  "description": "A random maze generator, solver, and renderer.", 
+  "fork": false, 
+  "full_name": "vicalloy/lb-maze", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:12.221823"
+}

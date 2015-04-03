@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.764160", 
+  "description": "Trivial synthesizer that changes frequency based on proximity between two iOS devices", 
+  "fork": false, 
+  "full_name": "darknoon/BLESynth", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:03:20.337305"
+}

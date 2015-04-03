@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.180503", 
+  "description": "A fork of escoz's QuickDialog which removes the requirement of Automatic Reference Counting.", 
+  "fork": true, 
+  "full_name": "nickcharlton/QuickDialog", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T22:27:32.181146"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.938756", 
+  "description": "An ActiveRecord null database adapter for greater speed and isolation in unit tests.", 
+  "fork": true, 
+  "full_name": "nulldb/nulldb", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:27:55.939394"
+}

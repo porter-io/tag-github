@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.558727", 
+  "description": "TGM Plugin Activation is a PHP library that allows you to easily require or recommend plugins for your WordPress themes (and plugins). It allows your users to install and even automatically activate plugins in singular or bulk fashion using native WordPress classes, functions and interfaces. You can reference pre-packaged plugins, plugins from the WordPress Plugin Repository or even plugins hosted elsewhere on the internet.", 
+  "fork": false, 
+  "full_name": "thomasgriffin/TGM-Plugin-Activation", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:40.604884"
+}

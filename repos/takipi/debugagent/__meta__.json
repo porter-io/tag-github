@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.746890", 
+  "description": "Custom java agent for production debugging as presented by Tal Weiss from Takipi @ JavaOne '14 SF ", 
+  "fork": false, 
+  "full_name": "takipi/debugAgent", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:08.031765"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.289349", 
+  "description": "display regex as railroad diagram, if cursor moves to it", 
+  "fork": false, 
+  "full_name": "klorenz/atom-regex-railroad-diagrams", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:04.589763"
+}

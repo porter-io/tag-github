@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.388650", 
+  "description": "Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started.", 
+  "fork": false, 
+  "full_name": "rasmusbergpalm/DeepLearnToolbox", 
+  "language": "Matlab", 
+  "updated_at": "2015-02-27T23:41:25.598191"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.450152", 
+  "description": "SQL-like interface to Cisco UCS Manager and Cisco UCS Central via the XML API", 
+  "fork": false, 
+  "full_name": "ucsql/ucsql", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:04:29.595601"
+}

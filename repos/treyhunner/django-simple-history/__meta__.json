@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.952982", 
+  "description": "Store model history and view/revert changes from admin site.", 
+  "fork": false, 
+  "full_name": "treyhunner/django-simple-history", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:47.109015"
+}

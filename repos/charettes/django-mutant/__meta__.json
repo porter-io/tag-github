@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.444340", 
+  "description": "Dynamic model definition and alteration (evolving schemas)", 
+  "fork": false, 
+  "full_name": "charettes/django-mutant", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:21.146836"
+}

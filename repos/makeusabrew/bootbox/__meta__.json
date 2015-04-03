@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.725562", 
+  "description": "Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework", 
+  "fork": false, 
+  "full_name": "makeusabrew/bootbox", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:31:49.422738"
+}

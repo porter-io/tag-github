@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.841017", 
+  "description": "A real-time messaging server that acts as the intermediary between your web app and a browser.", 
+  "fork": false, 
+  "full_name": "briankassouf/incus", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:35.495954"
+}

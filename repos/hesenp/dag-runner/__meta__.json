@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.707656", 
+  "description": "Execute functions specified by a DAG (directed acyclic graph) ", 
+  "fork": false, 
+  "full_name": "hesenp/dag-runner", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:40.653874"
+}

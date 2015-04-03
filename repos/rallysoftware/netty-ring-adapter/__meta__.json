@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.866425", 
+  "description": "Ring server built with Netty (https://netty.io/)", 
+  "fork": false, 
+  "full_name": "RallySoftware/netty-ring-adapter", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:51.851186"
+}

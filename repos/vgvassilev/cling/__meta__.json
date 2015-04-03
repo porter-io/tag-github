@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.513263", 
+  "description": "Cling is an interactive C++ interpreter, built on top of Clang and LLVM compiler infrastructure.", 
+  "fork": false, 
+  "full_name": "vgvassilev/cling", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:43.763725"
+}

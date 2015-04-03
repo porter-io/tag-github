@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.950095", 
+  "description": "Python library and shell utilities to monitor filesystem events.", 
+  "fork": false, 
+  "full_name": "gorakhargosh/watchdog", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:09.917081"
+}

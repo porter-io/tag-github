@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.433213", 
+  "description": "Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes", 
+  "fork": false, 
+  "full_name": "sindresorhus/string-length", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.936423"
+}

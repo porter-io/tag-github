@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.076497", 
+  "description": "RESTful interface for managing your Doctrine 2 entities.", 
+  "fork": false, 
+  "full_name": "mekanics/Doctrine2REST", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:58.369976"
+}

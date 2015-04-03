@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.751937", 
+  "description": "Filter unwanted params from your controllers/actions in your Rails app.  Provides param_protected and param_accessible analogous to ActiveRecord's attr_protected and attr_accessible.", 
+  "fork": false, 
+  "full_name": "cjbottaro/param_protected", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:49.925653"
+}

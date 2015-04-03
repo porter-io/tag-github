@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.800070", 
+  "description": "A crash reporting framework for OS X", 
+  "fork": false, 
+  "full_name": "sbooth/SFBCrashReporter", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:30:10.869753"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.613838", 
+  "description": "Pipes and Filters for Node.js to divide a larger processing task into a sequence of smaller, independent processing steps (Filters) that are connected by channels (Pipes).", 
+  "fork": false, 
+  "full_name": "slashdotdash/node-pipes-and-filters", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:55.327164"
+}

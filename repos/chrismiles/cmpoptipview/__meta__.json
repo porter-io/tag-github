@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.437952", 
+  "description": "Custom UIView for iOS that pops up an animated \"bubble\" pointing at a button or other view. Useful for popup tips.", 
+  "fork": false, 
+  "full_name": "chrismiles/CMPopTipView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:22.860789"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.116936", 
+  "description": "The classic email sending library for PHP - this is my personal fork, please post issues on the upstream project", 
+  "fork": true, 
+  "full_name": "Synchro/PHPMailer", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T22:28:43.116979"
+}

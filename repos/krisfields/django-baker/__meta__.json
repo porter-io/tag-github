@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.714941", 
+  "description": "Adds a management command that generates views, forms, urls, admin, and templates based off the contents of models.py", 
+  "fork": false, 
+  "full_name": "krisfields/django-baker", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:50.754656"
+}

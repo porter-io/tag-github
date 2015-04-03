@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.646175", 
+  "description": "Vagrant environment to demonstrate the use of sensu in combination with serverspec.", 
+  "fork": false, 
+  "full_name": "sirhopcount/vagrant-sensu-serverspec", 
+  "language": "Puppet", 
+  "updated_at": "2015-02-27T23:41:26.000356"
+}

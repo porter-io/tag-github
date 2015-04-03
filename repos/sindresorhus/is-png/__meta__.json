@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.601157", 
+  "description": "Check if a Buffer/Uint8Array is a PNG image", 
+  "fork": false, 
+  "full_name": "sindresorhus/is-png", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.909102"
+}

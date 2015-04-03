@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.129934", 
+  "description": "An opinionated boilerplate that uses 6to5 to allow for es6 features and uses browserify for file bundleing", 
+  "fork": false, 
+  "full_name": "thoughtram/es6-6to5-browserify-boilerplate", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:53.882625"
+}

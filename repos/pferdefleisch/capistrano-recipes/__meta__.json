@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.839191", 
+  "description": "Clone and deploy. Deployment made incredibly simple with capistrano. Recipes for many popular infrastructure gems.", 
+  "fork": false, 
+  "full_name": "pferdefleisch/capistrano-recipes", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:53.800082"
+}

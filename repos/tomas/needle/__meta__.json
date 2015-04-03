@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.966953", 
+  "description": "Nimble, streamable HTTP client for Node.js. With proxy, iconv, deflate & multipart support.", 
+  "fork": false, 
+  "full_name": "tomas/needle", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:50.692197"
+}

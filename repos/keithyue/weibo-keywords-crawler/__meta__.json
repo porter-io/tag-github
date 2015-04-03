@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.637445", 
+  "description": "Crawl the related sina weibo content using the keywords, and save the results to txt file for future use.", 
+  "fork": false, 
+  "full_name": "KeithYue/weibo-keywords-crawler", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:31.816270"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.373791", 
+  "description": "Clojure interface to Reactor, an event-driven programming and stream processing toolkit for the JVM", 
+  "fork": false, 
+  "full_name": "clojurewerkz/meltdown", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:01.268751"
+}

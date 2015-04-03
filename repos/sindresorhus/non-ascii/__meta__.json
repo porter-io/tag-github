@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.584045", 
+  "description": "Regular expression for matching non-ASCII characters", 
+  "fork": false, 
+  "full_name": "sindresorhus/non-ascii", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:19.588512"
+}

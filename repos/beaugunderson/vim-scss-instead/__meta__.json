@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.120482", 
+  "description": "Prompts to edit an SCSS file of the same name if it exists when opening a CSS file in vim", 
+  "fork": false, 
+  "full_name": "beaugunderson/vim-scss-instead", 
+  "language": "VimL", 
+  "updated_at": "2015-03-10T07:02:47.968578"
+}

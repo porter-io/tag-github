@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.128545", 
+  "description": "A functional, relational database in about 250 lines of Common Lisp", 
+  "fork": false, 
+  "full_name": "Wukix/LambdaLite", 
+  "language": "Common Lisp", 
+  "updated_at": "2015-03-10T07:03:50.883683"
+}

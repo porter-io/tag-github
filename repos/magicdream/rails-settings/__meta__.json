@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.815200", 
+  "description": "It is Rails 3 adapted rails-settings plugin. Settings is a plugin that makes managing a table of global key, value pairs easy. Think of it like a global Hash stored in your database, that uses simple ActiveRecord like methods for manipulation. Keep track of any global setting that you don't want to hard code into your rails app. You can store any kind of object. Strings, numbers, arrays, or any serializable object.", 
+  "fork": true, 
+  "full_name": "Magicdream/rails-settings", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:26.816167"
+}

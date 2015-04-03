@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.634552", 
+  "description": "The official @github repository of the Trovebox frontend software. A photo sharing and photo management web interface for data stored \"in the cloud\" (i.e. Amazon S3, Rackspace CloudFiles, Google Storage).", 
+  "fork": false, 
+  "full_name": "photo/frontend", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:27.841100"
+}

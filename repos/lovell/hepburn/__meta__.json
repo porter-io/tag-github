@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.705827", 
+  "description": "Node.js module for converting Japanese Hiragana and Katakana script to, and from, Romaji using Hepburn romanisation", 
+  "fork": false, 
+  "full_name": "lovell/hepburn", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.049699"
+}

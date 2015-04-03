@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.077410", 
+  "description": "A Socket.IO backend implementation written in Go", 
+  "fork": false, 
+  "full_name": "madari/go-socket.io", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:52.480977"
+}

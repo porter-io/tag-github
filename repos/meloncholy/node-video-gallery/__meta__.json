@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.212704", 
+  "description": "A Metro-style video gallery with Ajax, infinite scroll and other fun stuff. Now rewritten in Node.js. ", 
+  "fork": false, 
+  "full_name": "meloncholy/node-video-gallery", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:59.137750"
+}

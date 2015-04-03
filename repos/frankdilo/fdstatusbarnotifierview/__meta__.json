@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.433220", 
+  "description": "A notifier view for iOS that resides in the status bar.", 
+  "fork": false, 
+  "full_name": "frankdilo/FDStatusBarNotifierView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:52.407946"
+}

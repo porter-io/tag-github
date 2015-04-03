@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.346656", 
+  "description": "Cap'n Proto serialization/RPC system", 
+  "fork": false, 
+  "full_name": "sandstorm-io/capnproto", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:16.253546"
+}

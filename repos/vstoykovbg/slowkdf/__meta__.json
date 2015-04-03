@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.294110", 
+  "description": "Slow KDF for serious key stretching based on Scrypt", 
+  "fork": false, 
+  "full_name": "vstoykovbg/slowkdf", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:49.665808"
+}

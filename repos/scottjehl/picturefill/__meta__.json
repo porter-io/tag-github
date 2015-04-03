@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.408746", 
+  "description": "A responsive image polyfill for <picture>, srcset, sizes, and more", 
+  "fork": false, 
+  "full_name": "scottjehl/picturefill", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-17T07:25:46.360471"
+}

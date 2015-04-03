@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.501158", 
+  "description": "Delicious example using Socket.IO to publish and receive messages over AMQP ", 
+  "fork": false, 
+  "full_name": "jamescarr/nodejs-amqp-example", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:36.905060"
+}

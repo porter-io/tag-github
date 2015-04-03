@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.799747", 
+  "description": "Rails plugin that provides deep integration with Beanstalk.", 
+  "fork": true, 
+  "full_name": "kristjan/async_observer", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:36.800950"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.747826", 
+  "description": "A client-side web application interface to a running Salt infrastructure", 
+  "fork": false, 
+  "full_name": "saltstack/halite", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:34.485197"
+}

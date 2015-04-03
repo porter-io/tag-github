@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.869008", 
+  "description": "a django-esque orm for node.js, which targets developmentseed's sqlite and brianc's node-pg", 
+  "fork": false, 
+  "full_name": "chrisdickinson/ormnomnom", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:01:14.494898"
+}

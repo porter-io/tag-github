@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.110287", 
+  "description": "A fast multiple-producer, multi-consumer lock-free concurrent queue for C++11", 
+  "fork": false, 
+  "full_name": "cameron314/concurrentqueue", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:25.091010"
+}

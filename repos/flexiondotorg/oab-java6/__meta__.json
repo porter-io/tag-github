@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.503832", 
+  "description": "Create a local 'apt' repository for Sun Java 6 and/or Oracle Java 7 packages.", 
+  "fork": false, 
+  "full_name": "flexiondotorg/oab-java6", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:12.515154"
+}

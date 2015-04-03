@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.355617", 
+  "description": "JavaScript library for the Tessel Infrared module built around an attiny84.", 
+  "fork": false, 
+  "full_name": "tessel/ir-attx4", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:04:54.729120"
+}

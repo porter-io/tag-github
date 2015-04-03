@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.575674", 
+  "description": "Simple .NET logging with fully-structured events", 
+  "fork": false, 
+  "full_name": "serilog/serilog", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:44:13.250173"
+}

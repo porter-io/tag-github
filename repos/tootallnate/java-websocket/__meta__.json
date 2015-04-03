@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.010467", 
+  "description": "A barebones WebSocket client and server implementation written in 100% Java.", 
+  "fork": false, 
+  "full_name": "TooTallNate/Java-WebSocket", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:10.543627"
+}

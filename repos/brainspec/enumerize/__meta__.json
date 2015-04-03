@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.095028", 
+  "description": "Enumerated attributes with I18n and ActiveRecord/Mongoid support", 
+  "fork": false, 
+  "full_name": "brainspec/enumerize", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:46.643213"
+}

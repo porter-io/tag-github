@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.555656", 
+  "description": "a polyfill for http://www.w3.org/TR/eventsource/", 
+  "fork": false, 
+  "full_name": "Yaffle/EventSource", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:31:06.994034"
+}

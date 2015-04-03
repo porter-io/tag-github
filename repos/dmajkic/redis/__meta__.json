@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.295777", 
+  "description": "Redis key-value store (Win32 / Win64 port)", 
+  "fork": true, 
+  "full_name": "dmajkic/redis", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:28:21.296516"
+}

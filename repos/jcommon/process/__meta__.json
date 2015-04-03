@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.754835", 
+  "description": "Java library for providing efficient, scalable process creation and asynchronous stdout/stdin processing beyond java.lang.Process.", 
+  "fork": false, 
+  "full_name": "jcommon/process", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:59.829643"
+}

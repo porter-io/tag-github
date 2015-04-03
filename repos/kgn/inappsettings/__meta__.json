@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.300972", 
+  "description": "InAppSettings provides a view controller that displays the application's Settings.bundle as it appears in the iPhone settings. Allowing the same preferences in app and in the iPhone settings.", 
+  "fork": false, 
+  "full_name": "kgn/InAppSettings", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:03.798974"
+}

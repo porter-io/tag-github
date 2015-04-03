@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.312203", 
+  "description": "Erlang task dispatcher based on ETS counters.", 
+  "fork": false, 
+  "full_name": "ferd/dispcount", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:43:26.042235"
+}

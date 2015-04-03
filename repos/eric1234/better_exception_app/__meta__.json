@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.913003", 
+  "description": "Render your http errors in your layout reducing the need for static files.", 
+  "fork": false, 
+  "full_name": "eric1234/better_exception_app", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:04.223574"
+}

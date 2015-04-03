@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.042326", 
+  "description": "Resolve the path of a module like require.resolve() but from a given path", 
+  "fork": false, 
+  "full_name": "sindresorhus/resolve-from", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.858087"
+}

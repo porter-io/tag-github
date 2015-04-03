@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.366878", 
+  "description": "A unified http/s client library for lua", 
+  "fork": false, 
+  "full_name": "lusis/lua-httpclient", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:43:16.265454"
+}

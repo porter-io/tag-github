@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.502568", 
+  "description": "A blazingly small and sane redis java client", 
+  "fork": false, 
+  "full_name": "xetorthio/jedis", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:58.918445"
+}

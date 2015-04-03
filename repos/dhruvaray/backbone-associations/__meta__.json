@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.641096", 
+  "description": "Create object hierarchies with Backbone models; Respond to hierarchy changes using regular Backbone events.", 
+  "fork": false, 
+  "full_name": "dhruvaray/backbone-associations", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:11.178789"
+}

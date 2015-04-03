@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.124434", 
+  "description": "An Interface to Piwik's Analytics API for Laravel (Composer Package). For the Laravel 3 Bundle, go to https://github.com/RobBrazier/Laravel-Piwik", 
+  "fork": false, 
+  "full_name": "RobBrazier/Laravel_Piwik", 
+  "language": "PHP", 
+  "updated_at": "2015-02-28T08:41:26.451581"
+}

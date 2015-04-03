@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.892376", 
+  "description": "Browser locale negotiation for node.js", 
+  "fork": false, 
+  "full_name": "jed/locale", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:04:51.091661"
+}

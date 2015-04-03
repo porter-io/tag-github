@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.841421", 
+  "description": "A distributed grep client to investigate your logs", 
+  "fork": false, 
+  "full_name": "irtefa/sherlog", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:55.700601"
+}

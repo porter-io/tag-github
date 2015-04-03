@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.212713", 
+  "description": "This is a basic working example of how to send an email using Mandrill using a Template created in MailChimp.", 
+  "fork": false, 
+  "full_name": "murrion/mandrill-with-mailchimp-templates", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:49.929507"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.612975", 
+  "description": "DAKeyboardControl adds keyboard awareness and scrolling dismissal (ala iMessages app) to any view with only 1 line of code.", 
+  "fork": false, 
+  "full_name": "danielamitay/DAKeyboardControl", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:07.717030"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.736945", 
+  "description": "Simple tool to quickly audit the configurations of a collection of servers", 
+  "fork": false, 
+  "full_name": "grimborg/watchconf", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:25.441479"
+}

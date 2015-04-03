@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.080076", 
+  "description": "Handles bracketed-paste-mode in vim (aka. automatic `:set paste`)", 
+  "fork": false, 
+  "full_name": "ConradIrwin/vim-bracketed-paste", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:44:13.902318"
+}

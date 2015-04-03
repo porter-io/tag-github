@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.963272", 
+  "description": "Figure out which gems are signed given a Gemfile.lock", 
+  "fork": false, 
+  "full_name": "bradleybuda/bundler_signature_check", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:28.426279"
+}

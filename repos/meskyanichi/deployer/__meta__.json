@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.726867", 
+  "description": "An easy-to-use set of Capistrano tasks/recipes for provisioning and deploying Ruby/JRuby applications to your servers.", 
+  "fork": false, 
+  "full_name": "meskyanichi/deployer", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:22.153635"
+}

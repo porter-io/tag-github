@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.297157", 
+  "description": "Expose the Django shell as an SSH server.", 
+  "fork": false, 
+  "full_name": "zacharyvoase/django-conch", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:38.189930"
+}

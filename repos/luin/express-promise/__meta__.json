@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.087257", 
+  "description": "Middleware for easy rendering of async Query results.", 
+  "fork": false, 
+  "full_name": "luin/express-promise", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:08.789413"
+}

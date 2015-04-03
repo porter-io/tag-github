@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.582510", 
+  "description": "ruby script to batch execute commands with ssh", 
+  "fork": false, 
+  "full_name": "williamherry/tinyssh", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:13.043329"
+}

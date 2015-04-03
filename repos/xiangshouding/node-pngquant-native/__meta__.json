@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.215513", 
+  "description": "A pngquant addon of node", 
+  "fork": false, 
+  "full_name": "xiangshouding/node-pngquant-native", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:53.093997"
+}

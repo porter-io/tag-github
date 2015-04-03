@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.226697", 
+  "description": "A simple DNS proxy that lets you intercept domains and route them to whatever IP you decide.", 
+  "fork": false, 
+  "full_name": "mafintosh/dnsjack", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:14.787261"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.936382", 
+  "description": "A Vim plugin for visually displaying indent levels in code", 
+  "fork": false, 
+  "full_name": "nathanaelkane/vim-indent-guides", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:58.832579"
+}

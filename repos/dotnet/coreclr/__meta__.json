@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.378348", 
+  "description": "This repo contains the .NET Core runtime, called CoreCLR. It is an execution engine for .NET apps, performing functions such as IL byte code loading, compilation to machine code and garbage collection. The repo contains the complete up-to-date CoreCLR codebase.", 
+  "fork": false, 
+  "full_name": "dotnet/coreclr", 
+  "language": "C++", 
+  "updated_at": "2015-03-21T14:55:45.973565"
+}

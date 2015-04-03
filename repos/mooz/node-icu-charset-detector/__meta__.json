@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.900223", 
+  "description": "A simple binding of ICU character set detection for Node.js", 
+  "fork": false, 
+  "full_name": "mooz/node-icu-charset-detector", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:03:46.962571"
+}

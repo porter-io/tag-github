@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.107803", 
+  "description": "Starting with Node's built in REPL, add in a completely redone inspect formatter, actual functioning separate V8 contexts, keybindings to create, switch, and delete between them, combine it with a bunch of color. ULTRA REPL", 
+  "fork": false, 
+  "full_name": "Benvie/Node.js-Ultra-REPL", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:46.654741"
+}

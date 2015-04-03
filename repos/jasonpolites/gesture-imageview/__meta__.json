@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.618158", 
+  "description": "Implements pinch-zoom, rotate, pan as an ImageView for Android 2.1+", 
+  "fork": false, 
+  "full_name": "jasonpolites/gesture-imageview", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:56.942514"
+}

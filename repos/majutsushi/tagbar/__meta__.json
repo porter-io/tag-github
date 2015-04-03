@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.272053", 
+  "description": "Vim plugin that displays tags in a window, ordered by scope", 
+  "fork": false, 
+  "full_name": "majutsushi/tagbar", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:42:55.988293"
+}

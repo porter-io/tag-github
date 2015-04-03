@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.177247", 
+  "description": "Reads huge amounts of pipe-delimited data from Redis, filters it, and returns counts by occurence", 
+  "fork": false, 
+  "full_name": "winton/redis_parse", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:00.310872"
+}

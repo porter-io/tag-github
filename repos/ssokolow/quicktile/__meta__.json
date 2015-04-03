@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.495142", 
+  "description": "Adds window-tiling keybindings to any X11-based desktop. (An analogue to WinSplit Revolution for people who don't want to use the Compiz Grid plugin)", 
+  "fork": false, 
+  "full_name": "ssokolow/quicktile", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:01.429102"
+}

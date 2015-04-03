@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.881750", 
+  "description": "A template for creating Droplets for Mac OS X that will pass dropped files to an embedded script", 
+  "fork": false, 
+  "full_name": "RichardBronosky/AppleScript-droplet", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:33.474414"
+}

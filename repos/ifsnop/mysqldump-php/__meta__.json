@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.950202", 
+  "description": "PHP version of Linux's mysqldump in terminal \"$ mysqldump -u username -p...\".", 
+  "fork": false, 
+  "full_name": "ifsnop/mysqldump-php", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:03.217718"
+}

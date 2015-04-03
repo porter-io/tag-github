@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.441016", 
+  "description": "Template for new Rails projects, utilizing SMACSS, LiveReload, rbenv, Rspec, Capybara, Capistrano, and much more.", 
+  "fork": false, 
+  "full_name": "mattbrictson/rails-starter", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:45.494824"
+}

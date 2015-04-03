@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.715626", 
+  "description": "Proper MongoDB aggregations support for Meteor", 
+  "fork": false, 
+  "full_name": "meteorhacks/meteor-aggregate", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:29.029541"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.053205", 
+  "description": "Download an entire spotify playlist ( FROM SPOTIFY at 160kpbs ) to your local machine.", 
+  "fork": false, 
+  "full_name": "qrpike/spotify-playlist-downloader", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:41.247103"
+}

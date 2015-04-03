@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.175984", 
+  "description": "Basic statistical computations on frequency maps (histograms) in Clojure", 
+  "fork": false, 
+  "full_name": "stuartsierra/frequencies", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:44:15.702511"
+}

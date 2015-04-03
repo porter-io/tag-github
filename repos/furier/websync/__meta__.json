@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.645885", 
+  "description": "websync is intended to be an rsync manager, where rsync tasks can be added, scheduled and maintained in a sane manner.", 
+  "fork": false, 
+  "full_name": "furier/websync", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:29.808072"
+}

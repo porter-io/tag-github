@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.965735", 
+  "description": "A frontend for MongoDB's query profiler collection.", 
+  "fork": false, 
+  "full_name": "jmikola/mongoqp", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:44.242007"
+}

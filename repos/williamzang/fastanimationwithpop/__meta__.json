@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.506176", 
+  "description": "A very simplifty animation framework. Powerby Facebook POP(https://github.com/facebook/pop). Use 'fast animation' you can add animations without any lines of code.  You can see the DEMO in project DEMO(https://github.com/WilliamZang/FastAnimationWithPopDemo).", 
+  "fork": false, 
+  "full_name": "WilliamZang/FastAnimationWithPOP", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:28:23.016224"
+}

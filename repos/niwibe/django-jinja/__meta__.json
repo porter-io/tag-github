@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.408665", 
+  "description": "Simple and nonobstructive jinja2 integration with Django.", 
+  "fork": false, 
+  "full_name": "niwibe/django-jinja", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:34.324278"
+}

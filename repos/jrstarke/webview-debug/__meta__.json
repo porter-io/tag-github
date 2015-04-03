@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:59.933133", 
+  "description": "Enables debugging of WebViews withing Android for Cordova Apps", 
+  "fork": false, 
+  "full_name": "jrstarke/webview-debug", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:02.504392"
+}

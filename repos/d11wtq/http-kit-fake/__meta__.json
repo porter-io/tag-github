@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.524049", 
+  "description": "Fakes HTTP requests using the Clojure http-kit client", 
+  "fork": false, 
+  "full_name": "d11wtq/http-kit-fake", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:18.395514"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.952149", 
+  "description": "A fuzzy text selector for files and anything else you need to select. Use it from vim, from the command line, or anywhere you can run a shell command.", 
+  "fork": false, 
+  "full_name": "garybernhardt/selecta", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:53.171090"
+}

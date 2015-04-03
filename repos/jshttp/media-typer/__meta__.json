@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.870023", 
+  "description": "Simple RFC 6838 media type parser and formatter", 
+  "fork": false, 
+  "full_name": "jshttp/media-typer", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:02.574759"
+}

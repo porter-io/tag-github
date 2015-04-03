@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.153530", 
+  "description": "mv Vim_config ~/.vim or ln -s Vim_config ~/.vim", 
+  "fork": false, 
+  "full_name": "xcv58/Vim_config", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:42:58.669961"
+}

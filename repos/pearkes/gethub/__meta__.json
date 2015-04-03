@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.373373", 
+  "description": "A utility for cloning and fetching your remote git repositories from GitHub.", 
+  "fork": false, 
+  "full_name": "pearkes/gethub", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:25.561982"
+}

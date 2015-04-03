@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.580165", 
+  "description": ":sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility", 
+  "fork": false, 
+  "full_name": "michaelficarra/CoffeeScriptRedux", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:29:26.829010"
+}

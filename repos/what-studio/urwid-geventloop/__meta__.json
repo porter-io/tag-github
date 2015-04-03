@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.614011", 
+  "description": "Event loop based on gevent for urwid.", 
+  "fork": false, 
+  "full_name": "what-studio/urwid-geventloop", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:38.058712"
+}

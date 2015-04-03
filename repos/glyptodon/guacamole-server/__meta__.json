@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.010223", 
+  "description": "The server-side, native components that form the Guacamole proxy.", 
+  "fork": false, 
+  "full_name": "glyptodon/guacamole-server", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:58.924513"
+}

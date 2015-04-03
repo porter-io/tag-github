@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.951588", 
+  "description": "Genty, pronounced \"gen-tee\", stands for \"generate tests\". It promotes generative testing, where a single test can execute over a variety of input.", 
+  "fork": false, 
+  "full_name": "box/genty", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:07.020990"
+}

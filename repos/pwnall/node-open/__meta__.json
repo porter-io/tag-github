@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.594492", 
+  "description": "open a file or uri with the users preferred application (browser, editor, etc), cross platform", 
+  "fork": false, 
+  "full_name": "pwnall/node-open", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:12.106670"
+}

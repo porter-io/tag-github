@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.063417", 
+  "description": "A view for Ember.js that is able to create and handle <div>s that have contenteditable set to true.", 
+  "fork": false, 
+  "full_name": "KasperTidemann/ember-contenteditable-view", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:28.044729"
+}

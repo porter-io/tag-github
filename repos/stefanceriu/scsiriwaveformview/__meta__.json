@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.796792", 
+  "description": "UIView subclass that reproduces the waveform effect seen in Siri on iOS 7.", 
+  "fork": false, 
+  "full_name": "stefanceriu/SCSiriWaveformView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:03:44.118231"
+}

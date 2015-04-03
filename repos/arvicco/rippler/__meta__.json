@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.499364", 
+  "description": "Command line client for Ripple payment platform. It uses Ripple websocket API to send commands and receive responses.", 
+  "fork": false, 
+  "full_name": "arvicco/rippler", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:29.350683"
+}

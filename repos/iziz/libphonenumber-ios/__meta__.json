@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.252919", 
+  "description": "iOS port from libphonenumber (Google's phone number handling library)", 
+  "fork": false, 
+  "full_name": "iziz/libPhoneNumber-iOS", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:21.261528"
+}

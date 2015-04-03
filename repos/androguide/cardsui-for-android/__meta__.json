@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.235039", 
+  "description": "Fork of the CardsUI library by Nadav Fima with more features, including the popular Google Now & Google Play cards views, and an additional MVC implementation", 
+  "fork": true, 
+  "full_name": "Androguide/cardsui-for-android", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T22:27:44.236029"
+}

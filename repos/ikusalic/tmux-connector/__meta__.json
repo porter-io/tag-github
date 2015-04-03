@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.197246", 
+  "description": "Manage multiple servers using SSH and tmux.", 
+  "fork": false, 
+  "full_name": "ikusalic/tmux-connector", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:31.005442"
+}

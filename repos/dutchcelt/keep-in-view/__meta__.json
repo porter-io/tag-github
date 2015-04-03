@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.044606", 
+  "description": "Don't allow elements to scroll out of view by having them stick to the top or bottom of a window.", 
+  "fork": false, 
+  "full_name": "dutchcelt/Keep-in-View", 
+  "language": "CSS", 
+  "updated_at": "2015-02-27T23:41:47.655862"
+}

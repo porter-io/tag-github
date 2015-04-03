@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.307331", 
+  "description": "Concurrence is a framework for creating massively concurrent network applications in Python.  It takes a Lightweight-tasks-with-message-passing approach to concurrency.  The goal of Concurrence is to provide an easier programming model for writing high performance network applications than existing solutions (Multi-threading, Twisted, asyncore etc).", 
+  "fork": false, 
+  "full_name": "concurrence/concurrence", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:31:42.650582"
+}

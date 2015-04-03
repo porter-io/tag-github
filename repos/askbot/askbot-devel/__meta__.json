@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.704208", 
+  "description": "ASKBOT is a Q&A forum, written in Django/Python and Javascript. **TRANSLATORS**: the translation environment is at https://www.transifex.com/projects/p/askbot/", 
+  "fork": true, 
+  "full_name": "ASKBOT/askbot-devel", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:03:51.122051"
+}

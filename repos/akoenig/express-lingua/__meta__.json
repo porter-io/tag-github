@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.346341", 
+  "description": "An i18n middleware for the Express.js framework.", 
+  "fork": false, 
+  "full_name": "akoenig/express-lingua", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:29:28.144654"
+}

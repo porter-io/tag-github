@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.692110", 
+  "description": "a bit of rails engine magic for determining the timezone of the user's browser.", 
+  "fork": false, 
+  "full_name": "bokmann/tz_magic", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:25.367064"
+}

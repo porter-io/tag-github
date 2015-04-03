@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.341238", 
+  "description": "A configurable server for mocking/stubbing external systems during development.", 
+  "fork": false, 
+  "full_name": "mrak/stubby4node", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:41:57.086962"
+}

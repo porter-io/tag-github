@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.891218", 
+  "description": "create complex, nested HTML tables without manually keeping track of colspan/rowspan", 
+  "fork": false, 
+  "full_name": "levinalex/tablemaker", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:30.482145"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.672951", 
+  "description": "Community-driven snippets for presentations in LaTeX, Beamer, and TikZ. Presented with Python/Jinja2.", 
+  "fork": false, 
+  "full_name": "bamos/beamer-snippets", 
+  "language": "TeX", 
+  "updated_at": "2015-02-27T23:42:13.656787"
+}

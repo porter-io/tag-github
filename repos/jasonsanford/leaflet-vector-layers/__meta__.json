@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.280334", 
+  "description": "A little help to viewing ArcGIS Server, Geocommons, Arc2Earth, CartoDB, GIS Cloud, etc. vector data in a Leaflet map", 
+  "fork": false, 
+  "full_name": "JasonSanford/leaflet-vector-layers", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:39.140615"
+}

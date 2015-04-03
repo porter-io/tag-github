@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.257103", 
+  "description": "JSON (JavaScript Object Notation) is a light-weight data interchange format that's easy to read and write for humans and computers alike. This framework implements a strict JSON parser and generator in Objective-C. ", 
+  "fork": false, 
+  "full_name": "stig/json-framework", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:31:53.101664"
+}

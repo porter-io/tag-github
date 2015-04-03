@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.789666", 
+  "description": "A DB-API compatible wrapper for umysql", 
+  "fork": false, 
+  "full_name": "hongqn/umysqldb", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:19.629644"
+}

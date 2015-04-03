@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.675009", 
+  "description": "GeoJSON-based HTTP access to PostGIS with Node", 
+  "fork": false, 
+  "full_name": "geobabbler/node-gis-server", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:40.782080"
+}

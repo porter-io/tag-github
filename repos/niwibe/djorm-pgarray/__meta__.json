@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.460948", 
+  "description": "PostgreSQL array field for Django.", 
+  "fork": false, 
+  "full_name": "niwibe/djorm-pgarray", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:34.670372"
+}

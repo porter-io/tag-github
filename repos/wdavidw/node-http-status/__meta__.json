@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.950654", 
+  "description": "Utility to interact with HTTP status code in Node.js", 
+  "fork": false, 
+  "full_name": "wdavidw/node-http-status", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:02:07.803736"
+}

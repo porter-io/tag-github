@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.969968", 
+  "description": "Simple admin interface for MongoMapper (mongo) & DataMapper (dm) models.", 
+  "fork": false, 
+  "full_name": "tomas/bowtie", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:50.700497"
+}

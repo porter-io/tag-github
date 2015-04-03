@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.301858", 
+  "description": "Nodejs bindings to Google's Snappy compression library", 
+  "fork": false, 
+  "full_name": "kesla/node-snappy", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:31.337373"
+}

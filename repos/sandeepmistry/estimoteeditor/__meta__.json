@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.484417", 
+  "description": "This simple tool made for Estimote beacons allowing you to read data and edit minor and major numbers.", 
+  "fork": true, 
+  "full_name": "sandeepmistry/EstimoteEditor", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T22:28:06.484467"
+}

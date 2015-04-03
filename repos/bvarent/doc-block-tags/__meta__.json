@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.222624", 
+  "description": "A library to read tags from DocBlocks in PHP class files.", 
+  "fork": false, 
+  "full_name": "bvarent/doc-block-tags", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:44:03.584062"
+}

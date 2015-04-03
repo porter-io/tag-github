@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.329116", 
+  "description": "A proof-of-concept tool for reading OS X keychain passwords", 
+  "fork": false, 
+  "full_name": "juuso/keychaindump", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:53.192600"
+}

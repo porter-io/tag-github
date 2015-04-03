@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.954021", 
+  "description": "Implements the dnode protocol abstractly in node.js", 
+  "fork": false, 
+  "full_name": "substack/dnode-protocol", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.771832"
+}

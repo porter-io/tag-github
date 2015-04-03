@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.209547", 
+  "description": "Generate an Niko-niko Calendar based on Emoji emoticons used in your team's git commit messages", 
+  "fork": false, 
+  "full_name": "follesoe/EmojiNiko", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:51.342089"
+}

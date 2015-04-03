@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.635857", 
+  "description": "http request/response parser for c", 
+  "fork": false, 
+  "full_name": "joyent/http-parser", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:13.131985"
+}

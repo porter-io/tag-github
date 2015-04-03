@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.476206", 
+  "description": "An easy to use Rails plugin to quickly throttle application actions based on configurable duration and limit.", 
+  "fork": false, 
+  "full_name": "fredwu/action_throttler", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:55.161902"
+}

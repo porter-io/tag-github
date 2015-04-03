@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.486563", 
+  "description": "An iterative computing framework for both Hadoop MapReduce and Hadoop YARN.", 
+  "fork": false, 
+  "full_name": "ShifuML/guagua", 
+  "language": "Java", 
+  "updated_at": "2015-04-01T19:29:48.255759"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.434295", 
+  "description": "A language detection library for Ruby that uses bloom filters for speed.", 
+  "fork": false, 
+  "full_name": "peterc/whatlanguage", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:52.412702"
+}

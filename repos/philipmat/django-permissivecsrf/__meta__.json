@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.240641", 
+  "description": "More permissive CSRF check for Django when moving between HTTP and HTTPS", 
+  "fork": false, 
+  "full_name": "philipmat/django-permissivecsrf", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:31.059886"
+}

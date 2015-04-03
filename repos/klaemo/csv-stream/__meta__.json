@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.849283", 
+  "description": ":page_with_curl: Streaming CSV Parser for Node. Small and made entirely out of streams.", 
+  "fork": false, 
+  "full_name": "klaemo/csv-stream", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:00.700683"
+}

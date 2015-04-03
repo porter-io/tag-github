@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.285371", 
+  "description": "ECMAScript parser that produces a Shift format AST", 
+  "fork": false, 
+  "full_name": "shapesecurity/shift-parser-js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:28.816991"
+}

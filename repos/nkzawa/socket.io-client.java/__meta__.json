@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.806412", 
+  "description": "Full-featured Socket.IO Client Library for Java, which is compatible with Socket.IO v1.0 and later.", 
+  "fork": false, 
+  "full_name": "nkzawa/socket.io-client.java", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:05.844387"
+}

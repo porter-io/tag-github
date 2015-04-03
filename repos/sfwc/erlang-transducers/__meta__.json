@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.829481", 
+  "description": "An Erlang interpretation of Clojure's \"transducer\" abstraction for iterative processes.", 
+  "fork": false, 
+  "full_name": "sfwc/erlang-transducers", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:41:59.907052"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.301979", 
+  "description": "The couchdb setup for registry.npmjs.org and search.npmjs.org", 
+  "fork": true, 
+  "full_name": "rvagg/npmjs.org", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:28:14.302033"
+}

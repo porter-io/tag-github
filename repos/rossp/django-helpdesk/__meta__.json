@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:59.250666", 
+  "description": "A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.", 
+  "fork": false, 
+  "full_name": "rossp/django-helpdesk", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:01.988196"
+}

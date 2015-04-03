@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.372402", 
+  "description": "A plugin for the svg.js library adding the ability to absorb an existing svg into the dynamic svg.js structure", 
+  "fork": false, 
+  "full_name": "wout/svg.absorb.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:35.835301"
+}

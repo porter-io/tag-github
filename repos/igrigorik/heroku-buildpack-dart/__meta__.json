@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.690588", 
+  "description": "Heroku buildpack for Dart", 
+  "fork": false, 
+  "full_name": "igrigorik/heroku-buildpack-dart", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:26.482769"
+}

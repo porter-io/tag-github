@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.272840", 
+  "description": "The Buildkite Agent is an open-source toolkit written in Golang for securely running build jobs on any device or network", 
+  "fork": false, 
+  "full_name": "buildbox/agent", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:57.596186"
+}

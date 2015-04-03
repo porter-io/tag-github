@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.840921", 
+  "description": "Go bindings to systemd socket activation, journal, D-Bus, and unit files", 
+  "fork": false, 
+  "full_name": "coreos/go-systemd", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:20.453329"
+}

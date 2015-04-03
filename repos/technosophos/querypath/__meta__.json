@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.881699", 
+  "description": "QueryPath is a PHP library for manipulating XML and HTML. It is designed to work not only with local files, but also with web services and database resources.", 
+  "fork": false, 
+  "full_name": "technosophos/querypath", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:27.648704"
+}

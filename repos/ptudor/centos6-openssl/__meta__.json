@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.203754", 
+  "description": "Spec file for backport of OpenSSL 1.0.1 for CentOS 6", 
+  "fork": false, 
+  "full_name": "ptudor/centos6-openssl", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:44:28.881140"
+}

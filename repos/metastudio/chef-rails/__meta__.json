@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.581446", 
+  "description": "Yet another set of Chef cookbooks for provisioning Ruby on Rails application server", 
+  "fork": false, 
+  "full_name": "metastudio/chef-rails", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:55.359252"
+}

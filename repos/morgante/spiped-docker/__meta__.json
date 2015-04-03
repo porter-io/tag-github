@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.234002", 
+  "description": "Simple, secure SOCKS proxies using spiped", 
+  "fork": false, 
+  "full_name": "morgante/spiped-docker", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:53.107423"
+}

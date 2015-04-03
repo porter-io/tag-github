@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.612293", 
+  "description": "Extract iOS artwork and emoji symbols into png files, generate glossy buttons png files", 
+  "fork": false, 
+  "full_name": "0xced/iOS-Artwork-Extractor", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:57.972723"
+}

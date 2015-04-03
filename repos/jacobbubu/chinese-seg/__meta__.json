@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.580818", 
+  "description": "A Chinese Text Segmentation module with some build-in plugins.", 
+  "fork": false, 
+  "full_name": "jacobbubu/chinese-seg", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:39.154433"
+}

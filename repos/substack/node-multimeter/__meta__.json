@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.937024", 
+  "description": "render multiple progress bars at once on the terminal", 
+  "fork": false, 
+  "full_name": "substack/node-multimeter", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.749595"
+}

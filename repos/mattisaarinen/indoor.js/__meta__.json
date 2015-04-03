@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.340990", 
+  "description": "indoor.js is a Javascript library built on top of Mapbox.js and Leaflet. It provides extra functionalities for opening, showing and managing indoor maps created in indoor.io tools. ", 
+  "fork": false, 
+  "full_name": "mattisaarinen/indoor.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:57.820924"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.429937", 
+  "description": "a simple redis-based session middleware for Koa", 
+  "fork": false, 
+  "full_name": "Chilledheart/koa-session-redis", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:16.369856"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.466714", 
+  "description": "IE6 bugs\u6c47\u603b\uff08\u5982\u679c\u4f60\u6709\u65b0\u7684\u95ee\u9898\uff0c\u8bf7\u8865\u5145\uff09 \u6700\u8fd1\u53d1\u73b0\u9879\u76ee\u65b9\u5411\u8d8a\u6765\u8d8a\u4e0d\u5bf9\u4e86\uff0c\u5e72\u8106\u7528\u6765\u653e\u7f6e\u6d4f\u89c8\u5668\u7684\u517c\u5bb9\u6027\u5185\u5bb9\u5427\uff01", 
+  "fork": false, 
+  "full_name": "hjzheng/IE6-bugs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:38.000089"
+}

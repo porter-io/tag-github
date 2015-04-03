@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.800277", 
+  "description": "gem install jemalloc && bundle exec je ./script/rails s", 
+  "fork": false, 
+  "full_name": "kzk/jemalloc-rb", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:30.114527"
+}

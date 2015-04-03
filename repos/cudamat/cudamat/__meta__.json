@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.384165", 
+  "description": "Python module for performing basic dense linear algebra computations on the GPU using CUDA.", 
+  "fork": false, 
+  "full_name": "cudamat/cudamat", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:53.358046"
+}

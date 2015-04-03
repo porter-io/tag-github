@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.678081", 
+  "description": "Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure.", 
+  "fork": false, 
+  "full_name": "projectkudu/kudu", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:43:25.350062"
+}

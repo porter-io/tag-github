@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.414583", 
+  "description": "Small gem to put Sidekiq status into Librato after every job", 
+  "fork": false, 
+  "full_name": "StatusPage/librato-sidekiq", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:46.237280"
+}

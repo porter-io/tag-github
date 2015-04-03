@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.219376", 
+  "description": "Logging handler for forwarding PostgreSQL log messages to network.", 
+  "fork": false, 
+  "full_name": "mpihlak/pg_logforward", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:18.137036"
+}

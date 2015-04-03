@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.329553", 
+  "description": "A plugin of goweb, it provides an implementation of msgpack formatter.", 
+  "fork": false, 
+  "full_name": "tenntenn/goweb-msgpack", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:12.357226"
+}

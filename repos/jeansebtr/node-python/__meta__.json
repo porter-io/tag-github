@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.897062", 
+  "description": "a binding between node.js (really, the V8 engine) and python. super beta super buggy super great", 
+  "fork": true, 
+  "full_name": "JeanSebTr/node-python", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:02:11.974463"
+}

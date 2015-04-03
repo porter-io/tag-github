@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.841445", 
+  "description": "Convert a dash/dot/underscore/space separated string to camelCase: foo-bar \u2192 fooBar", 
+  "fork": false, 
+  "full_name": "sindresorhus/camelcase", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.421394"
+}

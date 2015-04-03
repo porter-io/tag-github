@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.185484", 
+  "description": "Dead simple datetime and timspan for Clojure", 
+  "fork": false, 
+  "full_name": "mbossenbroek/simple-time", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:36.057812"
+}

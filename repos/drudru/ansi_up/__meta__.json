@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.504495", 
+  "description": "A javascript library that converts text with ANSI terminal codes into colorful HTML", 
+  "fork": false, 
+  "full_name": "drudru/ansi_up", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:43.750338"
+}

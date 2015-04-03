@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.509568", 
+  "description": "Reverse minimist. Convert an object of options into an array of command-line arguments", 
+  "fork": false, 
+  "full_name": "sindresorhus/dargs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.654694"
+}

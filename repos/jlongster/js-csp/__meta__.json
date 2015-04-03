@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.747514", 
+  "description": "CSP channels for Javascript (like Clojurescript's core.async, or Go) THIS IS AN UPSTREAM FORK", 
+  "fork": true, 
+  "full_name": "jlongster/js-csp", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-28T08:41:27.975591"
+}

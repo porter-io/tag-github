@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.012468", 
+  "description": "A sample blog built with Node.js, Backbone.js, and Require.js. It supports GRUD for posts", 
+  "fork": false, 
+  "full_name": "trantorLiu/Node-Backbone-Require-Example-Blog", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:58.168109"
+}

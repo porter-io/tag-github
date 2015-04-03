@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.938263", 
+  "description": "The official ArangoDB JavaScript driver. This is the repository for the new driver starting with version 3.0.0. For the legacy 2.x version see https://github.com/triAGENS/ArangoDB-JavaScript.", 
+  "fork": false, 
+  "full_name": "arangodb/arangojs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.200570"
+}

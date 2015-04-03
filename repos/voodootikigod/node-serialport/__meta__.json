@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.154193", 
+  "description": "Node.js package to access serial ports for reading and writing OR Welcome your robotic JavaScript overlords. Better yet, program them!", 
+  "fork": false, 
+  "full_name": "voodootikigod/node-serialport", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:03:52.274063"
+}

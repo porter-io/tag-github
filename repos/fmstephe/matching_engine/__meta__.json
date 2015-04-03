@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.114926", 
+  "description": "A simple financial trading matching engine. Built to learn more about how they work.", 
+  "fork": false, 
+  "full_name": "fmstephe/matching_engine", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:12.220931"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.652018", 
+  "description": "Verified vector clocks, with Coq!", 
+  "fork": false, 
+  "full_name": "cmeiklejohn/vvclocks", 
+  "language": "Coq", 
+  "updated_at": "2015-02-27T23:43:16.903821"
+}

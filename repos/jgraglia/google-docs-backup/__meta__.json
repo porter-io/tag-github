@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.673101", 
+  "description": "python script to backup google docs - Main difference with GDataCopier, http://gdatacopier.googlecode.com/, is the support for arborescent backup (collections).", 
+  "fork": false, 
+  "full_name": "jgraglia/Google-Docs-Backup", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:23.998907"
+}

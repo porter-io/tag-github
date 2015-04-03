@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.983769", 
+  "description": "A general purpose multi-tenancy package for Laravel 4.2+", 
+  "fork": false, 
+  "full_name": "AuraEQ/laravel-multi-tenant", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:33.436151"
+}

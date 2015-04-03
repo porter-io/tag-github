@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.797669", 
+  "description": "Rust implementation of CSS Syntax Level 3", 
+  "fork": false, 
+  "full_name": "servo/rust-cssparser", 
+  "language": "Rust", 
+  "updated_at": "2015-03-10T07:01:24.540194"
+}

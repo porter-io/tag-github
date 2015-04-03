@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.960777", 
+  "description": "Convergent replicated datatypes in Erlang", 
+  "fork": false, 
+  "full_name": "basho/riak_dt", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:43:17.399495"
+}

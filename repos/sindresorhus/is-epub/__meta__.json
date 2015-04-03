@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.088030", 
+  "description": "Check if a Buffer/Uint8Array is EPUB", 
+  "fork": false, 
+  "full_name": "sindresorhus/is-epub", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.971855"
+}

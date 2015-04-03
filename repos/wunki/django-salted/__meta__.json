@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.340173", 
+  "description": "Full stack SaltStack configuration for Django with the help of Vagrant.", 
+  "fork": false, 
+  "full_name": "wunki/django-salted", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:59.290707"
+}

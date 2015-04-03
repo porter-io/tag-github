@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.804236", 
+  "description": "A framework agnostic implementation of Mozilla Persona, the cross-browser login system for the Web that's easy to use and easy to deploy.", 
+  "fork": false, 
+  "full_name": "jyggen/persona", 
+  "language": "PHP", 
+  "updated_at": "2015-04-01T19:30:06.128507"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.791041", 
+  "description": "An ejabberd component to handle XMPP over Websockets", 
+  "fork": false, 
+  "full_name": "superfeedr/ejabberd-websockets", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:16.562714"
+}

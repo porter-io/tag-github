@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.070976", 
+  "description": "Generates OpenSSL Certificate Signing Requests in node.js", 
+  "fork": false, 
+  "full_name": "ericvicenti/csr-gen", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:03.363184"
+}

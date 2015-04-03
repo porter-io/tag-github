@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:59.911081", 
+  "description": "fast SIMD-able JIT regular expression compiler", 
+  "fork": false, 
+  "full_name": "coreperf/rejit", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:02.494414"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.036775", 
+  "description": "Build WebRTC conferencing applications with easy using rtc.io. This package provides a super-friendly entry point for working with WebRTC, dive into underling rtc.io modules for more configuration and customization opportunities", 
+  "fork": false, 
+  "full_name": "rtc-io/rtc", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:35.867570"
+}

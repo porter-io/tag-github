@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.518046", 
+  "description": "A Node.js module for getting each new last line of a text file as it appears. Think `tail -f`.", 
+  "fork": false, 
+  "full_name": "adam-p/text-file-follower", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:01:34.902625"
+}

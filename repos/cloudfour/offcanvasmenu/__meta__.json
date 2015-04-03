@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.481062", 
+  "description": "A jQuery/Zepto plugin that provides an easy way to implement an off-canvas toggling menu, a navigation metaphor made popular by mobile applications.", 
+  "fork": false, 
+  "full_name": "cloudfour/offCanvasMenu", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:41:48.039813"
+}

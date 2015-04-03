@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.506409", 
+  "description": "Track user connection state and inactivity in Meteor.", 
+  "fork": false, 
+  "full_name": "mizzao/meteor-user-status", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:26.291227"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.278319", 
+  "description": "A port of Ruby on Rails' ActiveResource to Objective-C (and specifically the iPhone)", 
+  "fork": false, 
+  "full_name": "yfactorial/objectiveresource", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:27.325259"
+}

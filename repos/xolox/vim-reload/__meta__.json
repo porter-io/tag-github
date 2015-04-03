@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.363067", 
+  "description": "Automatic reloading of Vim scripts ((file-type) plug-ins, auto-load/syntax/indent scripts, color schemes)", 
+  "fork": false, 
+  "full_name": "xolox/vim-reload", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:31.531072"
+}

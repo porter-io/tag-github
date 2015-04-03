@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.114307", 
+  "description": "A JavaScript implementation of the complete Secure Hash Standard family (SHA-1, SHA-224, SHA-256, SHA-384, and SHA-512) as well as HMAC", 
+  "fork": false, 
+  "full_name": "Caligatio/jsSHA", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:03.462543"
+}

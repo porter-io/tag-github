@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.452582", 
+  "description": "An  HTML rendering engine (and eventual browser) written as a project by a self-taught student programmer. Right now, it is in extremely early development, but I will continue to add features and functionality as time allows. Currently, WebWhirr is released under the MIT license.", 
+  "fork": false, 
+  "full_name": "reesmichael1/WebWhirr", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:29.310487"
+}

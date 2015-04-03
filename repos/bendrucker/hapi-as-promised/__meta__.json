@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.798944", 
+  "description": "A hapi plugin that allows you to reply with promises in your request handlers", 
+  "fork": false, 
+  "full_name": "bendrucker/hapi-as-promised", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:12.783984"
+}

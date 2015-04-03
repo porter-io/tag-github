@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.132525", 
+  "description": "parse and execute bash without doing any IO", 
+  "fork": false, 
+  "full_name": "substack/bashful", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.984483"
+}

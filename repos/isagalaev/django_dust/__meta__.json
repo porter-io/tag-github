@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.186504", 
+  "description": "Distributed Upload STorage for Django. A file backend that mirrors all incoming media files to several servers", 
+  "fork": false, 
+  "full_name": "isagalaev/django_dust", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:30.633223"
+}

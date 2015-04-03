@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.645534", 
+  "description": "Vim plugin for the_silver_searcher, 'ag', a replacement for the Perl module / CLI script 'ack'", 
+  "fork": true, 
+  "full_name": "rking/ag.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-03-10T07:03:46.663219"
+}

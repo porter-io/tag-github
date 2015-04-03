@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.985533", 
+  "description": "A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.", 
+  "fork": false, 
+  "full_name": "monochromegane/the_platinum_searcher", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:00.957429"
+}

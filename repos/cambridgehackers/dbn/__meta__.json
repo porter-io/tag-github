@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.397338", 
+  "description": "BSV implementation of restricted boltzmann machine and deep belief networks", 
+  "fork": false, 
+  "full_name": "cambridgehackers/dbn", 
+  "language": "Bluespec", 
+  "updated_at": "2015-02-27T23:42:13.405679"
+}

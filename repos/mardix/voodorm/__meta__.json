@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.521829", 
+  "description": "VoodOrm is a micro-ORM which functions as both a fluent select query API and a CRUD model class. VoodOrm is built on top of PDO and is well fit for small to mid-sized projects, where the emphasis is on simplicity and rapid development rather than infinite flexibility and features. VoodOrm works easily with table relationship. And offers api that gets SQL out of your way ", 
+  "fork": false, 
+  "full_name": "mardix/VoodOrm", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:04:22.974540"
+}

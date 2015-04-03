@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.554802", 
+  "description": "Get a property from a nested object using a dot path", 
+  "fork": false, 
+  "full_name": "sindresorhus/dot-prop", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:19.513360"
+}

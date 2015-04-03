@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.080485", 
+  "description": "Goodbye serialize, hello hstore. Speed up hashes in the database.", 
+  "fork": false, 
+  "full_name": "diogob/activerecord-postgres-hstore", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:22.715777"
+}

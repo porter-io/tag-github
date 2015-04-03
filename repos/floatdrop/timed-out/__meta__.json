@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.793994", 
+  "description": "Emit `ETIMEDOUT` or `ESOCKETTIMEDOUT` when ClientRequest is hanged", 
+  "fork": false, 
+  "full_name": "floatdrop/timed-out", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:37.182301"
+}

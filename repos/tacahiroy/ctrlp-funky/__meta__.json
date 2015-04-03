@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.434812", 
+  "description": "a ctrlp.vim extension - Navigate and jump to function defs", 
+  "fork": false, 
+  "full_name": "tacahiroy/ctrlp-funky", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:42:00.584079"
+}

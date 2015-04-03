@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.525641", 
+  "description": "Mirror for Minify codebase. Minify is a PHP5 app that helps you follow several rules for client-side performance. It combines multiple CSS or Javascript files, removes unnecessary whitespace and comments, and serves them with gzip encoding and optimal client-side cache headers.", 
+  "fork": false, 
+  "full_name": "mrclay/minify", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:02:31.744602"
+}

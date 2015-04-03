@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.798848", 
+  "description": "GLSL optimizer based on Mesa's GLSL compiler. Used in Unity for mobile shader optimization.", 
+  "fork": false, 
+  "full_name": "aras-p/glsl-optimizer", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:55.638445"
+}

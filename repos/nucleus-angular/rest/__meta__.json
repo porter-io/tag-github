@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.897051", 
+  "description": "A orm like library for interacting with REST API's within AngularJS", 
+  "fork": false, 
+  "full_name": "nucleus-angular/rest", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:30.172133"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.573762", 
+  "description": "Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.", 
+  "fork": false, 
+  "full_name": "rebar/rebar", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:44:08.383471"
+}

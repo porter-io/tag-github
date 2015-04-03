@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.633084", 
+  "description": "NodeJS bindings to levelDB - a fast and lightweight key/value database library", 
+  "fork": true, 
+  "full_name": "my8bird/node-leveldb", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T22:28:10.633200"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.196175", 
+  "description": "A Beat Builder demo app for the //Build 2014 conference. Shows WASAPI low-latency audio rendering and looping.", 
+  "fork": false, 
+  "full_name": "jolson88/BeatBuilder", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:32.885130"
+}

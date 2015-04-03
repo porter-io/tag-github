@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.759969", 
+  "description": "Pure-python library for parsing ELF and DWARF", 
+  "fork": false, 
+  "full_name": "eliben/pyelftools", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:40.870658"
+}

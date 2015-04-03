@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.121305", 
+  "description": "A simple unrecursive DNS server. It can easily be configured to intercept some kind of request to one address.", 
+  "fork": false, 
+  "full_name": "code4craft/blackhole", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:34.813979"
+}

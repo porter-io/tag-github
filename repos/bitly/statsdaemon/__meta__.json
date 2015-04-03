@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.353588", 
+  "description": "an implementation of Etsy's statsd in Go", 
+  "fork": false, 
+  "full_name": "bitly/statsdaemon", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:24.992081"
+}

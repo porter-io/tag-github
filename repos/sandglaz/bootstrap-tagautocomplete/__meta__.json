@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.921899", 
+  "description": "A bootstrap plugin to autocomplete tags for contenteditable div elements. It works in the same way tagging people on Facebook, Twitter or Sandglaz works.", 
+  "fork": false, 
+  "full_name": "Sandglaz/bootstrap-tagautocomplete", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:19.707128"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.174971", 
+  "description": "A simple node.js wrapper for Stanford CoreNLP.", 
+  "fork": false, 
+  "full_name": "hiteshjoshi/node-stanford-corenlp", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:18.067690"
+}

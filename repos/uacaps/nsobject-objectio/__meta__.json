@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.092636", 
+  "description": "ObjectIO is an NSObject Category for writing and reading object descriptions to and from files.", 
+  "fork": false, 
+  "full_name": "uacaps/NSObject-ObjectIO", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:02.187414"
+}

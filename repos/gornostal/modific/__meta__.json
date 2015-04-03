@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.407473", 
+  "description": "Highlight lines changed since the last commit (supports Git, SVN, Bazaar, Mercurial and TFS) / ST2(3) plugin", 
+  "fork": false, 
+  "full_name": "gornostal/Modific", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:56.332352"
+}

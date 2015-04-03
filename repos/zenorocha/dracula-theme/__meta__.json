@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.381538", 
+  "description": "A dark theme for Atom, Alfred, Chrome DevTools, iTerm, Sublime Text, Textmate, Terminal.app, Vim, Xcode, Zsh", 
+  "fork": false, 
+  "full_name": "zenorocha/dracula-theme", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:42:25.880627"
+}

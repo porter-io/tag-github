@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.821458", 
+  "description": "Haskell to JavaScript compiler, based on GHC", 
+  "fork": false, 
+  "full_name": "ghcjs/ghcjs", 
+  "language": "Haskell", 
+  "updated_at": "2015-03-10T07:01:55.171778"
+}

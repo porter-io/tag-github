@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.470502", 
+  "description": "PinYin4Objc is a popular objective-c library supporting convertion between Chinese(both Simplified and Tranditional) characters and most popular Pinyin systems\uff0c it's performance is very efficient, data cached at first time, and use async method with block, this can avoid ui blocking, and runs smoothly. The output format of pinyin could be customized.(\u5173\u952e\u5b57\uff1a\u6c49\u5b57\u8f6c\u62fc\u97f3\uff0c\u4e2d\u6587\u8f6c\u62fc\u97f3\uff09 ", 
+  "fork": false, 
+  "full_name": "kimziv/PinYin4Objc", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:49.053941"
+}

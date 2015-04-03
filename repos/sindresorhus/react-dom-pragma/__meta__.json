@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.548091", 
+  "description": "Prepend the JSX React DOM pragma to a string if doesn't already contain a pragma", 
+  "fork": false, 
+  "full_name": "sindresorhus/react-dom-pragma", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.754514"
+}

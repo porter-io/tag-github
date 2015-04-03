@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.378393", 
+  "description": "Django queryset join is a simple way to join QuerySets of different models and manipulates them", 
+  "fork": false, 
+  "full_name": "hersonls/django-queryset-join", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:55.068705"
+}

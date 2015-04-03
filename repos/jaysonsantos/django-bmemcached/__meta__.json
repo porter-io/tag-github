@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.202927", 
+  "description": "A django cache backend to use bmemcached module which supports memcached binary protocol with authentication.", 
+  "fork": false, 
+  "full_name": "jaysonsantos/django-bmemcached", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:20.483932"
+}

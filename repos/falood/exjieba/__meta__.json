@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.401069", 
+  "description": "Elixir verison of Jieba, a Chinese word segmentation module.", 
+  "fork": false, 
+  "full_name": "falood/exjieba", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:51.511162"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.383810", 
+  "description": "Grails plugin that provides instant UML-like diagram of your grails domain", 
+  "fork": true, 
+  "full_name": "johannol/grails-class-diagram", 
+  "language": "Groovy", 
+  "updated_at": "2015-02-27T22:28:23.383896"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.251791", 
+  "description": "A minimal wrapper for LevelDB in Objective C", 
+  "fork": false, 
+  "full_name": "hoisie/LevelDB-ObjC", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:50.343533"
+}

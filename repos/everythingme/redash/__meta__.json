@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.420382", 
+  "description": "Rethinking how data is queried, shared and visualized. A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Oh and you can also create dashboards.", 
+  "fork": false, 
+  "full_name": "EverythingMe/redash", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:40.384548"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.453435", 
+  "description": "The best admin interface framework for Flask. With scaffolding for MongoEngine, Django and SQLAlchemy.", 
+  "fork": false, 
+  "full_name": "syrusakbary/Flask-SuperAdmin", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:28:12.627232"
+}

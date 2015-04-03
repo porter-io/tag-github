@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.356731", 
+  "description": "A drop-in plugin that integrates Google's `trackEvent` directly into Backbone's `navigate` function.", 
+  "fork": false, 
+  "full_name": "kendagriff/backbone.analytics", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:21.053942"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.466322", 
+  "description": "A gem for building mobile optimized Rails applications using semantic, media query-based device detection and server side component optimization.", 
+  "fork": false, 
+  "full_name": "matthewrobertson/ress", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:49.045668"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.223330", 
+  "description": "This is a fork of the .NET CoreCLR to add community support for FreeBSD amd64 (and to prevent future Linux'isms such as #!/bin/bash everywhere)", 
+  "fork": true, 
+  "full_name": "ajensenwaud/coreclr", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T22:29:16.223447"
+}

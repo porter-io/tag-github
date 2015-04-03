@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.646060", 
+  "description": "Calculates the extent of all features and returns a bounding box.", 
+  "fork": false, 
+  "full_name": "Turfjs/turf-extent", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:24.352903"
+}

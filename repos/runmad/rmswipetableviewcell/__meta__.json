@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.021180", 
+  "description": "RMSwipeTableViewCell is a drop-in UITableViewCell subclass that supports pan gestures as seen in apps such as Clear, Mailbox, Sparrow and many more.", 
+  "fork": false, 
+  "full_name": "runmad/RMSwipeTableViewCell", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:59.384802"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.481407", 
+  "description": "Simple Ruby background job processor inspired by delayed_job, but aiming for database agnosticism.", 
+  "fork": false, 
+  "full_name": "jeffkreeftmeijer/navvy", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:48.825473"
+}

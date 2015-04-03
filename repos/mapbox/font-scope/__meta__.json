@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.998495", 
+  "description": "Reformats node-fontnik's font-inspect output to be human-readable and summarized.", 
+  "fork": false, 
+  "full_name": "mapbox/font-scope", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:22.635839"
+}

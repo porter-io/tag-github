@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.569810", 
+  "description": "A convenient Chef LWRP to manage user accounts and SSH keys", 
+  "fork": false, 
+  "full_name": "fnichol/chef-user", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:23.230309"
+}

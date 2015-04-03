@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.043173", 
+  "description": "A cookiecutter template to create a Django app around a model with CRUD views using django-vanilla-views, a floppyforms ModelForm and WebTest tests using model mommy.", 
+  "fork": false, 
+  "full_name": "wildfish/cookiecutter-django-crud", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:30.038421"
+}

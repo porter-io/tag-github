@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.589158", 
+  "description": "Nagios plugins for alerting on Prometheus query results", 
+  "fork": false, 
+  "full_name": "prometheus/nagios_plugins", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:35.085335"
+}

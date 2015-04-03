@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.804493", 
+  "description": "Vagrant configuration for a VM that can run Meteor apps", 
+  "fork": false, 
+  "full_name": "Sanjo/vagrant-meteor", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:14.806414"
+}

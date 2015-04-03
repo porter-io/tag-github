@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.057902", 
+  "description": "Python client and Numba-based UDFs for Impala", 
+  "fork": false, 
+  "full_name": "cloudera/impyla", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:10.220334"
+}

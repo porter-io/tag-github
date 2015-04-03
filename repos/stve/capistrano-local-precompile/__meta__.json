@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.815204", 
+  "description": "Fast asset compilation and deployment for your Rails app", 
+  "fork": false, 
+  "full_name": "stve/capistrano-local-precompile", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:50.892532"
+}

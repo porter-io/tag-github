@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.579645", 
+  "description": "Easily remove Unicode combining marks from strings.", 
+  "fork": false, 
+  "full_name": "mathiasbynens/strip-combining-marks", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:14.795255"
+}

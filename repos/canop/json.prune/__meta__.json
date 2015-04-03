@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.057136", 
+  "description": "A pruning version of JSON.stringify, allowing for example to stringify window or any big or recursive object", 
+  "fork": false, 
+  "full_name": "Canop/JSON.prune", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:17.086208"
+}

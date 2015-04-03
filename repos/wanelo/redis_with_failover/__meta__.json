@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.541387", 
+  "description": "Redis client wrapper that allows for failover to a standby master redis", 
+  "fork": false, 
+  "full_name": "wanelo/redis_with_failover", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:31.473418"
+}

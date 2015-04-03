@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.896775", 
+  "description": "Log analyser / visualiser for Java HotSpot JIT compiler.", 
+  "fork": false, 
+  "full_name": "AdoptOpenJDK/jitwatch", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:04.204308"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.761301", 
+  "description": "JavaScript Webdriver Helper. Make `selenium-webdriver` more friendly for developers", 
+  "fork": false, 
+  "full_name": "surevine/webdriverjs-helper", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:01:11.570388"
+}

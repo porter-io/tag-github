@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.496376", 
+  "description": "A Mesos framework for scaling a YARN cluster.", 
+  "fork": true, 
+  "full_name": "mesos/myriad", 
+  "language": "Java", 
+  "updated_at": "2015-04-01T19:28:07.338312"
+}

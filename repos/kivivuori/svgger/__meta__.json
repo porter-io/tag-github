@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.363902", 
+  "description": "Convert img tagged SVG images to inline SVG", 
+  "fork": false, 
+  "full_name": "kivivuori/svgger", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:02:01.839132"
+}

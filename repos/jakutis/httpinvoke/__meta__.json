@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.547565", 
+  "description": "A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code.", 
+  "fork": false, 
+  "full_name": "jakutis/httpinvoke", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:46.462029"
+}

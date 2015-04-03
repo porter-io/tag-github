@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.013425", 
+  "description": "Redis backed Clojure/Ring session store", 
+  "fork": false, 
+  "full_name": "wuzhe/clj-redis-session", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:26.800382"
+}

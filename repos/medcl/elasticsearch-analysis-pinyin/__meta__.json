@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.957076", 
+  "description": "The Pinyin Analysis plugin integrates Pinyin4j(http://pinyin4j.sourceforge.net/) module into elasticsearch.", 
+  "fork": false, 
+  "full_name": "medcl/elasticsearch-analysis-pinyin", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:29.709225"
+}

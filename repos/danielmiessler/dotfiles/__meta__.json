@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.929295", 
+  "description": "My various configuration files for zsh, vim, tmux, etc.", 
+  "fork": false, 
+  "full_name": "danielmiessler/dotfiles", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:10.366005"
+}

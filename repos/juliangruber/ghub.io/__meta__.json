@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.416979", 
+  "description": "http://ghub.io/<package-name> redirects to a npm package's GitHub page, if available.", 
+  "fork": false, 
+  "full_name": "juliangruber/ghub.io", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:48.990131"
+}

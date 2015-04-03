@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.305021", 
+  "description": "The Cliptext chrome extension/web app/Android app creates a context menu item that converts selected text in your browser into an image that can be automatically shared on Twitter to avoid the 140 character limit.", 
+  "fork": false, 
+  "full_name": "davidadamojr/cliptext", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:09.315157"
+}

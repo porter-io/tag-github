@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.844595", 
+  "description": "Generic template rendering and notifications with Consul", 
+  "fork": false, 
+  "full_name": "hashicorp/consul-template", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:34.575406"
+}

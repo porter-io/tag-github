@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.893835", 
+  "description": "An implementation of Douglas Crockfords Base32-Encoding in Ruby", 
+  "fork": false, 
+  "full_name": "levinalex/base32", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:30.485565"
+}

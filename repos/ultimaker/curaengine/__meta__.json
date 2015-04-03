@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.439496", 
+  "description": "CuraEngine is a powerful, fast and robust engine for processing 3D models into 3D printing instruction for Ultimaker and other GCode based 3D printers. It is part of the larger open source project called \"Cura\".", 
+  "fork": false, 
+  "full_name": "Ultimaker/CuraEngine", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:07.641443"
+}

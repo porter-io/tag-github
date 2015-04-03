@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.358097", 
+  "description": "a map optimized for integer keys", 
+  "fork": false, 
+  "full_name": "ztellman/immutable-int-map", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:28.029834"
+}

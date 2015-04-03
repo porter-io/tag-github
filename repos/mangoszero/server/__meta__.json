@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.044186", 
+  "description": "*MaNGOSZero* is a full featured World of Warcraft 'Classic' server, including authentication and world content serving, compatible with client versions 1.12.1 (build 5875),1.12.2 (build 6005) and 1.12.3 (build 6141). *Playable*", 
+  "fork": false, 
+  "full_name": "mangoszero/server", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:00.140394"
+}

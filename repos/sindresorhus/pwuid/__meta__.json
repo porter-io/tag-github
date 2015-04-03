@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.335996", 
+  "description": "getpwuid() Node.js binding - returns username, name, home directory, shell, gid from uid", 
+  "fork": false, 
+  "full_name": "sindresorhus/pwuid", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:04:40.005167"
+}

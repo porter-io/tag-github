@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.986075", 
+  "description": "Manage Node dependencies for CLJS projects", 
+  "fork": false, 
+  "full_name": "RyanMcG/lein-npm", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:58.276458"
+}

@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:01.257457", 
+  "description": "A library that will connect to github and emit events from the Github Event API in near-realt-time", 
+  "fork": false, 
+  "full_name": "hootware/github-firehose-node", 
+  "updated_at": "2015-02-27T23:42:03.741189"
+}

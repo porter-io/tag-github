@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.172991", 
+  "description": "This chef cookbook writes custom app configuration values from the OpsWorks stack's custom JSON to a config/application.yml file for each app. The figaro gem can help load those values directly into the application's ENV.", 
+  "fork": false, 
+  "full_name": "joeyAghion/opsworks_custom_env", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:51.319322"
+}

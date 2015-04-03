@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.545800", 
+  "description": "If Node's EventEmitter and Eve (though no wildcard support at this stage) were to have a child, it might look something like this", 
+  "fork": false, 
+  "full_name": "DamonOehlman/mbus", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:34.351702"
+}

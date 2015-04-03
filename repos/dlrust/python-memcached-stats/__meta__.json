@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.980629", 
+  "description": "Python class to gather stats and slab keys from memcached via the memcached telnet interface", 
+  "fork": false, 
+  "full_name": "dlrust/python-memcached-stats", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:58.038042"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.337012", 
+  "description": "Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.  Visit http://jug.gl for a live demo ...", 
+  "fork": false, 
+  "full_name": "pennersr/django-allauth", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:07.547616"
+}

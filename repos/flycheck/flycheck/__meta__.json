@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.660437", 
+  "description": "Modern on the fly syntax checking for GNU Emacs", 
+  "fork": false, 
+  "full_name": "flycheck/flycheck", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:43:46.187543"
+}

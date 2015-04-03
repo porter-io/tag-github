@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.472261", 
+  "description": "A command line tool to manipulate tags on Mavericks files, and to query for files with those tags.", 
+  "fork": false, 
+  "full_name": "jdberry/tag", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:22.169169"
+}

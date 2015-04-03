@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.624771", 
+  "description": "Device.js makes it easy to write conditional CSS _and/or_ JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).", 
+  "fork": false, 
+  "full_name": "matthewhudson/device.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:45.342615"
+}

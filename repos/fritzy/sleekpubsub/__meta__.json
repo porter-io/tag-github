@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.101271", 
+  "description": "Publish-Subscribe Component w/ XMPP, REST, and Ad-hoc interfaces", 
+  "fork": false, 
+  "full_name": "fritzy/SleekPubsub", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:19.891980"
+}

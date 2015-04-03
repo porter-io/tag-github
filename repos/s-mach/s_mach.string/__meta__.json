@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.527937", 
+  "description": "s_mach.string is an open-source Scala library that provides primitives for string manipulation beyond the standard library. s_mach.string supports word-level string manipulations using an arbitrary word definition (e.g. delimited by whitespace, camel case, etc). s_mach.string also provides a variety of find-replace methods.", 
+  "fork": false, 
+  "full_name": "S-Mach/s_mach.string", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:01.470752"
+}

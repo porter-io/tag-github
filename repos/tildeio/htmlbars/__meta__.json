@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.830642", 
+  "description": "A variant of Handlebars that emits DOM and allows you to write helpers that manipulate live DOM nodes", 
+  "fork": false, 
+  "full_name": "tildeio/htmlbars", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:37.247277"
+}

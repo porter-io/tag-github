@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.049368", 
+  "description": "Vim plugin for cljfmt, the Clojure formatting tool.", 
+  "fork": false, 
+  "full_name": "venantius/vim-cljfmt", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:45.843596"
+}

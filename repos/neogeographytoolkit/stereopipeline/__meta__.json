@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.966759", 
+  "description": "The NASA Ames Stereo Pipeline is a suite of automated geodesy & stereogrammetry tools designed for processing planetary imagery captured from orbiting and landed robotic explorers on other planets.", 
+  "fork": false, 
+  "full_name": "NeoGeographyToolkit/StereoPipeline", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:15.402070"
+}

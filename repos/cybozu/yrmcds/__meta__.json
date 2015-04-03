@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.640754", 
+  "description": "memcached compatible KVS with master/slave replication.", 
+  "fork": false, 
+  "full_name": "cybozu/yrmcds", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:38.124850"
+}

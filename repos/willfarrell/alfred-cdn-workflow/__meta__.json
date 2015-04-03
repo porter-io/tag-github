@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.507001", 
+  "description": "Check which CDNs a package is hosted on.", 
+  "fork": false, 
+  "full_name": "willfarrell/alfred-cdn-workflow", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:01.445342"
+}

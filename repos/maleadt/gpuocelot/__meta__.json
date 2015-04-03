@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.704469", 
+  "description": "A dynamic compilation framework for PTX", 
+  "fork": false, 
+  "full_name": "maleadt/gpuocelot", 
+  "language": "C++", 
+  "updated_at": "2015-04-01T19:31:03.599399"
+}

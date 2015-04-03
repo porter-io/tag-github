@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.576215", 
+  "description": "Fake identities generator for node.js (names, addresses, phones, IPs  and others). Supports multiple languages.", 
+  "fork": false, 
+  "full_name": "nodeca/charlatan", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:25.875531"
+}

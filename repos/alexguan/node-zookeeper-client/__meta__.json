@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.357650", 
+  "description": "A pure Javascript ZooKeeper client for Node.js", 
+  "fork": false, 
+  "full_name": "alexguan/node-zookeeper-client", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:19.967945"
+}

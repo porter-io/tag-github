@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.210185", 
+  "description": "Container view controller that leverages UIKit Dynamics to provide a realistic drawer navigation paradigm.", 
+  "fork": false, 
+  "full_name": "erichoracek/MSDynamicsDrawerViewController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:20.514673"
+}

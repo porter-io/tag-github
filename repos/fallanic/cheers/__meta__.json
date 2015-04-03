@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.735478", 
+  "description": "Scrape a website efficiently, block by block, page by page. Based on cheerio and curl.", 
+  "fork": false, 
+  "full_name": "fallanic/cheers", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:01.653186"
+}

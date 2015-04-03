@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.251628", 
+  "description": "Generate an unique ID depending on time, machine and process for use in a distributed environment.", 
+  "fork": false, 
+  "full_name": "pid/puid", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:36.175805"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.014897", 
+  "description": "The PubNub Network makes Real-time easy with a Simple Communications API.  Two Functions: Send/Receive (Publish/Subscribe).  We provide a web-service API for businesses to build scalable Data Push communication apps on Mobile, Tablet and Web.  Bidirectional JSON.  @PubNub - IRC #pubnub @ freenode.net", 
+  "fork": false, 
+  "full_name": "pubnub/pubnub-api", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:24.680262"
+}

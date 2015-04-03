@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.238837", 
+  "description": "A module to do some logic on the `onscroll` event without performance regressions in a @media-query like conditions.", 
+  "fork": false, 
+  "full_name": "lafikl/steady.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:04.528398"
+}

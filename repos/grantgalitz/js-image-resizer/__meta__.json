@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.066155", 
+  "description": "A quality two-pass resizing algorithm for images written in JavaScript. Pass your three or four channel (order agnostic) image framebuffer to the \"resize\" function of the Resize object created and your resized image will be returned. Initialize by calling \"new Resize(int fromWidth, int fromHeight, int toWidth, int toHeight, bool alphaChannelPresent, bool interpolationPass, bool useWebWorker, function resizeCallback)\" before using the resize function of it to initiate scaling. This is public domain, use at your own risk.", 
+  "fork": false, 
+  "full_name": "grantgalitz/JS-Image-Resizer", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:23.785404"
+}

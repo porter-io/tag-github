@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.134762", 
+  "description": "The default channel file for the Sublime Package Control package manager. Fork, add your repository and send a pull request.", 
+  "fork": true, 
+  "full_name": "sindresorhus/package_control_channel", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:29:18.135561"
+}

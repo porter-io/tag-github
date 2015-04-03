@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.733512", 
+  "description": "SDScreenshotCapture is a class which can be used to capture a screenshot of the app window which excludes the iOS status bar.", 
+  "fork": false, 
+  "full_name": "shinydevelopment/SDScreenshotCapture", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:00:58.845555"
+}

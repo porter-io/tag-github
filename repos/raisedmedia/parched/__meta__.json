@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.149170", 
+  "description": "A layer on top of gulp to build dependencies based on file extensions.", 
+  "fork": false, 
+  "full_name": "raisedmedia/parched", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:19.029402"
+}

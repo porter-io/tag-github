@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.491276", 
+  "description": "A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.", 
+  "fork": false, 
+  "full_name": "Dash-Industry-Forum/dash.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:24.229973"
+}

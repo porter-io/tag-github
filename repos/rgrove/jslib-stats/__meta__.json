@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.108693", 
+  "description": "[UNMAINTAINED] Node.js-based crawler that gathers JavaScript library usage stats by executing and inspecting JS.", 
+  "fork": false, 
+  "full_name": "rgrove/jslib-stats", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:08.517586"
+}

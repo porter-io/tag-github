@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.330477", 
+  "description": "JS library for the si7005 temperature and humidity sensor.", 
+  "fork": false, 
+  "full_name": "tessel/climate-si7005", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:29.062206"
+}

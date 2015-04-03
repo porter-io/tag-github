@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.542953", 
+  "description": "The Angular Datagrid. Highly optimized AngularJS datagrid. Easily modify and add your own behavior with addons! Now your ng-repeat doesn't have to bog down your app when you have lots of data to show.", 
+  "fork": false, 
+  "full_name": "obogo/ux-angularjs-datagrid", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:01.622855"
+}

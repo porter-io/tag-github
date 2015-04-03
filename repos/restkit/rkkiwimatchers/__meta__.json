@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.119379", 
+  "description": "Support for unit testing RestKit object mappings with Kiwi", 
+  "fork": false, 
+  "full_name": "RestKit/RKKiwiMatchers", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:15.693016"
+}

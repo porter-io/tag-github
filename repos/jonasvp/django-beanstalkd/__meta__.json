@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.012799", 
+  "description": "A convenience wrapper for beanstalkd clients and workers in Django using the beanstalkc library for Python", 
+  "fork": false, 
+  "full_name": "jonasvp/django-beanstalkd", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:19.819269"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.191688", 
+  "description": "rfc 2616 compliant HTTP static-file server module, with built-in caching.", 
+  "fork": false, 
+  "full_name": "cloudhead/node-static", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:30.962455"
+}

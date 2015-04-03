@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.698379", 
+  "description": "A faster recursive dns server from DNSPod", 
+  "fork": false, 
+  "full_name": "DNSPod/dnspod-sr", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:16.631222"
+}

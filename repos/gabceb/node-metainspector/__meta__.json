@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.812183", 
+  "description": "Node npm for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, an array with all the links, all the images in it, etc. Inspired by the metainspector Ruby gem", 
+  "fork": false, 
+  "full_name": "gabceb/node-metainspector", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:20.506869"
+}

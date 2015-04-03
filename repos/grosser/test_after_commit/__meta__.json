@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.396231", 
+  "description": "Make after_commit callbacks fire in tests for Rails 3+ with transactional_fixtures = true.", 
+  "fork": false, 
+  "full_name": "grosser/test_after_commit", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:57.133203"
+}

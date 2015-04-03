@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.882340", 
+  "description": "HandlerSocket is a NoSQL plugin for MySQL, working as a daemon inside the mysqld process, to accept tcp connections, and execute requests from clients. HandlerSocket does not support SQL queries; instead it supports simple CRUD operations on tables.", 
+  "fork": false, 
+  "full_name": "DeNA/HandlerSocket-Plugin-for-MySQL", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:03:07.132009"
+}

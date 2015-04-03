@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.967296", 
+  "description": "A Vagrant build for Graphite, Statsd and Seyren", 
+  "fork": false, 
+  "full_name": "petems/seyren-in-a-box", 
+  "language": "Puppet", 
+  "updated_at": "2015-02-27T23:43:00.505495"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.541939", 
+  "description": "Wraps the latest unstable version of npm with different name so you can test alongside stable npm.", 
+  "fork": false, 
+  "full_name": "timoxley/npm-next", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:11.059306"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.258170", 
+  "description": "node.js implementation of a redis object relations mapper (orm)", 
+  "fork": false, 
+  "full_name": "maritz/nohm", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:25.984362"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.281654", 
+  "description": "A turing machine whose tape is implemented with just two numbers", 
+  "fork": false, 
+  "full_name": "stevenheidel/twonumberturingmachine", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:44:00.056728"
+}

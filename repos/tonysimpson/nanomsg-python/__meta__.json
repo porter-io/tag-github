@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.482448", 
+  "description": "nanomsg wrapper for python with multiple backends (CPython and ctypes) should support 2/3 and Pypy", 
+  "fork": false, 
+  "full_name": "tonysimpson/nanomsg-python", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:50.199136"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.810012", 
+  "description": "Evaluate Javascript code and libraries in Clojure", 
+  "fork": false, 
+  "full_name": "weavejester/evaljs", 
+  "language": "Clojure", 
+  "updated_at": "2015-03-10T07:03:17.453664"
+}

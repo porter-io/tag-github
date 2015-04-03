@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.987088", 
+  "description": "An extremely simple reactive programming library using Knockout Observables.", 
+  "fork": false, 
+  "full_name": "akshat1/compute", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:23.713804"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.537847", 
+  "description": "Broadcast your tty to the world! Stream your live terminal session online. Powered by ttyrec, tty.js and Socket.IO", 
+  "fork": false, 
+  "full_name": "dtinth/ttycast", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:38.529316"
+}

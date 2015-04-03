@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.379202", 
+  "description": "A low-configuration service for sending notifications and receipts based on Stripe webhooks.", 
+  "fork": false, 
+  "full_name": "pearkes/stripe-hooks", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:25.570740"
+}

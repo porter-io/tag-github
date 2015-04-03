@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.668979", 
+  "description": "The goal of this project is to make XMPP really simple to use for developers. This module takes away all of the XML and works by hooking to events which are passed between client and server using a transport in JSON. For example code see https://github.com/lloydwatkin/xmpp-ftw-demo.", 
+  "fork": false, 
+  "full_name": "xmpp-ftw/xmpp-ftw", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:08.878201"
+}

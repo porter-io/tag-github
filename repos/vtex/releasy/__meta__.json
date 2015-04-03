@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.330770", 
+  "description": "CLI tool to release node applications with tag and auto semver bump", 
+  "fork": false, 
+  "full_name": "vtex/releasy", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:18.687834"
+}

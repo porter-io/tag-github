@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.290983", 
+  "description": "Twissandra is an example project, created to learn and demonstrate how to use Cassandra. Running the project will present a website that has similar functionality to Twitter.", 
+  "fork": false, 
+  "full_name": "twissandra/twissandra", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:25.462993"
+}

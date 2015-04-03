@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.069396", 
+  "description": "Provide useful extra functionality to base JS objects (e.g. Array, String, Date etc) for use with jQuery", 
+  "fork": true, 
+  "full_name": "mvj3/jquery-methods", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:28:21.069437"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.726487", 
+  "description": "A TodoMVC implementation wrote with Symfony, Chaplin.js and Backbone.js", 
+  "fork": false, 
+  "full_name": "dunglas/DunglasTodoMVCBundle", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:02:26.487746"
+}

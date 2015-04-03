@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.720121", 
+  "description": "Nonblocking Lua HTTP Client library for aLiLua & ngx_lua", 
+  "fork": false, 
+  "full_name": "oneoo/lua-resty-httpclient", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:42:07.041465"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.372946", 
+  "description": "Easily find bottlenecks in your Ruby code. A ruby-prof printer that prints fold stacks compatible with FlameGraph", 
+  "fork": false, 
+  "full_name": "oozou/ruby-prof-flamegraph", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:17.283993"
+}

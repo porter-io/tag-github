@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.584306", 
+  "description": "A lightweight plugin manager for ZSH inspired by Antigen.", 
+  "fork": false, 
+  "full_name": "tarjoilija/zgen", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:44:25.003080"
+}

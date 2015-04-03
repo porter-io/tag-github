@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.962684", 
+  "description": "A handy class that create the links needed for your app page, developer profile or app rating page on iOS or Mac with zero pre-configuration. Would also prompt the user if there is a new version to update (configurable)", 
+  "fork": false, 
+  "full_name": "sidan5/iLink", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:03:47.152832"
+}

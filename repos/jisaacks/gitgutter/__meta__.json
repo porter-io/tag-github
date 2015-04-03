@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.227023", 
+  "description": "A Sublime Text 2/3 plugin to see git diff in gutter", 
+  "fork": false, 
+  "full_name": "jisaacks/GitGutter", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:58.577417"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.474356", 
+  "description": "An implementation of the Google Analytics for Mobile in python.  Includes a literal translation of ga.php and a FLUP server wrapper for the GIF image serving, as well as template tags for Django.", 
+  "fork": false, 
+  "full_name": "b1tr0t/Google-Analytics-for-Mobile--python-", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:04:13.424897"
+}

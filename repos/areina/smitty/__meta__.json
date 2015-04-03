@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.126278", 
+  "description": "Agent for twemproxy to work with a redis sentinel (master-slave) stack ", 
+  "fork": false, 
+  "full_name": "areina/smitty", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:30.668214"
+}

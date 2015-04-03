@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.424196", 
+  "description": "Simple helper for store some configuration to database and efficient access to this settings.", 
+  "fork": false, 
+  "full_name": "niwibe/django-dbconf", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:34.381955"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.052529", 
+  "description": "Collectd -> Graphite proxy.", 
+  "fork": false, 
+  "full_name": "loggly/collectd-to-graphite", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:05.294693"
+}

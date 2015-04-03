@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.380572", 
+  "description": "A regex-based lexical analyzer for JavaScript", 
+  "fork": false, 
+  "full_name": "ttaubert/lex.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:01.437403"
+}

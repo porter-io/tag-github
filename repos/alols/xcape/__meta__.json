@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.185168", 
+  "description": "Linux utility to configure modifier keys to act as other keys when pressed and released on their own.", 
+  "fork": false, 
+  "full_name": "alols/xcape", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:44:03.549530"
+}

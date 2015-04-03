@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.634130", 
+  "description": "localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood", 
+  "fork": false, 
+  "full_name": "marcuswestin/store.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-21T14:57:12.240637"
+}

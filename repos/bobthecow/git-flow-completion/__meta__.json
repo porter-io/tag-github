@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.962942", 
+  "description": "Bash, Zsh and fish completion support for git-flow.", 
+  "fork": false, 
+  "full_name": "bobthecow/git-flow-completion", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:30.213145"
+}

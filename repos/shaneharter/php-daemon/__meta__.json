@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.617521", 
+  "description": "Build production-ready Daemons using PHP 5.3+. Build fault-tolerant applications without the boilerplate.", 
+  "fork": false, 
+  "full_name": "shaneharter/PHP-Daemon", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:01:01.517012"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.408590", 
+  "description": "Fuzzy file, buffer, mru, tag, etc finder.", 
+  "fork": false, 
+  "full_name": "kien/ctrlp.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:42:40.109941"
+}

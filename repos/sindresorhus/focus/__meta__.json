@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.853387", 
+  "description": "Code editor color theme that lets you focus on the content. Available for Sublime Text, TextMate, Vim, Chocolat, and more...", 
+  "fork": false, 
+  "full_name": "sindresorhus/focus", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:44:17.454970"
+}

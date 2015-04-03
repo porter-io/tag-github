@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.157513", 
+  "description": "Add ability to serialize arbitrarily complex schemas into an ActiveRecord field. You get the benefits of a schemaless database but with all the features of ActiveRecord.", 
+  "fork": false, 
+  "full_name": "bdurand/json_record", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:14.397965"
+}

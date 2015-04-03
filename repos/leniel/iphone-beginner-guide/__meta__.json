@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.618096", 
+  "description": "Set of sample beginner projects regarding the book \"A Beginner's Guide to iOS SDK Programming\" by James A. Brannan & Black Ward. The book covers iOS 4.2 + Xcode 4.  http://www.amazon.com/iOS-SDK-Programming-Beginners-Guide/dp/0071759085", 
+  "fork": false, 
+  "full_name": "leniel/iPhone-Beginner-Guide", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:03:17.108196"
+}

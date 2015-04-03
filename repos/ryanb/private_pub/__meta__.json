@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.188000", 
+  "description": "Handle pub/sub messaging through private channels in Rails using Faye.", 
+  "fork": false, 
+  "full_name": "ryanb/private_pub", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:53.063930"
+}

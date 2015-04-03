@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.965931", 
+  "description": "a redis client , based on netty3", 
+  "fork": false, 
+  "full_name": "wangxiaoxiao88/nettryredis", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:34.683044"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.637187", 
+  "description": "A redmine plugin to synchronize both users and groups with an ldap server", 
+  "fork": false, 
+  "full_name": "thorin/redmine_ldap_sync", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:26.423403"
+}

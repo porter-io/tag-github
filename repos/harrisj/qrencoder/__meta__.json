@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.476745", 
+  "description": "A Ruby wrapper around the libqrencode library used for generating QR Codes (3D barcodes popular in Japan)", 
+  "fork": false, 
+  "full_name": "harrisj/qrencoder", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:16.453053"
+}

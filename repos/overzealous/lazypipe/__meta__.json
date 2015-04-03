@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.372308", 
+  "description": "Lazily create a pipeline out of reusable components.  Useful for gulp.", 
+  "fork": false, 
+  "full_name": "OverZealous/lazypipe", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:13.378296"
+}

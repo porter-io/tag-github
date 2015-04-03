@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.438925", 
+  "description": "Test all aspects of Android's location capabilities. Configurable for trying out different scenarios. ", 
+  "fork": false, 
+  "full_name": "Esri/android-gps-test-tool", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:33.086477"
+}

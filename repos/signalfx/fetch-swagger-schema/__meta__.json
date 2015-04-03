@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.030862", 
+  "description": "Given a url to a swagger api-docs spec, loads it and all related resource declarations as one JSON object.", 
+  "fork": false, 
+  "full_name": "signalfx/fetch-swagger-schema", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:33.670117"
+}

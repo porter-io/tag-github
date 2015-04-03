@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.439495", 
+  "description": "Like thunkify-wrap, but (a) doesn't modify the original object and (b) copes with functions that have function properties", 
+  "fork": false, 
+  "full_name": "danielearwicker/node-funkify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:51.138377"
+}

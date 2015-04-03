@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.516201", 
+  "description": "The official mirror of the V8 Git repository from https://chromium.googlesource.com/v8/v8.git", 
+  "fork": false, 
+  "full_name": "v8/v8-git-mirror", 
+  "language": "C++", 
+  "updated_at": "2015-04-01T19:32:01.666872"
+}

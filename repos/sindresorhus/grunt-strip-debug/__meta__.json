@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.454096", 
+  "description": "Strip console, alert, and debugger statements from JavaScript code", 
+  "fork": false, 
+  "full_name": "sindresorhus/grunt-strip-debug", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.535277"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.314838", 
+  "description": "Small parser construction library for Python. Regular Expression free", 
+  "fork": false, 
+  "full_name": "brehaut/picoparse", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:17.578181"
+}

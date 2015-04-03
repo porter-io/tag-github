@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.662009", 
+  "description": "an ant-type build system for node w/predefined tasks and the ability to add tasks at any time.", 
+  "fork": false, 
+  "full_name": "jonlb/node-build", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:02.907077"
+}

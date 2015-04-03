@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.160465", 
+  "description": "Node.js client that converts JSON rgb objects to UART instructions and send them to arduino. Designed to run on Beaglebone Black or Raspberry pi", 
+  "fork": false, 
+  "full_name": "Lordnibbler/colorpicker-beaglebone", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:01:54.806950"
+}

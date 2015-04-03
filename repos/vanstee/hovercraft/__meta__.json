@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.153281", 
+  "description": "Generate a RESTful API from a directory of ActiveRecord models.", 
+  "fork": false, 
+  "full_name": "vanstee/hovercraft", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:16.015208"
+}

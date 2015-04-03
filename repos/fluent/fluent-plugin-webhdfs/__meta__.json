@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.508868", 
+  "description": "Hadoop WebHDFS plugin for Fluentd data collector", 
+  "fork": false, 
+  "full_name": "fluent/fluent-plugin-webhdfs", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:40.264660"
+}

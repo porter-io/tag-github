@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.864343", 
+  "description": "Twig templating in Clojure. A wrapper for Jtwig (http://jtwig.org/)", 
+  "fork": false, 
+  "full_name": "gered/clj-jtwig", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:23.610835"
+}

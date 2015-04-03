@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.074483", 
+  "description": "This module provides functions that are out of scope out of scope for stdlib.", 
+  "fork": false, 
+  "full_name": "puppet-community/puppetcommunity-extlib", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:52.945585"
+}

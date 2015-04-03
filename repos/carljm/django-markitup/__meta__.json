@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.191683", 
+  "description": "Markup handling (using Jay Salvat's MarkItUp! flexible universal markup editor) for Django", 
+  "fork": false, 
+  "full_name": "carljm/django-markitup", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:56.141707"
+}

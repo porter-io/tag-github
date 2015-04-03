@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.359056", 
+  "description": "Clone and modify a RegExp instance", 
+  "fork": false, 
+  "full_name": "sindresorhus/clone-regexp", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.749840"
+}

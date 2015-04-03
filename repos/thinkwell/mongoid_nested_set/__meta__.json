@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.167116", 
+  "description": "Fully featured tree implementation for Mongoid 2 using the nested set model", 
+  "fork": false, 
+  "full_name": "thinkwell/mongoid_nested_set", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:21.474116"
+}

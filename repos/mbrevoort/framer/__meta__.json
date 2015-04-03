@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.503797", 
+  "description": "Framer is a simple, dynamic file proxy and photo resizing http server intended to be behind an http cache or act as a CDN root server. Framer accepts uploads and stores it's files in Amazon S3.", 
+  "fork": false, 
+  "full_name": "mbrevoort/framer", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:57.964275"
+}

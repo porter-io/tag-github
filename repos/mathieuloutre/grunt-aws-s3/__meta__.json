@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.413668", 
+  "description": "Grunt plugin to interact with AWS S3 using the AWS SDK", 
+  "fork": false, 
+  "full_name": "MathieuLoutre/grunt-aws-s3", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:34.216772"
+}

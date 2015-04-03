@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.168916", 
+  "description": "Eliminates layout thrashing by batching DOM read/write operations", 
+  "fork": false, 
+  "full_name": "wilsonpage/fastdom", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:01.145317"
+}

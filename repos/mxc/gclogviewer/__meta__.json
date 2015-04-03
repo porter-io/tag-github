@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.502237", 
+  "description": "A web application for analysing JVM gclog files.", 
+  "fork": false, 
+  "full_name": "mxc/GCLogViewer", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:56.653580"
+}

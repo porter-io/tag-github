@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.878569", 
+  "description": "Port of https://github.com/joshaven/string_score from js to ruby. Install and use via Rubygems: `gem install string_score`", 
+  "fork": false, 
+  "full_name": "jlindley/string_score_ruby", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:04:13.935215"
+}

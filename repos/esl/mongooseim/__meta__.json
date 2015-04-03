@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.848146", 
+  "description": "Jabber / XMPP server with focus on performance and scalability, by Erlang Solutions", 
+  "fork": false, 
+  "full_name": "esl/MongooseIM", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:44:28.112628"
+}

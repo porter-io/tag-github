@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.745510", 
+  "description": "Snake written in gameboy (DMG-style) z80 assembly", 
+  "fork": false, 
+  "full_name": "jeremyherbert/gb-snake", 
+  "language": "Assembly", 
+  "updated_at": "2015-02-27T23:43:20.441977"
+}

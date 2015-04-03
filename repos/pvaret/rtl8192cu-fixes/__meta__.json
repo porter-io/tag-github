@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.959104", 
+  "description": "Realtek 8192 chipset driver, ported to kernel 3.11.", 
+  "fork": false, 
+  "full_name": "pvaret/rtl8192cu-fixes", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:16.900490"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.634868", 
+  "description": "A ruby DSL that adds concurrent programming constructs to make parallelism easier.", 
+  "fork": false, 
+  "full_name": "beraboris/eldritch", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:26.420514"
+}

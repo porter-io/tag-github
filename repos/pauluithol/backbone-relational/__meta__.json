@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.419366", 
+  "description": "Get and set relations (one-to-one, one-to-many, many-to-one) for Backbone models", 
+  "fork": false, 
+  "full_name": "PaulUithol/Backbone-relational", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:04.128654"
+}

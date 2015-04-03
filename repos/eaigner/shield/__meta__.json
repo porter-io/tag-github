@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.361781", 
+  "description": "Bayesian text classifier with flexible tokenizers and storage backends for Go", 
+  "fork": false, 
+  "full_name": "eaigner/shield", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:52.817271"
+}

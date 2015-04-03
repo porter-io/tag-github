@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:50.050175", 
+  "description": "A pure Node.js client for the Android Debug Bridge.", 
+  "fork": false, 
+  "full_name": "CyberAgent/adbkit", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:02:14.544945"
+}

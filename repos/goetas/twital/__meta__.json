@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.628621", 
+  "description": "Twital is a small \"plugin\" for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or AngularJS.", 
+  "fork": false, 
+  "full_name": "goetas/twital", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:00:50.131076"
+}

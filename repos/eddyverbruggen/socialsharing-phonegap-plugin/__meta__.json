@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.154321", 
+  "description": "Cordova plugin to share text, a file (image/PDF/..), or a URL (or all three) via the native sharing widget", 
+  "fork": false, 
+  "full_name": "EddyVerbruggen/SocialSharing-PhoneGap-Plugin", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:30:00.390042"
+}

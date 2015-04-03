@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.091674", 
+  "description": "Configuration for alerting and event processing in Riemann", 
+  "fork": false, 
+  "full_name": "guardian/riemann-config", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:06.211260"
+}

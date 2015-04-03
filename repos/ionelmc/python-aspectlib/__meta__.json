@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.435562", 
+  "description": "An aspect-oriented programming, monkey-patch and decorators library. It is useful when changing behavior in existing code is desired. It includes tools for debugging and testing: simple mock/record and a complete capture/replay framework.", 
+  "fork": false, 
+  "full_name": "ionelmc/python-aspectlib", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:29:10.294641"
+}

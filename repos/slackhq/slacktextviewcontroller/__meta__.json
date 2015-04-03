@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.649969", 
+  "description": "A drop-in UIViewController subclass with a growing text input view and other useful messaging features", 
+  "fork": false, 
+  "full_name": "slackhq/SlackTextViewController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-21T14:55:09.175927"
+}

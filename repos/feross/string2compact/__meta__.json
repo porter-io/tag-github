@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.595542", 
+  "description": "Convert 'hostname:port' strings to BitTorrent's compact ip/host binary returned by Trackers", 
+  "fork": false, 
+  "full_name": "feross/string2compact", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.572726"
+}

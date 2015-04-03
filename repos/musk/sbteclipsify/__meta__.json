@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.440256", 
+  "description": "Sbt plugin for creating eclipse project and classpath files for sbt projects", 
+  "fork": false, 
+  "full_name": "musk/SbtEclipsify", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:34.256135"
+}

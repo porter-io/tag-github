@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.591861", 
+  "description": "An elixir library to access redis via a pool of workers.", 
+  "fork": false, 
+  "full_name": "quarkgames/exredis_pool", 
+  "language": "Elixir", 
+  "updated_at": "2015-02-27T23:44:08.438694"
+}

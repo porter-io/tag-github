@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.317470", 
+  "description": "Understanding Clojure Sequences and providing some small, tight operations to perform on them", 
+  "fork": false, 
+  "full_name": "JulesGosnell/seqspert", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:09.191363"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.846427", 
+  "description": "A environment used for setting up vagrant that boots a CoreOS Image with a standard nginx server on the docker image.", 
+  "fork": false, 
+  "full_name": "thebillkidy/Vagrant_CoreOS_Docker", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:16.757624"
+}

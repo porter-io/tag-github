@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.003650", 
+  "description": "simple HTTP client in Erlang", 
+  "fork": false, 
+  "full_name": "benoitc/hackney", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:41:24.694126"
+}

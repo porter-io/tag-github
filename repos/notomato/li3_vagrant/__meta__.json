@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.730397", 
+  "description": "This provides a complete vagrant box, with everything you need to get started with the Lithium PHP framework.", 
+  "fork": false, 
+  "full_name": "notomato/li3_vagrant", 
+  "language": "PHP", 
+  "updated_at": "2015-04-01T19:28:35.697847"
+}

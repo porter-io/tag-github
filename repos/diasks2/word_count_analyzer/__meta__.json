@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.289351", 
+  "description": "Word Count Analyzer is a Ruby gem that analyzes a string for potential areas of the text that might cause word count discrepancies depending on the tool used. It also provides comprehensive configuration options so you can easily customize how different gray areas should be counted and find the right word count for your purposes.", 
+  "fork": false, 
+  "full_name": "diasks2/word_count_analyzer", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:22.306783"
+}

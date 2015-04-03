@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.665709", 
+  "description": "Monitoring system instrumentation for Akka.NET actor systems", 
+  "fork": false, 
+  "full_name": "Aaronontheweb/akka-monitoring", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:41:27.890648"
+}

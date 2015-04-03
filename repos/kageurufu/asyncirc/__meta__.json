@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.312594", 
+  "description": "Dependency-free multithreaded buffered non-blocking IRC Library in Python", 
+  "fork": false, 
+  "full_name": "kageurufu/AsyncIRC", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:46.096405"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.431881", 
+  "description": "build scripts for buddycloud packages in http://downloads.buddycloud.com/", 
+  "fork": false, 
+  "full_name": "buddycloud/buddycloud-package", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:31.363537"
+}

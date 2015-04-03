@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.500321", 
+  "description": "The limitable map, for avoid memory leak issue.", 
+  "fork": false, 
+  "full_name": "JacksonTian/limitablemap", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.446298"
+}

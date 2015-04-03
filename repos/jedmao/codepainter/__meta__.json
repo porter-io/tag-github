@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.345870", 
+  "description": "A JavaScript beautifier that can both infer coding style and transform code to reflect that style. You can also set style preferences explicitly in a variety of ways.", 
+  "fork": true, 
+  "full_name": "jedmao/codepainter", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:28:24.345968"
+}

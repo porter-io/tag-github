@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.427884", 
+  "description": "A Django aggregated data calculation and store.", 
+  "fork": false, 
+  "full_name": "kaleidos/django-kaggregate", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:25.081291"
+}

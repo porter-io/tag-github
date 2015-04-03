@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.512382", 
+  "description": "Search the npm registry using couchdb-lucene", 
+  "fork": false, 
+  "full_name": "Enome/node-package-finder", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:45.740594"
+}

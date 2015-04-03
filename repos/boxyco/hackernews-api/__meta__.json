@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.024127", 
+  "description": "A RESTful API for news.ycombinator.com written in Coffeescript for node.js", 
+  "fork": false, 
+  "full_name": "Boxyco/hackernews-api", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:30:16.065283"
+}

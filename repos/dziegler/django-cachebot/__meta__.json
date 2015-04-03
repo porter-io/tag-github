@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.782166", 
+  "description": "Automated caching and invalidation for the Django ORM", 
+  "fork": false, 
+  "full_name": "dziegler/django-cachebot", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:03.085188"
+}

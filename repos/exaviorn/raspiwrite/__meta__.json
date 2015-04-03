@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.278062", 
+  "description": "A Python Script that prepairs and installs a Raspberry Pi compatiable distro to an SD Card", 
+  "fork": false, 
+  "full_name": "exaviorn/RasPiWrite", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:16.153408"
+}

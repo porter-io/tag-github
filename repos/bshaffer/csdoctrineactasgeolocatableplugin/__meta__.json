@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.276084", 
+  "description": "Automatically fetch latitude and longitude for your Doctrine model", 
+  "fork": false, 
+  "full_name": "bshaffer/csDoctrineActAsGeolocatablePlugin", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:03.868863"
+}

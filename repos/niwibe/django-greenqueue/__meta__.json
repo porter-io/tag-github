@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.406515", 
+  "description": "Asynchronous task task/job queue based on distributed message passing.", 
+  "fork": false, 
+  "full_name": "niwibe/django-greenqueue", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:34.316869"
+}

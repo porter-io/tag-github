@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.964056", 
+  "description": "UITableView offering suggestions from a custom dictionary as user types text in UITextField", 
+  "fork": false, 
+  "full_name": "keyf/AutocompletionTableView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:25.666438"
+}

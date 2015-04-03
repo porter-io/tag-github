@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.223012", 
+  "description": "Compile-time type checking for arbitrary unit systems.", 
+  "fork": false, 
+  "full_name": "paholg/dimensioned", 
+  "language": "Rust", 
+  "updated_at": "2015-02-27T23:42:31.032366"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.510324", 
+  "description": "Gradle plug-in to create a Docker image that includes an Eclipse Virgo container", 
+  "fork": false, 
+  "full_name": "eclipsesource/dockerizor", 
+  "language": "Groovy", 
+  "updated_at": "2015-02-27T23:41:44.907310"
+}

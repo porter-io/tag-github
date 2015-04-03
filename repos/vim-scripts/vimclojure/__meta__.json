@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.043724", 
+  "description": "A filetype, syntax and indent plugin for Clojure", 
+  "fork": false, 
+  "full_name": "vim-scripts/VimClojure", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:55.972446"
+}

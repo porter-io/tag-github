@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.987420", 
+  "description": "I parse your exotic projection representations and try to figure out WTF they are + magic detection of spherical mercator and wgs84 variants", 
+  "fork": false, 
+  "full_name": "mapbox/node-srs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:22.627264"
+}

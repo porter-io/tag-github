@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.388419", 
+  "description": "Wraps web app with Cordova CLI using GruntJS", 
+  "fork": false, 
+  "full_name": "csantanapr/grunt-cordovacli", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:52.386620"
+}

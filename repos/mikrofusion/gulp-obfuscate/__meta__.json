@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.440858", 
+  "description": "gulp plugin to obfuscate your code using gulp-regex-replace", 
+  "fork": false, 
+  "full_name": "mikrofusion/gulp-obfuscate", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:02.716177"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.325700", 
+  "description": "Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout", 
+  "fork": false, 
+  "full_name": "Masonry/Masonry", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-21T14:55:47.121255"
+}

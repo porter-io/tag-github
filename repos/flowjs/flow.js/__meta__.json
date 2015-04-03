@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.587768", 
+  "description": "A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.", 
+  "fork": false, 
+  "full_name": "flowjs/flow.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:09.864505"
+}

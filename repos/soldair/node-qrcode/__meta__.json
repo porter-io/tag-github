@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.430210", 
+  "description": "node js server side qr code generator utilizing node-canvas", 
+  "fork": false, 
+  "full_name": "soldair/node-qrcode", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:22.710657"
+}

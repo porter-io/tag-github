@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.526660", 
+  "description": "Scripts to create a lean CentOS Vagrant box.", 
+  "fork": false, 
+  "full_name": "2creatives/vagrant-centos", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:36.598838"
+}

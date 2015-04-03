@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.191186", 
+  "description": "A simple API caching layer built on top of HTTParty and Redis", 
+  "fork": false, 
+  "full_name": "vigetlabs/cachebar", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:33.248015"
+}

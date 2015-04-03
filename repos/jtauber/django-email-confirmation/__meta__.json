@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.436493", 
+  "description": "simple email confirmation for the Django web framework", 
+  "fork": false, 
+  "full_name": "jtauber/django-email-confirmation", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:28:48.410561"
+}

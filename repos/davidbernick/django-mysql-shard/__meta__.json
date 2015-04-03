@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.470446", 
+  "description": "A Model for Django Models to inherit (and utilities) for abstracting horizontal sharding on MySQL. Follow the instructions and grow tables infinitely.", 
+  "fork": false, 
+  "full_name": "davidbernick/django-mysql-shard", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:09.473962"
+}

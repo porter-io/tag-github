@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.250605", 
+  "description": "Examples of how to use many different threading operators in RxJava", 
+  "fork": false, 
+  "full_name": "GrahamLea/RxJava-Threading-Examples", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:44:30.696035"
+}

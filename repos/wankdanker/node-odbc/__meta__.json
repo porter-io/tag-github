@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.995797", 
+  "description": "unixODBC bindings for node", 
+  "fork": true, 
+  "full_name": "wankdanker/node-odbc", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T22:28:38.995876"
+}

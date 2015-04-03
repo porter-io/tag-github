@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.566053", 
+  "description": "rails plugin help you easy to total views_count with Models, it can delay in cache.", 
+  "fork": false, 
+  "full_name": "huacnlee/acts_as_views_count", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:16.661206"
+}

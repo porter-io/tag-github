@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.620132", 
+  "description": "A component for turning table cells into selectable, editable cells, behaving much like cells in Microsoft Excel.", 
+  "fork": false, 
+  "full_name": "gnab/editableCell", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:16.250701"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.036973", 
+  "description": "RuJIT: a trace based just in time compile for CRuby", 
+  "fork": false, 
+  "full_name": "imasahiro/rujit", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:48.120849"
+}

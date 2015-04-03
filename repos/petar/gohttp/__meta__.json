@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.463422", 
+  "description": "HTTP package and server: A step ahead of Go's standard library.", 
+  "fork": false, 
+  "full_name": "petar/GoHTTP", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:15.150771"
+}

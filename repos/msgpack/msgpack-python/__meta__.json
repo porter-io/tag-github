@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.818391", 
+  "description": "MessagePack serializer implementation for Python msgpack.org[Python]", 
+  "fork": false, 
+  "full_name": "msgpack/msgpack-python", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:03.146628"
+}

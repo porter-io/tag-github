@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.432185", 
+  "description": "SimpleSHM is a simple and small abstraction layer for shared memory manipulation using PHP. It makes use of the SHMOP functions, built into most PHP packages.", 
+  "fork": false, 
+  "full_name": "klaussilveira/SimpleSHM", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:18.852432"
+}

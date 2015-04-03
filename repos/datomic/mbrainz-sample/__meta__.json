@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.804245", 
+  "description": "Example queries and rules for working with the Datomic mbrainz example database", 
+  "fork": false, 
+  "full_name": "Datomic/mbrainz-sample", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:34.542330"
+}

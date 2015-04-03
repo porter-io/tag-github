@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.468004", 
+  "description": "Various set_xxx directives added to nginx's rewrite module (md5/sha1, sql/json quoting, and many more)", 
+  "fork": false, 
+  "full_name": "openresty/set-misc-nginx-module", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:02:12.061537"
+}

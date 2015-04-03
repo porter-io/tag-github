@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.124102", 
+  "description": "HTTP middleware for Go that facilitates some quick security wins.", 
+  "fork": false, 
+  "full_name": "unrolled/secure", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:09.374586"
+}

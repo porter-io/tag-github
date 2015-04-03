@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.901641", 
+  "description": "This set of apps allows you to type Latin characters in OSX and have them transliterate in real time into Cyrillic characters. This includes multi-character transliterations like 'sh'/'\u0448'.", 
+  "fork": false, 
+  "full_name": "archagon/cyrillic-transliterator", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:53.261126"
+}

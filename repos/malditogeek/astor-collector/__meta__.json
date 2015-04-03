@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.072248", 
+  "description": "An alternative to StatsD/Graphite.", 
+  "fork": false, 
+  "full_name": "malditogeek/astor-collector", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:41.286544"
+}

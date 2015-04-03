@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.412373", 
+  "description": "Generates RESTful routes for the models of a Sinatra application (ActiveRecord, DataMapper, Stone)", 
+  "fork": false, 
+  "full_name": "blindgaenger/sinatra-rest", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:27.577614"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.219603", 
+  "description": "Logs your global variables to the console - Bookmarklet / DevTools snippet", 
+  "fork": false, 
+  "full_name": "sindresorhus/log-globals", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.406277"
+}

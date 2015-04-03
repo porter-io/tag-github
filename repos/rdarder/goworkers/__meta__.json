@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.850720", 
+  "description": "Distribute goroutines into different threads", 
+  "fork": false, 
+  "full_name": "rdarder/goworkers", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:59.932924"
+}

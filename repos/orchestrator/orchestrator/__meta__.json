@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.290691", 
+  "description": "A module for sequencing and executing tasks and dependencies in maximum concurrency", 
+  "fork": false, 
+  "full_name": "orchestrator/orchestrator", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:39.490579"
+}

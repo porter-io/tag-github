@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.683469", 
+  "description": "Visual Studio 2008 port of the libemu library that includes scdbg.exe, a modification of the sctest project, that includes more hooks, interactive debugging, reporting features, and ability to work with file format exploit shellcode. ", 
+  "fork": false, 
+  "full_name": "dzzie/VS_LIBEMU", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:55.404701"
+}

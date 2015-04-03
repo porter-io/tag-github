@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.283546", 
+  "description": "Quickly reproduce the dropdown UIPickerView / ActionSheet functionality from Safari on iPhone/ iOS / CocoaTouch.", 
+  "fork": false, 
+  "full_name": "TimCinel/ActionSheetPicker", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:27.847318"
+}

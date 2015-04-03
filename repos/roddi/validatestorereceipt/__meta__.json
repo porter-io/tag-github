@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.616321", 
+  "description": "validate the receipt a well-known computer company's application store sends", 
+  "fork": false, 
+  "full_name": "roddi/ValidateStoreReceipt", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:49.559739"
+}

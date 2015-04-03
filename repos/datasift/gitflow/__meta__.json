@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.283312", 
+  "description": "HubFlow: A Git extension to make it easy to use GitFlow with GitHub.  Based on the original gitflow extension for git.", 
+  "fork": true, 
+  "full_name": "datasift/gitflow", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T22:28:53.283356"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.835488", 
+  "description": "Cross-platform (JVM and JS atm.) edn data structure hashing for Clojure.", 
+  "fork": false, 
+  "full_name": "ghubber/hasch", 
+  "language": "Clojure", 
+  "updated_at": "2015-03-10T07:03:44.264800"
+}

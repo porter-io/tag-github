@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.556972", 
+  "description": "nodejs tool to benchmark socket.io and faye websocket server", 
+  "fork": true, 
+  "full_name": "akinsella/websocket-bench-sockjs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:28:17.557053"
+}

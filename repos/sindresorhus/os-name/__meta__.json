@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.786303", 
+  "description": "Get the name of the current operating system. Example: OS X Mavericks", 
+  "fork": false, 
+  "full_name": "sindresorhus/os-name", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.317556"
+}

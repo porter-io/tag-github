@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.957086", 
+  "description": "A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies.", 
+  "fork": false, 
+  "full_name": "madrobby/keymaster", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-21T14:57:12.177124"
+}

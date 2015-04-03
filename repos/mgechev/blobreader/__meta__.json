@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.132425", 
+  "description": "Simple interface for reading blobs sequentially", 
+  "fork": false, 
+  "full_name": "mgechev/blobreader", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:03.504073"
+}

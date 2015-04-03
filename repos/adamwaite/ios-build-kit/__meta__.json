@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.368202", 
+  "description": "BuildKit is a modular command line interface for automating iOS project builds. Bundled build tasks include: Increment app version \u2022 Xcode build \u2022 Overlay version number on icon files \u2022 Run unit tests \u2022 Create .ipa artefact.", 
+  "fork": false, 
+  "full_name": "adamwaite/iOS-Build-Kit", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:02:49.650663"
+}

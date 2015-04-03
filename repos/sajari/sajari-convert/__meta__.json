@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.704588", 
+  "description": "Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text", 
+  "fork": false, 
+  "full_name": "sajari/sajari-convert", 
+  "language": "Go", 
+  "updated_at": "2015-04-01T19:28:49.364287"
+}

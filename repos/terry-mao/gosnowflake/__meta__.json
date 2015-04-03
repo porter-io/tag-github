@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.474836", 
+  "description": "Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees (golang).", 
+  "fork": false, 
+  "full_name": "Terry-Mao/gosnowflake", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:18.752246"
+}

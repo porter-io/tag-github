@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.345648", 
+  "description": "Ring middleware for handling JSON", 
+  "fork": false, 
+  "full_name": "ring-clojure/ring-json", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:11.630441"
+}

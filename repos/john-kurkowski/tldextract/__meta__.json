@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.046092", 
+  "description": "Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List.", 
+  "fork": false, 
+  "full_name": "john-kurkowski/tldextract", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:42.268160"
+}

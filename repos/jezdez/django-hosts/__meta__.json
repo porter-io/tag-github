@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.760277", 
+  "description": "Dynamic and static host resolving for Django. Maps hostnames to URLconfs.", 
+  "fork": false, 
+  "full_name": "jezdez/django-hosts", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:57.998407"
+}

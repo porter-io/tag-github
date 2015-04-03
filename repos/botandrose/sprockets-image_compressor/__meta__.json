@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.972703", 
+  "description": "Sprockets preprocessor to losslessly compress .png and .jpg images.", 
+  "fork": false, 
+  "full_name": "botandrose/sprockets-image_compressor", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:09.996649"
+}

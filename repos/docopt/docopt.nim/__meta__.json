@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.890376", 
+  "description": "Command line arguments parser that will make you smile (port of docopt to Nim)", 
+  "fork": false, 
+  "full_name": "docopt/docopt.nim", 
+  "language": "Nimrod", 
+  "updated_at": "2015-02-27T23:42:33.487311"
+}

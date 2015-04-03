@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.956427", 
+  "description": "Take advantage of node built-in cluster module behavior", 
+  "fork": false, 
+  "full_name": "isaacs/cluster-master", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:11.946548"
+}

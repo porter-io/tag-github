@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.261310", 
+  "description": "AWS Service registry for resilient mid-tier load balancing and failover.", 
+  "fork": false, 
+  "full_name": "Netflix/eureka", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:31.250822"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.832189", 
+  "description": "fswatch is a go library for monitoring file system changes that does not depend on inotify", 
+  "fork": false, 
+  "full_name": "andreaskoch/go-fswatch", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:58.444372"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.688137", 
+  "description": "Go (golang) bindings to mruby.", 
+  "fork": false, 
+  "full_name": "mitchellh/go-mruby", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:30.437252"
+}

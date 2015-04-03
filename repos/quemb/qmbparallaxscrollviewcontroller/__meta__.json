@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.671617", 
+  "description": "Add a parallax top view to any UIScrollView (incl. UITableViews) - #Parallax #ScrollView #TableView #Header", 
+  "fork": false, 
+  "full_name": "quemb/QMBParallaxScrollViewController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:55.480981"
+}

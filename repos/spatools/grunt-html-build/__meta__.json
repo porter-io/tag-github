@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.058381", 
+  "description": "Grunt HTML Builder - Appends scripts and styles, Removes debug parts, append html partials, Template options", 
+  "fork": false, 
+  "full_name": "spatools/grunt-html-build", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:06.184250"
+}

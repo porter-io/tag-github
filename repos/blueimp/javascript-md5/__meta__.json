@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.848879", 
+  "description": "JavaScript MD5 implementation. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.", 
+  "fork": false, 
+  "full_name": "blueimp/JavaScript-MD5", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:28.196178"
+}

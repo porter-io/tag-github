@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.304432", 
+  "description": "A sample dropwizard application using elasticsearch as storage backend", 
+  "fork": false, 
+  "full_name": "spinscale/dropwizard-blog-sample", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:42.882695"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.200185", 
+  "description": "Sample code that shows how to log-in to the ViPR Controller using Ruby. Also demonstrations the ease of the REST API to gather information and parse it to show different types of information.", 
+  "fork": false, 
+  "full_name": "kacole2/vipr_scripts", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:30.652012"
+}

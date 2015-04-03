@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.095314", 
+  "description": "A set of Rack middleware and cache helpers that implement various caching strategies.", 
+  "fork": false, 
+  "full_name": "artsy/garner", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:50.842911"
+}

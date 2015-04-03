@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.729221", 
+  "description": "Strip UTF-8 byte order mark (BOM) from a string/buffer/stream", 
+  "fork": false, 
+  "full_name": "sindresorhus/strip-bom", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.173985"
+}

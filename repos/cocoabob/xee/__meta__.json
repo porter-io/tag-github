@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.956547", 
+  "description": "Xee is an streamlined and convenient image viewer and browser. It is similar to Mac OS X's Preview.app, but lets you easily browse the entire contents of folders and archives, move and copy image files quickly, and supports many more image formats. The open source version is 2.2, I did some improvements to support retina display.", 
+  "fork": true, 
+  "full_name": "CocoaBob/xee", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:28:42.957190"
+}

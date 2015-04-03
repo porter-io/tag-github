@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.983165", 
+  "description": "Provides AJAX file upload functionality for FileFields and ImageFields with a simple widget replacement in the form.", 
+  "fork": false, 
+  "full_name": "zmathew/django-ajax-upload-widget", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:49.722066"
+}

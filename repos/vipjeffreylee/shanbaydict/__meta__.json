@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.691520", 
+  "description": "Shanbay Dictionary is a screen capture technology enabled English vocabulary dictionary. It facilitates users to query English words in readings for their definitions and pronunciations, and then add these words to users' personal vocabulary banks in Shanbay.com for later learning and review.  \u6247\u8d1d\u8bcd\u5178\uff0c\u662f\u4e00\u4e2a\u5229\u7528\u5c4f\u5e55\u53d6\u8bcd\u6280\u672f\u67e5\u8be2\u82f1\u6587\u5355\u8bcd\u7684\u8bcd\u5178\u8f6f\u4ef6\uff0c\u80fd\u591f\u65b9\u4fbf\u6247\u8d1d\u7f51\u7528\u6237\u5728\u9605\u8bfb\u82f1\u6587\u8d44\u6599\u65f6\uff0c\u968f\u65f6\u67e5\u8be2\u5355\u8bcd\u91ca\u4e49\u8bfb\u97f3\u548c\u6dfb\u52a0\u8fdb\u6247\u8d1d\u7f51\u8bcd\u5e93\uff0c\u4ee5\u4f9b\u65e5\u540e\u901a\u8fc7\u6247\u8d1d\u7f51\u80cc\u8bf5\u8bb0\u5fc6\u4f7f\u7528\u3002", 
+  "fork": false, 
+  "full_name": "vipjeffreylee/ShanbayDict", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:28.933497"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.794980", 
+  "description": "Xcode plugin to open the GitHub page of the commit of the currently selected line in the editor window.", 
+  "fork": false, 
+  "full_name": "larsxschneider/ShowInGitHub", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:08.065835"
+}

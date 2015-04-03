@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.469898", 
+  "description": "Generator  of state machines that accept the same language of a given regular expression using derivatives method.", 
+  "fork": false, 
+  "full_name": "ikame/automaton", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:08.080804"
+}

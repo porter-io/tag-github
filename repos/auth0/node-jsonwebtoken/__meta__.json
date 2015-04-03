@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.267481", 
+  "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html", 
+  "fork": false, 
+  "full_name": "auth0/node-jsonwebtoken", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:14.029261"
+}

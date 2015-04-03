@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.322585", 
+  "description": "Limit the request processing rate between multiple NGINX instances", 
+  "fork": false, 
+  "full_name": "timebug/lua-resty-limit-req", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:41:25.366544"
+}

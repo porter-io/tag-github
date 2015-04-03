@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.324882", 
+  "description": "Library code for Adafruit's CC3000 WiFi breakouts &c", 
+  "fork": false, 
+  "full_name": "adafruit/Adafruit_CC3000_Library", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:23.566229"
+}

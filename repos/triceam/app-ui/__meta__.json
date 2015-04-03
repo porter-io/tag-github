@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.502170", 
+  "description": "app-UI is a collection of user interface components that may be helpful to web and mobile developers for creating interactive applications using HTML and JavaScript, especially those targeting mobile devices.  app-UI is a continual work in progress - it was born out of the necessity to have rich & native-feeling interfaces in HTML/JS experiences, and it works great with PhoneGap applications (http://www.phonegap.com).  app-UI can easily be styled/customized using CSS.", 
+  "fork": false, 
+  "full_name": "triceam/app-UI", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:03:24.160126"
+}

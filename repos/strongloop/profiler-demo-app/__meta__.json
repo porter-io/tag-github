@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.444913", 
+  "description": "Demo app to showcase cpu and heap profiling charts", 
+  "fork": false, 
+  "full_name": "strongloop/profiler-demo-app", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:39.543533"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.130546", 
+  "description": "A collapsible list that functions like a UITableView, except you can collapse and open cells on a click. Feed it UIViews for what is shown when each cell is open. Works via delegation similar to UITableView.", 
+  "fork": false, 
+  "full_name": "bennyguitar/CollapseClick", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:06.272636"
+}

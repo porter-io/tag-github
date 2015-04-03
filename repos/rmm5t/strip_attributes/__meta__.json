@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.999711", 
+  "description": "StripAttributes is an ActiveModel extension that automatically strips all attributes of leading and trailing whitespace before validation. If the attribute is blank, it strips the value to nil.", 
+  "fork": false, 
+  "full_name": "rmm5t/strip_attributes", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:19.849880"
+}

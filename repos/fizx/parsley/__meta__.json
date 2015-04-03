@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.923185", 
+  "description": "Parsley is a simple language for extracting structured data from web pages. Parsley consists of an powerful selector language wrapped with a JSON structure that can represent page-wide formatting.", 
+  "fork": false, 
+  "full_name": "fizx/parsley", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:02.824804"
+}

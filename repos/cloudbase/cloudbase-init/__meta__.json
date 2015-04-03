@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.033618", 
+  "description": "cloud-init for Windows and other OSs. Binaries: https://www.cloudbase.it/downloads/CloudbaseInitSetup_Beta_x64.msi https://www.cloudbase.it/downloads/CloudbaseInitSetup_Beta_x86.msi  ", 
+  "fork": false, 
+  "full_name": "cloudbase/cloudbase-init", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:02:47.465065"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.165783", 
+  "description": "Disable enqueuing of Open Sans and other fonts used by WordPress from Google.", 
+  "fork": false, 
+  "full_name": "dimadin/disable-google-fonts", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:37.917031"
+}

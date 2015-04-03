@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.443873", 
+  "description": "Experiment for make more low-level and python3 compatible modular search for Django (like haystack but with other philosophy)", 
+  "fork": false, 
+  "full_name": "niwibe/needlestack", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:34.470356"
+}

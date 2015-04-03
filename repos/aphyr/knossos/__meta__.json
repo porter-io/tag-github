@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.961669", 
+  "description": "Verifies the linearizability of experimentally accessible histories.", 
+  "fork": false, 
+  "full_name": "aphyr/knossos", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:55.856554"
+}

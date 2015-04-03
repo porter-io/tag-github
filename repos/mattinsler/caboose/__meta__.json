@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.571901", 
+  "description": "Coffeescript-happy express-based server-side MVC framework loosely based on rails", 
+  "fork": false, 
+  "full_name": "mattinsler/caboose", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:29:28.461424"
+}

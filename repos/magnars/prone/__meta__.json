@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.558952", 
+  "description": "Better exception reporting middleware for Ring.", 
+  "fork": false, 
+  "full_name": "magnars/prone", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:15.269681"
+}

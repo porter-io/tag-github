@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.334756", 
+  "description": "Yet another LZ77 (public domain, self-contained C++ header file)", 
+  "fork": false, 
+  "full_name": "ivan-tkatchev/yalz77", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:21.027396"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.540124", 
+  "description": "A jQuery plugin that uses canvas to create a 'screen print' offset effect on an image, by altering the pixel data.", 
+  "fork": false, 
+  "full_name": "vonKristoff/offreg", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:42.839971"
+}

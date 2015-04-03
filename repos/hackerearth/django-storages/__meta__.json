@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.014427", 
+  "description": "github version of django-storages ... Support for many storages (S3, MogileFS, etc) in Django. Documentation: http://django-storages.readthedocs.org", 
+  "fork": true, 
+  "full_name": "HackerEarth/django-storages", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:50.719547"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.956549", 
+  "description": "A gem can direct upload your files to a Qiniu storage bucket", 
+  "fork": false, 
+  "full_name": "huobazi/qiniu_direct_uploader", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:35.704864"
+}

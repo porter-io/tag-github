@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.168428", 
+  "description": "New Relic integration for Capistrano 3", 
+  "fork": false, 
+  "full_name": "seuros/capistrano-newrelic", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:06.284176"
+}

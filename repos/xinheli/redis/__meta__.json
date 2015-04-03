@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:01.362021", 
+  "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes", 
+  "fork": true, 
+  "full_name": "xinheli/redis", 
+  "updated_at": "2015-02-27T22:28:01.362154"
+}

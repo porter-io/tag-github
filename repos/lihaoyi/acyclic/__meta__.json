@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.268279", 
+  "description": "Acyclic is a Scala compiler plugin to let you prohibit circular dependencies between files", 
+  "fork": false, 
+  "full_name": "lihaoyi/acyclic", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:22.239592"
+}

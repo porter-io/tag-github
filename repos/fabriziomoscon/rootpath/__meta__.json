@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.488589", 
+  "description": "Little helper to make node.js require relative to your project root", 
+  "fork": false, 
+  "full_name": "fabriziomoscon/rootpath", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:22.995612"
+}

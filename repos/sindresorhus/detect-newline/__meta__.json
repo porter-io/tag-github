@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.683595", 
+  "description": "Detect the dominant newline character of a string", 
+  "fork": false, 
+  "full_name": "sindresorhus/detect-newline", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.086645"
+}

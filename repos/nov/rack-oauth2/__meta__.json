@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.706233", 
+  "description": "OAuth 2.0 Server & Client Library. Both Bearer and MAC token type are supported.", 
+  "fork": false, 
+  "full_name": "nov/rack-oauth2", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:55.445159"
+}

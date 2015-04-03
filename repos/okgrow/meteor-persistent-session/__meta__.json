@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.570835", 
+  "description": "Modifies Meteor's Session to store variables in the browser's `localStorage`", 
+  "fork": false, 
+  "full_name": "okgrow/meteor-persistent-session", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:43.817428"
+}

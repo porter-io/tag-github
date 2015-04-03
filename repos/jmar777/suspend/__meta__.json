@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.572110", 
+  "description": "Callback-free control flow for Node using ES6 generators.", 
+  "fork": false, 
+  "full_name": "jmar777/suspend", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:09.829464"
+}

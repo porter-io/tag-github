@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.280402", 
+  "description": "FPGA Sega in Verilog, for Xilinx Virtex, circa 2002. Has an emulator thrown in, to simplify FPGA debugging.", 
+  "fork": false, 
+  "full_name": "danluu/sega-system-for-fpga", 
+  "language": "Assembly", 
+  "updated_at": "2015-02-27T23:43:42.507331"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.406774", 
+  "description": "A simple grunt wrapper for mocha-phantomjs to allow for ci integration", 
+  "fork": false, 
+  "full_name": "jdcataldo/grunt-mocha-phantomjs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:56.362295"
+}

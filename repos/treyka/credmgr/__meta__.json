@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.135161", 
+  "description": "Securely manage privileged account credentials via Shamir secret sharing", 
+  "fork": false, 
+  "full_name": "treyka/credmgr", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:01.194457"
+}

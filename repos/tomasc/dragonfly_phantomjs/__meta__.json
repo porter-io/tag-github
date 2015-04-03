@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.976432", 
+  "description": "Dragonfly PhantomJS plugin that converts .html or .svg to .gif, .jpeg, .pdf or .png.", 
+  "fork": false, 
+  "full_name": "tomasc/dragonfly_phantomjs", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:30:25.593500"
+}

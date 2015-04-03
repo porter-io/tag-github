@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.489458", 
+  "description": "C library for estimating cardinality in streams for which it is infeasible to store all events in memory", 
+  "fork": false, 
+  "full_name": "chaoslawful/ccard-lib", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:03.934980"
+}

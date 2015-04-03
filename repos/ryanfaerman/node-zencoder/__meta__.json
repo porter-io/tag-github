@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.724634", 
+  "description": "This project is superseded by Zencoder's Implementation, based on this project here: https://github.com/zencoder/zencoder-node", 
+  "fork": false, 
+  "full_name": "ryanfaerman/node-zencoder", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:50.413198"
+}

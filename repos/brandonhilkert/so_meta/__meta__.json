@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.349218", 
+  "description": "A gem to simply manage meta content (title, description, canonical url, etc.) from within a Rails application", 
+  "fork": false, 
+  "full_name": "brandonhilkert/so_meta", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:10.885439"
+}

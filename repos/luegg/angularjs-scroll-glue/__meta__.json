@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.279098", 
+  "description": "An AngularJs directive that automatically scrolls to the bottom of an element on changes in it's scope.", 
+  "fork": false, 
+  "full_name": "Luegg/angularjs-scroll-glue", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:04.014412"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.113973", 
+  "description": "Python ctypes bindings for libfap, the C port of the HAM::APRS::FAP Finnish APRS Parser", 
+  "fork": false, 
+  "full_name": "kd7lxl/python-libfap", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:43.418220"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.664298", 
+  "description": "Android based RTSP Server which is able to serve live camera view to multiple RTSP clients, such as VLC.", 
+  "fork": false, 
+  "full_name": "spex66/RTSP-Camera-for-Android", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:56.683101"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.199267", 
+  "description": "A tree explorer plugin for vim.", 
+  "fork": false, 
+  "full_name": "scrooloose/nerdtree", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:43:21.928779"
+}

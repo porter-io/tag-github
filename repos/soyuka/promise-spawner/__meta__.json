@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.773461", 
+  "description": "Promise multiple spawner with stdout/stderr streams and error handling", 
+  "fork": false, 
+  "full_name": "soyuka/promise-spawner", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:08.029449"
+}

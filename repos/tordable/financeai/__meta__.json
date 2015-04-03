@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:29:00.692739", 
+  "description": "A tool that takes financial statements to create machine learning classifiers. Then it uses the classifiers to predict financial performance.", 
+  "fork": false, 
+  "full_name": "tordable/FinanceAI", 
+  "updated_at": "2015-02-27T23:43:46.261993"
+}

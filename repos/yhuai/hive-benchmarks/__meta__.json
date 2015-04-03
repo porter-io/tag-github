@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.053489", 
+  "description": "some benchmarking queries for Apache Hive", 
+  "fork": false, 
+  "full_name": "yhuai/hive-benchmarks", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:18.863161"
+}

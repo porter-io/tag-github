@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.104275", 
+  "description": "AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximise maintainability.Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.", 
+  "fork": false, 
+  "full_name": "AutoFixture/AutoFixture", 
+  "language": "C#", 
+  "updated_at": "2015-04-01T19:30:51.293870"
+}

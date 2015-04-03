@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.519914", 
+  "description": "Configuration file parser for INI format", 
+  "fork": true, 
+  "full_name": "robfig/config", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T22:28:16.519969"
+}

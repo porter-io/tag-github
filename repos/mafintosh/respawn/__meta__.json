@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.246862", 
+  "description": "Spawn a process and restart it if it crashes", 
+  "fork": false, 
+  "full_name": "mafintosh/respawn", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:14.842718"
+}

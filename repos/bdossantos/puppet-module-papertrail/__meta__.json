@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.797029", 
+  "description": "Module for configuring Papertrail with Rsyslog", 
+  "fork": false, 
+  "full_name": "bdossantos/puppet-module-papertrail", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:40.904578"
+}

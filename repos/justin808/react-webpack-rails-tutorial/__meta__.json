@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.544500", 
+  "description": "Example of integration of webpack, react, and rails, enabling the es6 and jsx transpilers, and node integration.", 
+  "fork": false, 
+  "full_name": "justin808/react-webpack-rails-tutorial", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:26.543190"
+}

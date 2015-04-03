@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.904832", 
+  "description": "Analyzes some PHP source code and tries to fix coding standards issues (PSR-1 and PSR-2 compatible)", 
+  "fork": false, 
+  "full_name": "FriendsOfPHP/PHP-CS-Fixer", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:41.079181"
+}

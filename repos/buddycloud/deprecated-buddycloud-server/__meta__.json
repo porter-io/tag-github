@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.420022", 
+  "description": "A buddycloud server written in Node.", 
+  "fork": false, 
+  "full_name": "buddycloud/deprecated-buddycloud-server", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:30:29.574566"
+}

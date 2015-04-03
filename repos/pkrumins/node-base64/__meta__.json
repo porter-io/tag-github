@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.299656", 
+  "description": "A base64 encoding and decoding C++ module for node.js that actually works! (node now has it's own base64 encoding, see docs!)", 
+  "fork": false, 
+  "full_name": "pkrumins/node-base64", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:02:28.780726"
+}

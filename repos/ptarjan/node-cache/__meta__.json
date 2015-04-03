@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.503219", 
+  "description": "A simple in-memory cache for nodejs (or node.js or node, or whatever you call it)", 
+  "fork": false, 
+  "full_name": "ptarjan/node-cache", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:48.874519"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.764134", 
+  "description": "A collection of patch sets for rvm to allow easy installation of my MRI patches for various ruby versions", 
+  "fork": false, 
+  "full_name": "skaes/rvm-patchsets", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:27.423138"
+}

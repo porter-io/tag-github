@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.995973", 
+  "description": "Vim plugin to easily add I18n translations to your Rails project", 
+  "fork": false, 
+  "full_name": "stefanoverna/vim-i18n", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:44:03.319811"
+}

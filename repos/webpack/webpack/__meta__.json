@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.131351", 
+  "description": "Packs CommonJs/AMD modules for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand. Support loaders to preprocess files, i.e. json, jade, coffee, css, less, ... and your custom stuff.", 
+  "fork": false, 
+  "full_name": "webpack/webpack", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-21T14:55:09.703427"
+}

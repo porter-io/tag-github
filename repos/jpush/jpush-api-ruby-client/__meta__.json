@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.456756", 
+  "description": "JPush's officially supported Ruby client library for accessing JPush APIs. \u6781\u5149\u63a8\u9001\u5b98\u65b9\u652f\u6301\u7684 Ruby \u7248\u672c\u670d\u52a1\u5668\u7aef SDK\u3002", 
+  "fork": false, 
+  "full_name": "jpush/jpush-api-ruby-client", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:57.910557"
+}

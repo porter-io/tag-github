@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.453221", 
+  "description": "Require a module bypassing the cache", 
+  "fork": false, 
+  "full_name": "sindresorhus/require-uncached", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:19.023985"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.482941", 
+  "description": "A ruby library which allows you to send Growl notifications. Extracted from LimeChat.", 
+  "fork": false, 
+  "full_name": "psychs/growlnotifier", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:04.839172"
+}

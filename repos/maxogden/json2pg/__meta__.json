@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.127358", 
+  "description": "write a stream of JSON objects into postgres, easily", 
+  "fork": false, 
+  "full_name": "maxogden/json2pg", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.925806"
+}

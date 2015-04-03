@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.273003", 
+  "description": "An sbt plugin for Android development in Scala", 
+  "fork": true, 
+  "full_name": "jberkel/android-plugin", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T22:27:31.274012"
+}

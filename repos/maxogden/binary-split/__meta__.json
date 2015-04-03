@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.164533", 
+  "description": "a fast newline (or any delimiter) splitter stream - like require('split') but faster", 
+  "fork": false, 
+  "full_name": "maxogden/binary-split", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.959270"
+}

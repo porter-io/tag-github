@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.472619", 
+  "description": "A persistent, full-text searchable key-value store. Powered by Flask, ElasticSearch, and good intentions.", 
+  "fork": false, 
+  "full_name": "kennethreitz/elephant", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:35.176793"
+}

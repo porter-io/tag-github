@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.744753", 
+  "description": "A cross-platform file change monitor with multiple backends: Apple OS X File System Events API, *BSD kqueue, Linux inotify and a stat-based backend.", 
+  "fork": false, 
+  "full_name": "emcrisostomo/fswatch", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:40.853757"
+}

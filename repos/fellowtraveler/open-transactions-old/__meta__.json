@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.181590", 
+  "description": "Open-Transactions democratizes financial and monetary actions. You can use it for issuing currencies/stock, paying dividends, creating asset accounts, sending/receiving digital cash, writing/depositing cheques, cashier's cheques, creating basket currencies, trading on markets, scripting custom agreements, recurring payments, escrow, etc.  Open-Transactions uses strong crypto. The balances are unchangeable (even by a malicious server.) The receipt history is destructible. The transactions are unforgeable. The cash is unlinkable. The cheques are non-repudiable. Etc.", 
+  "fork": false, 
+  "full_name": "FellowTraveler/Open-Transactions-old", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:18.076888"
+}

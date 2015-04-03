@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.172966", 
+  "description": "writable stream that concatenates strings or data and calls a callback with the result", 
+  "fork": false, 
+  "full_name": "maxogden/concat-stream", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.967309"
+}

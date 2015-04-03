@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.588752", 
+  "description": "UIAlertView replacement that can embed custom content views, is fully themable and let's you use a delegate and/or blocks.", 
+  "fork": false, 
+  "full_name": "regexident/DLAlertView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:55.291786"
+}

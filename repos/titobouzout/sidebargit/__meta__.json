@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.420413", 
+  "description": "Add git commands to sidebar. Textual port of komodin extension for sublime text.", 
+  "fork": false, 
+  "full_name": "titoBouzout/SideBarGit", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:48.626548"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.396856", 
+  "description": "Example of parser combinator as a C++ template metaprogram for compile time parsing.", 
+  "fork": false, 
+  "full_name": "mattbierner/stt-parser-combinators", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:21.103006"
+}

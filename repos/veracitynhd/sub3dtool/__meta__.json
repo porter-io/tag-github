@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.472596", 
+  "description": "A simple 3D subtitles convert, convert SRT to ASS format, work well with MPlayer and VLC.", 
+  "fork": false, 
+  "full_name": "veracitynhd/sub3dtool", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:12.989162"
+}

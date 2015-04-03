@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.229847", 
+  "description": "Pagination library for Rails 3, Sinatra, Merb, DataMapper, and more", 
+  "fork": true, 
+  "full_name": "halida/will_paginate", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:29.230834"
+}

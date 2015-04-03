@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.515974", 
+  "description": "Mission Control Technologies is a real-time monitoring and visualization platform. See an overview and demo at http://ti.arc.nasa.gov/OpenMCT/. Download MCT plugins at https://github.com/nasa/MCT-Plugins.", 
+  "fork": false, 
+  "full_name": "nasa/mct", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:46.249881"
+}

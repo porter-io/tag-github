@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.968974", 
+  "description": "Connect to Pry remotely using EventMachine with tab-completion, paging, user authentication and SSL support", 
+  "fork": false, 
+  "full_name": "simulacre/pry-remote-em", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:53.878003"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.952055", 
+  "description": "Provides convenient wrappers for popular message digest formats (MD5, SHA1 and SHA256) and HMAC (Hash-based message authentication code).", 
+  "fork": false, 
+  "full_name": "siuying/IGDigest", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:00.858916"
+}

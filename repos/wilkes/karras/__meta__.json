@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.531804", 
+  "description": "A clojure wrapper to the mongo java driver", 
+  "fork": false, 
+  "full_name": "wilkes/karras", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:09.822073"
+}

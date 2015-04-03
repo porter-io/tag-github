@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.527593", 
+  "description": "FRLayeredNavigationController, an iOS container view controller that works like a stack of paper with an API similar to UINavigationController.", 
+  "fork": false, 
+  "full_name": "weissi/FRLayeredNavigationController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:16.801197"
+}

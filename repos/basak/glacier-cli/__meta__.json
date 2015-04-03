@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.805762", 
+  "description": "Command-line interface to Amazon Glacier", 
+  "fork": false, 
+  "full_name": "basak/glacier-cli", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:03.030858"
+}

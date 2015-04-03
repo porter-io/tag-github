@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.513609", 
+  "description": "Graph for Scala is intended to provide basic graph functionality seamlessly fitting into the Scala Collection Library. Like the well known members of scala.collection, Graph for Scala is an in-memory graph library aiming at editing and traversing graphs, finding cycles etc. in a user-friendly way.", 
+  "fork": false, 
+  "full_name": "scala-graph/scala-graph", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:43:11.026361"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.883648", 
+  "description": "Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.", 
+  "fork": false, 
+  "full_name": "Theano/Theano", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:45.751766"
+}

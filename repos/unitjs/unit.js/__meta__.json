@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.448063", 
+  "description": "Simple, intuitive and flexible unit testing framework for javascript / Node.js. Integrates the great assertions libraries Must.js, Should.js, Assert of Node.js, Sinon.js and other friendly features.", 
+  "fork": false, 
+  "full_name": "unitjs/unit.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:28:38.644347"
+}

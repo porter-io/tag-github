@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.012088", 
+  "description": "PHPUnit runner for TeamCity", 
+  "fork": false, 
+  "full_name": "maartenba/phpunit-runner-teamcity", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:59.377800"
+}

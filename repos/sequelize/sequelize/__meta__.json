@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.006746", 
+  "description": "Sequelize is an easy-to-use multi sql dialect object-relationship-mapper for Node.js & io.js. It currently supports MySQL, MariaDB, SQLite, PostgreSQL and MSSQL.", 
+  "fork": false, 
+  "full_name": "sequelize/sequelize", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-21T14:55:07.076769"
+}

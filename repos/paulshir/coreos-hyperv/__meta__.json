@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.863166", 
+  "description": "A repository with some basic scripts to set up coreos hypev clusters.", 
+  "fork": false, 
+  "full_name": "paulshir/coreos-hyperv", 
+  "language": "PowerShell", 
+  "updated_at": "2015-02-27T23:44:30.232528"
+}

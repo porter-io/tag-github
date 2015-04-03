@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.959422", 
+  "description": "A bot for Slack to get Uber price estimates", 
+  "fork": false, 
+  "full_name": "picsoung/uberSlackBot", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:41:44.235167"
+}

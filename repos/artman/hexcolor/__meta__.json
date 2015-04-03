@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.166761", 
+  "description": "Utility that lets you define UIColors in Swift as they've meant to be defined: as HEX values", 
+  "fork": false, 
+  "full_name": "artman/HexColor", 
+  "language": "Swift", 
+  "updated_at": "2015-02-27T23:42:17.104072"
+}

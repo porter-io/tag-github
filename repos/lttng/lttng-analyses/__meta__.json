@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.240409", 
+  "description": "Analyses scripts for LTTng kernel traces", 
+  "fork": false, 
+  "full_name": "lttng/lttng-analyses", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:11.691802"
+}

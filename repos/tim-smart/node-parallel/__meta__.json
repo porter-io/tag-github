@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.164767", 
+  "description": "Create tasks in node.js that run in parallel, or sequences that run tasks one after another.", 
+  "fork": false, 
+  "full_name": "tim-smart/node-parallel", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.953599"
+}

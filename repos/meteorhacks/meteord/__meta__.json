@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.709671", 
+  "description": "Docker runtime for Meteor apps", 
+  "fork": false, 
+  "full_name": "meteorhacks/meteord", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:29.007263"
+}

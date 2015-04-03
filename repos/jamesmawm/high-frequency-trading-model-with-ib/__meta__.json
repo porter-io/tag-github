@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.957406", 
+  "description": "A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python", 
+  "fork": false, 
+  "full_name": "jamesmawm/High-Frequency-Trading-Model-with-IB", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:25.661247"
+}

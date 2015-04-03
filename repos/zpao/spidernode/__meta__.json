@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.914945", 
+  "description": "A port of node.js using the SpiderMonkey JS engine instead of V8. [NO LONGER MAINTAINED]", 
+  "fork": true, 
+  "full_name": "zpao/spidernode", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:29:03.915030"
+}

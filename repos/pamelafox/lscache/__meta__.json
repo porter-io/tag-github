@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.444104", 
+  "description": "A localStorage-based memcache-inspired client-side caching library.", 
+  "fork": false, 
+  "full_name": "pamelafox/lscache", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:23.091893"
+}

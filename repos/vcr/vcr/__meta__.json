@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.253695", 
+  "description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.", 
+  "fork": false, 
+  "full_name": "vcr/vcr", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:46.046016"
+}

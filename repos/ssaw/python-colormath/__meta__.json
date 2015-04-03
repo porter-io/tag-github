@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.372436", 
+  "description": "A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK", 
+  "fork": true, 
+  "full_name": "ssaw/python-colormath", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:28:29.372739"
+}

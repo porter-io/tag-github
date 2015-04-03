@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.715355", 
+  "description": "A generic django voting application that allows voting without a logged in user", 
+  "fork": false, 
+  "full_name": "sunlightlabs/django-secretballot", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:49.832795"
+}

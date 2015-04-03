@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.135029", 
+  "description": "Serves a webpack app. Updates the browser on changes.", 
+  "fork": false, 
+  "full_name": "webpack/webpack-dev-server", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:15.660340"
+}

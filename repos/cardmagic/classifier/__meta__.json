@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:59.174684", 
+  "description": "A general classifier module to allow Bayesian and other types of classifications.", 
+  "fork": false, 
+  "full_name": "cardmagic/classifier", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:01.922318"
+}

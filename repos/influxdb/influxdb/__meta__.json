@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.082795", 
+  "description": "Scalable datastore for metrics, events, and real-time analytics", 
+  "fork": false, 
+  "full_name": "influxdb/influxdb", 
+  "language": "Go", 
+  "updated_at": "2015-03-21T14:55:47.413201"
+}

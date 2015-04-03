@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.119289", 
+  "description": "RTBkit is a real-time bidder framework designed for use on advertising exchanges such as the Rubicon Project, Nexage, App Nexus, The Google Ad Exchange and others.", 
+  "fork": false, 
+  "full_name": "rtbkit/rtbkit", 
+  "language": "C++", 
+  "updated_at": "2015-04-01T19:29:21.958229"
+}

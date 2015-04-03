@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.341892", 
+  "description": "Development-only persistent adapter for Sails.js / Waterline", 
+  "fork": false, 
+  "full_name": "balderdashy/sails-disk", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:31.530117"
+}

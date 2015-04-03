@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.845552", 
+  "description": "Removes unused imports and unused variables as reported by pyflakes.", 
+  "fork": false, 
+  "full_name": "myint/autoflake", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:00.694867"
+}

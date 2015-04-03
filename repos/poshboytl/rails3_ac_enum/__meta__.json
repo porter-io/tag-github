@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.781422", 
+  "description": "Make the new ActiveRecord::Base#enum in Rails4 also works for Rails3", 
+  "fork": false, 
+  "full_name": "poshboytl/rails3_ac_enum", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:42.020733"
+}

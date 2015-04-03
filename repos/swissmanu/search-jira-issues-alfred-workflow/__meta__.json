@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.779900", 
+  "description": "A customizable workflow for Alfred 2 to lookup issues on Atlassian Jira.", 
+  "fork": false, 
+  "full_name": "swissmanu/search-jira-issues-alfred-workflow", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:44:03.073471"
+}

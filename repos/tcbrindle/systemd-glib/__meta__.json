@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.884794", 
+  "description": "GObject bindings for the systemd D-Bus API", 
+  "fork": false, 
+  "full_name": "tcbrindle/systemd-glib", 
+  "language": "Vala", 
+  "updated_at": "2015-02-27T23:43:21.646970"
+}

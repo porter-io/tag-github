@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.294914", 
+  "description": "Watch file changes and execute commands with a single binary", 
+  "fork": false, 
+  "full_name": "gophergala/fsntor", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:14.070252"
+}

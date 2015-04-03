@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.831925", 
+  "description": "A UIActivity subclass that share files via GCDWebServer with Twitter Bootstrap UI.", 
+  "fork": false, 
+  "full_name": "alexruperez/ARWebServerActivity", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:28.873649"
+}

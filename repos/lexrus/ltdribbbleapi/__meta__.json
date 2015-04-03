@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.686353", 
+  "description": "Yet another Dribbble API client for iOS 6.0+ and Mac OS X 10.8+ based on AFNetworking 2.0.", 
+  "fork": false, 
+  "full_name": "lexrus/LTDribbbleAPI", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:35.111955"
+}

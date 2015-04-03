@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.758892", 
+  "description": "Spludo is high performance, evented, server side, prototype based, javascript mvc web framework. It includes DI+AOP and a Convention-Over-Configuration Approach.", 
+  "fork": false, 
+  "full_name": "DracoBlue/spludo", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:29:55.778602"
+}

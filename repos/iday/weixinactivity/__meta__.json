@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.786373", 
+  "description": "An iOS 6 UIActivity subclass implementing uploads to Weixin(WeChat)", 
+  "fork": false, 
+  "full_name": "iDay/WeixinActivity", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:02:34.994916"
+}

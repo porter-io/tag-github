@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.885157", 
+  "description": "uses +signs sidebar to show where other s/// matches are in your current window.", 
+  "fork": false, 
+  "full_name": "dsummersl/vim-sluice", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:43:13.881854"
+}

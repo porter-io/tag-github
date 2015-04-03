@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.833854", 
+  "description": "Prototype of application displaying heatmap chart. Demo video: ./docs/demo.ogv . Technologies: Node.js, PostgreSQL, LessCSS, Express, asset-rack, jade, IcedCoffeeScript.", 
+  "fork": false, 
+  "full_name": "Andrey-Sisoyev/trial-heatmap-envision", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:59.912997"
+}

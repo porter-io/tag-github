@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.961098", 
+  "description": "Mongoid 3 Middleware for Sidekiq", 
+  "fork": false, 
+  "full_name": "mongoid/kiqstand", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:35.608834"
+}

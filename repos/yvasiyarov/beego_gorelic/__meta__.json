@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.586693", 
+  "description": "NewRelic middleware for beego framework.", 
+  "fork": false, 
+  "full_name": "yvasiyarov/beego_gorelic", 
+  "language": "Go", 
+  "updated_at": "2015-04-01T19:29:33.333623"
+}

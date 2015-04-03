@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.473951", 
+  "description": "Build script for compiling python into a static library that can be used with the official SDK", 
+  "fork": false, 
+  "full_name": "cobbal/python-for-iphone", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:26.248321"
+}

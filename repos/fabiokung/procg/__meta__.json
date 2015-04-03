@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.655696", 
+  "description": "Custom procfs that exports a cgroup-aware /proc/meminfo", 
+  "fork": false, 
+  "full_name": "fabiokung/procg", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:16.601437"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.098301", 
+  "description": "Adds notification via libnotify (linux only)", 
+  "fork": false, 
+  "full_name": "gdestuynder/gnupg-agent-notification", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:58.286193"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.828198", 
+  "description": "Transform your Go structs into tiny state machines", 
+  "fork": false, 
+  "full_name": "tchap/go-statemachine", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:31.524427"
+}

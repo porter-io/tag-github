@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.144214", 
+  "description": "A solution to have lists and dictionaries serialized using redis-py", 
+  "fork": false, 
+  "full_name": "EvandroLG/serialized-redis", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:43.452538"
+}

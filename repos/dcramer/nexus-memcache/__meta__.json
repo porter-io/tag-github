@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.916942", 
+  "description": "Memcache statistics plugin for Nexus", 
+  "fork": false, 
+  "full_name": "dcramer/nexus-memcache", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:52.770438"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.379450", 
+  "description": "Calculate cyclomatic complexities of functions in Go source code.", 
+  "fork": false, 
+  "full_name": "fzipp/gocyclo", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:54.667052"
+}

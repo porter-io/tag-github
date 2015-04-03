@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.044845", 
+  "description": "NodeJS native bindings to libmp3lame & libmpg123", 
+  "fork": false, 
+  "full_name": "TooTallNate/node-lame", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:10.618972"
+}

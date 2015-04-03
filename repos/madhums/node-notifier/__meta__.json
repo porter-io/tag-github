@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.313431", 
+  "description": "A simple node.js module to handle all the application level notifications (apple push notifications and mails)", 
+  "fork": false, 
+  "full_name": "madhums/node-notifier", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.439457"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.552716", 
+  "description": "Regular expression for matching XML NCName", 
+  "fork": false, 
+  "full_name": "sindresorhus/ncname", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.762158"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.838869", 
+  "description": "Easily create and manage an APT repository on S3", 
+  "fork": false, 
+  "full_name": "krobertson/deb-s3", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:55.609890"
+}

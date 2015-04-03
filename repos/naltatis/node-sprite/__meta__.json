@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.086246", 
+  "description": "A CSS Sprite Generation Library with Stylus and Retina Support.  ", 
+  "fork": false, 
+  "full_name": "naltatis/node-sprite", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:02:12.953982"
+}

@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:53.327160", 
+  "description": "SSH Proxy - Turn any remote SSH server into a SOCKS v5 proxy and automatically reconnect in OS X.", 
+  "fork": false, 
+  "full_name": "codinn/sshproxy", 
+  "updated_at": "2015-02-27T23:43:36.305058"
+}

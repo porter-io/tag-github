@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.813557", 
+  "description": "Gmail-like client-side drafts and bit more. Plugin developed to save html forms data to LocalStorage to restore them after browser crashes, tabs closings and other disasters.", 
+  "fork": false, 
+  "full_name": "simsalabim/sisyphus", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:24.416065"
+}

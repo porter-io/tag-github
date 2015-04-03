@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.068028", 
+  "description": "A simple library for uni-directional dataflow application architecture inspired by ReactJS Flux", 
+  "fork": false, 
+  "full_name": "spoike/refluxjs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:14.174743"
+}

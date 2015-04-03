@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.307725", 
+  "description": "Opinionated, simple and pretty secure token-based authentication solution using LevelDB", 
+  "fork": false, 
+  "full_name": "alexanderGugel/level-accounts", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:03.927082"
+}

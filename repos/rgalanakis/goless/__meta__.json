@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.880402", 
+  "description": "Go-like semantics built on top of Stackless Python.", 
+  "fork": false, 
+  "full_name": "rgalanakis/goless", 
+  "language": "Python", 
+  "updated_at": "2015-02-28T08:41:21.665688"
+}

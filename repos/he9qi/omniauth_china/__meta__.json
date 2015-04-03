@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.433208", 
+  "description": "This is an extention of OmniAuth, it addes Open ID providers in China such as Douban, Sina, Sohu, 163, Tencent, Renren etc.", 
+  "fork": false, 
+  "full_name": "he9qi/omniauth_china", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:24.186820"
+}

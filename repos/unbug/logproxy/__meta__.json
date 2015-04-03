@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.063483", 
+  "description": "set up a proxy to log http archives", 
+  "fork": false, 
+  "full_name": "unbug/logproxy", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:21.742705"
+}

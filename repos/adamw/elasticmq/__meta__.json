@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.121393", 
+  "description": "Message queueing system with an actor-based Scala and Amazon SQS-compatible interfaces. Runs stand-alone or embedded.", 
+  "fork": false, 
+  "full_name": "adamw/elasticmq", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:51.211771"
+}

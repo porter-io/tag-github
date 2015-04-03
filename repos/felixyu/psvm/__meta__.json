@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.135232", 
+  "description": "proportion-SVM (pSVM, $\\propto$SVM) for learning with label proportions", 
+  "fork": false, 
+  "full_name": "felixyu/pSVM", 
+  "language": "Matlab", 
+  "updated_at": "2015-02-27T23:42:19.936134"
+}

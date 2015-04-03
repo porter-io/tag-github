@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.718456", 
+  "description": "Declare job classes that can be run by a variety of queueing backends", 
+  "fork": false, 
+  "full_name": "rails/activejob", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:56.808179"
+}

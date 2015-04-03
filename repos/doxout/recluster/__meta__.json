@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.398445", 
+  "description": "Node clustering library with support for zero downtime reloading", 
+  "fork": false, 
+  "full_name": "doxout/recluster", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:51.880195"
+}

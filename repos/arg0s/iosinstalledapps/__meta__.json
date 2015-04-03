@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.195366", 
+  "description": "Utility functions to fetch installed apps on iOS by a combination of reading running processes & investigating custom URL schemes implemented.", 
+  "fork": false, 
+  "full_name": "arg0s/iOSInstalledApps", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:38.286624"
+}

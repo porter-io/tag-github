@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.382453", 
+  "description": "The function you always missed in Python: return the first true value of an iterable.", 
+  "fork": true, 
+  "full_name": "nvie/first", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:29:22.382489"
+}

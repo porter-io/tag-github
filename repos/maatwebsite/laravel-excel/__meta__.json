@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.419103", 
+  "description": "An eloquent way of importing and exporting Excel and CSV files  for Laravel with the power of PHPExcel", 
+  "fork": false, 
+  "full_name": "Maatwebsite/Laravel-Excel", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:51.970363"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.246772", 
+  "description": "UITextField subclass that allows numeric input in a predefined format.", 
+  "fork": false, 
+  "full_name": "romaonthego/REFormattedNumberField", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:05.475240"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.269015", 
+  "description": "Grails Plugin to get i18n urls. Extending UrlMappings functions.", 
+  "fork": false, 
+  "full_name": "adelatorrefoss/grails-urlmappings-i18n", 
+  "language": "Groovy", 
+  "updated_at": "2015-02-27T23:43:24.913065"
+}

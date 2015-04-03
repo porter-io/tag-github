@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.963443", 
+  "description": "Fibonacci and exponential backoff for Node.js", 
+  "fork": false, 
+  "full_name": "MathieuTurcotte/node-backoff", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:11.466314"
+}

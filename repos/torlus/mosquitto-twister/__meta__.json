@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.002858", 
+  "description": "Proof-of-concept of a fully distributed MQTT broker for the IoT. Uses Twister platform, Bitcoin and Bittorrent protocols.", 
+  "fork": false, 
+  "full_name": "Torlus/mosquitto-twister", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:45.817739"
+}

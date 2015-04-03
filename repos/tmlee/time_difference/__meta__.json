@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.279164", 
+  "description": "The missing Ruby method to print out time difference (duration) in year, month, week, day, hour, minute, and second.", 
+  "fork": false, 
+  "full_name": "tmlee/time_difference", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:22.936528"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.227542", 
+  "description": "Templated is a MooTools mixin class which creates elements for classes using a string-based HTML template which may included embedded attach points and events.", 
+  "fork": false, 
+  "full_name": "darkwing/Templated", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:56.041029"
+}

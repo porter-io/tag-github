@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.558463", 
+  "description": "Contains the base distribution needed to get a sonata admin w/ user management running.", 
+  "fork": false, 
+  "full_name": "jmather/symfony-sonata-distribution", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:16.505295"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.940799", 
+  "description": "A collection of tools made to help you create and edit subtitles in different formats (Subrip, WebVTT, Substation Alpha...)", 
+  "fork": false, 
+  "full_name": "captioning/captioning", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:23.680553"
+}

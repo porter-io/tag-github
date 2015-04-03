@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.535091", 
+  "description": "A Ruby wrapper for Douban(\u8c46\u74e3) API, Rails 3 support only.", 
+  "fork": false, 
+  "full_name": "yzhang/douban", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:14.660335"
+}

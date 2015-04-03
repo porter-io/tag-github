@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.334116", 
+  "description": "An iOS UIView for presenting a minimalistic notification that doesn't block the UI and is highly configurable.", 
+  "fork": false, 
+  "full_name": "atljeremy/JFMinimalNotifications", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:15.823638"
+}

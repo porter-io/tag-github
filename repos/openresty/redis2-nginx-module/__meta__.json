@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.502949", 
+  "description": "Nginx upstream module for the Redis 2.0 protocol", 
+  "fork": false, 
+  "full_name": "openresty/redis2-nginx-module", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:33.136425"
+}

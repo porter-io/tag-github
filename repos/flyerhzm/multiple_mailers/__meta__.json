@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.881009", 
+  "description": "extend actionmailer to allow one smtp account per mailer class.", 
+  "fork": false, 
+  "full_name": "flyerhzm/multiple_mailers", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:11.107462"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.620859", 
+  "description": "A javascript function that will trap errors and report them with a pixel that can be tracked in your server logs.", 
+  "fork": false, 
+  "full_name": "robby1066/javascript-error-logging", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.429731"
+}

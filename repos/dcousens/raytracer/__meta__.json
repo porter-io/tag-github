@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.761936", 
+  "description": "A Haskell implementation of Paul Heckbert's business card raytracer.", 
+  "fork": false, 
+  "full_name": "dcousens/RayTracer", 
+  "language": "Haskell", 
+  "updated_at": "2015-02-27T23:41:40.922596"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.021669", 
+  "description": "Android app to automatically enable/disable auto sync when WLAN gets connected/disconnected. License: GPLv3 or later.", 
+  "fork": false, 
+  "full_name": "michaelkanis/WifiSync", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:55.837066"
+}

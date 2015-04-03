@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.714796", 
+  "description": "Abstract common routing resource concerns to cut down on duplication.", 
+  "fork": false, 
+  "full_name": "rails/routing_concerns", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:56.796746"
+}

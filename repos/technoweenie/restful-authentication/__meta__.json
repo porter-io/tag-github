@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.461350", 
+  "description": "Generates common user authentication code for Rails/Merb, with a full test/unit and rspec suite and optional Acts as State Machine support built-in.", 
+  "fork": false, 
+  "full_name": "technoweenie/restful-authentication", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:01.478721"
+}

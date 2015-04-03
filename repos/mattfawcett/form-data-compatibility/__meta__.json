@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.102935", 
+  "description": "A JS class for building multipart POST requests. Implements similar interface to the native FormData included in modern browsers. [Does not work in IE]", 
+  "fork": false, 
+  "full_name": "mattfawcett/form-data-compatibility", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:30.857198"
+}

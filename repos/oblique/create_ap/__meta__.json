@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.945308", 
+  "description": "This script creates a NATed or Bridged WiFi Access Point.", 
+  "fork": false, 
+  "full_name": "oblique/create_ap", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:57.109520"
+}

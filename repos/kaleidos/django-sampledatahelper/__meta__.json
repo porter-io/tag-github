@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.429158", 
+  "description": "Helper class for generate sample data for django apps development.", 
+  "fork": false, 
+  "full_name": "kaleidos/django-sampledatahelper", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:25.084277"
+}

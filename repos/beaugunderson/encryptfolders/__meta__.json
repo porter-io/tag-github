@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.107657", 
+  "description": "Sets EFS encryption attributes on the specified files and folders", 
+  "fork": false, 
+  "full_name": "beaugunderson/EncryptFolders", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:43:03.479820"
+}

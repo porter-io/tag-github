@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.251709", 
+  "description": "A set of optional extensions to capistrano to make common tasks easier.", 
+  "fork": false, 
+  "full_name": "westarete/capistrano-helpers", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:58.615194"
+}

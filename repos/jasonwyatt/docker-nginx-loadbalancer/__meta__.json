@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.471322", 
+  "description": "Nginx Load Balancer for Docker. It reads links to containers which expose port 80 and generates a suitable Nginx config file at startup.", 
+  "fork": false, 
+  "full_name": "jasonwyatt/docker-nginx-loadbalancer", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:56.424351"
+}

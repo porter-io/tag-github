@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.900959", 
+  "description": "Run QUnit unit tests in a headless PhantomJS instance.", 
+  "fork": false, 
+  "full_name": "gruntjs/grunt-contrib-qunit", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:19.570303"
+}

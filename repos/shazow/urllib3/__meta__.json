@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.888302", 
+  "description": "Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.", 
+  "fork": false, 
+  "full_name": "shazow/urllib3", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:08.192045"
+}

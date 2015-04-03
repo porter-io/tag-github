@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.707310", 
+  "description": "Remove a package and its unused dependencies.", 
+  "fork": false, 
+  "full_name": "invl/pip-autoremove", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:25.391030"
+}

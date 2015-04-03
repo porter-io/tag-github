@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.318844", 
+  "description": "Atom's documentation parser for JavaScript / CoffeeScript", 
+  "fork": false, 
+  "full_name": "atom/atomdoc", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:30:47.791796"
+}

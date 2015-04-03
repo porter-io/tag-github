@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.299244", 
+  "description": "Embed mruby into nginx", 
+  "fork": false, 
+  "full_name": "cubicdaiya/mruby_nginx_module", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:06.431503"
+}

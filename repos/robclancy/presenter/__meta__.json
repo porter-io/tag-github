@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.438797", 
+  "description": "Simple presenter to wrap and render objects. Designed to work with Laravel, but will also work as a stand-alone solution.", 
+  "fork": false, 
+  "full_name": "robclancy/presenter", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:12.453422"
+}

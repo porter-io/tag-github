@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.054851", 
+  "description": "Type-safe library for building parallel applications, built on top of Async's Rpc module.", 
+  "fork": false, 
+  "full_name": "janestreet/rpc_parallel", 
+  "language": "OCaml", 
+  "updated_at": "2015-02-27T23:42:55.246654"
+}

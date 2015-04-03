@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.262818", 
+  "description": "Ruby library to perform server-side tracking into the official Google Analytics Measurement Protocol", 
+  "fork": false, 
+  "full_name": "tpitale/staccato", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:50.981251"
+}

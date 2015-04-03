@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.480153", 
+  "description": "Session library for OpenResty implementing Secure Cookie Protocol.", 
+  "fork": false, 
+  "full_name": "bungle/lua-resty-session", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:42:12.494713"
+}

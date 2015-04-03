@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.172451", 
+  "description": "Escape MongoDB keys for characters . and $", 
+  "fork": false, 
+  "full_name": "segmentio/mongo-key-escape", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:10.737304"
+}

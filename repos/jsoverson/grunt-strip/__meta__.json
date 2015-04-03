@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.083500", 
+  "description": "Strip JavaScript nodes (like console.*) out of your source code ", 
+  "fork": false, 
+  "full_name": "jsoverson/grunt-strip", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:42.298557"
+}

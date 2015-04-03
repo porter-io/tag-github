@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.723842", 
+  "description": "ElasticSearch analysis plugin providing Turkish stemming functionality", 
+  "fork": false, 
+  "full_name": "skroutz/elasticsearch-analysis-turkishstemmer", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:51.734988"
+}

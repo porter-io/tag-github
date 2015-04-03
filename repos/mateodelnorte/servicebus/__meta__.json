@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.215242", 
+  "description": "Simple service bus for sending events between processes using amqp. ", 
+  "fork": false, 
+  "full_name": "mateodelnorte/servicebus", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:21.942191"
+}

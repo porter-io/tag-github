@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.530122", 
+  "description": "Docket - Custom docker registry that allows for lightning fast deploys through bittorrent", 
+  "fork": false, 
+  "full_name": "netvarun/docket", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:23.891371"
+}

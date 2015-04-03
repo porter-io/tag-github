@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.088328", 
+  "description": "C library for encoding, decoding and manipulating JSON data", 
+  "fork": false, 
+  "full_name": "akheron/jansson", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:05.330919"
+}

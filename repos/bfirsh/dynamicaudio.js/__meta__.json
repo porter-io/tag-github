@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.801665", 
+  "description": "An interface for writing audio with Firefox's audio data API with a Flash fall back for older browsers", 
+  "fork": false, 
+  "full_name": "bfirsh/dynamicaudio.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:15.097205"
+}

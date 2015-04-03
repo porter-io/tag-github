@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.840946", 
+  "description": "Bootstrap the creation of ruby gem with sensible default so that we don't have to start from scratch.", 
+  "fork": false, 
+  "full_name": "agilecreativity/gem_bootstrap", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:04:20.795767"
+}

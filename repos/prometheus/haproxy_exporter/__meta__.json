@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.594853", 
+  "description": "Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption", 
+  "fork": false, 
+  "full_name": "prometheus/haproxy_exporter", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:35.100321"
+}

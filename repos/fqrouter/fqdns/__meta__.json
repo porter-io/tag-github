@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.357899", 
+  "description": "DNS proxy and client tailored for anti-GFW", 
+  "fork": false, 
+  "full_name": "fqrouter/fqdns", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:46.128158"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.955738", 
+  "description": "Riak CS is simple, available cloud storage built on Riak.", 
+  "fork": false, 
+  "full_name": "basho/riak_cs", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:43:17.394105"
+}

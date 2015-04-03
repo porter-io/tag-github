@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.243341", 
+  "description": "connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes", 
+  "fork": false, 
+  "full_name": "auth0/express-jwt", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:14.003469"
+}

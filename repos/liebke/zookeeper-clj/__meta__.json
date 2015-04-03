@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.520600", 
+  "description": "A Clojure DSL for Apache ZooKeeper", 
+  "fork": false, 
+  "full_name": "liebke/zookeeper-clj", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:44:30.930279"
+}

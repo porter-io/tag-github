@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.574404", 
+  "description": "Laravel + Stripe = Painless subscription billing.", 
+  "fork": false, 
+  "full_name": "laravel/cashier", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:44:00.328343"
+}

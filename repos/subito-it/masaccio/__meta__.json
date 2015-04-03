@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.905682", 
+  "description": "An Android library providing a useful widget class which automatically detects the presence of faces in the source image and crop it accordingly so to achieve the best visual result.", 
+  "fork": false, 
+  "full_name": "Subito-it/Masaccio", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:54.823667"
+}

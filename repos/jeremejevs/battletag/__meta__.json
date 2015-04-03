@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.579866", 
+  "description": "Adds a right click menu to all server join buttons, where soldier can either type in a new tag or select one of the platoons he's in.", 
+  "fork": false, 
+  "full_name": "jeremejevs/battletag", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:32.144686"
+}

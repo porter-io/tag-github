@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.759063", 
+  "description": "jQuery ajaxTransport extension that uses XDomainRequest for IE8+", 
+  "fork": false, 
+  "full_name": "MoonScript/jQuery-ajaxTransport-XDomainRequest", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:07.123060"
+}

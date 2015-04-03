@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.046808", 
+  "description": "Reflow automatically creates pull requests, ensures the code review is approved, and squash merges finished branches to master with a great commit message template.", 
+  "fork": false, 
+  "full_name": "reenhanced/gitreflow", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:50.151291"
+}

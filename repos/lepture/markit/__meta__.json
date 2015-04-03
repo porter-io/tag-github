@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.884317", 
+  "description": "A markdown parser and compiler with custom rendering. Forked from marked.", 
+  "fork": false, 
+  "full_name": "lepture/markit", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:54.752331"
+}

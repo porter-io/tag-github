@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.446825", 
+  "description": "Mutex locks, Read/Write locks, Condition variables and Semaphores in JavaScript", 
+  "fork": false, 
+  "full_name": "Wizcorp/locks", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:01.368084"
+}

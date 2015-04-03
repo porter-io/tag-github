@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.528821", 
+  "description": "Finds the shortest link between two nodes in a system of unknown relational entities. Wikipedia and Last.fm currently supported.", 
+  "fork": false, 
+  "full_name": "jphastings/relational-shortest-link", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:34.363045"
+}

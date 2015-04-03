@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.945219", 
+  "description": "A list of 31 Javascript refactoring patterns, based on the '31 Days of Refactoring' book by Sean Chambers and Simone Chiaretta, with the applied solutions.", 
+  "fork": false, 
+  "full_name": "tcorral/Refactoring_Patterns", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:06.094436"
+}

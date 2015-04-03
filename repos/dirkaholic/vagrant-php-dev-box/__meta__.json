@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.444003", 
+  "description": "Sets up a basic PHP development box using vagrant based on Ubuntu Precise with Nginx, php-fpm, MongoDB, ...", 
+  "fork": false, 
+  "full_name": "dirkaholic/vagrant-php-dev-box", 
+  "language": "Puppet", 
+  "updated_at": "2015-03-10T07:00:43.645905"
+}

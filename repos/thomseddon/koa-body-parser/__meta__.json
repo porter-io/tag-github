@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.762292", 
+  "description": "Parse the request body in koa like ya' used to in express", 
+  "fork": false, 
+  "full_name": "thomseddon/koa-body-parser", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:37.113993"
+}

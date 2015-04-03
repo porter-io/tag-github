@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.549520", 
+  "description": "connect-memorize allows to store selected middleware responses and serve them later - read - offline mode!", 
+  "fork": false, 
+  "full_name": "panrafal/connect-memorize", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:59.682669"
+}

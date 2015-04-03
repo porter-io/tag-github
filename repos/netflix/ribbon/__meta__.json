@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.308541", 
+  "description": "Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.", 
+  "fork": false, 
+  "full_name": "Netflix/ribbon", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:31.416985"
+}

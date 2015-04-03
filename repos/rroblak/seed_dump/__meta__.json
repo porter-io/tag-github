@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.438211", 
+  "description": "Rails 4 task to dump (parts) of your database to db/seeds.rb", 
+  "fork": false, 
+  "full_name": "rroblak/seed_dump", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:16.394206"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.968612", 
+  "description": "Rack version for the Socket.IO server side (just like Socket.IO-node) -- an unofficial implementation.", 
+  "fork": false, 
+  "full_name": "markjeee/Socket.IO-rack", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:50.709225"
+}

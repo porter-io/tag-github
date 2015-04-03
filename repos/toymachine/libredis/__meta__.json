@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.752108", 
+  "description": "A C based general low-level PHP extension and client library for Redis, focusing on performance, generality and efficient parallel communication with multiple Redis servers. As a bonus, a  Ketama Consistent Hashing implementation is provided as well.", 
+  "fork": false, 
+  "full_name": "toymachine/libredis", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:03:17.386532"
+}

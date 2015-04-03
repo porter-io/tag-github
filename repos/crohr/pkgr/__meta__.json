@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.957124", 
+  "description": "Package any app into deb or rpm packages, using heroku buildpacks", 
+  "fork": false, 
+  "full_name": "crohr/pkgr", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:10.435407"
+}

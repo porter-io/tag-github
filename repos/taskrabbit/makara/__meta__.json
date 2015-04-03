@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.834840", 
+  "description": "A Read-Write Proxy for Connections; Also provides an ActiveRecord adapter.", 
+  "fork": false, 
+  "full_name": "taskrabbit/makara", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:15.140855"
+}

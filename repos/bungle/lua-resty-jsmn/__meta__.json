@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.490689", 
+  "description": "LuaJIT FFI-based jsmn (JSON tokenizer / parser) library for LuaJIT and OpenResty.", 
+  "fork": false, 
+  "full_name": "bungle/lua-resty-jsmn", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:42:12.501683"
+}

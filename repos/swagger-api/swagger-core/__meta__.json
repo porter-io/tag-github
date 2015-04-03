@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.397418", 
+  "description": "Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API", 
+  "fork": false, 
+  "full_name": "swagger-api/swagger-core", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:56.332087"
+}

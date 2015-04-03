@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.231344", 
+  "description": "Transform stream that converts srt files to vtt files (html5 video subtitles)", 
+  "fork": false, 
+  "full_name": "mafintosh/srt-to-vtt", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:14.798693"
+}

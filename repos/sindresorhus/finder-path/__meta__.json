@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.627084", 
+  "description": "Get the path of the current directory in Finder (OS X)", 
+  "fork": false, 
+  "full_name": "sindresorhus/finder-path", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.963816"
+}

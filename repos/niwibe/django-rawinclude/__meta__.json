@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.379539", 
+  "description": "Small module for django that gives the ease of loading templates in raw. This really is useful for embedding javascript templates with sintaxys similar to django.", 
+  "fork": false, 
+  "full_name": "niwibe/django-rawinclude", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:03:48.611685"
+}

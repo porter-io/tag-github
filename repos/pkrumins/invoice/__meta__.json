@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.301113", 
+  "description": "generate pdf invoices from latex via pdflatex", 
+  "fork": false, 
+  "full_name": "pkrumins/invoice", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:30:51.567636"
+}

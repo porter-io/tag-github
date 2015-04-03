@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.895485", 
+  "description": "Demonstration of graceful shutdown on SIGTERM", 
+  "fork": false, 
+  "full_name": "adamwiggins/sigterm", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:23.633819"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.830255", 
+  "description": "A blockchain-based DNS + HTTP server that fixes HTTPS security, and more!", 
+  "fork": false, 
+  "full_name": "okTurtles/dnschain", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:41:14.900671"
+}

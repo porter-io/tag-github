@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.094603", 
+  "description": "throttling strategies for HTTP handlers", 
+  "fork": false, 
+  "full_name": "PuerkitoBio/throttled", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:39.981400"
+}

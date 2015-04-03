@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.765197", 
+  "description": "Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js", 
+  "fork": false, 
+  "full_name": "thomseddon/node-oauth2-server", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:37.118550"
+}

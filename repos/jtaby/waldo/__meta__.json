@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.107530", 
+  "description": "A generic port of TextMate's Find-In-Project, with associated MacVim plugin", 
+  "fork": false, 
+  "full_name": "jtaby/Waldo", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:43:17.625798"
+}

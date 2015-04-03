@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.314145", 
+  "description": "TeamToy\u662f\u8de8\u5e73\u53f0\u7684\u56e2\u961fTODO\u5e94\u7528\uff0c\u5b98\u7f51 TeamToy.net\u3002 TeamToyPocket\u662f\u5176\u79fb\u52a8\u5ba2\u6237\u7aef\u3002\u672c\u9879\u76ee\u91c7\u7528GPLV2\u534f\u8bae\uff0c\u672c\u5206\u652f\u4ee3\u7801\u7528\u4e8e\u5728\u65b0\u6d6a\u79fb\u52a8\u4e91\u4e0a\u76f4\u63a5\u6253\u5305\u3002\u5982\u679c\u81ea\u884c\u7528PhoneGap\u6253\u5305\uff0c\u8bf7\u5c06\u4ee3\u7801\u4e2d<phonegap></phonegap>\u6362\u6210phonegap.js\u7684\u8def\u5f84\u3002", 
+  "fork": false, 
+  "full_name": "easychen/TeamToy-Pocket", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:02.476156"
+}

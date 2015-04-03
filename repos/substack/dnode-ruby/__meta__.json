@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.973551", 
+  "description": "Asynchronous remote method calls with transparently wrapped callbacks... in ruby!", 
+  "fork": false, 
+  "full_name": "substack/dnode-ruby", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:15.796819"
+}

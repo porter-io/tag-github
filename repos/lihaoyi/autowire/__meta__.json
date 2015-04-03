@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.252316", 
+  "description": "Macros for simple/safe RPCs between Scala applications, including ScalaJS/ScalaJVM", 
+  "fork": false, 
+  "full_name": "lihaoyi/autowire", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:22.199978"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.912378", 
+  "description": "working with node.js buffers made easy", 
+  "fork": false, 
+  "full_name": "bnoordhuis/node-buffertools", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:00:56.375449"
+}

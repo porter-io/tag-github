@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.722338", 
+  "description": "Regular expression for matching ANSI escape codes", 
+  "fork": false, 
+  "full_name": "sindresorhus/ansi-regex", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.159350"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.736940", 
+  "description": "Gives you `manage.py runserver --pdb` and `manage.py test --pdb`", 
+  "fork": false, 
+  "full_name": "tomchristie/django-pdb", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:41.950433"
+}

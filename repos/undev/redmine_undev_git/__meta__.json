@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.145706", 
+  "description": "Plugin adds to Redmine ability to work with remote repositories and hooks support", 
+  "fork": false, 
+  "full_name": "Undev/redmine_undev_git", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:24.895203"
+}

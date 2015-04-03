@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.010196", 
+  "description": "Comsat-Ring Leiningen template using Moustache, ClojureScript, core.async and Om", 
+  "fork": true, 
+  "full_name": "puniverse/comsat-ring-template", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T22:27:51.010314"
+}

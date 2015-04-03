@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.777881", 
+  "description": "Servee is a subclassed django.contrib.admin meant for content editors.  It's strongly tied to wysiwyg components.  We need help developing and can be found @servee.com and #servee on freenode.  Current active development is leading up to 0.6", 
+  "fork": false, 
+  "full_name": "servee/servee", 
+  "language": "CSS", 
+  "updated_at": "2015-02-27T23:44:31.136012"
+}

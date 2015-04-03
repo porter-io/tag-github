@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.996996", 
+  "description": "Traverse and transform objects by visiting every node on a recursive walk.", 
+  "fork": false, 
+  "full_name": "substack/js-traverse", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.819044"
+}

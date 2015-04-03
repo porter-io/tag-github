@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.895610", 
+  "description": "This is an example cookbook, showing how to pass secrets to test-kitchen via conjur", 
+  "fork": false, 
+  "full_name": "conjurdemos/conjur-kitchen", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:05.566052"
+}

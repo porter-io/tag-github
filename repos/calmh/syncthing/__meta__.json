@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.812030", 
+  "description": "This is my personal fork of the repo, not the official one! It may be outdated, broken, rebased upon and generally screwed around with. Don't watch it, star it, or fork from it! :)", 
+  "fork": true, 
+  "full_name": "calmh/syncthing", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T22:27:33.813275"
+}

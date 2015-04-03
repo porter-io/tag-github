@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.513619", 
+  "description": "Create binstubs to easily dispatch the heroku command for specific apps", 
+  "fork": false, 
+  "full_name": "tpope/heroku-binstubs", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:43.889460"
+}

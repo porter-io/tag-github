@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.547672", 
+  "description": "Check if a Buffer/Uint8Array is a TIFF image", 
+  "fork": false, 
+  "full_name": "sindresorhus/is-tif", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:19.495985"
+}

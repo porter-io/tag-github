@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.330007", 
+  "description": "Extensions to allow Safari to auto form-fill passwords via KeePassHTTP", 
+  "fork": false, 
+  "full_name": "mmichaa/passafari.safariextension", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:44.703583"
+}

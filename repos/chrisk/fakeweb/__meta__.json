@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.101804", 
+  "description": "Ruby test helper for injecting fake responses to web requests", 
+  "fork": false, 
+  "full_name": "chrisk/fakeweb", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:08.506179"
+}

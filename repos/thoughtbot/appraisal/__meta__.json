@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.397232", 
+  "description": "A Ruby library for testing your library against different versions of dependencies.", 
+  "fork": false, 
+  "full_name": "thoughtbot/appraisal", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:49.728362"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.049896", 
+  "description": "candor.io is a server framework that uses the candor language combined with libuv to make fast scripted network servers.", 
+  "fork": false, 
+  "full_name": "creationix/candor.io", 
+  "language": "C++", 
+  "updated_at": "2015-04-01T19:29:53.882075"
+}

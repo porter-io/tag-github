@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.296432", 
+  "description": "Base Sinatra template with support for active_record and mongoid", 
+  "fork": false, 
+  "full_name": "gmanley/sinatra_template", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:03.911586"
+}

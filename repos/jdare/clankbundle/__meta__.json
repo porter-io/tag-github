@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.076973", 
+  "description": "A Symfony2 Bundle for use with Ratchet WebSocket Server", 
+  "fork": false, 
+  "full_name": "JDare/ClankBundle", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:11.548744"
+}

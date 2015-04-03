@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.343083", 
+  "description": "A lot of talking about AJAX is taking place here and there; AJAX is the acronym of \"Asynchronous JavaScript and XML\", a technology based on XMLHttpRequest, which is now supported by all main browsers. The basic idea is quite simple - and not actually a breakthrough - but it allows updating a page following a server request, without reloading the entire set of data.  We propose a solution based on AJAX that has a great advantage with respect to those commonly found in Internet: calls are made to the Web Services.", 
+  "fork": false, 
+  "full_name": "introkun/JavaScript-SOAP-Client", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:48.910583"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.824621", 
+  "description": "Deploy a middleman built site over rsync, ftp, stfp, or git (e.g. gh-pages on github).", 
+  "fork": false, 
+  "full_name": "karlfreeman/middleman-deploy", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:01.735845"
+}

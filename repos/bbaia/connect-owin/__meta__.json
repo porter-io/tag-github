@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.243179", 
+  "description": "Node.js connect middleware for .NET using OWIN", 
+  "fork": false, 
+  "full_name": "bbaia/connect-owin", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T07:04:26.429615"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.853626", 
+  "description": "An Angular.js Date/Time picker directive that stresses speed of data entry and configuration", 
+  "fork": false, 
+  "full_name": "adamalbrecht/ngQuickDate", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:01:48.565562"
+}

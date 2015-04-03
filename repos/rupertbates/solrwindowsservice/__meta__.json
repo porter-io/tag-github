@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.747121", 
+  "description": "A Windows service which will run Solr", 
+  "fork": false, 
+  "full_name": "rupertbates/SolrWindowsService", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T07:03:40.747623"
+}

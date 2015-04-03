@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.617972", 
+  "description": " Warewolf  Easy Service Bus (ESB) is used for designing, orchestrating and implementing communication between software applications. It handles messaging, routing, and service co-ordination in a SOA framework. It's 100% open source and free. This repository includes the code-base for the Warewolf Studio and Server.", 
+  "fork": false, 
+  "full_name": "Warewolf-ESB/Warewolf-ESB", 
+  "language": "C#", 
+  "updated_at": "2015-04-01T19:31:03.206423"
+}

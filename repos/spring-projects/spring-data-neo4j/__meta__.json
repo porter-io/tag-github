@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.219503", 
+  "description": "Provides support to increase developer productivity in Java when using the neo4j graph database. Uses familiar Spring concepts such as a template classes for core API usage and provides an annotation based programming model using AspectJ", 
+  "fork": false, 
+  "full_name": "spring-projects/spring-data-neo4j", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:00.982849"
+}

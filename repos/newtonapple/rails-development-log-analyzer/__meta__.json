@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.247317", 
+  "description": "Analyze Rails development log for SQL generated and give some overall statistics about number of queries generated and how fast they run.", 
+  "fork": false, 
+  "full_name": "newtonapple/rails-development-log-analyzer", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:34.607714"
+}

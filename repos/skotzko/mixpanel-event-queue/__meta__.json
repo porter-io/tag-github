@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.241813", 
+  "description": "Wrapper for Mixpanel JS API to allow for event queuing and easy calls into the API at any point in the page load.", 
+  "fork": false, 
+  "full_name": "skotzko/mixpanel-event-queue", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:37.777745"
+}

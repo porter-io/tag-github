@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.769685", 
+  "description": "Integration between Django and the Varnish HTTP accelerator using the management port and telnet", 
+  "fork": false, 
+  "full_name": "justquick/django-varnish", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:40.960818"
+}

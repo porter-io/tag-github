@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.646872", 
+  "description": "A minimal shell script that executes a given command each time a specified file or directory changes", 
+  "fork": false, 
+  "full_name": "Dinduks/change-execute-loop", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:55.450958"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.658812", 
+  "description": "Complete Animated GIF Support for iOS, with Functions, NSJSONSerialization-style Class, and (Optional) UIImage Swizzling", 
+  "fork": false, 
+  "full_name": "mattt/AnimatedGIFImageSerialization", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:00:51.506671"
+}

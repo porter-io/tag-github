@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.283311", 
+  "description": "A minimal but effective logging mechanism with support for log levels and pluggable log appenders.", 
+  "fork": false, 
+  "full_name": "aurelia/logging", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:49.994300"
+}

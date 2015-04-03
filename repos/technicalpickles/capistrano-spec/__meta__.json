@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.937600", 
+  "description": "Helpers and matchers for testing capistrano", 
+  "fork": false, 
+  "full_name": "technicalpickles/capistrano-spec", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:08.237442"
+}

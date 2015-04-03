@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.600588", 
+  "description": "Git submodule support for Capistrano 3", 
+  "fork": false, 
+  "full_name": "i-ekho/capistrano-git-submodule-strategy", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:26.369563"
+}

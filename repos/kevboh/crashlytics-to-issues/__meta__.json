@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.989950", 
+  "description": "Small, heroku-compatible node app to listen for Crashlytics web hooks and create corresponding Github issues.", 
+  "fork": false, 
+  "full_name": "kevboh/crashlytics-to-issues", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:55.118829"
+}

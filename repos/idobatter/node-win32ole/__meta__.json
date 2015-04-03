@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.642711", 
+  "description": "Asynchronous, non-blocking win32ole bindings for node.js .", 
+  "fork": false, 
+  "full_name": "idobatter/node-win32ole", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:00:52.472996"
+}

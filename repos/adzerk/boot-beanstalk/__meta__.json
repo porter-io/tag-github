@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.026736", 
+  "description": "Boot task to manage deployment of artifacts to Amazon Elastic Beanstalk", 
+  "fork": false, 
+  "full_name": "adzerk/boot-beanstalk", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:00.118330"
+}

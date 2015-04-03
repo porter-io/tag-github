@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.273433", 
+  "description": "Erlang module to parse command line arguments using the GNU getopt syntax", 
+  "fork": false, 
+  "full_name": "jcomellas/getopt", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:42:41.852892"
+}

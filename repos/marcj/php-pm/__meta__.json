@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.235816", 
+  "description": "CLI process manager for modern Request-Response PHP Applications - with a builtin load-balancer.", 
+  "fork": false, 
+  "full_name": "marcj/php-pm", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:31.136346"
+}

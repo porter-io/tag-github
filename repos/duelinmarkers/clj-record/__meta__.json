@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.478957", 
+  "description": "DEPRECATED: A pseudo-port of ActiveRecord to the Clojure programming language", 
+  "fork": false, 
+  "full_name": "duelinmarkers/clj-record", 
+  "language": "Clojure", 
+  "updated_at": "2015-04-01T19:30:21.076846"
+}

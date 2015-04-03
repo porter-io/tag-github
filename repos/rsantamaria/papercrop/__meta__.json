@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.288900", 
+  "description": "An easy extension for Paperclip to crop your image uploads using jCrop.", 
+  "fork": false, 
+  "full_name": "rsantamaria/papercrop", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:07.617300"
+}

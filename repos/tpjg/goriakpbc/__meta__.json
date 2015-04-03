@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.168427", 
+  "description": "A golang riak client inspired by the Ruby riak-client from Basho and riakpbc from mrb", 
+  "fork": false, 
+  "full_name": "tpjg/goriakpbc", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:58.628164"
+}

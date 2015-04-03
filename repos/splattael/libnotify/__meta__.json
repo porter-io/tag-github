@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.013751", 
+  "description": "Ruby bindings for libnotify using FFI.", 
+  "fork": false, 
+  "full_name": "splattael/libnotify", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:12.281613"
+}

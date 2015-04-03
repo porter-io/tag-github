@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.500841", 
+  "description": "Data migrations for Mongoid.", 
+  "fork": false, 
+  "full_name": "adacosta/mongoid_rails_migrations", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:00.280856"
+}

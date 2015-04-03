@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.048663", 
+  "description": "A gopush(https://github.com/Terry-Mao/gopush-cluster/) client for iOS and MacOSX", 
+  "fork": false, 
+  "full_name": "gdier/CocoaGoPush", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:02:35.419260"
+}

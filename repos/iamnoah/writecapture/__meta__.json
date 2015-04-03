@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.236678", 
+  "description": "Utility to assist the Ajax loading of HTML containing script tags that use document.write. Mailing List: http://groups.google.com/group/writecapturejs-users", 
+  "fork": false, 
+  "full_name": "iamnoah/writeCapture", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:19.845624"
+}

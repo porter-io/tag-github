@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.434128", 
+  "description": "Strip console statements from a rocambole AST", 
+  "fork": false, 
+  "full_name": "sindresorhus/rocambole-strip-console", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.495068"
+}

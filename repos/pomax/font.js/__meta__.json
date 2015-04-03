@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.794603", 
+  "description": "This library adds a new Font() object to the JavaScript toolbox, similar to new Image() for images", 
+  "fork": false, 
+  "full_name": "Pomax/Font.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:29.724649"
+}

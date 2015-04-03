@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.159041", 
+  "description": "Git mirror of spatialreference.org. Also a test to see how Git deals with thousands of tiny files (spoiler: not well).", 
+  "fork": false, 
+  "full_name": "migurski/spatialreference", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:11.361766"
+}

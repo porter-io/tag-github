@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.744095", 
+  "description": "Run .NET and Node.js code in-process on Windows, MacOS, and Linux", 
+  "fork": false, 
+  "full_name": "tjanczuk/edge", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:04:23.293323"
+}

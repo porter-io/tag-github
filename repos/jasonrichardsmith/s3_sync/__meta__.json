@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.341225", 
+  "description": "Bash script to automatically sync directories with S3 utilizing inotifywatch", 
+  "fork": false, 
+  "full_name": "jasonrichardsmith/s3_sync", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:09.517922"
+}

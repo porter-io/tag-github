@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.836422", 
+  "description": "HotQueue is a Python library that allows you to use Redis as a message queue within your Python programs.", 
+  "fork": false, 
+  "full_name": "richardhenry/hotqueue", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:05.107210"
+}

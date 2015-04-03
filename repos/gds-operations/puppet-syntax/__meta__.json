@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.181019", 
+  "description": "Syntax checks for Puppet manifests and templates", 
+  "fork": false, 
+  "full_name": "gds-operations/puppet-syntax", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:03.617624"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.355555", 
+  "description": "Fastsocket is a highly scalable socket and its underlying networking implementation of Linux kernel. With the straight linear scalability, Fastsocket can provide extremely good performance in multicore machines. In addition, it is very easy to use and maintain. As a result, it has been deployed in the production environment of SINA.", 
+  "fork": false, 
+  "full_name": "fastos/fastsocket", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:15.040045"
+}

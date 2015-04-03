@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.387002", 
+  "description": "Regular expression for matching email addresses", 
+  "fork": false, 
+  "full_name": "sindresorhus/email-regex", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.820311"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.848666", 
+  "description": "A jquery plugin which allows us to quickly check if an element  is within the browsers visual viewport regardless of the window scroll position", 
+  "fork": false, 
+  "full_name": "customd/jquery-visible", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:11.371689"
+}

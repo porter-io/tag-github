@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.414524", 
+  "description": "Dendrite adds all your logs to a single structured log stream, so you can search, graph, and analyze easier.", 
+  "fork": false, 
+  "full_name": "omc/dendrite", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:00.567924"
+}

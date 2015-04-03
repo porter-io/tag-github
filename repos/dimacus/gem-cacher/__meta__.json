@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.918056", 
+  "description": "A simple sinatra app designed to cache gem services between rubygems.org and local network", 
+  "fork": false, 
+  "full_name": "dimacus/gem-cacher", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:03.185243"
+}

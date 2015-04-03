@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.100315", 
+  "description": "Fork of Heroku's Ruby Buildpack with added support for compiling Jekyll sites.", 
+  "fork": true, 
+  "full_name": "mattmanning/heroku-buildpack-ruby-jekyll", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:55.101781"
+}

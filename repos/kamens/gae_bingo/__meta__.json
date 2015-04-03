@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.117945", 
+  "description": "Ready-in-minutes split-testing framework for App Engine, built for Khan Academy and inspired by A/Bingo", 
+  "fork": false, 
+  "full_name": "kamens/gae_bingo", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:30:32.969510"
+}

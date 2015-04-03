@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.100650", 
+  "description": "Handle PHP errors, dump variables, execute PHP code remotely in Google Chrome", 
+  "fork": false, 
+  "full_name": "barbushin/php-console", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:58.514520"
+}

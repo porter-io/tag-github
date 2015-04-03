@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.120643", 
+  "description": "An implementation for SQLAlchemy-based applications of the nested-sets/modified-pre-order-tree-traversal technique for storing hierarchical data in a relational database.", 
+  "fork": false, 
+  "full_name": "monetizeio/sqlalchemy-orm-tree", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:03.486491"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.782869", 
+  "description": "Automatically grant access to addressbook/photos in your tests (Simulator only)", 
+  "fork": false, 
+  "full_name": "plu/JPSimulatorHacks", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:14.750833"
+}

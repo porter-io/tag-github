@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.557396", 
+  "description": "This is a basic/standard grunt setup for a lot of stuff, easy interaction with laravel!", 
+  "fork": false, 
+  "full_name": "RobinMalfait/BasicGrunt", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:23.209361"
+}

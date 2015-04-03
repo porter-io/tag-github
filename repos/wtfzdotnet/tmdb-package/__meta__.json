@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.775813", 
+  "description": "Laravel Package for TMDB ( The Movie Database ) API. Provides easy access to the wtfzdotnet/php-tmdb-api library.", 
+  "fork": false, 
+  "full_name": "wtfzdotnet/tmdb-package", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:20.615759"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.339525", 
+  "description": "A collection of test cases crashing the Swift compiler.", 
+  "fork": false, 
+  "full_name": "practicalswift/swift-compiler-crashes", 
+  "language": "Swift", 
+  "updated_at": "2015-02-27T23:42:53.246868"
+}

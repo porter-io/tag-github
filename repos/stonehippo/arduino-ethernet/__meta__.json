@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.301851", 
+  "description": "Arduino utilities for networking, including DHCP, DNS, and Bonjour (ZeroConf)", 
+  "fork": false, 
+  "full_name": "stonehippo/arduino-ethernet", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:44:01.360536"
+}

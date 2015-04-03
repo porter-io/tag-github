@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.563954", 
+  "description": "GO implementation of GeoHashing Latitude & Longitude (node.js version here: https://github.com/gnagel/node-geohash-cpp)", 
+  "fork": false, 
+  "full_name": "gnagel/go-geohash", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:03:49.927807"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.550987", 
+  "description": "node-msgpack-rpc is an implementation of the Msgpack-RPC protocol specification for node.js.", 
+  "fork": false, 
+  "full_name": "bpot/node-msgpack-rpc", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:57.246026"
+}

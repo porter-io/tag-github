@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.656185", 
+  "description": "A markup parser that outputs html and text.  Syntax is similar to MediaWiki.", 
+  "fork": false, 
+  "full_name": "rdblue/marker", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:57.317607"
+}

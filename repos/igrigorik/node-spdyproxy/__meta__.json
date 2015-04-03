@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.692293", 
+  "description": "SPDY forwarding proxy - fast and secure", 
+  "fork": false, 
+  "full_name": "igrigorik/node-spdyproxy", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:26.486603"
+}

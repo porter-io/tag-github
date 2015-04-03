@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.597918", 
+  "description": "A simple HTTP server, implemented as a Mac command-line application. The source code, aside from main.m, is designed to work on either Mac or iOS.", 
+  "fork": false, 
+  "full_name": "AlanQuatermain/SimpleHTTPServer", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:03.548542"
+}

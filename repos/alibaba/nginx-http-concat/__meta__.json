@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.280600", 
+  "description": "A Nginx module for concatenating files in a given context: CSS and JS files usually", 
+  "fork": false, 
+  "full_name": "alibaba/nginx-http-concat", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:02:53.770350"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.487871", 
+  "description": "An iOS pre-permissions utility that lets developers ask users on their own dialog for calendar, contacts, location, photos, reminders, twitter, push notifications and more, before making the system-based permission request.", 
+  "fork": false, 
+  "full_name": "jlaws/JLPermissions", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:00:52.356186"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.327659", 
+  "description": "Allows to update complex objects without triggering validations or callbacks.", 
+  "fork": true, 
+  "full_name": "partyearth/sneaky-save", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:18.327713"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.490639", 
+  "description": "Adds support for shallow and deep forking (copying) Django model instances.", 
+  "fork": false, 
+  "full_name": "chop-dbhi/django-forkit", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:04.849920"
+}

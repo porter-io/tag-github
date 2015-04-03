@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.496387", 
+  "description": "A Leiningen plugin designed to tell you your code is bad, and that you should feel bad", 
+  "fork": false, 
+  "full_name": "dakrone/lein-bikeshed", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:57.205545"
+}

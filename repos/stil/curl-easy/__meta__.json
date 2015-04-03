@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.242832", 
+  "description": "cURL wrapper for PHP. Supports parallel and non-blocking requests. For high speed crawling, see stil/curl-robot", 
+  "fork": false, 
+  "full_name": "stil/curl-easy", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:57.021171"
+}

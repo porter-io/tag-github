@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.254088", 
+  "description": "Firefox extention for cross-site requests control (kind of RequestPolicy clone)", 
+  "fork": false, 
+  "full_name": "futpib/policeman", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:41:56.238687"
+}

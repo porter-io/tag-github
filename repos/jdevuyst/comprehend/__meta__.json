@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.965814", 
+  "description": "Clojure in-memory database modeled on sets, not tables. Comprehend supports pattern matching, forward matching, rewriting, and transactional storage.", 
+  "fork": false, 
+  "full_name": "jdevuyst/comprehend", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:19.562978"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.482298", 
+  "description": "Golang HTTP Logged transport. It wraps an HTTP Transport to help log metadata about HTTP API logs and responses.", 
+  "fork": false, 
+  "full_name": "ernesto-jimenez/httplogger", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:05.771477"
+}

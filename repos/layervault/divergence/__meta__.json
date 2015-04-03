@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.809654", 
+  "description": "A HTTP proxy that lets you map subdomains to git branches for site testing", 
+  "fork": false, 
+  "full_name": "layervault/divergence", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:23.574702"
+}

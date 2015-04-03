@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.290112", 
+  "description": "A sample project which runs specflow tests simultaneously on different BrowserStack configurations", 
+  "fork": false, 
+  "full_name": "Kennethtruyers/SpecFlow.BrowserStack", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:41:51.415347"
+}

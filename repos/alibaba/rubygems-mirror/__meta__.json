@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.272051", 
+  "description": "The `gem mirror` RubyGems command, creates local mirrors of all gems from a remote gem source.", 
+  "fork": true, 
+  "full_name": "alibaba/rubygems-mirror", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:35.272124"
+}

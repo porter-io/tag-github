@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.389976", 
+  "description": "BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.", 
+  "fork": false, 
+  "full_name": "jvilk/BrowserFS", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:19.994883"
+}

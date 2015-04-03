@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.744166", 
+  "description": "jclouds is an open source library that helps you get started in the cloud and reuse your java development skills. Our api allows you to freedom to use portable abstractions or cloud-specific features. We support many clouds including Amazon, VMWare, Azure, and Rackspace.", 
+  "fork": false, 
+  "full_name": "jclouds/legacy-jclouds", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:13.812753"
+}

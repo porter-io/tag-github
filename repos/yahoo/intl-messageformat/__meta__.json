@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.106365", 
+  "description": "Format a string with placeholders, including plural and select support to create localized messages.", 
+  "fork": false, 
+  "full_name": "yahoo/intl-messageformat", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:25.832772"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.235933", 
+  "description": "Combine an array of streams into a single duplex stream using pump and duplexify", 
+  "fork": false, 
+  "full_name": "mafintosh/pumpify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:14.811115"
+}

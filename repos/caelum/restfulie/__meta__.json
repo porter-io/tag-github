@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.963558", 
+  "description": "CRUD through HTTP is a good step forward to using resources and becoming RESTful. Another step further into it is to make use of hypermedia-based services and the Restfulie gem allows you to do it very quickly.", 
+  "fork": false, 
+  "full_name": "caelum/restfulie", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:55.005973"
+}

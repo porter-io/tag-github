@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.244436", 
+  "description": "R bindings to the libgit2 library", 
+  "fork": false, 
+  "full_name": "ropensci/git2r", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:12.676219"
+}

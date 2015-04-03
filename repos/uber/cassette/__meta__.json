@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.964777", 
+  "description": "Store and replay HTTP requests made in your Python app", 
+  "fork": false, 
+  "full_name": "uber/cassette", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:25.881956"
+}

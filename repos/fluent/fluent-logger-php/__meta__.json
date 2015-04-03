@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.489081", 
+  "description": "A structured logger for Fluentd (PHP)", 
+  "fork": false, 
+  "full_name": "fluent/fluent-logger-php", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:40.239029"
+}

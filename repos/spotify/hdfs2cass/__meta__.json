@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.355824", 
+  "description": "Hadoop mapreduce job to bulk load data into Cassandra", 
+  "fork": false, 
+  "full_name": "spotify/hdfs2cass", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:27.505175"
+}

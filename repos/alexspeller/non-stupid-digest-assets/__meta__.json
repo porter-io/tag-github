@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.692173", 
+  "description": "Fix the Rails 4 asset pipeline to generate non-digest along with digest assets", 
+  "fork": false, 
+  "full_name": "alexspeller/non-stupid-digest-assets", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:32.356413"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.763289", 
+  "description": " Loads environment variables from `.env` in your shell", 
+  "fork": false, 
+  "full_name": "gchaincl/dotenv.sh", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:44:30.032662"
+}

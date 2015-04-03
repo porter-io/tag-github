@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.440858", 
+  "description": "Jeffrey Wilcke's Go implementation of the Ethereum y/w paper", 
+  "fork": false, 
+  "full_name": "ethereum/go-ethereum", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:08.343716"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.708199", 
+  "description": "Auto load js file,Auto restart child process, Multi child process listen multi port", 
+  "fork": false, 
+  "full_name": "DoubleSpout/ClusterPlus", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:32.017648"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.485575", 
+  "description": "Process ANSI escape sequences for Windows console programs.", 
+  "fork": false, 
+  "full_name": "adoxa/ansicon", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:04:14.632674"
+}

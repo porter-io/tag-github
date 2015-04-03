@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.657947", 
+  "description": "C program to properly daemonize naughty programs", 
+  "fork": false, 
+  "full_name": "nateware/launch-daemon", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:12.169557"
+}

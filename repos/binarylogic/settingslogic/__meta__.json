@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.480868", 
+  "description": "A simple and straightforward settings solution that uses an ERB enabled YAML file and a singleton design pattern.", 
+  "fork": false, 
+  "full_name": "binarylogic/settingslogic", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:58.898363"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.666556", 
+  "description": "An HTTP client for Clojure (DEPRECATED)", 
+  "fork": false, 
+  "full_name": "technomancy/clojure-http-client", 
+  "language": "Clojure", 
+  "updated_at": "2015-04-01T19:30:01.351028"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.580954", 
+  "description": "A search engine built on top of couchdb-lucene", 
+  "fork": false, 
+  "full_name": "clofresh/couch-crawler", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:33.195199"
+}

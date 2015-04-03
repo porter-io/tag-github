@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.026333", 
+  "description": "A plugin that allows jenkins to build merge requests in Gitlab", 
+  "fork": false, 
+  "full_name": "timols/jenkins-gitlab-merge-request-builder-plugin", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:57.281350"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.852017", 
+  "description": "convert your DOM into physical objects using this awesome jQuery wrapper around box2d-web", 
+  "fork": false, 
+  "full_name": "franzenzenhofer/box2d-jquery", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:46.718152"
+}

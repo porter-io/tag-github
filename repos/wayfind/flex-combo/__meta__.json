@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.189666", 
+  "description": "The Flex-combo is a javascript and css file combo server.  It support various kinds of combo format by modify configuration(eg. yahoo combo). Default, it's a taobao format combo.", 
+  "fork": false, 
+  "full_name": "wayfind/flex-combo", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:07.986995"
+}

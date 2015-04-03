@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.000965", 
+  "description": "Convert xslx to csv, it is fast, and works for huge xlsx files", 
+  "fork": false, 
+  "full_name": "dilshod/xlsx2csv", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:56.882512"
+}

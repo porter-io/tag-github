@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.378496", 
+  "description": "Encode a set of form elements as a JSON object for manipulation/submission.", 
+  "fork": false, 
+  "full_name": "hongymagic/jQuery.serializeObject", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:40.003624"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.683049", 
+  "description": "udev rules and helpful programs to defend your system", 
+  "fork": false, 
+  "full_name": "ioerror/udev_antiforensics", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:41:52.558100"
+}

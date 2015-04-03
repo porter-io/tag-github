@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.079372", 
+  "description": "An iOS manager for presenting system-wide notifications via a dropdown message bar.", 
+  "fork": false, 
+  "full_name": "terryworona/TWMessageBarManager", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:03:20.950203"
+}

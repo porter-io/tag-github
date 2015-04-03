@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.952894", 
+  "description": "Enhanced try and throw for Clojure leveraging Clojure's capabilities", 
+  "fork": false, 
+  "full_name": "scgilardi/slingshot", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:54.967185"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.899389", 
+  "description": "prelude.ls is a functionally oriented utility library - powerful and flexible, almost all of functions are curried. It is written in, and is the recommended base library for, http://livescript.net", 
+  "fork": false, 
+  "full_name": "gkz/prelude-ls", 
+  "language": "LiveScript", 
+  "updated_at": "2015-02-27T23:44:02.001231"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.611146", 
+  "description": "Tool to view and create Microsoft shim database files (SDB).", 
+  "fork": false, 
+  "full_name": "evil-e/sdb-explorer", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:23.692791"
+}

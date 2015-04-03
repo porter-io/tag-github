@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.090493", 
+  "description": "This package will run various script files inside of Atom. It currently supports JavaScript, CoffeeScript, Ruby, and Python. You can add more.", 
+  "fork": false, 
+  "full_name": "lsegal/atom-runner", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:28:58.601328"
+}

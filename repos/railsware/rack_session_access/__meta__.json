@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.750931", 
+  "description": "Rack middleware that provides access to rack.session environment", 
+  "fork": false, 
+  "full_name": "railsware/rack_session_access", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:30.002751"
+}

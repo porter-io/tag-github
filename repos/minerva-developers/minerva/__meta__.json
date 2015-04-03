@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.055342", 
+  "description": "Minerva: a fast and flexible tool for deep learning. It provides ndarray programming interface, just like Numpy. Python bindings and C++ bindings are both available. The resulting code can be run on CPU or GPU. Multi-GPU support is very easy. Please refer to the examples to see how multi-GPU setting is used.", 
+  "fork": false, 
+  "full_name": "minerva-developers/minerva", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:18.867834"
+}

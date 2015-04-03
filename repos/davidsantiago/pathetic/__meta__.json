@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.406424", 
+  "description": "Simple unix-style path manipulation in Clojure.", 
+  "fork": false, 
+  "full_name": "davidsantiago/pathetic", 
+  "language": "Clojure", 
+  "updated_at": "2015-03-10T07:04:04.537635"
+}

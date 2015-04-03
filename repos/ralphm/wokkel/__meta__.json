@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.772711", 
+  "description": "Wokkel is collection of enhancements on top of the Twisted networking framework, written in Python. It mostly provides a testing ground for enhancements to the Jabber/XMPP protocol implementation as found in Twisted Words, that are meant to eventually move there.", 
+  "fork": false, 
+  "full_name": "ralphm/wokkel", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:31:33.820011"
+}

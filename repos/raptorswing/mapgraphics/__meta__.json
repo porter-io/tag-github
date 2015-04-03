@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.792681", 
+  "description": "A tile-based \"slippy map\" library written in/for C++/Qt. It's meant to enable C++/Qt developers to easily add nice, interactive maps to their applications. Supports zooming, rotating, interactive custom map objects, transparency, etc. It is a Qt map widget that can use tiles from MapQuest, Openstreetmap, or a custom source you define.", 
+  "fork": false, 
+  "full_name": "raptorswing/MapGraphics", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:44:31.148664"
+}

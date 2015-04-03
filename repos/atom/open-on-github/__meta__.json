@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.334412", 
+  "description": "Atom package for opening files on GitHub.com", 
+  "fork": false, 
+  "full_name": "atom/open-on-github", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:55:01.902396"
+}

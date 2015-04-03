@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.970407", 
+  "description": "An implementation of the FP-growth algorithm in pure Python.", 
+  "fork": false, 
+  "full_name": "enaeseth/python-fp-growth", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:39.837960"
+}

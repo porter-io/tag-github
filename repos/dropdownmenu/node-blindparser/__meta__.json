@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.978155", 
+  "description": "blindparser is an all purpose RSS/ATOM feed parser that parses feeds into a common format so that you do not have to care if they are RSS or ATOM feeds", 
+  "fork": false, 
+  "full_name": "dropdownmenu/node-blindparser", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:57.592828"
+}

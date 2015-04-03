@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.177294", 
+  "description": "Guard::RSpec automatically run your specs (much like autotest)", 
+  "fork": false, 
+  "full_name": "guard/guard-rspec", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:12.634254"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.592641", 
+  "description": "This is a sample app using Node, Connect, Express, Jade, Stylus, file upload, sessions, encryption and authentication.", 
+  "fork": false, 
+  "full_name": "rbiggs/Node-Express-Example--Products", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:07.672937"
+}

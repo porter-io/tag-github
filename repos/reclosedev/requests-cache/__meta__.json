@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.532311", 
+  "description": "Transparent persistent cache for http://python-requests.org/ library", 
+  "fork": false, 
+  "full_name": "reclosedev/requests-cache", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:52.470188"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.047241", 
+  "description": "Vagrant setup for developing Ghost", 
+  "fork": false, 
+  "full_name": "TryGhost/Ghost-Vagrant", 
+  "language": "Puppet", 
+  "updated_at": "2015-02-27T23:43:23.765402"
+}

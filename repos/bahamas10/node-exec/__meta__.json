@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.756383", 
+  "description": "Call a child process with the ease of exec and safety of spawn", 
+  "fork": false, 
+  "full_name": "bahamas10/node-exec", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:27.400103"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.501915", 
+  "description": "A general F# SQL database type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides.", 
+  "fork": false, 
+  "full_name": "fsprojects/SQLProvider", 
+  "language": "F#", 
+  "updated_at": "2015-03-10T07:02:37.485455"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.542765", 
+  "description": "Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.", 
+  "fork": false, 
+  "full_name": "terryma/vim-expand-region", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:43:28.500500"
+}

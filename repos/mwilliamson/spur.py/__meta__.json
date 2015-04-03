@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.037538", 
+  "description": "Run commands and manipulate files locally or over SSH using the same interface", 
+  "fork": false, 
+  "full_name": "mwilliamson/spur.py", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:44.336201"
+}

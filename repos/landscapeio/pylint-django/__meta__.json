@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.412146", 
+  "description": "Pylint plugin for improving code analysis for when using Django", 
+  "fork": false, 
+  "full_name": "landscapeio/pylint-django", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:55.104009"
+}

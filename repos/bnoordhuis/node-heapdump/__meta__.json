@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.916065", 
+  "description": "Make a dump of the V8 heap for later inspection.", 
+  "fork": false, 
+  "full_name": "bnoordhuis/node-heapdump", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:32.725096"
+}

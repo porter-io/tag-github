@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.344004", 
+  "description": "An open source C++ library to interface with the Steam network.", 
+  "fork": false, 
+  "full_name": "dajoh/OpenSteamClient", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:15.021017"
+}

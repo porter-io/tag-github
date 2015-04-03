@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.234619", 
+  "description": "Bridge between v8 debugging protocol and Chrome Remote Debugging Protocol", 
+  "fork": false, 
+  "full_name": "repenaxa/node-devtools", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:37.768478"
+}

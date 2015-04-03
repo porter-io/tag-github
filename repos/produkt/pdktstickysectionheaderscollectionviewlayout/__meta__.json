@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.503142", 
+  "description": "UICollectionView Layout that makes section headers behave like UITableView section headers. Section header views stick to the top of the collection view, over it's section cells.", 
+  "fork": false, 
+  "full_name": "Produkt/PDKTStickySectionHeadersCollectionViewLayout", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:23.840679"
+}

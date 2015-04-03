@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.352355", 
+  "description": "Code syntax highlighting plugin via rouge for Middleman", 
+  "fork": false, 
+  "full_name": "middleman/middleman-syntax", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:48.422580"
+}

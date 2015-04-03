@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.380701", 
+  "description": "Play project: Trigger formatting of files via HTTP requests.", 
+  "fork": false, 
+  "full_name": "fgeller/scalariform-daemon", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:01.291670"
+}

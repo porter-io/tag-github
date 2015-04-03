@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.377343", 
+  "description": "StackPHP middleware providing robots.txt disallow for non-production environments", 
+  "fork": false, 
+  "full_name": "thephpleague/stack-robots", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:11.851057"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.210581", 
+  "description": "A set of methods for automatically detecting trending topics in streams of short texts (e.g. tweets).", 
+  "fork": false, 
+  "full_name": "socialsensor/topic-detection", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:49.586077"
+}

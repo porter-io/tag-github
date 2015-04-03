@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.968874", 
+  "description": "A native Particle Systems effect view for iOS and OSX powered by QuartzCore", 
+  "fork": false, 
+  "full_name": "icanzilb/UIEffectDesignerView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:26.911953"
+}

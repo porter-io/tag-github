@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.851033", 
+  "description": "Erlang image processing stuff (bmp, gif, jpeg, png, xpm, tiff, mpeg) - based on jungerl's erl_img-1.6", 
+  "fork": true, 
+  "full_name": "mochi/erl_img", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T22:29:21.851135"
+}

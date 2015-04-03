@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.306792", 
+  "description": "Go support for Heroku", 
+  "fork": false, 
+  "full_name": "kr/heroku-buildpack-go", 
+  "language": "Shell", 
+  "updated_at": "2015-02-28T08:41:29.139140"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.219409", 
+  "description": "Leiningen plugin for managing Bower dependencies in Clojure projects", 
+  "fork": false, 
+  "full_name": "chlorinejs/lein-bower", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:59.151312"
+}

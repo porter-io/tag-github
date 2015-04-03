@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.090077", 
+  "description": "A wrapper class for iOS Address Book access that converts private contact information into hashed tokens.", 
+  "fork": false, 
+  "full_name": "crossforward/HashedContacts", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:55.584657"
+}

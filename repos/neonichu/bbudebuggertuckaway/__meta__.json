@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.767584", 
+  "description": "Xcode plugin for auto-hiding the debugger once you start typing in the source code editor.", 
+  "fork": false, 
+  "full_name": "neonichu/BBUDebuggerTuckAway", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:15.188611"
+}

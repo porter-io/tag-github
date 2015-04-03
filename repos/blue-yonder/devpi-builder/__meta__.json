@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.265777", 
+  "description": "Automatically build and upload python packages to devpi", 
+  "fork": false, 
+  "full_name": "blue-yonder/devpi-builder", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:12.318628"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.572040", 
+  "description": "An on demand Docker virtual machine, thanks to Vagrant and boot2docker. Works great on Macs and other platforms that don't natively support the Docker daemon. Support VirtualBox, VMware, and Parallels.", 
+  "fork": false, 
+  "full_name": "fnichol/dvm", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:23.233267"
+}

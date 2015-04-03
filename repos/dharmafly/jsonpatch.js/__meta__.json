@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.749932", 
+  "description": "An implementation of the JSONPatch (and JSONPointer) IETF RFCs for Javascript (Node.JS and the Browser)", 
+  "fork": false, 
+  "full_name": "dharmafly/jsonpatch.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:22.407696"
+}

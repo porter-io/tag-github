@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.672094", 
+  "description": "A cross-browser / node.js validator powered by JSON Schema", 
+  "fork": false, 
+  "full_name": "flatiron/revalidator", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:40.572626"
+}

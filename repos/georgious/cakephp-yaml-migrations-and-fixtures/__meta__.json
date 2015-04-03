@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.150251", 
+  "description": "A CakePHP vendor and shell libraries which help using YAML migrations without the PEAR library.", 
+  "fork": false, 
+  "full_name": "georgious/cakephp-yaml-migrations-and-fixtures", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:25.135046"
+}

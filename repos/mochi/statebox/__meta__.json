@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.853177", 
+  "description": "Erlang state \"monad\" with merge/conflict-resolution capabilities. Useful for Riak.", 
+  "fork": false, 
+  "full_name": "mochi/statebox", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:44:28.125550"
+}

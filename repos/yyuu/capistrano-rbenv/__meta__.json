@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.761329", 
+  "description": "a capistrano recipe to manage rubies with rbenv.", 
+  "fork": false, 
+  "full_name": "yyuu/capistrano-rbenv", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:13.850604"
+}

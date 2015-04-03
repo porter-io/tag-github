@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.586340", 
+  "description": "Backbone.VirtualCollection allows you use Backbone.Marrionete CollectionViews and CompositeViews on a subset of a backbone collection.", 
+  "fork": false, 
+  "full_name": "p3drosola/Backbone.VirtualCollection", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:11.354768"
+}

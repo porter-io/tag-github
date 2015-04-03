@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.539733", 
+  "description": "Generates Bitcoin addresses, converts between hex/address and public/private keys.", 
+  "fork": false, 
+  "full_name": "casascius/Bitcoin-Address-Utility", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:41:43.789325"
+}

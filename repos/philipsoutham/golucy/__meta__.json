@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.672876", 
+  "description": "Go bindings for the Apache Lucy full text search library. The Apache Lucy search engine library provides full-text search for dynamic programming languages. It is a \"loose C\" port of the Apache Lucene\u2122 search engine library for Java.", 
+  "fork": false, 
+  "full_name": "philipsoutham/golucy", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:06.280802"
+}

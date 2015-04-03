@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.266861", 
+  "description": "Gradle plugin to add unit testing to android plugin. Prepared for Robolectric.", 
+  "fork": false, 
+  "full_name": "JCAndKSolutions/android-unit-test", 
+  "language": "Groovy", 
+  "updated_at": "2015-02-27T23:41:58.409331"
+}

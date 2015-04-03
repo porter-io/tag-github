@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.873361", 
+  "description": "An Erlang app for communicating with Elastic Search's rest interface.", 
+  "fork": false, 
+  "full_name": "tsloughter/erlastic_search", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:41:51.854818"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.279102", 
+  "description": "A simple sample Go web server with authentication (via OAuth, using Clef.io)", 
+  "fork": false, 
+  "full_name": "ChimeraCoder/go-server-bootstrap", 
+  "language": "CSS", 
+  "updated_at": "2015-03-10T07:01:20.511510"
+}

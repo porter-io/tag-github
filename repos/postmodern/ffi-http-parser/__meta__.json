@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.810814", 
+  "description": "Ruby FFI bindings to the http-parser library.", 
+  "fork": false, 
+  "full_name": "postmodern/ffi-http-parser", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:37.430764"
+}

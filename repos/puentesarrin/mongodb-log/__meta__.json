@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.898146", 
+  "description": "MongoDB Python logging handler, Centralized logging made simple using MongoDB.", 
+  "fork": true, 
+  "full_name": "puentesarrin/mongodb-log", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:28:34.899007"
+}

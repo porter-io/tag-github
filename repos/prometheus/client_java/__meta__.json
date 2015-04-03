@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.575809", 
+  "description": "Prometheus instrumentation library for JVM applications", 
+  "fork": false, 
+  "full_name": "prometheus/client_java", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:35.069998"
+}

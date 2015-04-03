@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.815344", 
+  "description": "Coverity Security Library (CSL) is a lightweight set of escaping routines for fixing cross-site scripting (XSS), SQL injection, and other security defects in Java web applications.", 
+  "fork": false, 
+  "full_name": "coverity/coverity-security-library", 
+  "language": "Java", 
+  "updated_at": "2015-03-10T07:02:26.849382"
+}

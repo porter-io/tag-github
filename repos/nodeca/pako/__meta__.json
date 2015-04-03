@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.543867", 
+  "description": "high speed zlib port to javascript, works in browser & node.js", 
+  "fork": false, 
+  "full_name": "nodeca/pako", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:25.807570"
+}

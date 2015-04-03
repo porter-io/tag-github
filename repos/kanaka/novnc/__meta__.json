@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.971724", 
+  "description": "VNC client using HTML5 (Web Sockets, Canvas) with encryption (wss://) support.", 
+  "fork": false, 
+  "full_name": "kanaka/noVNC", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:53.219629"
+}

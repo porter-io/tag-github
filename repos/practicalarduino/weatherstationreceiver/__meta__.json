@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:29:04.203231", 
+  "description": "Use an Arduino and a 433MHz receiver module to intercept and process weather data from a La Crosse home weather station", 
+  "fork": false, 
+  "full_name": "practicalarduino/WeatherStationReceiver", 
+  "updated_at": "2015-02-27T23:43:54.524942"
+}

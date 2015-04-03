@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.321222", 
+  "description": "Watchtower is a service for easily interacting between many different kinds of devices in (almost) real-time. Think https://pusher.com but for devices ranging from PC\u2019s all the way down to Arduinos with only the barest of network stacks.", 
+  "fork": false, 
+  "full_name": "gophergala/watchtower", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:14.101173"
+}

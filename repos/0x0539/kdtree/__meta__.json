@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.620969", 
+  "description": "Node.js KDTree implementation with lazy indexing for sparse object collision detection", 
+  "fork": false, 
+  "full_name": "0x0539/kdtree", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:50.325087"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.781648", 
+  "description": "This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.", 
+  "fork": false, 
+  "full_name": "aFarkas/html5shiv", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-21T14:57:12.093344"
+}

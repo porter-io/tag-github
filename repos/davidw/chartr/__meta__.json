@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.699711", 
+  "description": "Plugin for Ruby on Rails that wraps the Plotr graph API. Based on and extending David Welton's Chartr plugin (http://chartr.rubyforge.org/).", 
+  "fork": false, 
+  "full_name": "davidw/chartr", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:27.925244"
+}

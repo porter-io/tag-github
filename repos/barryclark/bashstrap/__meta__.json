@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.650550", 
+  "description": "Bootstrap for your terminal. A quick way to spruce up OSX terminal. It cuts out the fluff, adds in timesaving features, and provides a solid foundation for customizing your terminal style. Based on Mathias Bynens epic dotfiles - https://github.com/mathiasbynens/dotfiles", 
+  "fork": false, 
+  "full_name": "barryclark/bashstrap", 
+  "language": "Shell", 
+  "updated_at": "2015-03-10T07:01:07.489639"
+}

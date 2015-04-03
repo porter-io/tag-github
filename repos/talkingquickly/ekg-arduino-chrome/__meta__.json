@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.955602", 
+  "description": "Chrome app based real time streaming interface to the Olimex Arduino EKG Shield", 
+  "fork": false, 
+  "full_name": "TalkingQuickly/ekg-arduino-chrome", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:04.276934"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.177284", 
+  "description": "An AngularJS module that provides a resource-generation service similar to ngResource, but optimized for the Django REST Framework.", 
+  "fork": false, 
+  "full_name": "blacklocus/angular-django-rest-resource", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:29:09.527374"
+}

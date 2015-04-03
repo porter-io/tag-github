@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.123560", 
+  "description": "A Gradle Plugin to manage git repository dependencies", 
+  "fork": false, 
+  "full_name": "bat-cha/gradle-plugin-git-dependencies", 
+  "language": "Groovy", 
+  "updated_at": "2015-02-27T23:43:30.637327"
+}

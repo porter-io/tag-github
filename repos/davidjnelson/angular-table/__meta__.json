@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.158514", 
+  "description": "An angular directive for a table with fixed, sortable headers, row selection, row even/odd coloring, which automatically stays the correct height relative to its container when the browser is resized.  No javascript code required; the api is a 100% declarative dsl.", 
+  "fork": false, 
+  "full_name": "davidjnelson/angular-table", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:15.785339"
+}

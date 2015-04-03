@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.565214", 
+  "description": "ScalaWebSocket provides Scala vocabulary for async-http-client's WebSocket support", 
+  "fork": false, 
+  "full_name": "pbuda/scalawebsocket", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:41:23.937530"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.899216", 
+  "description": "AngularJS directives that create multiple fixed panels that unroll with an amusing effect. Port of the now defunct victa/curtain.js.", 
+  "fork": false, 
+  "full_name": "joshdmiller/ng-curtain", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:41.578792"
+}

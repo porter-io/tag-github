@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.701875", 
+  "description": "Erlang-style supervisor error handling for Clojure", 
+  "fork": false, 
+  "full_name": "MichaelDrogalis/dire", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:19.542275"
+}

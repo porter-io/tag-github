@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.257107", 
+  "description": "Backbone-ModelRef.js provides a mechanism to respond to lazy-loaded Backbone.js models.", 
+  "fork": false, 
+  "full_name": "kmalakoff/backbone-modelref", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:02:22.583865"
+}

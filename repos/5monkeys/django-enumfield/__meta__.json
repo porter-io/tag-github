@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.601639", 
+  "description": "Custom Django field for using enumerations of named constants", 
+  "fork": false, 
+  "full_name": "5monkeys/django-enumfield", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:09.904504"
+}

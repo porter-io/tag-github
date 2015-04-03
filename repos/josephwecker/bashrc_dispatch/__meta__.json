@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:03.108596", 
+  "description": "Launch different bash configurations for Linux vs OSX, interactive vs batch", 
+  "fork": false, 
+  "full_name": "josephwecker/bashrc_dispatch", 
+  "updated_at": "2015-03-10T07:01:36.956309"
+}

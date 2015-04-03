@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.545858", 
+  "description": "a Go HTTP client with timeouts", 
+  "fork": false, 
+  "full_name": "mreiferson/go-httpclient", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:13.940837"
+}

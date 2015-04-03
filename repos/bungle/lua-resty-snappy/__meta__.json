@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.475537", 
+  "description": "LuaJIT FFI bindings for Snappy, a fast compressor/decompressor (https://code.google.com/p/snappy/)", 
+  "fork": false, 
+  "full_name": "bungle/lua-resty-snappy", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:42:12.489239"
+}

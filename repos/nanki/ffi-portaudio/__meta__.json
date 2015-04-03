@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.128312", 
+  "description": "Ruby bindings for PortAudio.", 
+  "fork": false, 
+  "full_name": "nanki/ffi-portaudio", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:13.856142"
+}

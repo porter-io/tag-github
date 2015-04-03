@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.576367", 
+  "description": "Stream Framework is a Python library, which allows you to build newsfeed and notification systems using Cassandra and/or Redis.", 
+  "fork": false, 
+  "full_name": "tschellenbach/Stream-Framework", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:32:00.291285"
+}

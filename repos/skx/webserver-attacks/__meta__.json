@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.755873", 
+  "description": "Identify attacks against webservers via simple rules", 
+  "fork": false, 
+  "full_name": "skx/webserver-attacks", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:44:25.320768"
+}

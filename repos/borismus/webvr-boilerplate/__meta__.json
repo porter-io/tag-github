@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.240965", 
+  "description": "A starting point for web-based VR experiences that work in both Cardboard and Oculus.", 
+  "fork": false, 
+  "full_name": "borismus/webvr-boilerplate", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:00:43.321650"
+}

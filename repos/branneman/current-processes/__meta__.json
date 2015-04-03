@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.834203", 
+  "description": "Node.js library to get a snapshot of the currently running processes, OS-agnostic", 
+  "fork": false, 
+  "full_name": "branneman/current-processes", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:35.522689"
+}

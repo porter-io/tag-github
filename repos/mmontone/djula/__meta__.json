@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.037487", 
+  "description": "Common Lisp port of the Django templating language", 
+  "fork": true, 
+  "full_name": "mmontone/djula", 
+  "language": "Common Lisp", 
+  "updated_at": "2015-03-10T07:03:07.030687"
+}

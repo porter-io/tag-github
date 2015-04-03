@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.686131", 
+  "description": "note: current build is VS_LIBEMU project. This cross platform gcc build is for Linux users but is no longer updated. modification of the libemu sctest project to add basic debugger capabilities and more output useful for manual RE", 
+  "fork": false, 
+  "full_name": "dzzie/SCDBG", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:55.407609"
+}

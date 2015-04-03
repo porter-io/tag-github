@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.481086", 
+  "description": "A quick and dirty gem for upgrading from rails 3.2 to rails 4", 
+  "fork": false, 
+  "full_name": "w1zeman1p/wize_upgrader", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:12.998203"
+}

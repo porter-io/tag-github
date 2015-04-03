@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.513956", 
+  "description": "A simple customizable OAuth 2.0 provider (server) for node.js.", 
+  "fork": false, 
+  "full_name": "ammmir/node-oauth2-provider", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:42.805739"
+}

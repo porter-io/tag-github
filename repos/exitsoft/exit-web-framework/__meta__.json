@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.295406", 
+  "description": "exit-web-framework\u662f\u5bf9\u5e38\u7528\u7684java web\u5f00\u53d1\u5c01\u88c5\u5b9e\u7528\u529f\u80fd\u6765\u63d0\u9ad8\u5f00\u53d1\u6548\u7387\u3002exit-web-framework\u57fa\u4e8eSpring 3\u3001Hibernate4\u6846\u67b6\u6765\u505a\u9879\u76ee\u6838\u5fc3\u4e09\u5c42\u548cMVC\u7684\u7ba1\u7406\u3002\u4f7f\u7528\u5230\u7684\u65b0\u529f\u80fd\u6709spring\u7f13\u5b58\u5de5\u5382\u3001apeche shiro\u5b89\u5168\u6846\u67b6\u3001spring mvc 3\u7b49\u4e3b\u8981\u6280\u672f\u3002", 
+  "fork": false, 
+  "full_name": "exitsoft/exit-web-framework", 
+  "language": "Java", 
+  "updated_at": "2015-04-01T19:31:22.704533"
+}

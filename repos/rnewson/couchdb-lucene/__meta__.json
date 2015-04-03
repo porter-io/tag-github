@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.434716", 
+  "description": "Enables full-text searching of CouchDB documents using Lucene", 
+  "fork": false, 
+  "full_name": "rnewson/couchdb-lucene", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:18.036507"
+}

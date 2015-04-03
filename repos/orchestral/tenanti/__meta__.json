@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.279924", 
+  "description": "[Package] Multi-tenant Database Schema Manager for Laravel", 
+  "fork": false, 
+  "full_name": "orchestral/tenanti", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:38.151047"
+}

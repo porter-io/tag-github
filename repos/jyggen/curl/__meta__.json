@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.806455", 
+  "description": "A lightweight cURL library with support for multiple requests in parallel.", 
+  "fork": false, 
+  "full_name": "jyggen/curl", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:08.086780"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.289897", 
+  "description": "Control time and change history. Laszlo's debugger lets you pause, rewind, and replay programs, swapping in new code to debug.", 
+  "fork": false, 
+  "full_name": "elm-lang/debug.elm-lang.org", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:24.933435"
+}

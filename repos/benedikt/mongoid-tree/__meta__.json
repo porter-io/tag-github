@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.168856", 
+  "description": "A tree structure for Mongoid documents using the materialized path pattern", 
+  "fork": false, 
+  "full_name": "benedikt/mongoid-tree", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:13.123704"
+}

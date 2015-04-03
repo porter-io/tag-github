@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.377284", 
+  "description": "A simple Django app, for logging Javascript client side errors ", 
+  "fork": false, 
+  "full_name": "jojax/django-js-error-hook", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:03:23.953283"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.044842", 
+  "description": "Dependency management helper for your CocoaPods, right in Xcode", 
+  "fork": false, 
+  "full_name": "kattrali/cocoapods-xcode-plugin", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:34.806620"
+}

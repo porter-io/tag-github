@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.707881", 
+  "description": "A simple barcode inventory app built using AVFoundation and CoreData", 
+  "fork": false, 
+  "full_name": "sarchak/SimpleBarcode", 
+  "language": "Swift", 
+  "updated_at": "2015-02-27T23:42:16.639296"
+}

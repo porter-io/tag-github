@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.685073", 
+  "description": "REST API for determining what license a repo has", 
+  "fork": false, 
+  "full_name": "kyleconroy/gitlicense", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:22.356515"
+}

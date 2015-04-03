@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.324906", 
+  "description": "Turns out writing recursive descent parsers by hand is annoying so I wrote some combinators.", 
+  "fork": false, 
+  "full_name": "davidk01/typescript-parser-combinators", 
+  "language": "TypeScript", 
+  "updated_at": "2015-02-27T23:41:36.116753"
+}

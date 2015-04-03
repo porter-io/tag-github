@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.463868", 
+  "description": "This package is a Gearman API for Golang. It was implemented a native protocol for both worker and client API.", 
+  "fork": false, 
+  "full_name": "mikespook/gearman-go", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:05.664609"
+}

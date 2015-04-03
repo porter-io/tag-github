@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.066413", 
+  "description": "Automated staging environments using sinatra, docker, and nginx", 
+  "fork": false, 
+  "full_name": "localytics/stager-server", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:19.669972"
+}

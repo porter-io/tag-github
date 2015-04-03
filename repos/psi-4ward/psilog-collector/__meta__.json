@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.762619", 
+  "description": "Stream-based log collecting/aggregation tool written in NodeJS. Its similar to logstash but uses a lot less memory and has some neat transformers.", 
+  "fork": false, 
+  "full_name": "psi-4ward/psilog-collector", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:32.718656"
+}

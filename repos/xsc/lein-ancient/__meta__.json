@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.898814", 
+  "description": "Check your Projects for outdated Dependencies", 
+  "fork": false, 
+  "full_name": "xsc/lein-ancient", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:56.800484"
+}

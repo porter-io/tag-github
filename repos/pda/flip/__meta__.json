@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.568465", 
+  "description": "Flip lets you declare and manage feature flags, backed by cookies (private testing) and database (site-wide).", 
+  "fork": false, 
+  "full_name": "pda/flip", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:43.813501"
+}

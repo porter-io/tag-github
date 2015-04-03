@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.719561", 
+  "description": "A distributed, fault-tolerant graph database", 
+  "fork": false, 
+  "full_name": "twitter/flockdb", 
+  "language": "Scala", 
+  "updated_at": "2015-03-10T08:16:00.340547"
+}

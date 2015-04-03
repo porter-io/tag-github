@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.040616", 
+  "description": "Let's you save the state of a Eloquent model aka a version.", 
+  "fork": false, 
+  "full_name": "codegefluester/Versions-for-Laravel", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:11.525101"
+}

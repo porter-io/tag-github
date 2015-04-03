@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.708633", 
+  "description": "A faster and more flexible binary file format replacement for NSCoding, Property Lists and JSON", 
+  "fork": false, 
+  "full_name": "nicklockwood/FastCoding", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:44:02.941183"
+}

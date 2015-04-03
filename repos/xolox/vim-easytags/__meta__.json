@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.350863", 
+  "description": "Automated tag file generation and syntax highlighting of tags in Vim", 
+  "fork": false, 
+  "full_name": "xolox/vim-easytags", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:31.473286"
+}

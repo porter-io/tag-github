@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.982654", 
+  "description": "Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt. ", 
+  "fork": false, 
+  "full_name": "robertpenner/as3-signals", 
+  "language": "ActionScript", 
+  "updated_at": "2015-02-27T23:43:53.260574"
+}

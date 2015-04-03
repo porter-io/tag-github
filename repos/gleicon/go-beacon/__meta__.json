@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.611189", 
+  "description": "HTTP Beacon for boomerang.js and other analytics/trackers", 
+  "fork": false, 
+  "full_name": "gleicon/go-beacon", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:02:45.248406"
+}

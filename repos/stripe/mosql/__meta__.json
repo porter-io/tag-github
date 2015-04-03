@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.533257", 
+  "description": "MongoDB \u2192 PostgreSQL streaming replication", 
+  "fork": false, 
+  "full_name": "stripe/mosql", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:29.441308"
+}

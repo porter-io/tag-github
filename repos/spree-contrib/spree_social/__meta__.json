@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.178221", 
+  "description": "Building block for spree social networking features (provides authentication and account linkage)", 
+  "fork": false, 
+  "full_name": "spree-contrib/spree_social", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:16.052698"
+}

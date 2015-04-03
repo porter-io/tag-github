@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.202524", 
+  "description": "Throttle is a simple node.js app that makes it easier to test how a website performs on poor network connections. For example, testing a responsive website on a poor 3G connection without actually having to have a poor 3G connection. Simply connect your Mac to ethernet, share the network connection via Airport, run Throttle, and any connected device will then be throttled to the the network speed you specified. Throttle was designed to be used in conjunction with a device lab and products like shim or Adobe Shadow where a shared connection is expected.", 
+  "fork": false, 
+  "full_name": "dmolsen/Throttle", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:49.578189"
+}

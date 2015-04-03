@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.261325", 
+  "description": "Non-blocking, Reactive MongoDB Driver for Scala", 
+  "fork": false, 
+  "full_name": "ReactiveMongo/ReactiveMongo", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:41:38.120314"
+}

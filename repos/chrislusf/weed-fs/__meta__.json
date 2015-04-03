@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.260388", 
+  "description": "Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives:  to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word \"NoSQL\", you can call it as \"NoFS\".", 
+  "fork": false, 
+  "full_name": "chrislusf/weed-fs", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:44:14.248879"
+}

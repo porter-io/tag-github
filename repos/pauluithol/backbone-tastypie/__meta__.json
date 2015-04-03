@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.423380", 
+  "description": "A small compatibility layer to make backbone.js and django-tastypie work together happily.", 
+  "fork": false, 
+  "full_name": "PaulUithol/backbone-tastypie", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:04.134215"
+}

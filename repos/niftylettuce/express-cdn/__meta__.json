@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.487747", 
+  "description": "Node module for delivering optimized, minified, mangled, gzipped assets with Express and Amazon's CDN (S3/CloudFront)", 
+  "fork": false, 
+  "full_name": "niftylettuce/express-cdn", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:49.251709"
+}

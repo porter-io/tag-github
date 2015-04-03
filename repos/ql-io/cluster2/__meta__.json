@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.186311", 
+  "description": "A node.js (>= 0.8.x) compatible multi-process management module", 
+  "fork": false, 
+  "full_name": "ql-io/cluster2", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:28.690689"
+}

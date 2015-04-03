@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.177923", 
+  "description": "Installs Nginx on Ubuntu over SSH. Also starts Nginx and configures upstart to start and monitor Nginx on startup.", 
+  "fork": false, 
+  "full_name": "maxogden/install-nginx-on-ubuntu", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.969486"
+}

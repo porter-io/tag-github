@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.381479", 
+  "description": "A Puppet module for installing, and configuring ScaleIO data services components.", 
+  "fork": false, 
+  "full_name": "emccode/puppet-scaleio", 
+  "language": "Puppet", 
+  "updated_at": "2015-02-27T23:43:36.387161"
+}

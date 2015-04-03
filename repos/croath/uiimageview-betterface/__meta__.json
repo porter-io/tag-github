@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.974937", 
+  "description": "a UIImageView category to let the picture-cutting with faces showing better", 
+  "fork": false, 
+  "full_name": "croath/UIImageView-BetterFace", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:03.294761"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.162290", 
+  "description": "Gaudi allows to share multi-component applications, based on Docker, Go, and YAML.", 
+  "fork": false, 
+  "full_name": "marmelab/gaudi", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:57.447169"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.918652", 
+  "description": "dead simple crontab powered job scheduling for django.", 
+  "fork": false, 
+  "full_name": "kraiz/django-crontab", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:10.160445"
+}

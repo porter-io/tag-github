@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.479629", 
+  "description": "A node.js BLE (Bluetooth low energy) central module ", 
+  "fork": false, 
+  "full_name": "sandeepmistry/noble", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:09.737393"
+}

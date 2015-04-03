@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.529738", 
+  "description": "Weasel-Diesel Sinatra app gem, allowing you to generate/update sinatra apps using the Weasel Diesel DSL", 
+  "fork": false, 
+  "full_name": "mattetti/wd-sinatra", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:18.455536"
+}

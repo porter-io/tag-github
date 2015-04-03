@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.081569", 
+  "description": "Copy/Paste Detector (CPD) for PHP code.", 
+  "fork": false, 
+  "full_name": "sebastianbergmann/phpcpd", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:44:21.173940"
+}

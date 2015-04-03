@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.399863", 
+  "description": "jQuery plugin that prints elements like a ticker tape, whilst respecting the DOM tree that it tickers through", 
+  "fork": true, 
+  "full_name": "aolin480/jticker", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:28:51.400049"
+}

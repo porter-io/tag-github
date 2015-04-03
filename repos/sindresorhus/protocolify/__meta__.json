@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.283097", 
+  "description": "Prepend http:// to humanized URLs like todomvc.com and file:// to file paths", 
+  "fork": false, 
+  "full_name": "sindresorhus/protocolify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:15.831565"
+}

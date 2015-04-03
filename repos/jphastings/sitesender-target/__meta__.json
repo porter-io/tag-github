@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.564931", 
+  "description": "Receives requests from SiteSender-Online to open URLs so mobile devices can send their currently viewed websites to a bigger screen via a bookmarklet", 
+  "fork": false, 
+  "full_name": "jphastings/SiteSender-Target", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:34.419158"
+}

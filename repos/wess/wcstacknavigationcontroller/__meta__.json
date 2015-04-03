@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.102094", 
+  "description": "A different approach to the stack navigation made popular by Facebook, Path, and so many more.  Following more closely to the UINavigationController/UITabController schema.", 
+  "fork": false, 
+  "full_name": "wess/WCStackNavigationController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:38.995914"
+}

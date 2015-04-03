@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.492484", 
+  "description": "a script to convert Dan Pollock's ad blocking hosts file into Unbound local-data.", 
+  "fork": false, 
+  "full_name": "jodrell/unbound-block-hosts", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:41:55.253775"
+}

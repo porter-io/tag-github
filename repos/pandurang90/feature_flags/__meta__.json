@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.006610", 
+  "description": "Feature flags for Rails application.Manages \u2018flags\u2019 within your Rails app that determine whether various features are enabled or not.", 
+  "fork": false, 
+  "full_name": "pandurang90/feature_flags", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:35.668257"
+}

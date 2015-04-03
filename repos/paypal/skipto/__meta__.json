@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.486154", 
+  "description": "SkipTo is a replacement for your old classic \"Skipnav\" link. Once installed on a site, the script dynamically determines the most important places on the page and presents them to the user in a drop-down menu.", 
+  "fork": false, 
+  "full_name": "paypal/skipto", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:32.216911"
+}

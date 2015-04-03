@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.098547", 
+  "description": "Convert xls,xlsx,ods,csv spreadsheets to JSON/CSV using command line php, built as a solution to import excel files to node js", 
+  "fork": false, 
+  "full_name": "shimondoodkin/node_spreadsheet", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:04:19.794892"
+}

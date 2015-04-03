@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.056756", 
+  "description": "Simplified C++ implementation of I2P client.  Binary downloads: http://download.i2p.io/purplei2p/i2pd/releases/", 
+  "fork": false, 
+  "full_name": "PurpleI2P/i2pd", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:11.535367"
+}

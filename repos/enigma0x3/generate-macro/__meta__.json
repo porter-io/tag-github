@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.277842", 
+  "description": "This Powershell script will generate a malicious Microsoft Office document with a specified payload and persistence method.", 
+  "fork": false, 
+  "full_name": "enigma0x3/Generate-Macro", 
+  "language": "PowerShell", 
+  "updated_at": "2015-02-27T23:41:44.668396"
+}

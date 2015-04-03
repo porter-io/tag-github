@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.316078", 
+  "description": "An adapter to connect django applications powered by django-tastypie with ember.js apps", 
+  "fork": false, 
+  "full_name": "escalant3/ember-data-tastypie-adapter", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:18.659794"
+}

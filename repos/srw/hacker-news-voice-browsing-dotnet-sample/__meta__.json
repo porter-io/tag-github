@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.291041", 
+  "description": "This sample shows how to use voice recognition, text to speech, and content extraction using System.Speech.* and boilerpipe under .NET", 
+  "fork": false, 
+  "full_name": "srw/hacker-news-voice-browsing-dotnet-sample", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:42:12.333160"
+}

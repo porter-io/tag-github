@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.645535", 
+  "description": "Open data plane on dpdk, TCP/IP stack for dpdk.", 
+  "fork": false, 
+  "full_name": "opendp/dpdk-odp", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:55.447377"
+}

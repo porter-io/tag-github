@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.671740", 
+  "description": "Painlessly deploy node.js applications to your staging and production servers. Use a standard VPS or dedicated server to host both Node and traditional Apache-based websites. Built on cool things like node-http-proxy and forever.", 
+  "fork": false, 
+  "full_name": "punkave/stagecoach", 
+  "language": "Shell", 
+  "updated_at": "2015-03-10T07:00:52.523309"
+}

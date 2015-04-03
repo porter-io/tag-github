@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.148382", 
+  "description": "Dockerfile to build Ubuntu Trusty with updates", 
+  "fork": false, 
+  "full_name": "jayofdoom/docker-ubuntu-14.04", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:48.400536"
+}

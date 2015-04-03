@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.655536", 
+  "description": "Provides a queue-based abstraction layer for communicating between tabs in a Chrome extension.", 
+  "fork": false, 
+  "full_name": "attachmentsme/Queuebert", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:43.935195"
+}

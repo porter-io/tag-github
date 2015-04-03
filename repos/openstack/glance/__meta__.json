@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.859699", 
+  "description": "The Glance project provides services for discovering, registering, and retrieving virtual machine images. Glance has a RESTful API that allows querying of VM image metadata as well as retrieval of the actual image.", 
+  "fork": false, 
+  "full_name": "openstack/glance", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:55.725529"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.969578", 
+  "description": "A StatsD client for Ruby apps. Provides metaprogramming methods to inject StatsD instrumentation into your code.", 
+  "fork": false, 
+  "full_name": "Shopify/statsd-instrument", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:02.993639"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.292914", 
+  "description": "LibPerl++ is a C++ library that provides a more friendly interface for the the perl API. It makes use of advanced features of C++ to make both embedding and extending perl as easy as possible. This repository also contains to helper libraries that may be split out at a later stage: libtap++ and Library::Build.", 
+  "fork": false, 
+  "full_name": "Leont/libperl--", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:00:59.881120"
+}

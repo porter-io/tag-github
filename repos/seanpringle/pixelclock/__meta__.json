@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.443074", 
+  "description": "a small clock for X11 that displays time as pixels", 
+  "fork": true, 
+  "full_name": "seanpringle/pixelclock", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:28:32.443116"
+}

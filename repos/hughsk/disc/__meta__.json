@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.789840", 
+  "description": "Visualise the module tree of browserify project bundles and track down bloat.", 
+  "fork": false, 
+  "full_name": "hughsk/disc", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:56.904777"
+}

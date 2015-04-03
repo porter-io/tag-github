@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.618323", 
+  "description": "Advanced emacs package loading system with use-package as backend", 
+  "fork": false, 
+  "full_name": "edvorg/req-package", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:42:00.729613"
+}

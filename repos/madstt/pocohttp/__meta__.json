@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.657458", 
+  "description": "PocoHttp (where POCO stands for Plain-Old-CSharp-Object) is a non-opinionated .NET Client Library for accessing HTTP data services using a familiar IQueryable interface, similar to ORMs such as Entity Framework.", 
+  "fork": true, 
+  "full_name": "madstt/PocoHttp", 
+  "language": "C#", 
+  "updated_at": "2015-04-01T19:30:01.328176"
+}

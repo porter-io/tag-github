@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.928165", 
+  "description": "Redmine Plugin to switch issue statuses and assignees from sidebar - without opening the update screen.", 
+  "fork": false, 
+  "full_name": "nistude/redmine_issue_control_panel", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:24.610904"
+}

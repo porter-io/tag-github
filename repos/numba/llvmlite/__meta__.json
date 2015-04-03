@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.934240", 
+  "description": "A lightweight LLVM python binding for writing JIT compilers", 
+  "fork": false, 
+  "full_name": "numba/llvmlite", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:41.134321"
+}

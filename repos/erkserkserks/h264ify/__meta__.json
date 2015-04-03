@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.638696", 
+  "description": "A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos", 
+  "fork": false, 
+  "full_name": "erkserkserks/h264ify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:03:01.134205"
+}

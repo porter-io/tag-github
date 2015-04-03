@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.518747", 
+  "description": "Push notification service module for ZNC", 
+  "fork": false, 
+  "full_name": "jreese/znc-push", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:40.540558"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.478595", 
+  "description": "A multithreaded Ruby script to quickly delete a very large Amazon S3 bucket", 
+  "fork": false, 
+  "full_name": "SFEley/s3nuke", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:29.272878"
+}

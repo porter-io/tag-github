@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.850041", 
+  "description": "Implementation of ImageView for Android that supports zooming, by various touch gestures.", 
+  "fork": false, 
+  "full_name": "chrisbanes/PhotoView", 
+  "language": "Java", 
+  "updated_at": "2015-03-10T06:07:10.599843"
+}

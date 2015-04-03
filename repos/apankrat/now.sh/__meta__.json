@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.549189", 
+  "description": "Pipeable bash script that prints current time while waiting for an input from stdin", 
+  "fork": false, 
+  "full_name": "apankrat/now.sh", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:53.511336"
+}

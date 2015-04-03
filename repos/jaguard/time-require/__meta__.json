@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.689189", 
+  "description": "Displays the execution time for Node.js modules loading by hooking require() calls", 
+  "fork": false, 
+  "full_name": "jaguard/time-require", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:05.099149"
+}

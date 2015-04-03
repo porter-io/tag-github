@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.376492", 
+  "description": "The Brainstem gem provides a framework for converting ActiveRecord objects into a great JSON API. Brainstem Presenters allow easy application of user-requested sorts, filters, and association loads, allowing for simpler implementations, fewer requests, and smaller responses.", 
+  "fork": false, 
+  "full_name": "mavenlink/brainstem", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:28:30.265879"
+}

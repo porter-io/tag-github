@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.177280", 
+  "description": "Minify GeoJSON files by encoding geometries", 
+  "fork": false, 
+  "full_name": "igorti/geojson-minifier", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:10.404974"
+}

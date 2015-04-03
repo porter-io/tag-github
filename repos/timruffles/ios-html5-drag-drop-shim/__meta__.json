@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.144560", 
+  "description": "A drop-in shim to allow you to use existing html5 drag'n'drop code with mobile browsers", 
+  "fork": false, 
+  "full_name": "timruffles/ios-html5-drag-drop-shim", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:46.810313"
+}

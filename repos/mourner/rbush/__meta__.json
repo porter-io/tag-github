@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.735139", 
+  "description": "RBush \u2014 a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles", 
+  "fork": false, 
+  "full_name": "mourner/rbush", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.581772"
+}

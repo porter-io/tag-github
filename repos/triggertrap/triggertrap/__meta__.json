@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.842818", 
+  "description": "Triggertrap is a universal camera trigger. It comes in two flavours; a device and an Arduino Shield. Both are powered by this codebase. ", 
+  "fork": true, 
+  "full_name": "TriggerTrap/Triggertrap", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T22:27:27.843617"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.557278", 
+  "description": "Detect if DevTools is open", 
+  "fork": false, 
+  "full_name": "sindresorhus/devtools-detect", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:19.523093"
+}

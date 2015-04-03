@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.214014", 
+  "description": "A social developer bot, helps by grabbing information from tweets, github commits etc. socialhapy is retired. Use nlogax/ircjs instead.", 
+  "fork": false, 
+  "full_name": "peol/socialhapy", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:17.359709"
+}

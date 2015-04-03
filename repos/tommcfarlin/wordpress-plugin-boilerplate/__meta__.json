@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.599336", 
+  "description": "[WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.", 
+  "fork": false, 
+  "full_name": "tommcfarlin/WordPress-Plugin-Boilerplate", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:01:12.412098"
+}

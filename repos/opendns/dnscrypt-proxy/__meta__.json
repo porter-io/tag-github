@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.417216", 
+  "description": "A tool for securing communications between a client and a DNS resolver", 
+  "fork": true, 
+  "full_name": "opendns/dnscrypt-proxy", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:27:33.418620"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.159328", 
+  "description": "Smart package for Meteor that adds filter and pager behavior to our Meteor's collections.", 
+  "fork": false, 
+  "full_name": "julianmontagna/filter-collections", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:47.707169"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.408833", 
+  "description": "Basic example of using netty with Clojure", 
+  "fork": false, 
+  "full_name": "cymen/clojure-netty", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:21.116102"
+}

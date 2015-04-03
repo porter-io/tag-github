@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.479495", 
+  "description": "An automated XSS payload generator written in python.", 
+  "fork": false, 
+  "full_name": "mandatoryprogrammer/xssless", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:07.685855"
+}

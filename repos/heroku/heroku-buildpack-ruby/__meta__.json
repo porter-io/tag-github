@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.139959", 
+  "description": "Heroku's Ruby Buildpack for Cedar", 
+  "fork": false, 
+  "full_name": "heroku/heroku-buildpack-ruby", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:54.788878"
+}

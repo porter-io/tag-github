@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.039582", 
+  "description": "Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework for Rails 3.1+", 
+  "fork": false, 
+  "full_name": "rocsci/bootbox-rails", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:30:27.409975"
+}

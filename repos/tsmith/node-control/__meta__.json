@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.198470", 
+  "description": "Scripted system admin and deployment for many remote machines in parallel via ssh with Node", 
+  "fork": false, 
+  "full_name": "tsmith/node-control", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:00.346413"
+}

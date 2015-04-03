@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.500743", 
+  "description": "Script to prepare Sphinx html output for github pages.", 
+  "fork": false, 
+  "full_name": "michaeljones/sphinx-to-github", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:02.718353"
+}

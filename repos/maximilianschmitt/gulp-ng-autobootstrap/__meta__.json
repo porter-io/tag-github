@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.767801", 
+  "description": "A gulp plugin to automatically create bootstrap files for requiring your angular modules with browserify.", 
+  "fork": false, 
+  "full_name": "maximilianschmitt/gulp-ng-autobootstrap", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:07.546874"
+}

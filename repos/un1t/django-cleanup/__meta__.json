@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.677857", 
+  "description": "Automatically deletes old file for FileField and ImageField. It also deletes files on models instance deletion.", 
+  "fork": false, 
+  "full_name": "un1t/django-cleanup", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:46.680659"
+}

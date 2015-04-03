@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.748598", 
+  "description": "Server side program maintains communication channels between server and mobile devices.", 
+  "fork": false, 
+  "full_name": "uniqush/uniqush-conn", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:10.952223"
+}

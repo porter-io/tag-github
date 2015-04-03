@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.536613", 
+  "description": "    xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your client's machine.", 
+  "fork": false, 
+  "full_name": "randym/axlsx", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:20.350140"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.169287", 
+  "description": "CDS/ISIS to JSON database converter (compatible with CouchDB and MongoDB)", 
+  "fork": false, 
+  "full_name": "bireme/isis2json", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:03.584885"
+}

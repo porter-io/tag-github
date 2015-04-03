@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.256176", 
+  "description": "Vim plugin to display ruby, rake, and rspec output colorized in ConqueTerm. Note: repeated runs of conqueterm may cause it to eat your shell ttys. I am no longer maintaining this.", 
+  "fork": false, 
+  "full_name": "skwp/vim-ruby-conque", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:43:10.822989"
+}

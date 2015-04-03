@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.753546", 
+  "description": "Send emails based on a Django template", 
+  "fork": false, 
+  "full_name": "prestontimmons/django-email-template", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:46.864717"
+}

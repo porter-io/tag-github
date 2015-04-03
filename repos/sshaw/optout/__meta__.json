@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.059787", 
+  "description": "The opposite of getopt(): validate an option hash and turn it into something appropriate for exec() and system() like functions", 
+  "fork": false, 
+  "full_name": "sshaw/optout", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:55.990093"
+}

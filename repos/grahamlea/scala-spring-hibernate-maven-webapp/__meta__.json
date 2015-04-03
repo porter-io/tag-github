@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.248910", 
+  "description": "Code for kickstarting a webapp using Scala + Spring + Hibernate + Maven + Selenium WebDriver PageObject Web Tests", 
+  "fork": false, 
+  "full_name": "GrahamLea/scala-spring-hibernate-maven-webapp", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:44:30.693671"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.839948", 
+  "description": "bLazy is a lightweight lazy loading and multi-serving image script. It's written in JavaScript why it doesn't have any dependencies for 3rd party libraries like jQuery. bLazy is working in all modern browser including IE7+.", 
+  "fork": false, 
+  "full_name": "dinbror/blazy", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:19.426816"
+}

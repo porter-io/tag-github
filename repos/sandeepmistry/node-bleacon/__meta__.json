@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.481864", 
+  "description": "A node.js library for creating, discovering, and configuring iBeacons", 
+  "fork": false, 
+  "full_name": "sandeepmistry/node-bleacon", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:09.739859"
+}

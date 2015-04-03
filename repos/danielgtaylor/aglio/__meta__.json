@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.188659", 
+  "description": "An API Blueprint renderer with theme support that outputs static HTML", 
+  "fork": false, 
+  "full_name": "danielgtaylor/aglio", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:43.502850"
+}

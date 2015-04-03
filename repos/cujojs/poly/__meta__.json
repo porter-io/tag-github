@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.850875", 
+  "description": "Small, fast, awesome. The only ES5-ish set of polyfills (shims) you can mix-and-match because they're individual modules.", 
+  "fork": false, 
+  "full_name": "cujojs/poly", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:07.270688"
+}

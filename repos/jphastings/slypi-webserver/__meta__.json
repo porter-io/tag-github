@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.676141", 
+  "description": "A local-only server that gives (modular) API-like access to websites without their own", 
+  "fork": false, 
+  "full_name": "jphastings/slypi-webserver", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:34.517671"
+}

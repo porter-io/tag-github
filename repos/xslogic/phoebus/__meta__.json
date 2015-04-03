@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.742728", 
+  "description": "Phoebus is a distributed framework for large scale graph processing written in Erlang.", 
+  "fork": false, 
+  "full_name": "xslogic/phoebus", 
+  "language": "Erlang", 
+  "updated_at": "2015-04-01T19:30:05.983693"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.702802", 
+  "description": "[DEPRECATED] A Gradle plugin which enables good 'ol fashioned unit tests for Android builds.", 
+  "fork": false, 
+  "full_name": "JakeWharton/gradle-android-test-plugin", 
+  "language": "Java", 
+  "updated_at": "2015-04-01T19:29:33.877198"
+}

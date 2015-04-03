@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.379716", 
+  "description": "A stand-alone Bloom filter implementation written in Java", 
+  "fork": false, 
+  "full_name": "MagnusS/Java-BloomFilter", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:12.793412"
+}

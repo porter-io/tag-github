@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.227921", 
+  "description": "Attempts to create stack traces for unhandled JavaScript exceptions in all major browsers.", 
+  "fork": false, 
+  "full_name": "csnover/TraceKit", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:10.787566"
+}

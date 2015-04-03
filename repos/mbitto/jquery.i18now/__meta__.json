@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.764678", 
+  "description": "This plugin is intended to help client-side formatting of date and time according to the user preferences or the most used format in a specific country.", 
+  "fork": false, 
+  "full_name": "mbitto/jquery.i18Now", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:47.440794"
+}

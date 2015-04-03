@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.115827", 
+  "description": "Sublime Text 2 plugin to automatically include #encoding: utf-8 on Ruby files when needed.", 
+  "fork": false, 
+  "full_name": "elomarns/auto-encoding-for-ruby", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:22.983742"
+}

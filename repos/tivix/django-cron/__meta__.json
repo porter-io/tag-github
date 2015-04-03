@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.387692", 
+  "description": "Write cron business logic as a Python class and let this app do the rest! It enables Django projects to schedule cron tasks, tracks their success / failures, manages contention (via a cache) etc. Basically takes care of all the boring work for you :-)", 
+  "fork": false, 
+  "full_name": "Tivix/django-cron", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:48.964541"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.398732", 
+  "description": "A vim plugin that simplifies the transition between multiline and single-line code", 
+  "fork": false, 
+  "full_name": "AndrewRadev/splitjoin.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:44.802222"
+}

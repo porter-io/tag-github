@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.170458", 
+  "description": "A Core Audio based streaming audio player for iOS/Mac", 
+  "fork": false, 
+  "full_name": "douban/DOUAudioStreamer", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:22.518820"
+}

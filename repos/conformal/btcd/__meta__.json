@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.011918", 
+  "description": "An alternative full node bitcoin implementation written in Go (golang)", 
+  "fork": false, 
+  "full_name": "conformal/btcd", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:58.521107"
+}

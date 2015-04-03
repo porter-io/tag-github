@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.886366", 
+  "description": "High Performance Inter-Thread Messaging Library", 
+  "fork": false, 
+  "full_name": "LMAX-Exchange/disruptor", 
+  "language": "Java", 
+  "updated_at": "2015-03-21T14:55:08.910702"
+}

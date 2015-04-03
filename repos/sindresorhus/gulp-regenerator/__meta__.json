@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.532822", 
+  "description": "Transpile ES6 generator functions to ES5", 
+  "fork": false, 
+  "full_name": "sindresorhus/gulp-regenerator", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.721720"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.009931", 
+  "description": "A codec for fetching a git repo over tcp.", 
+  "fork": false, 
+  "full_name": "creationix/git-fetch", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:00.969782"
+}

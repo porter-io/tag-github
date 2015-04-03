@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.413854", 
+  "description": "Compiler of Java bytecode to JavaScript", 
+  "fork": false, 
+  "full_name": "konsoletyper/teavm", 
+  "language": "Java", 
+  "updated_at": "2015-03-10T07:02:38.993784"
+}

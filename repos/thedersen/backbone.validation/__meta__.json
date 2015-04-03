@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.772957", 
+  "description": "A validation plugin for Backbone.js that validates both your model as well as form input", 
+  "fork": false, 
+  "full_name": "thedersen/backbone.validation", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:44.067342"
+}

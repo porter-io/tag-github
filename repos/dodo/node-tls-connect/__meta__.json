@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.918903", 
+  "description": "nodejs tls.connect drop-in replacement / fallback", 
+  "fork": false, 
+  "full_name": "dodo/node-tls-connect", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:51.888945"
+}

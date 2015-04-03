@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.709189", 
+  "description": "A new JDBC driver for PostgreSQL aimed at supporting the advanced features of JDBC and Postgres", 
+  "fork": false, 
+  "full_name": "impossibl/pgjdbc-ng", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:49.893608"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.277662", 
+  "description": "A small DSL to describe graphite graphs", 
+  "fork": false, 
+  "full_name": "ripienaar/graphite-graph-dsl", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:21.974179"
+}

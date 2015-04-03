@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.943925", 
+  "description": "RubyMotion wrapper for NanoStore, a lightweight schema-less key-value document database based on sqlite.", 
+  "fork": false, 
+  "full_name": "siuying/NanoStoreInMotion", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:00.844383"
+}

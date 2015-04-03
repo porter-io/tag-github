@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.211913", 
+  "description": "Apworks is a flexible, scalable, configurable and efficient .NET based application development framework that helps software developers to easily build enterprise applications by applying either Classic Layering or Command-Query Responsibility Segregation (CQRS) architectural patterns.", 
+  "fork": false, 
+  "full_name": "daxnet/Apworks", 
+  "language": "C#", 
+  "updated_at": "2015-04-01T19:30:27.689572"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.037264", 
+  "description": "DSL for creating clean CSV, XLSX, and PDF reports in Ruby. Uses xlsx_writer, prawn and pdftk internally.", 
+  "fork": false, 
+  "full_name": "seamusabshere/report", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:31:54.170452"
+}

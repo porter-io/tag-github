@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.787733", 
+  "description": "A delightful iOS networking library with NSOperations and block-based callbacks", 
+  "fork": true, 
+  "full_name": "seatme/AFNetworking", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:03:46.802673"
+}

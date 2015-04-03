@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.082656", 
+  "description": "See http://gamekit.org or http://gamekit.googlecode.com A basic cross-platform 3D game engine around Lua, Bullet, .blend files, Ogre or Irrlicht.", 
+  "fork": false, 
+  "full_name": "gamekit-developers/gamekit", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:47.412861"
+}

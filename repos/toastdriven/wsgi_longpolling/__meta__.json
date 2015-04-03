@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.449709", 
+  "description": "Supporting materials for my blog post on WSGI long-polling apps with gevent.", 
+  "fork": false, 
+  "full_name": "toastdriven/wsgi_longpolling", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:29.377316"
+}

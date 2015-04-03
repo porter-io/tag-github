@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.620563", 
+  "description": "watch(1) periodically executes the given command - useful for auto-testing, auto-building, auto-anything ", 
+  "fork": false, 
+  "full_name": "tj/watch", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:15.317416"
+}

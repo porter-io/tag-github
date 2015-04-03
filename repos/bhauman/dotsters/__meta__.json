@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.461580", 
+  "description": "A game implemented in ClojureScript with the core.async library.", 
+  "fork": false, 
+  "full_name": "bhauman/dotsters", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:20.058866"
+}

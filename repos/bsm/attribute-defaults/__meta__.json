@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.396695", 
+  "description": "Simple ActiveRecord plugin that allows to specify default values for attributes", 
+  "fork": false, 
+  "full_name": "bsm/attribute-defaults", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:53.373232"
+}

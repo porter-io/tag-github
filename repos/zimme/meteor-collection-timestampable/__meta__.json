@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.853651", 
+  "description": "Add timestamps to collections", 
+  "fork": false, 
+  "full_name": "zimme/meteor-collection-timestampable", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:02.505876"
+}

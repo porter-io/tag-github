@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.146998", 
+  "description": "minimalist wget clone written in node. HTTP GETs a file and streams it into a file in the current working directory", 
+  "fork": false, 
+  "full_name": "maxogden/nugget", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.942720"
+}

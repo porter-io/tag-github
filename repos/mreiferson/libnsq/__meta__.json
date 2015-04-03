@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.558667", 
+  "description": "async C client library for NSQ", 
+  "fork": false, 
+  "full_name": "mreiferson/libnsq", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:40.330631"
+}

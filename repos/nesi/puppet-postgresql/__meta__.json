@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.306954", 
+  "description": "A Puppet module for managing the PostgreSQL database service, and define users, roles, and databases as resources.", 
+  "fork": false, 
+  "full_name": "nesi/puppet-postgresql", 
+  "language": "Puppet", 
+  "updated_at": "2015-02-27T23:42:05.531887"
+}

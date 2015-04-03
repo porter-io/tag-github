@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.382215", 
+  "description": "Fast string edit distance computation, using the Damerau-Levenshtein algorithm.", 
+  "fork": true, 
+  "full_name": "dbalatero/levenshtein-ffi", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:27:47.382295"
+}

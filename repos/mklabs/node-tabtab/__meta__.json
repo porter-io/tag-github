@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.142123", 
+  "description": "tab completion helpers, for node cli programs. Inspired by npm completion", 
+  "fork": false, 
+  "full_name": "mklabs/node-tabtab", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:10.550936"
+}

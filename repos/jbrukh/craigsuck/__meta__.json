@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.177869", 
+  "description": "Python script that periodically probes the Craigslist RSS feeds for new listings.", 
+  "fork": false, 
+  "full_name": "jbrukh/craigsuck", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:56.986627"
+}

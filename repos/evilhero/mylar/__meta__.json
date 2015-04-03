@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.492712", 
+  "description": "An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents", 
+  "fork": false, 
+  "full_name": "evilhero/mylar", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:20.290586"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.020792", 
+  "description": "A simple discrete/continuous circular progress view with current/max properties, customizable appearance and animatable.", 
+  "fork": false, 
+  "full_name": "Harmek/HKCircularProgressView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:50.758148"
+}

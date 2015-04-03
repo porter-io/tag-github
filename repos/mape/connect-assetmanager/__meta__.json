@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.792237", 
+  "description": "Middleware for Connect (node.js) for handling your static assets.", 
+  "fork": false, 
+  "full_name": "mape/connect-assetmanager", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:03.010414"
+}

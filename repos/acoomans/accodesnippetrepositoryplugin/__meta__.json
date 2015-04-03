@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.517147", 
+  "description": "A plugin for Xcode to synchronize code snippets with repositories", 
+  "fork": false, 
+  "full_name": "acoomans/ACCodeSnippetRepositoryPlugin", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:27.210736"
+}

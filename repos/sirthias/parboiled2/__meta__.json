@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.937078", 
+  "description": "A macro-based PEG parser generator for Scala 2.10+", 
+  "fork": false, 
+  "full_name": "sirthias/parboiled2", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:43:43.224193"
+}

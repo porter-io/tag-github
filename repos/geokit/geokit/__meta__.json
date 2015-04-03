@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.231731", 
+  "description": "Official Geokit Gem. Geokit gem provides geocoding and distance/heading calculations. Pair with the geokit-rails plugin for full-fledged location-based app functionality.", 
+  "fork": false, 
+  "full_name": "geokit/geokit", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:46.023097"
+}

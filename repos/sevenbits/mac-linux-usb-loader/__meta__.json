@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.875695", 
+  "description": "Tool allowing you to put a Linux distro on a USB drive and make it bootable on Intel Macs using EFI.", 
+  "fork": false, 
+  "full_name": "SevenBits/Mac-Linux-USB-Loader", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:11.399055"
+}

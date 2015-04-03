@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.003752", 
+  "description": "Publish the memory usage of a nodeJS instance in pubnub-rickshaw format", 
+  "fork": false, 
+  "full_name": "pubnub/pubnub-rickshaw-memory", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:24.672230"
+}

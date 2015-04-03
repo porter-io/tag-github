@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.712987", 
+  "description": "Simple object-oriented API for composing PDO::MySQL Queries", 
+  "fork": false, 
+  "full_name": "indeyets/MySQL-Query-Builder", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:46.348012"
+}

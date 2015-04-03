@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.524201", 
+  "description": "This gem is a wrapper to send push notifications to devices. Currently it only sends to Android or iOS devices, but more platforms will be added soon. With APNS (Apple Push Notifications Service) you can send push notifications to Apple devices. With GCM (Google Cloud Messaging) you can send push notifications to Android devices.", 
+  "fork": false, 
+  "full_name": "NicosKaralis/pushmeup", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:02:05.868259"
+}

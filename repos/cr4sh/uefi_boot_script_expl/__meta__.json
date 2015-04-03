@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.494418", 
+  "description": "CHIPSEC module that exploits UEFI boot script table vulnerability", 
+  "fork": false, 
+  "full_name": "Cr4sh/UEFI_boot_script_expl", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:00.274161"
+}

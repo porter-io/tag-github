@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.401840", 
+  "description": "Simple client for managing tasks through Google API. Powered by Google App Engine & AngularJS.", 
+  "fork": false, 
+  "full_name": "vojtajina/task-manager", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:03:32.489054"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.365482", 
+  "description": "A simple tool to inspect the state and statistics about ElasticSearch clusters", 
+  "fork": false, 
+  "full_name": "karmi/elasticsearch-paramedic", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:24.126104"
+}

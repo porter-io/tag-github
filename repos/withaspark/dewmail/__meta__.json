@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.773359", 
+  "description": "The open-source email parsing microservice for HTTP APIs. Receive email at your project's email address and automatically initiate a JSON formatted POST request to your app's API.", 
+  "fork": false, 
+  "full_name": "withaspark/dewmail", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:34.507190"
+}

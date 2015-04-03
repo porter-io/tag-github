@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.534641", 
+  "description": "A drop-in remplacement for UISegmentedControl that mimic iOS 6 AppStore tab controls", 
+  "fork": false, 
+  "full_name": "rs/SDSegmentedControl", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:08.408296"
+}

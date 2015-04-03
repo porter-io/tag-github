@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.411655", 
+  "description": "A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.", 
+  "fork": false, 
+  "full_name": "ansible/ansible-examples", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:47.193513"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.455901", 
+  "description": "Rack-based device type (mobile, tablet, etc.) detection from HTTP requests", 
+  "fork": false, 
+  "full_name": "jistr/mobvious", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:22.153115"
+}

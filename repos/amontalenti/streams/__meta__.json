@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.814145", 
+  "description": "Real-Time Streams & Logs: presentation on Parse.ly's data architecture with Apache Storm, Kafka, & Pig", 
+  "fork": false, 
+  "full_name": "amontalenti/streams", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:15.114528"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.988128", 
+  "description": "Full-text multi-table search application for Django. Easy to install and use, with good performance.", 
+  "fork": false, 
+  "full_name": "etianen/django-watson", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:03.243499"
+}

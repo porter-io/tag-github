@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.649598", 
+  "description": "Solo is a Java blogging program that can run on the GAE, BAE, OpenShift, CloudFoundry or a local servlet container.", 
+  "fork": false, 
+  "full_name": "b3log/b3log-solo", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:44.004559"
+}

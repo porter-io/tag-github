@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.533896", 
+  "description": "Reference Implementation of Romanov's Polynomial Algorithm for Boolean 3-SAT Problem", 
+  "fork": false, 
+  "full_name": "anjlab/sat3", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:57.702796"
+}

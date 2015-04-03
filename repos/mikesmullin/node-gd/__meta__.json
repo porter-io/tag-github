@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.412215", 
+  "description": "GD graphic library (libgd) C++ bindings for Node.js.", 
+  "fork": true, 
+  "full_name": "mikesmullin/node-gd", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:02:59.365710"
+}

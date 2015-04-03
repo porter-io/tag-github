@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.633855", 
+  "description": "A shell script that can use other command line tools to produce @font-face compatible fonts in all browsers.  Works under Windows (using Cygwin), Mac OS X and Linux", 
+  "fork": false, 
+  "full_name": "zoltan-dulac/css3FontConverter", 
+  "language": "CSS", 
+  "updated_at": "2015-03-10T07:01:14.001760"
+}

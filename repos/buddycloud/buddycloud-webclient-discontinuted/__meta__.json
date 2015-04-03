@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.416225", 
+  "description": "This webclient code is no longer supported. Please see https://github.com/buddycloud/webclient for an active and supported webclient.", 
+  "fork": false, 
+  "full_name": "buddycloud/buddycloud-webclient-discontinuted", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:31.340254"
+}

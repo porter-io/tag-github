@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.285947", 
+  "description": "Interfaces for IO using Q promises in JavaScript on Node", 
+  "fork": false, 
+  "full_name": "kriskowal/q-io", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.110057"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.488949", 
+  "description": "Wraps the rendering of Rails partials with html comments indicating the disk location of the rendered partial", 
+  "fork": false, 
+  "full_name": "duncanbeevers/rails_view_annotator", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:50.208148"
+}

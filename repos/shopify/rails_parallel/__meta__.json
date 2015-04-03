@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.990168", 
+  "description": "Makes your Rails tests scale with the number of CPU cores available", 
+  "fork": false, 
+  "full_name": "Shopify/rails_parallel", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:03.071943"
+}

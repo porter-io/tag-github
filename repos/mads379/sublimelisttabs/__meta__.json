@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.585241", 
+  "description": "Plugin for Sublime Text 3. Shows a quick panel with all of the open tabs grouped by their file extension", 
+  "fork": false, 
+  "full_name": "mads379/SublimeListTabs", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:53.613846"
+}

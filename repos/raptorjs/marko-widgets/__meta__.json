@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.849967", 
+  "description": "Module to support binding of behavior to rendered UI components rendered on the server or client", 
+  "fork": false, 
+  "full_name": "raptorjs/marko-widgets", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.806201"
+}

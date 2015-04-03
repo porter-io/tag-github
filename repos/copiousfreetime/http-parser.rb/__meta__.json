@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.622034", 
+  "description": "A ruby gem that embedds ry/http-parser in it as an extension", 
+  "fork": false, 
+  "full_name": "copiousfreetime/http-parser.rb", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:27.825683"
+}

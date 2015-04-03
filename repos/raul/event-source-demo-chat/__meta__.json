@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.638789", 
+  "description": "Simple chat app using EventSource instead of WebSockets to run on Heroku.", 
+  "fork": false, 
+  "full_name": "raul/event-source-demo-chat", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:15.014859"
+}

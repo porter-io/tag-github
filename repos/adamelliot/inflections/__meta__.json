@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.742414", 
+  "description": "Inflections is a port of several of the ActiveSupport Inflector methods into Objective C.", 
+  "fork": false, 
+  "full_name": "adamelliot/Inflections", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:00.829847"
+}

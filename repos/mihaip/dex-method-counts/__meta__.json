@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.569677", 
+  "description": "Command-line tool to count per-package methods in Android .dex files", 
+  "fork": false, 
+  "full_name": "mihaip/dex-method-counts", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:01.648676"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.868213", 
+  "description": "A library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js", 
+  "fork": false, 
+  "full_name": "omniscientjs/omniscient", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:57.522845"
+}

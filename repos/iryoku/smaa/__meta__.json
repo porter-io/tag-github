@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.032996", 
+  "description": "SMAA is a very efficient GPU-based MLAA implementation (DX9, DX10, DX11 and OpenGL), capable of handling subpixel features seamlessly, and featuring an improved and advanced pattern detection & handling mechanism.", 
+  "fork": false, 
+  "full_name": "iryoku/smaa", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:20.703842"
+}

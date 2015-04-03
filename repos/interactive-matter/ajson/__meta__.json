@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.930329", 
+  "description": "aJson is an Arduino library to enable JSON processing with Arduino. It easily enables you to decode, create, manipulate and encode JSON directly from and to data structures.", 
+  "fork": false, 
+  "full_name": "interactive-matter/aJson", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:18.738575"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.660022", 
+  "description": "File caching library for Node.JS and also cache engine for cacheman", 
+  "fork": false, 
+  "full_name": "anaptfox/cacheman-file", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:18.775965"
+}

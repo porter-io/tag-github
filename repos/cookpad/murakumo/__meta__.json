@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.362075", 
+  "description": "Murakumo is the internal DNS server which manages name information using a gossip protocol. ", 
+  "fork": false, 
+  "full_name": "cookpad/murakumo", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:58.753163"
+}

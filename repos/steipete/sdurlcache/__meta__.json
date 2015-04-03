@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.090958", 
+  "description": "URLCache subclass with on-disk cache support on iPhone/iPad. Forked for speed!", 
+  "fork": true, 
+  "full_name": "steipete/SDURLCache", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T22:27:54.091088"
+}

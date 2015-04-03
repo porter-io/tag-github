@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.854728", 
+  "description": "A pair of Emacs color themes based on Ethan Schoonover's 'solarized' theme", 
+  "fork": false, 
+  "full_name": "purcell/color-theme-sanityinc-solarized", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:42:30.433492"
+}

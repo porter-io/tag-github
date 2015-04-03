@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.861019", 
+  "description": "An efficient updatable key-value store for Apache Spark", 
+  "fork": false, 
+  "full_name": "amplab/spark-indexedrdd", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:43:49.594155"
+}

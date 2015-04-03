@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.347862", 
+  "description": "Sample node.JS application using express 3, passport, couchbase and redis to log-in users", 
+  "fork": false, 
+  "full_name": "hardlifeofapo/node-passport-couchbase-redis", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:57.824222"
+}

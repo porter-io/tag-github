@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.256088", 
+  "description": "Check if a Buffer/Uint8Array is an XCF image", 
+  "fork": false, 
+  "full_name": "pskupinski/is-xcf", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.131033"
+}

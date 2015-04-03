@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:59.973122", 
+  "description": "Using HTML5 data-attributes with a device category 'keyword', containing a URL, on (empty) div -tags, to have jQuery (Ajax) load in (append) that URL as additional content when CSS changes the body:after CSS3 generated content value using a MediaQuery.", 
+  "fork": false, 
+  "full_name": "dutchwebworks/responsive-fragments", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:32.832468"
+}

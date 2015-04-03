@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.692637", 
+  "description": "Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets", 
+  "fork": false, 
+  "full_name": "axkibe/lsyncd", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:42:33.312707"
+}

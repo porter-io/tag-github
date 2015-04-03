@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.875867", 
+  "description": "ECMAScript 6 (Harmony) compatibility shims for legacy JavaScript engines", 
+  "fork": true, 
+  "full_name": "es-shims/es6-shim", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:28:08.875954"
+}

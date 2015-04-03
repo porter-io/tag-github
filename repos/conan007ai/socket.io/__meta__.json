@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.215709", 
+  "description": "Realtime application framework for Node.JS, with HTML5 WebSockets and cross-browser fallbacks support.", 
+  "fork": true, 
+  "full_name": "conan007ai/socket.io", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:31:37.281338"
+}

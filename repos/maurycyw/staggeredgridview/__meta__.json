@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.281356", 
+  "description": "A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore.", 
+  "fork": false, 
+  "full_name": "maurycyw/StaggeredGridView", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:14.899201"
+}

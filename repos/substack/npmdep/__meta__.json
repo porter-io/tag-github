@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.968600", 
+  "description": "Compute dependency graphs for npm", 
+  "fork": false, 
+  "full_name": "substack/npmdep", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.789759"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.812470", 
+  "description": "A plugin for cytoscape.js that allows a user to create a custom toolbar to add next to a cytoscape core instance.", 
+  "fork": false, 
+  "full_name": "bdparrish/cytoscape.js-toolbar", 
+  "language": "CSS", 
+  "updated_at": "2015-03-10T07:02:26.810316"
+}

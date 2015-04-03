@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.813462", 
+  "description": "A simple daemon to control fan speed on all Macbook/Macbook Pros (probably all Apple computers) for Linux 3.x.x", 
+  "fork": true, 
+  "full_name": "dgraziotin/Fan-Control-Daemon", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:29:02.813544"
+}

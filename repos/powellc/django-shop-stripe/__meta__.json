@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.537440", 
+  "description": "A Stripe.com payment backend for django-shop", 
+  "fork": false, 
+  "full_name": "powellc/django-shop-stripe", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:50.566255"
+}

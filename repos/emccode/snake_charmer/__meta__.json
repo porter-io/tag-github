@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.370218", 
+  "description": "Collection of tools to create simple ways to test and use object services with Docker containers", 
+  "fork": false, 
+  "full_name": "emccode/snake_charmer", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:36.364066"
+}

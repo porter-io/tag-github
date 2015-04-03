@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.702497", 
+  "description": "A ORM written in Coffeescript that supports multiple database systems (SQL/NoSQL) and ID generation middleware.", 
+  "fork": false, 
+  "full_name": "meltingice/node-activerecord", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:30:58.399915"
+}

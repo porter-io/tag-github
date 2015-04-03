@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.491372", 
+  "description": "A library providing migrations using ORM2's model DSL leveraging Visionmedia's node-migrate", 
+  "fork": false, 
+  "full_name": "locomote/node-migrate-orm2", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:20.286427"
+}

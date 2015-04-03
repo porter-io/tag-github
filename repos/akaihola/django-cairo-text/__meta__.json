@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.062127", 
+  "description": "Django re-usable app for rendering text as images using Cairo", 
+  "fork": false, 
+  "full_name": "akaihola/django-cairo-text", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:26.131423"
+}

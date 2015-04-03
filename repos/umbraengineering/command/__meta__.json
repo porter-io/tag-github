@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.625207", 
+  "description": "A Node.js chainable, promise-based utility for running commands with child_process.spawn", 
+  "fork": false, 
+  "full_name": "UmbraEngineering/command", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:22.304989"
+}

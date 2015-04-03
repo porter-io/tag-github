@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.482190", 
+  "description": "Remove leading, trailing and repeated whitespace from a string", 
+  "fork": false, 
+  "full_name": "sindresorhus/condense-whitespace", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.593650"
+}

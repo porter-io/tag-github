@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.387477", 
+  "description": "Analyzes resource usage and performance characteristics of running containers.", 
+  "fork": false, 
+  "full_name": "google/cadvisor", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:52:23.534981"
+}

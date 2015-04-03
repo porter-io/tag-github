@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.022940", 
+  "description": "A django app that allows the easy addition of Stack Overflow's \"PageDown\" markdown editor to a django form field, whether in a custom app or the Django Admin", 
+  "fork": false, 
+  "full_name": "timmyomahony/django-pagedown", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:32.974490"
+}

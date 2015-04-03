@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.258974", 
+  "description": "A Chef cookbook that installs a Rails application and can be fully customized using attributes.", 
+  "fork": false, 
+  "full_name": "devops-israel/chef-rails_application", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:03.618213"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:50.911129", 
+  "description": "RSpec tests for your servers configured by Puppet, Chef or anything else even by hand", 
+  "fork": false, 
+  "full_name": "serverspec/serverspec", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:54.570422"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.046244", 
+  "description": "Implements the tilelive API for generating mapnik vector tiles from traditional mapnik datasources.", 
+  "fork": false, 
+  "full_name": "mapbox/tilelive-bridge", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:22.675162"
+}

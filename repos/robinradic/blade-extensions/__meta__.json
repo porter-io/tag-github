@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.603894", 
+  "description": "Laravel Blade extensions like $loop->odd/$loop->index in foreach, view blocks and partials, etc", 
+  "fork": false, 
+  "full_name": "RobinRadic/blade-extensions", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:44.993552"
+}

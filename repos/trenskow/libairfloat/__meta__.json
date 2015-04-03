@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.529511", 
+  "description": "Apple's AirPlay library - audio receiver only. Derived from the iOS app AirFloat.", 
+  "fork": false, 
+  "full_name": "trenskow/libairfloat", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:01:39.658856"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.521493", 
+  "description": "A 2 dimensional plasma simulation running on the GPU, written in GLSL and CoffeeScript and rendered with WebGL.", 
+  "fork": false, 
+  "full_name": "soulwire/Plasmatic-Isosurface", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:28:34.263466"
+}

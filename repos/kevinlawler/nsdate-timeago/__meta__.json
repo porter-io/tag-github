@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.098435", 
+  "description": "A \"time ago\", \"time since\", \"relative date\", or \"fuzzy date\" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad", 
+  "fork": false, 
+  "full_name": "kevinlawler/NSDate-TimeAgo", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:03:47.388247"
+}

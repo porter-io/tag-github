@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.640670", 
+  "description": "A library designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.", 
+  "fork": false, 
+  "full_name": "james-henderson/chord", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:13.139069"
+}

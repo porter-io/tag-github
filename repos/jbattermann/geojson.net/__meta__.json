@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.450617", 
+  "description": ".Net library for GeoJSON types & corresponding Json.Net (de)serializers", 
+  "fork": false, 
+  "full_name": "jbattermann/GeoJSON.Net", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:41:23.712713"
+}

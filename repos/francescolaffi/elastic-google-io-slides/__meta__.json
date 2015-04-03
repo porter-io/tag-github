@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.803336", 
+  "description": "A mod of google html5 slides that scale down with css3 transform if view is smaller than the slide instead of cropping", 
+  "fork": false, 
+  "full_name": "francescolaffi/elastic-google-io-slides", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:56.922448"
+}

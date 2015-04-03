@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.768183", 
+  "description": "Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments.", 
+  "fork": false, 
+  "full_name": "erikw/tmux-powerline", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:54.388319"
+}

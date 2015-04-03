@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.630522", 
+  "description": "mysqlblasy (MySQL backup for lazy sysadmins) is a script for automatic silent mysql backups", 
+  "fork": false, 
+  "full_name": "infothrill/perl-mysqlblasy", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:41:59.687680"
+}

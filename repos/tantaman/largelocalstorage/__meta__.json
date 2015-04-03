@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.912329", 
+  "description": "Problem: You need to store a large amount of key-value based data in IE, Chrome, Safari, AND Firefox", 
+  "fork": false, 
+  "full_name": "tantaman/LargeLocalStorage", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:46.473322"
+}

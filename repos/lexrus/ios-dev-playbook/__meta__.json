@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.682903", 
+  "description": "\u4f7f\u7528 Ansible \u5feb\u901f\u914d\u7f6e iOS \u5f00\u53d1\u9700\u8981\u7684 Debian \u6216 Ubuntu \u670d\u52a1\u5668\uff0c\u5b89\u88c5 GitLab\u3001Countly\u3001Jenkins\u3001Ghost\u3001Ajenti \u7b49\uff0c\u987a\u8def\u88c5\u4e00\u4e9b\u79d1\u5b66\u4e0a\u7f51\u7684\u670d\u52a1\u3002", 
+  "fork": false, 
+  "full_name": "lexrus/ios-dev-playbook", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:35.088513"
+}

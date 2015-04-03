@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.772598", 
+  "description": "This repository contains the files needed for doing GitHub Publishing to the Puppet Labs Forge", 
+  "fork": false, 
+  "full_name": "puppetlabs/ghpublisher", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:21.437267"
+}

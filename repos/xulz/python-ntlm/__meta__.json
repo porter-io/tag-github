@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.374014", 
+  "description": "  Python library that provides NTLM support, including an authentication handler for urllib2  http://code.google.com/p/python-ntlm/", 
+  "fork": false, 
+  "full_name": "xulz/python-ntlm", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:06.505419"
+}

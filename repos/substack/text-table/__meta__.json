@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.978448", 
+  "description": "generate borderless text table strings suitable for printing to stdout", 
+  "fork": false, 
+  "full_name": "substack/text-table", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.803461"
+}

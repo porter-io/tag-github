@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.698184", 
+  "description": "Offload CarrierWave's image processing and storage to a background process using Delayed Job, Resque, Sidekiq, Qu, Queue Classic or Girl Friday.", 
+  "fork": false, 
+  "full_name": "lardawge/carrierwave_backgrounder", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:30.187963"
+}

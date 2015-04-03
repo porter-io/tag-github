@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.873330", 
+  "description": "A Scala framework for creating objects as test data. Say no to Mocks", 
+  "fork": false, 
+  "full_name": "mgonto/factory_pal", 
+  "language": "Scala", 
+  "updated_at": "2015-04-01T19:30:28.779235"
+}

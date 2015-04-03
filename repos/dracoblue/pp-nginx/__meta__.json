@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.755573", 
+  "description": "A slim but very powerful nginx module for puppet", 
+  "fork": false, 
+  "full_name": "DracoBlue/pp-nginx", 
+  "language": "Puppet", 
+  "updated_at": "2015-02-27T23:43:15.003381"
+}

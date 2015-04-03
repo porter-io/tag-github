@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.962849", 
+  "description": "Punch (formerly Cocktail 2012) is an application development platform that takes the pain out of the development of data-driven rich XAML applications. It is a blend of three popular frameworks: Caliburn.Micro + DevForce + Entity Framework. Line of business applications need to query and save database data, model the data as objects with business logic, and present those objects to the end user. Cocktail takes care of these fundamental responsibilities with loosely coupled, open source, and industry-leading components that are designed for change.", 
+  "fork": false, 
+  "full_name": "IdeaBlade/Punch", 
+  "language": "C#", 
+  "updated_at": "2015-04-01T19:29:43.228913"
+}

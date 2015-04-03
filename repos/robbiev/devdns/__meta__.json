@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.972354", 
+  "description": "DNS server that replies the same address (\"127.0.0.1\" by default) to all type A queries", 
+  "fork": false, 
+  "full_name": "robbiev/devdns", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:35.617532"
+}

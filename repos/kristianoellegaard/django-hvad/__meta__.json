@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.866994", 
+  "description": "Painless translations in django, using the regular ORM. Integrates easily into existing projects and apps. Easy convertible from django-multilingual-ng.", 
+  "fork": false, 
+  "full_name": "KristianOellegaard/django-hvad", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:04.068353"
+}

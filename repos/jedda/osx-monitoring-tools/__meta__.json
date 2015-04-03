@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.065141", 
+  "description": "A collection of scripts and tools to assist in monitoring Mac OS X and essential services with Nagios.", 
+  "fork": false, 
+  "full_name": "jedda/OSX-Monitoring-Tools", 
+  "language": "Shell", 
+  "updated_at": "2015-03-10T07:04:08.243906"
+}

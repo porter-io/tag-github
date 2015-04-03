@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.771557", 
+  "description": "Transparency is a semantic template engine for the browser. It maps JSON objects to DOM elements by id, class and data-bind attributes.", 
+  "fork": false, 
+  "full_name": "leonidas/transparency", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:19.308659"
+}

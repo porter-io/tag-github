@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.237051", 
+  "description": "Streamable content addressable blob object store that is streams2 and implements the blob store interface", 
+  "fork": false, 
+  "full_name": "mafintosh/content-addressable-blob-store", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:14.814929"
+}

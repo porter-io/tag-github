@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.617105", 
+  "description": "Postgres CLI with autocompletion and syntax highlighting", 
+  "fork": false, 
+  "full_name": "amjith/pgcli", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:32.509357"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.652335", 
+  "description": "Resque dashing widget to monitor resque jobs, queues and worker activities.", 
+  "fork": false, 
+  "full_name": "kamisama/dashing-resque", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:30.129872"
+}

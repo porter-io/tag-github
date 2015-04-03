@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.247074", 
+  "description": "EASE (Enhanced AI Scoring Engine) is a library that allows for machine learning based classification of textual content.  This is useful for tasks such as scoring student essays.", 
+  "fork": false, 
+  "full_name": "edx/ease", 
+  "language": "OpenEdge ABL", 
+  "updated_at": "2015-02-27T23:41:42.725328"
+}

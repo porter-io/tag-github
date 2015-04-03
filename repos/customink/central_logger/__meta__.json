@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.556074", 
+  "description": "Ruby Mongo DB Logger for Rails - centralized logging for rails apps in MongoDB. Converted to gem, added global exception logging, and added Rails 3 (or 2) support.", 
+  "fork": true, 
+  "full_name": "customink/central_logger", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:14.556158"
+}

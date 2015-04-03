@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.065095", 
+  "description": "WE HAVE MOVED to Apache Incubator. https://cwiki.apache.org/FLUME/ .   Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows. It is robust and fault tolerant with tunable reliability mechanisms and many failover and recovery mechanisms. The system is centrally managed and allows for intelligent dynamic management. It uses a simple extensible data model that allows for online analytic applications.", 
+  "fork": false, 
+  "full_name": "cloudera/flume", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:10.233245"
+}

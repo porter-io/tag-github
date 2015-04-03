@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.223381", 
+  "description": "Samples for my talk 'How streams help to raise Node.js performance' at MNUG in December 2013.", 
+  "fork": false, 
+  "full_name": "goloroden/how-streams-help-to-raise-nodejs-performance", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:41.427604"
+}

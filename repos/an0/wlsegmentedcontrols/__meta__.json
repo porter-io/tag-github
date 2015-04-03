@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.884936", 
+  "description": "A custom implementation of UISegmentedControl with multiple-selection and vertical layout support.", 
+  "fork": false, 
+  "full_name": "an0/WLSegmentedControls", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:20.776613"
+}

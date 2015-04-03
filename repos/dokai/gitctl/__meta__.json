@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.633848", 
+  "description": "Particular workflow implementation for managing projects consisting of multiple git-using subcomponents.", 
+  "fork": false, 
+  "full_name": "dokai/gitctl", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:36.846428"
+}

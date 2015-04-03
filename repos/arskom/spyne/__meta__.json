@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.094176", 
+  "description": "A transport and architecture agnostic RPC library that focuses on exposing services with a well-defined API using popular protocols.", 
+  "fork": false, 
+  "full_name": "arskom/spyne", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:24.745626"
+}

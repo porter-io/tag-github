@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.010947", 
+  "description": "Validating and solving sudokus with JQ", 
+  "fork": false, 
+  "full_name": "slapresta/jq-sudoku", 
+  "language": "JSONiq", 
+  "updated_at": "2015-02-27T23:43:00.609478"
+}

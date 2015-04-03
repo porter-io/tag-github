@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.916721", 
+  "description": "A solution for concurrently editable rich text documents. Designed with P2P in mind, though works just as well for server-only federation. Developer email: campadrenalin@gmail.com", 
+  "fork": false, 
+  "full_name": "campadrenalin/ConcurrenTree", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:04.126345"
+}

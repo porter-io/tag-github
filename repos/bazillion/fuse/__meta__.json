@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.329751", 
+  "description": "FUSE library for Go. Please use import path \"bazil.org/fuse\".", 
+  "fork": false, 
+  "full_name": "bazillion/fuse", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:26.665824"
+}

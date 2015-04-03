@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.102168", 
+  "description": "A boilerplate for Backbone projects that share code server/client, render server/client, and scale through modular architecture.", 
+  "fork": false, 
+  "full_name": "artsy/ezel", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:14.183061"
+}

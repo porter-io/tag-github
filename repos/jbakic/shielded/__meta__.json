@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.439659", 
+  "description": "A strict and mostly obstruction-free Software Transactional Memory (STM) for .NET", 
+  "fork": false, 
+  "full_name": "jbakic/Shielded", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:41:29.283074"
+}

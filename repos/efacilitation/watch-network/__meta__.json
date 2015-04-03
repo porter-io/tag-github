@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.047157", 
+  "description": "Execute tasks based on file events received over the network - gulpfriendly", 
+  "fork": false, 
+  "full_name": "efacilitation/watch-network", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:03.270688"
+}

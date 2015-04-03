@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.496526", 
+  "description": "A DNS Server with an Web UI and using Redis a configuration store", 
+  "fork": false, 
+  "full_name": "hbouvier/dns", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:47.299974"
+}

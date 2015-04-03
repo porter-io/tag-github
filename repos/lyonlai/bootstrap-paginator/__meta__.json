@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.443316", 
+  "description": "Bootstrap Paginator is a jQuery plugin that simplifies the rendering of Bootstrap Pagination component. It provides methods to automates the update of the pagination status and also some events to notify the status changes within the component.", 
+  "fork": false, 
+  "full_name": "lyonlai/bootstrap-paginator", 
+  "language": "CSS", 
+  "updated_at": "2015-03-10T07:04:28.221096"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.996373", 
+  "description": "A system and a Java API for large-scale graph processing based on Google's Pregel", 
+  "fork": false, 
+  "full_name": "kowshik/JPregel", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:20.950391"
+}

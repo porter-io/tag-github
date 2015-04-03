@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.770689", 
+  "description": "Simple wrapper to run any git command and process it's output using promises.", 
+  "fork": false, 
+  "full_name": "piuccio/git-promise", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:47.443960"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.891122", 
+  "description": "A rate limiting middleware for Django", 
+  "fork": false, 
+  "full_name": "funkybob/django-rated", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:30.282089"
+}

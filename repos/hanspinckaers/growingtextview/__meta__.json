@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.036203", 
+  "description": "An UITextView which grows/shrinks with the text and starts scrolling when the content reaches a certain number of lines. Similar to the one Apple uses in the SMS-app. See blog-post for a small screencast.", 
+  "fork": false, 
+  "full_name": "HansPinckaers/GrowingTextView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:05.278773"
+}

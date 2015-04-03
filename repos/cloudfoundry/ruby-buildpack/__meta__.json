@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.289760", 
+  "description": "Cloud Foundry buildpack for Ruby, Sinatra and Rails", 
+  "fork": true, 
+  "full_name": "cloudfoundry/ruby-buildpack", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:30.290400"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.500958", 
+  "description": "A small bookmarklet to help you find Xpaths. You simply hover over any of the dom nodes, and click on the one that you want to see the xpath for. This bookmarklet can also pass the xpath back to a calling webpage.", 
+  "fork": false, 
+  "full_name": "ptarjan/nodeselector", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:48.869487"
+}

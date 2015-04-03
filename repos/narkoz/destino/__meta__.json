@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.172893", 
+  "description": "Web service that redirects to a Ruby gem's GitHub or RubyGems project page", 
+  "fork": false, 
+  "full_name": "NARKOZ/destino", 
+  "language": "Elixir", 
+  "updated_at": "2015-02-27T23:43:47.757994"
+}

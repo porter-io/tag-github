@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.790244", 
+  "description": "Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls", 
+  "fork": false, 
+  "full_name": "qq99/echoplexus", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:01:40.012967"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.759233", 
+  "description": "Define dependency graphs of Sidekiq jobs", 
+  "fork": false, 
+  "full_name": "socialpandas/sidekiq-superworker", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:20.591835"
+}

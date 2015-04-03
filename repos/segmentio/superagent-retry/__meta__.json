@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.163281", 
+  "description": "Retry superagent requests for common hangups", 
+  "fork": false, 
+  "full_name": "segmentio/superagent-retry", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:10.729760"
+}

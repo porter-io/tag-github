@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.390847", 
+  "description": "Faster string escaping routines for your ruby apps", 
+  "fork": false, 
+  "full_name": "brianmario/escape_utils", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:27.553042"
+}

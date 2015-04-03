@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.288685", 
+  "description": "Implement a DBN(Deep Belief Network) used in QBH(Query By Humming) system based on theano", 
+  "fork": false, 
+  "full_name": "maverick0122/DBN_QBH", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:42.828767"
+}

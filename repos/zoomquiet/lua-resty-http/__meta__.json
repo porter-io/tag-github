@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.698577", 
+  "description": "base HTTP client utilities for ngx_lua and LuaJIT", 
+  "fork": false, 
+  "full_name": "ZoomQuiet/lua-resty-http", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:43:46.270611"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.605305", 
+  "description": "A pre-commit Git Hook that will generate all the Table of Contents you will ever need. Just write your content, and let it take over.", 
+  "fork": false, 
+  "full_name": "hybridgroup/GitHub-Wikifier", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:18.517819"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.108782", 
+  "description": "A service to scrobble your Last.fm events that have setlists on SongKick.", 
+  "fork": false, 
+  "full_name": "eartle/Setlist-Scrobbler", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:50.860285"
+}

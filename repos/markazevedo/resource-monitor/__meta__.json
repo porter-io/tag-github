@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.823685", 
+  "description": "A `ResourceMonitor` object allows you to specify a url to monitor on intervals, reporting changes in HTTP status codes, response content, and latency.", 
+  "fork": false, 
+  "full_name": "markazevedo/resource-monitor", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:25.523728"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.343166", 
+  "description": "This subclass of NSView can be used to get an iOS 7 like blurred background to mimic a frosted glass effect.", 
+  "fork": false, 
+  "full_name": "raffael/RMBlurredView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:47.129892"
+}

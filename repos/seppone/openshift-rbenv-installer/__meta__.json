@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.357121", 
+  "description": "Install rbenv and friends and update all of them when you want to ...", 
+  "fork": true, 
+  "full_name": "Seppone/openshift-rbenv-installer", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T22:28:53.358128"
+}

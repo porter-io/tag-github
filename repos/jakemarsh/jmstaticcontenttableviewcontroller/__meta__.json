@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.406898", 
+  "description": "A subclass-able way to cleanly and neatly implement a table view controller much like those in Settings.app, with nice-looking fields to collect or display information, all using a simple and convienent block-based syntax.", 
+  "fork": false, 
+  "full_name": "jakemarsh/JMStaticContentTableViewController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:17.843760"
+}

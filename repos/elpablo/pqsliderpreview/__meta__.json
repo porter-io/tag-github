@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.144092", 
+  "description": "Subclass of UISlider to make a preview of array of images or a PDF document.", 
+  "fork": false, 
+  "full_name": "elpablo/PQSliderPreview", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:29:59.054757"
+}

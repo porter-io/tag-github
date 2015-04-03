@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.270669", 
+  "description": "Adds smart json support for WTForms. Useful for when using WTForms with RESTful APIs.", 
+  "fork": false, 
+  "full_name": "kvesteri/wtforms-json", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:01.313499"
+}

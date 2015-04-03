@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.277241", 
+  "description": "A real-time Redis monitoring tool", 
+  "fork": false, 
+  "full_name": "junegunn/redis-stat", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:34.985242"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.255909", 
+  "description": "The Mvvm Platform for Xamarin.iOS, Xamarin.Android, WindowsPhone, WindowsStore, WPF and Mac. Includes databinding support for Android XML, for iOS XIBs and for MonoTouch.Dialog.", 
+  "fork": false, 
+  "full_name": "MvvmCross/MvvmCross", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T07:02:06.769987"
+}

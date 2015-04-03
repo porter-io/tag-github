@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.100109", 
+  "description": "A DataMapper adapter for redis", 
+  "fork": false, 
+  "full_name": "whoahbot/dm-redis-adapter", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:36.325676"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.104462", 
+  "description": "Encode and decode emoji unicode characters into emoji-cheat-sheet form.", 
+  "fork": false, 
+  "full_name": "mwunsch/rumoji", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:03.433486"
+}

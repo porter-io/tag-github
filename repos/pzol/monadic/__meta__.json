@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.418654", 
+  "description": "helps dealing with exceptional situations, it comes from the sphere of functional programming and bringing the goodies I have come to love in Scala to my ruby projects", 
+  "fork": false, 
+  "full_name": "pzol/monadic", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:22.655879"
+}

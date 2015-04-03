@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.684085", 
+  "description": "RequestQueue is a simple class for managing multiple concurrent asynchronous URL requests in your applications.", 
+  "fork": false, 
+  "full_name": "nicklockwood/RequestQueue", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:02.917928"
+}

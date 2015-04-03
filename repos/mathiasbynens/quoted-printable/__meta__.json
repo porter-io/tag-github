@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.555703", 
+  "description": "A robust & character encoding\u2013agnostic JavaScript implementation of the `Quoted-Printable` content transfer encoding as defined by RFC 2045.", 
+  "fork": false, 
+  "full_name": "mathiasbynens/quoted-printable", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:14.712285"
+}

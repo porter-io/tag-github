@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:59.375725", 
+  "description": "Flat Surface Shader for rendering lit triangles to a number of contexts including WebGL, Canvas 2D and SVG", 
+  "fork": false, 
+  "full_name": "wagerfield/flat-surface-shader", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:32.149532"
+}

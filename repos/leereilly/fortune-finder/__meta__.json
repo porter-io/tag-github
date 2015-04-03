@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.021891", 
+  "description": "Look up Fortune 500 companies and subsidiaries based on a domain name or email address to get their rankings", 
+  "fork": false, 
+  "full_name": "leereilly/fortune-finder", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:44.482530"
+}

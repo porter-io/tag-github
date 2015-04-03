@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.665686", 
+  "description": "Ruby client for NATS, a lightweight cloud messaging system.", 
+  "fork": false, 
+  "full_name": "derekcollison/ruby-nats", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:16.320878"
+}

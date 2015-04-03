@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.202807", 
+  "description": "i18n and l10n support for Flask based on Babel and pytz", 
+  "fork": true, 
+  "full_name": "mrjoes/flask-babelex", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:27:44.202872"
+}

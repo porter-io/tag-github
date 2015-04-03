@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.278230", 
+  "description": "Clamps an HTML element by adding ellipsis to it if the content inside is too long.", 
+  "fork": false, 
+  "full_name": "josephschmitt/Clamp.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.137960"
+}

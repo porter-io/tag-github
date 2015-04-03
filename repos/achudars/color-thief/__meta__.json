@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.981121", 
+  "description": "Grabs the dominant colour or a representative colour palette from an uploaded image. Uses JavaScript and Canvas.", 
+  "fork": true, 
+  "full_name": "achudars/color-thief", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:27:46.981215"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.395435", 
+  "description": "MessagePack-RPC is an inter-process messaging library that uses MessagePack for object serialization.", 
+  "fork": false, 
+  "full_name": "msgpack-rpc/msgpack-rpc", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:19.241921"
+}

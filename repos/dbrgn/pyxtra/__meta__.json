@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.806128", 
+  "description": "A small commandline utility written in Python to access the Swisscom Xtrazone SMS service", 
+  "fork": false, 
+  "full_name": "dbrgn/pyxtra", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:38.516060"
+}

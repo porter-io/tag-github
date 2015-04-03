@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.860043", 
+  "description": "Open Source ERP built for the Web. Uses Python, MariaDB.", 
+  "fork": false, 
+  "full_name": "frappe/erpnext", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:41.369677"
+}

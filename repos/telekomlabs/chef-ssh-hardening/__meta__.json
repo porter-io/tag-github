@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.431491", 
+  "description": "This chef cookbook provides secure ssh-client and ssh-server configurations.", 
+  "fork": false, 
+  "full_name": "TelekomLabs/chef-ssh-hardening", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:53.353235"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.523904", 
+  "description": "Ruby on Rails CRM for lead tracking made with MongoDB, Twitter Bootstrap and Devise.  It is intended to be a no fluff working application and not an over loaded application.", 
+  "fork": false, 
+  "full_name": "brobertsaz/railscrm", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:00:49.977207"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.192557", 
+  "description": "Light, concurrent RPC framework for PHP & C (java, python etc will be supported soon)", 
+  "fork": false, 
+  "full_name": "laruence/yar", 
+  "language": "C", 
+  "updated_at": "2015-04-01T19:29:44.133396"
+}

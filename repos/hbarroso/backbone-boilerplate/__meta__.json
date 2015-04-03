@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.061102", 
+  "description": "BackboneJs + RequireJs AMD multi-page boilerplate. Batteries are included and embraces a good methodologies like unit testing and code decoupling. ", 
+  "fork": false, 
+  "full_name": "hbarroso/backbone-boilerplate", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:00:53.007291"
+}

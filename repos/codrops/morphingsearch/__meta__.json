@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.896260", 
+  "description": "A simple effect idea for a search input that morphs into a fullscreen overlay. The idea is to enlarge the search input and show some relevant content or search results.", 
+  "fork": false, 
+  "full_name": "codrops/MorphingSearch", 
+  "language": "CSS", 
+  "updated_at": "2015-02-27T23:43:58.189957"
+}

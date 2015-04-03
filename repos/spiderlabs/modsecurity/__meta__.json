@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.506847", 
+  "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence. ", 
+  "fork": false, 
+  "full_name": "SpiderLabs/ModSecurity", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:23.081296"
+}

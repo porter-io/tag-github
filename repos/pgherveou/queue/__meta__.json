@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.781604", 
+  "description": "task queue component for the browser backed by localstorage", 
+  "fork": false, 
+  "full_name": "pgherveou/queue", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:00.627597"
+}

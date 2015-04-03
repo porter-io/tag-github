@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.527810", 
+  "description": "Erlang wrapper for xxHash.", 
+  "fork": false, 
+  "full_name": "pierresforge/erlang-xxhash", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:39.068452"
+}

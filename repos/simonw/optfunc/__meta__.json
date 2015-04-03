@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.674350", 
+  "description": "Syntactic sugar for creating Python command line scripts by introspecting a function definition", 
+  "fork": false, 
+  "full_name": "simonw/optfunc", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:20.362764"
+}

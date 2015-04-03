@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.710586", 
+  "description": "rawStream.pipe(JSONStream.parse()).pipe(streamOfObjects)", 
+  "fork": false, 
+  "full_name": "dominictarr/JSONStream", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:19.844757"
+}

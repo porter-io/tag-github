@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.655940", 
+  "description": "A clone of the UIImagePickerController using the Assets Library Framework allowing for multiple asset selection", 
+  "fork": false, 
+  "full_name": "B-Sides/ELCImagePickerController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:29:22.518404"
+}

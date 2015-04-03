@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.097525", 
+  "description": "Create linked lists of Buffer objects and write binary parsers for these lists", 
+  "fork": false, 
+  "full_name": "substack/node-bufferlist", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.932818"
+}

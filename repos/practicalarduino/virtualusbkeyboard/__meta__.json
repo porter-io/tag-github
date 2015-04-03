@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:29:04.206675", 
+  "description": "Use an Arduino to send HID (Human Interface Device) events to a host computer as if it were a keyboard", 
+  "fork": false, 
+  "full_name": "practicalarduino/VirtualUsbKeyboard", 
+  "updated_at": "2015-02-27T23:43:54.529358"
+}

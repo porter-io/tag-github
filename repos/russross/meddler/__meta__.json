@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.066689", 
+  "description": "conversion between sql and structs in go", 
+  "fork": false, 
+  "full_name": "russross/meddler", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:04:22.366266"
+}

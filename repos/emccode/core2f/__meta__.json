@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.360290", 
+  "description": "This project contains relevant steps, automation tools instructions, and eventually Docker containers to help minimize friction when deploying CoreOS to vSphere/vCloud Air/vCloud Director.", 
+  "fork": false, 
+  "full_name": "emccode/core2f", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:36.348811"
+}

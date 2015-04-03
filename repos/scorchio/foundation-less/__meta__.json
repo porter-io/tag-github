@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.482403", 
+  "description": "This is the LESSified version of ZURB's foundation. At the moment, it just LESSifies the syntax of the CSS files, but I plan to improve it in a way which would make it more easy to customize. Update: this project is now deprecated, please use the new SASS-based Foundation 3 instead! It's waaaaaaaaaaaaaay better. ;]", 
+  "fork": true, 
+  "full_name": "scorchio/foundation-less", 
+  "language": "PHP", 
+  "updated_at": "2015-04-01T19:30:59.156250"
+}

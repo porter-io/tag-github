@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.500970", 
+  "description": "Vim plugin that use clang for completing C/C++ code.", 
+  "fork": false, 
+  "full_name": "Rip-Rip/clang_complete", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:31.961333"
+}

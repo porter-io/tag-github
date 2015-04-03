@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.754856", 
+  "description": "Monitoring changes in the source file and automatically compile and run (restart).", 
+  "fork": false, 
+  "full_name": "liudng/dogo", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:44:03.946634"
+}

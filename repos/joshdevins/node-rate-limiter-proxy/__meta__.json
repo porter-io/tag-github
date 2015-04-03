@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.315284", 
+  "description": "A very simple node.js HTTP proxy providing usage rate limiting using Redis", 
+  "fork": false, 
+  "full_name": "joshdevins/node-rate-limiter-proxy", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:16.214648"
+}

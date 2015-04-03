@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.549095", 
+  "description": "A Chef cookbook to install the Node.js version manager n and Node.js.", 
+  "fork": false, 
+  "full_name": "exratione/n-and-nodejs-cookbook", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:03:54.327344"
+}

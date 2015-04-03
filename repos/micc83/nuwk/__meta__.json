@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.380254", 
+  "description": "Nuwk! makes it easy to create Mac Applications based on node-webkit, simplifying testing and building procedures. It takes care of creating the executable, attaching the app icon and configuring the plist file accordingly.", 
+  "fork": false, 
+  "full_name": "micc83/Nuwk", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:01.220699"
+}

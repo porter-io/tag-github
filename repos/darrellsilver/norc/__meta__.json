@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.631034", 
+  "description": "A replacement for Cron to manage logging, error reporting, dependencies, resource management and historical run times.  Tasks are not host specific and can be remotely administered.", 
+  "fork": false, 
+  "full_name": "darrellsilver/norc", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:27.834447"
+}

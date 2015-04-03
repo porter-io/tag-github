@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.421868", 
+  "description": "A standalone pure python api to control the AR.Drone. EXPERIMENTAL and mostly untested!", 
+  "fork": false, 
+  "full_name": "stefanfoulis/python-ardroneapi", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:55.146684"
+}

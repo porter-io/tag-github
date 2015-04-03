@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.829680", 
+  "description": "A native library providing a Tinder-like cards effect. A card can be constructed using an image and displayed with animation effects, dismiss-to-like and dismiss-to-unlike, and use different sorting mechanisms.", 
+  "fork": false, 
+  "full_name": "kikoso/Swipeable-Cards", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:33.406931"
+}

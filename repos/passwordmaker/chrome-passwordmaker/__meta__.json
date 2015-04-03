@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.184406", 
+  "description": "A chrome extension based on passwordmaker.org. Create unique passwords for every webpage using a cryptographic hash algorithm.", 
+  "fork": false, 
+  "full_name": "passwordmaker/chrome-passwordmaker", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:39.187883"
+}

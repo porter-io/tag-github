@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.420845", 
+  "description": "Heroku Cedar-ish Base Image for Docker", 
+  "fork": false, 
+  "full_name": "progrium/cedarish", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:26.008927"
+}

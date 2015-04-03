@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.343462", 
+  "description": "A category to extend Cocoa's NSDate class with some convenience functions.", 
+  "fork": false, 
+  "full_name": "billymeltdown/nsdate-helper", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:18.334425"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.698380", 
+  "description": "A python application that detects and highlights the heart-rate of an individual (using only their own webcam) in real-time.", 
+  "fork": false, 
+  "full_name": "thearn/webcam-pulse-detector", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:45.698297"
+}

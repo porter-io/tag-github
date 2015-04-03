@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.494032", 
+  "description": "(def shin (dissoc clojurescript :jvm :google_closure))", 
+  "fork": false, 
+  "full_name": "fasterthanlime/shin", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:04.853130"
+}

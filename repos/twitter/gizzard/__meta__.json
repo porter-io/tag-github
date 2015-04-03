@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.628660", 
+  "description": "A flexible sharding framework for creating eventually-consistent distributed datastores", 
+  "fork": false, 
+  "full_name": "twitter/gizzard", 
+  "language": "Scala", 
+  "updated_at": "2015-04-01T19:30:09.414844"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.550556", 
+  "description": "an re-implementation of rmmseg (Chinese word segmentation library for Ruby) in C++", 
+  "fork": true, 
+  "full_name": "huacnlee/rmmseg-cpp", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:41.550617"
+}

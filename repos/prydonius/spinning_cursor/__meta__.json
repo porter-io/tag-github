@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.607614", 
+  "description": "A DSL for adding animated loaders to your Ruby command line application.", 
+  "fork": false, 
+  "full_name": "prydonius/spinning_cursor", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:58.023633"
+}

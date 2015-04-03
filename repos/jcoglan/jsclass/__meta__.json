@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.051645", 
+  "description": "Implementation of the core of Ruby's object system in JavaScript.", 
+  "fork": false, 
+  "full_name": "jcoglan/jsclass", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:12.509314"
+}

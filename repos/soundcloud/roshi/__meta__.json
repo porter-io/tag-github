@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.803787", 
+  "description": "Roshi is a large-scale CRDT set implementation for timestamped events.", 
+  "fork": false, 
+  "full_name": "soundcloud/roshi", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:05.972390"
+}

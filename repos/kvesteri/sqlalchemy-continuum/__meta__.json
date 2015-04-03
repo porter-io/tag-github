@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.275076", 
+  "description": "Versioning extension for SQLAlchemy.", 
+  "fork": false, 
+  "full_name": "kvesteri/sqlalchemy-continuum", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:01.320533"
+}

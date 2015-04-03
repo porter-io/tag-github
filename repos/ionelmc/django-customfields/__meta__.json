@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.433836", 
+  "description": "Couple of custom model fields for django: CachedManyToManyField and InheritedField", 
+  "fork": false, 
+  "full_name": "ionelmc/django-customfields", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:47.995622"
+}

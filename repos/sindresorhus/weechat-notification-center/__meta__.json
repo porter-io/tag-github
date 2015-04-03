@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.318549", 
+  "description": "WeeChat script to pass highlights and private messages to the OS X 10.8+ Notification Center", 
+  "fork": false, 
+  "full_name": "sindresorhus/weechat-notification-center", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:15.983025"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.750772", 
+  "description": "A Vagrant provider plugin that supports the management of Digital Ocean droplets (instances).", 
+  "fork": false, 
+  "full_name": "smdahlen/vagrant-digitalocean", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:57.445366"
+}

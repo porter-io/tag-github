@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.719878", 
+  "description": "A flask template with Bootstrap 3, asset bundling+minification, starter templates, and registration/authentication. For use with cookiecutter.", 
+  "fork": false, 
+  "full_name": "sloria/cookiecutter-flask", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:07.930952"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.831538", 
+  "description": "Easy deployment of your assets on CloudFront for Rails", 
+  "fork": true, 
+  "full_name": "wpeterson/cloudfront_asset_host", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:27:37.831668"
+}

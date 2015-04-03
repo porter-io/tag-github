@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.578102", 
+  "description": "High performance memcached client for Ruby", 
+  "fork": false, 
+  "full_name": "mperham/dalli", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:49.009172"
+}

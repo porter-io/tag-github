@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.968341", 
+  "description": "A graph-based cache for Node.js, powered by Redis", 
+  "fork": false, 
+  "full_name": "nkohari/stash", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:03:51.679985"
+}

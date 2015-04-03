@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.389592", 
+  "description": "Create a movie from a sequence of images in Python (uses PIL and ffmpeg)", 
+  "fork": false, 
+  "full_name": "iskandr/moving_pictures", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:21.092370"
+}

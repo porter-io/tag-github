@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.141964", 
+  "description": "GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN", 
+  "fork": false, 
+  "full_name": "fxsjy/gonn", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:15.042809"
+}

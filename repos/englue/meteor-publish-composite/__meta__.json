@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.265550", 
+  "description": "Meteor.publishComposite provides a flexible way to publish a set of related documents from various collections using a reactive join", 
+  "fork": false, 
+  "full_name": "englue/meteor-publish-composite", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:33.403058"
+}

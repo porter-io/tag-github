@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.139829", 
+  "description": "A Dependency Injection/Inversion of Control tool for .NET", 
+  "fork": false, 
+  "full_name": "structuremap/structuremap", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:41:20.276828"
+}

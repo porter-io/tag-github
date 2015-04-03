@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.280346", 
+  "description": "[Working in progress] Command Line Tool for OS X to build and run XCTests automatically when source code file changes.", 
+  "fork": false, 
+  "full_name": "eyeplum/XCTestMate", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:31.139376"
+}

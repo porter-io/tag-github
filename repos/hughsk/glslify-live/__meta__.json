@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.779156", 
+  "description": "A browserify transform that transparently enables live reloading of your shaders when using glslify.", 
+  "fork": false, 
+  "full_name": "hughsk/glslify-live", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:56.890395"
+}

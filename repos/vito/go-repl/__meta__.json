@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.567563", 
+  "description": "A Go REPL. Builds up a source .go file over time, compiles it for output.", 
+  "fork": false, 
+  "full_name": "vito/go-repl", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:15.721244"
+}

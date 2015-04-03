@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.767435", 
+  "description": "Polyfill that makes IE10 / IE11 support the full IndexedDB specification by implementing compound and multiEntry index handling", 
+  "fork": false, 
+  "full_name": "dfahlander/idb-iegap", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:29:28.740979"
+}

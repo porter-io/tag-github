@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.805246", 
+  "description": "An experimental Qt gui for Vim - If this works for you (or if it doesn\u2019t) send a tweet with hashtag #vim_qt. If you wanna have a quick chat check freenode ##vim_qt", 
+  "fork": false, 
+  "full_name": "equalsraf/vim-qt", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:44:09.435892"
+}

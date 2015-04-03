@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.451900", 
+  "description": "Simple password manager using gpg and ordinary unix directories. || Master source: http://git.zx2c4.com/password-store/ || Mailing list for contributions: http://lists.zx2c4.com/listinfo.cgi/password-store-zx2c4.com || Do not send pull requests. Send to list only.", 
+  "fork": false, 
+  "full_name": "zx2c4/password-store", 
+  "language": "Shell", 
+  "updated_at": "2015-03-10T07:02:59.655560"
+}

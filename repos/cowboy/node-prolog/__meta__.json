@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.077376", 
+  "description": "An event- and stream-aware logger for pros. Meaning, professionals.", 
+  "fork": false, 
+  "full_name": "cowboy/node-prolog", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:37.775371"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.138070", 
+  "description": "A shim for the iFrame \"srcdoc\" attribute", 
+  "fork": false, 
+  "full_name": "jugglinmike/srcdoc-polyfill", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:30:57.621722"
+}

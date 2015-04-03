@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.318310", 
+  "description": "CI::Reporter is an add-on to popular test frameworks that allows you to generate XML reports", 
+  "fork": false, 
+  "full_name": "ci-reporter/ci_reporter", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:56.204866"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.802734", 
+  "description": "Allows logging in a tree structure so that comprehensive logging does not become incomprehensible", 
+  "fork": false, 
+  "full_name": "lancewalton/treelog", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:40.915090"
+}

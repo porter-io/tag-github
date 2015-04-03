@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.552296", 
+  "description": "show emoji on Emacs, complete emoji with anything.el", 
+  "fork": false, 
+  "full_name": "imakado/emoji", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:44:27.277783"
+}

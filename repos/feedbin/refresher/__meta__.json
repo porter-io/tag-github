@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.098276", 
+  "description": "Feed refreshing service for Feedbin.", 
+  "fork": false, 
+  "full_name": "feedbin/refresher", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:22.728968"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.228813", 
+  "description": "MySQL Python Library based off FriendFeed Datastore Approach, http://bret.appspot.com/entry/how-friendfeed-uses-mysql", 
+  "fork": false, 
+  "full_name": "ianlivingstone/PythonSQLEntity", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:33.966703"
+}

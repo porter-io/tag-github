@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.393486", 
+  "description": "Matrix Shadow:Lightweight CPU/GPU Matrix and Tensor  Template Library in C++/CUDA ", 
+  "fork": false, 
+  "full_name": "tqchen/mshadow", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:29.182286"
+}

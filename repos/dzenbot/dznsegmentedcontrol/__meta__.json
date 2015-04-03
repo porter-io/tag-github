@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.284052", 
+  "description": "A drop-in replacement for UISegmentedControl for showing counts, to be used typically on a user profile", 
+  "fork": false, 
+  "full_name": "dzenbot/DZNSegmentedControl", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:56.016977"
+}

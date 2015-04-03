@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.250916", 
+  "description": "A slugifier that works in unicode", 
+  "fork": false, 
+  "full_name": "mozilla/unicode-slugify", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:16.006348"
+}

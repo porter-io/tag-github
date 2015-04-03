@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.418106", 
+  "description": "Generates screenshots of a local by iterating over git commit history", 
+  "fork": false, 
+  "full_name": "ckcollab/polished", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:37.953069"
+}

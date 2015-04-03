@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.150771", 
+  "description": "fabric-graphite is a fabric script to install Graphite and all dependencies on a debian-based host (with optional vagrant support)", 
+  "fork": false, 
+  "full_name": "gingerlime/graphite-fabric", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:02.593144"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.877879", 
+  "description": "Testing HTTP->HTTPS redirects for CDNs.", 
+  "fork": false, 
+  "full_name": "konklone/cdns-to-https", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:20.485950"
+}

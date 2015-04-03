@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.311060", 
+  "description": "Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.", 
+  "fork": false, 
+  "full_name": "ruby-concurrency/concurrent-ruby", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:00:58.141197"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.919469", 
+  "description": "Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.", 
+  "fork": false, 
+  "full_name": "stephanenicolas/robospice", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:04.231585"
+}

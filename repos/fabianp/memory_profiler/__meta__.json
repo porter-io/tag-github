@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.904070", 
+  "description": "Monitor Memory usage of Python code", 
+  "fork": false, 
+  "full_name": "fabianp/memory_profiler", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:24.595356"
+}

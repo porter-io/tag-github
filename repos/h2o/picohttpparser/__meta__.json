@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.690531", 
+  "description": "tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)", 
+  "fork": false, 
+  "full_name": "h2o/picohttpparser", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:13.244978"
+}

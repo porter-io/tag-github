@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.453082", 
+  "description": "A green threading library with automated concurrency for python based on a processes, signal handlers and greenlets", 
+  "fork": false, 
+  "full_name": "mmirman/conpig", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:18.146648"
+}

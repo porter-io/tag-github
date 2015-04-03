@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.869532", 
+  "description": "A library for textually searching arrays and hashes of objects by property (or multiple properties). Designed specifically for autocomplete.", 
+  "fork": false, 
+  "full_name": "brianreavis/sifter.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:03.116389"
+}

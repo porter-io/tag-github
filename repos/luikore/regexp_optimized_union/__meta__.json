@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.802724", 
+  "description": "Regexp.optimized_union(word_list, regexp_options) generates optimized regexp for matching union of word list", 
+  "fork": false, 
+  "full_name": "luikore/regexp_optimized_union", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:49.515196"
+}

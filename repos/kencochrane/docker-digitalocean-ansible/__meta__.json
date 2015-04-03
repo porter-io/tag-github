@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:55.457930", 
+  "description": "Ansible script for creating the docker image on digital ocean", 
+  "fork": false, 
+  "full_name": "kencochrane/docker-digitalocean-ansible", 
+  "updated_at": "2015-02-27T23:43:38.953781"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.176894", 
+  "description": "Ultra fast JSON decoder and encoder written in C with Python bindings", 
+  "fork": false, 
+  "full_name": "esnme/ultrajson", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:44:30.624653"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.463985", 
+  "description": "Command line utility to perform actions when files are updated, added or deleted. No config files necessary. Pure Ruby implementation and minimalistic Ruby API.", 
+  "fork": false, 
+  "full_name": "thomasfl/filewatcher", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:57.918617"
+}

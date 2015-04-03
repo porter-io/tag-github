@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.628993", 
+  "description": "Simple Rails glue for the Faye messaging protocol.", 
+  "fork": false, 
+  "full_name": "jamesotron/faye-rails", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:04.868111"
+}

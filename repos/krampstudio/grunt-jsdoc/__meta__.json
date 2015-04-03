@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.852023", 
+  "description": "A grunt plugin to generate javascript doc by running jsdoc3 on your grunt projects.", 
+  "fork": false, 
+  "full_name": "krampstudio/grunt-jsdoc", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:03.173101"
+}

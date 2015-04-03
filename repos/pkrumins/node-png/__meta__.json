@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.293105", 
+  "description": "A nodejs C++ module that given a buffer with RGB or RGBA values creates a PNG image (in memory).", 
+  "fork": false, 
+  "full_name": "pkrumins/node-png", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:41.903974"
+}

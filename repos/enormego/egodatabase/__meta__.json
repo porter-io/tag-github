@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.312809", 
+  "description": "EGODatabase is a thread-safe Objective-C SQLite wrapper with full support for asynchronous SQLite calls as well as built in NSOperationQueue support.", 
+  "fork": false, 
+  "full_name": "enormego/egodatabase", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:24.520760"
+}

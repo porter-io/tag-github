@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.408029", 
+  "description": "[NOT WEB SCALE -- USE NODE.JS AUTOPREFIXER] A tool that rewrites your CSS files, adding vendor-prefixed versions of CSS3 rules.", 
+  "fork": false, 
+  "full_name": "myfreeweb/cssprefixer", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:03:12.086777"
+}

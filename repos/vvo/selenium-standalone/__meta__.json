@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.584632", 
+  "description": "installs a `start-selenium` command line to start a standalone selenium server with chromedriver, firefox, phantomjs support", 
+  "fork": false, 
+  "full_name": "vvo/selenium-standalone", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.410654"
+}

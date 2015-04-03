@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.619468", 
+  "description": "A grunt plugin that converts multiple png files into single sprite file using efficient packer algorithm.", 
+  "fork": false, 
+  "full_name": "karfcz/grunt-sprite-packer", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:49.133113"
+}

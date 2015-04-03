@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.756872", 
+  "description": "text-to-speech via espeak cli program", 
+  "fork": false, 
+  "full_name": "freewil/node-espeak", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:44.059193"
+}

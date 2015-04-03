@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.029097", 
+  "description": "An example for using resque_mailhopper gem.", 
+  "fork": false, 
+  "full_name": "linjunpop/resque_mailhopper_example", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:26.013808"
+}

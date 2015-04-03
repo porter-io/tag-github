@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.602720", 
+  "description": "Provides tools to help set Go structures from CSV lines / files and vice versa.", 
+  "fork": false, 
+  "full_name": "rzajac/csvutil", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:50.794363"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.681010", 
+  "description": "An RSpec minor mode for Emacs", 
+  "fork": false, 
+  "full_name": "pezra/rspec-mode", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:43:05.072119"
+}

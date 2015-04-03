@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.878250", 
+  "description": "Simple asynchronous functions for emacs lisp", 
+  "fork": false, 
+  "full_name": "kiwanami/emacs-deferred", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-03-10T07:04:53.692779"
+}

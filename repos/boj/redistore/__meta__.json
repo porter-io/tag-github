@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.384631", 
+  "description": "A session store backend for gorilla/sessions using Redis.", 
+  "fork": false, 
+  "full_name": "boj/redistore", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:13.400890"
+}

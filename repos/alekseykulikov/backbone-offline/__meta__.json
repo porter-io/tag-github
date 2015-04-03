@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.069727", 
+  "description": "[Deprecated] Allows your Backbone.js app to work offline", 
+  "fork": false, 
+  "full_name": "alekseykulikov/backbone-offline", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:28:17.776491"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.933524", 
+  "description": "Transparent bidirectional bridge between Git and Mercurial for Git", 
+  "fork": false, 
+  "full_name": "felipec/git-remote-hg", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:47.055974"
+}

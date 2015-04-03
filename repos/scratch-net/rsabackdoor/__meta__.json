@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.059000", 
+  "description": "Provides an example of putting some predefined value inside RSA public key", 
+  "fork": false, 
+  "full_name": "scratch-net/RsaBackdoor", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:43:47.355673"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.339643", 
+  "description": "Laravel 4 Packages. Adds 403,404,500 and 503 customizable error pages.", 
+  "fork": false, 
+  "full_name": "nWidart/HttpStatus-l4-package", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:42.565744"
+}

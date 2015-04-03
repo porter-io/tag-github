@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.540974", 
+  "description": "A utility to enable full control over resolution on Macs with retina displays, including 1:1 display modes.", 
+  "fork": false, 
+  "full_name": "aryamccarthy/RetinaDisplayMaster", 
+  "language": "Objective-C++", 
+  "updated_at": "2015-02-27T23:42:03.973992"
+}

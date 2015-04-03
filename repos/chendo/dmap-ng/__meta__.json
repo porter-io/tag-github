@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.771883", 
+  "description": "An improved version of the dmap gem that allows really easy parsing and building of DMAP structures for DAAP/DACP projects.", 
+  "fork": false, 
+  "full_name": "chendo/dmap-ng", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:52.626381"
+}

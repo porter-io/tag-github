@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.869219", 
+  "description": "A PHP class for creating a Pass for Passbook in iOS 6. Automatically creates the manifest.json file, signs the pass and deploys it as a .pkpass file.", 
+  "fork": false, 
+  "full_name": "tschoffelen/PHP-PKPass", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:01:56.511958"
+}

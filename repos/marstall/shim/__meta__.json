@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.305875", 
+  "description": "Shim is a node.js-based browser-compatibility tool that lets you synchronize several devices/browsers and surf the same pages simultaneously on all of them.", 
+  "fork": false, 
+  "full_name": "marstall/shim", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:56.117977"
+}

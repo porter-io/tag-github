@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.929780", 
+  "description": "A bit of nifty glue that automatically plugs your Backbone models and collections into your React components, on the browser and server", 
+  "fork": false, 
+  "full_name": "magalhas/backbone-react-component", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:39.773603"
+}

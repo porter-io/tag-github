@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.050396", 
+  "description": "Vagrant configuration that lets you easily spin up a local Jekyll-powered GitHub pages server", 
+  "fork": false, 
+  "full_name": "kappataumu/vagrant-up-github-pages", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:13.754733"
+}

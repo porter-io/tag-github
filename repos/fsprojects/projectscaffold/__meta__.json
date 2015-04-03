@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.490556", 
+  "description": "A prototypical .NET solution (file system layout and tooling), recommended by the F# Foundation.", 
+  "fork": false, 
+  "full_name": "fsprojects/ProjectScaffold", 
+  "language": "F#", 
+  "updated_at": "2015-02-27T23:42:53.466254"
+}

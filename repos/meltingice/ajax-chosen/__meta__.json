@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.698001", 
+  "description": "A complement to the jQuery library Chosen that adds ajax autocomplete", 
+  "fork": false, 
+  "full_name": "meltingice/ajax-chosen", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:52.466787"
+}

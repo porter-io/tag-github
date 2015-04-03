@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.486778", 
+  "description": "Knockout Virtual Grid is a Knockout component for working with large amounts of data in tables via cell virtualization", 
+  "fork": false, 
+  "full_name": "jstclair/knockout-virtual-grid", 
+  "language": "TypeScript", 
+  "updated_at": "2015-02-27T23:42:37.653922"
+}

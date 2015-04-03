@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.738880", 
+  "description": "Ruby gem to calculate the similarity between texts using tf*idf", 
+  "fork": false, 
+  "full_name": "jpmckinney/tf-idf-similarity", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:15.161067"
+}

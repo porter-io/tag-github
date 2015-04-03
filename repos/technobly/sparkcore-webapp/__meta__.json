@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.624766", 
+  "description": "An amazing web based interface for your Spark Core.  It uses the power of Node.js, Express, Jade, Stylus for the backend, jQuery and AngularJS for the frontend, and the Spark API to let you remote control your own Spark Core.  Simply log into your device, and take control... from anywhere in the world! Fork us and make your own!", 
+  "fork": false, 
+  "full_name": "technobly/SparkCore-WebApp", 
+  "language": "CSS", 
+  "updated_at": "2015-03-10T07:01:21.282095"
+}

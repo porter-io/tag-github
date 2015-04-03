@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.570684", 
+  "description": "Carbon is one of the components of Graphite, and is responsible for receiving metrics over the network and writing them down to disk using a storage backend.", 
+  "fork": false, 
+  "full_name": "graphite-project/carbon", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:16.521214"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.257022", 
+  "description": " Generates require functions that act as if they were operating in a given path. ", 
+  "fork": false, 
+  "full_name": "felixge/node-require-like", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:43.585288"
+}

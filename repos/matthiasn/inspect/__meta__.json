@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.054134", 
+  "description": "Inspect data structures flowing through your application, from a web client.", 
+  "fork": false, 
+  "full_name": "matthiasn/inspect", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:33.760728"
+}

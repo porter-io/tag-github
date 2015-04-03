@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.199319", 
+  "description": "Extensions to allow Chrome and Firefox (4.0+) to auto form-fill passwords from KeePass (requires KeePassHttp)", 
+  "fork": false, 
+  "full_name": "pfn/passifox", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:18.108769"
+}

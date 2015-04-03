@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.395217", 
+  "description": "Creates temporary Jupyter Notebook servers using Docker containers.", 
+  "fork": false, 
+  "full_name": "jupyter/tmpnb", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:07.873452"
+}

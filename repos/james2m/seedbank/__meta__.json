@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.078979", 
+  "description": "Seedbank gives your Rails seed data a little structure. Create seeds for each environment, share seeds between environments and specify dependencies to load your seeds in order. All nicely integrated with simple rake tasks.", 
+  "fork": false, 
+  "full_name": "james2m/seedbank", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:28:20.325391"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.705558", 
+  "description": "Library for displaying remotely administered notifications within a Mac or iPhone app. Similar to Apple's push notifications, but more lightweight and only displayed at app launch time. Perfect for cross-promoting apps or pointing out non-obvious features.", 
+  "fork": false, 
+  "full_name": "nicklockwood/iNotify", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:02.938256"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.303955", 
+  "description": "Vim plugin for the Perl module / CLI script 'ack'", 
+  "fork": false, 
+  "full_name": "mileszs/ack.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-03-10T07:02:35.922460"
+}

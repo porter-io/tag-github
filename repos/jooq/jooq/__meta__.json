@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.724563", 
+  "description": "jOOQ is an innovative solution for a better integration of Java applications with popular databases like Oracle, Microsoft SQL Server, IBM DB2, or SAP Sybase. When using jOOQ, our customers benefit from a significant added value and ROI as their software developers can express database queries in a much simpler and faster way. From our experience, this leads to a 10% - 20% decrease of programming effort, which again leads to higher quality and to a lower error rate in program code, and thus in the entire application.", 
+  "fork": false, 
+  "full_name": "jOOQ/jOOQ", 
+  "language": "Java", 
+  "updated_at": "2015-03-10T07:04:34.366703"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.394988", 
+  "description": "A streaming JSON parsing and encoding library for Ruby (C bindings to yajl)", 
+  "fork": false, 
+  "full_name": "brianmario/yajl-ruby", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:27.557910"
+}

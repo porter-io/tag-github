@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.031921", 
+  "description": "carrierwave extension to use ffmpeg to transcode videos to html5-friendly format", 
+  "fork": false, 
+  "full_name": "rheaton/carrierwave-video", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:35.787561"
+}

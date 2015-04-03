@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.183090", 
+  "description": "Tool to manage autostarts (broadcast receivers) on an Android device.", 
+  "fork": false, 
+  "full_name": "miracle2k/android-autostarts", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:53.069195"
+}

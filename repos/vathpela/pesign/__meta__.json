@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.947860", 
+  "description": "Tools for manipulating signed PE-COFF binaries", 
+  "fork": false, 
+  "full_name": "vathpela/pesign", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:01.814055"
+}

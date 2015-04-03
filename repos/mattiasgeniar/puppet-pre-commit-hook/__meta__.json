@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.285453", 
+  "description": "A Puppet pre-commit hook to validate syntax", 
+  "fork": false, 
+  "full_name": "mattiasgeniar/puppet-pre-commit-hook", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:54.979968"
+}

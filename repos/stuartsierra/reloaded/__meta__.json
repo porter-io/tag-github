@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.178868", 
+  "description": "Leiningen 2 project template with tools.namespace, profiles, and user.clj", 
+  "fork": false, 
+  "full_name": "stuartsierra/reloaded", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:44:15.704889"
+}

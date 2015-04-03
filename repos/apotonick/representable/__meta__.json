@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.231188", 
+  "description": "Maps representation documents from and to Ruby objects. Includes JSON, XML and YAML support, plain properties and compositions.", 
+  "fork": true, 
+  "full_name": "apotonick/representable", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:31.231232"
+}

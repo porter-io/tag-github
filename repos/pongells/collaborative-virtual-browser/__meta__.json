@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.206817", 
+  "description": "Example of using PhantomJS with Node, Angular and Socket.io to create a Virtual Browser which may be used by multiple devices collaboratively.", 
+  "fork": false, 
+  "full_name": "pongells/collaborative-virtual-browser", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:31.011416"
+}

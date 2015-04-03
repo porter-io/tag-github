@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.670290", 
+  "description": "Pipes content of files to a node repl whenever they change to enable a highly interactive coding experience.", 
+  "fork": false, 
+  "full_name": "thlorenz/replpad", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.495992"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.394753", 
+  "description": "Log routing for Docker container logs", 
+  "fork": false, 
+  "full_name": "progrium/logspout", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:25.913327"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.640272", 
+  "description": "Cookiecutter template for a Python package. See https://github.com/audreyr/cookiecutter.", 
+  "fork": false, 
+  "full_name": "audreyr/cookiecutter-pypackage", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:19.455015"
+}

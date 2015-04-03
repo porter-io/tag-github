@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.594350", 
+  "description": "Faster user-land reimplementations for several common builtin native JavaScript functions.", 
+  "fork": false, 
+  "full_name": "codemix/fast.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:55.377817"
+}

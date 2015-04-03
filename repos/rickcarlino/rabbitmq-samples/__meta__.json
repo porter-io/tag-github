@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.972243", 
+  "description": "Examples of RabbitMQ usage via the Ruby Bunny gem.", 
+  "fork": false, 
+  "full_name": "RickCarlino/rabbitmq-samples", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:41.193356"
+}

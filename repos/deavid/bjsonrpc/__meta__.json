@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.870967", 
+  "description": "JSON-RPC implementation over TCP/IP (asyncronous, bidirectional)", 
+  "fork": false, 
+  "full_name": "deavid/bjsonrpc", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:14.959022"
+}

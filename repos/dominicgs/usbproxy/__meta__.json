@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.792859", 
+  "description": "A USB man in the middle device using the BeagleBone black, libUSB and gadgetFS", 
+  "fork": false, 
+  "full_name": "dominicgs/USBProxy", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:15.611861"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.848300", 
+  "description": "A Ruby client library for Redis", 
+  "fork": false, 
+  "full_name": "redis/redis-rb", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:41.333386"
+}

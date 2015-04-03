@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.023930", 
+  "description": "Resque-based background worker to send Apple Push Notifications over a persistent TCP socket.", 
+  "fork": true, 
+  "full_name": "Sentia/apn_sender", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:27:55.024012"
+}

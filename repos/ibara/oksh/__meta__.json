@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.960478", 
+  "description": "OpenBSD's ksh(1) ported to FreeBSD", 
+  "fork": false, 
+  "full_name": "ibara/oksh", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:34.694561"
+}

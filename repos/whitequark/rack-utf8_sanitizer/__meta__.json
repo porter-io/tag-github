@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.298608", 
+  "description": "Rack::UTF8Sanitizer is a Rack middleware which cleans up invalid UTF8 characters in request URI and headers.", 
+  "fork": false, 
+  "full_name": "whitequark/rack-utf8_sanitizer", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:28.997028"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.287559", 
+  "description": "fast kafka api for JVM languages implemented in clojure", 
+  "fork": false, 
+  "full_name": "gerritjvv/kafka-fast", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:59.173321"
+}

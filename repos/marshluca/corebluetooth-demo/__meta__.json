@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.946603", 
+  "description": "New iOS5 framework to connect with Low-Energy devices. Actually this framework cannot connect with \"traditional\" bluetooth devices, iPhone4S will have a \"switcher\" that will allow to connect LE-devices and \"tradicional\" bluetooth devices.", 
+  "fork": true, 
+  "full_name": "marshluca/CoreBluetooth-Demo", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:28:32.065644"
+}

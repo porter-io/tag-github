@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.027584", 
+  "description": "\u201cstomp.py\u201d is a Python client library for accessing messaging servers (such as Apollo or RabbitMQ) using the STOMP protocol (versions 1.0, 1.1 and 1.2). It can also be run as a standalone, command-line client for testing.", 
+  "fork": false, 
+  "full_name": "jasonrbriggs/stomp.py", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:08.389460"
+}

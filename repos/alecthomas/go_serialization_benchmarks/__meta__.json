@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.339432", 
+  "description": "Benchmarks of Go serialization methods", 
+  "fork": false, 
+  "full_name": "alecthomas/go_serialization_benchmarks", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:18.640113"
+}

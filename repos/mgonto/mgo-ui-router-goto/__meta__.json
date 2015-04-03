@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.859750", 
+  "description": "A directive for ui-router that lets you link to states instead of URLs", 
+  "fork": false, 
+  "full_name": "mgonto/mgo-ui-router-goto", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:30.442077"
+}

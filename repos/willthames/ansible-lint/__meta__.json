@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.979025", 
+  "description": "Best practices checker for Ansible", 
+  "fork": false, 
+  "full_name": "willthames/ansible-lint", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:38.461566"
+}

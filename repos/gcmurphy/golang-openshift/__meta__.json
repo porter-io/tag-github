@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.618468", 
+  "description": "Template for running Go programs on OpenShift", 
+  "fork": false, 
+  "full_name": "gcmurphy/golang-openshift", 
+  "language": "Shell", 
+  "updated_at": "2015-02-28T08:40:57.119726"
+}

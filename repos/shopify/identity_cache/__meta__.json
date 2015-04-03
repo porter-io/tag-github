@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.974970", 
+  "description": "IdentityCache is a blob level caching solution to plug into ActiveRecord. Don't #find, #fetch!", 
+  "fork": false, 
+  "full_name": "Shopify/identity_cache", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:03.016502"
+}

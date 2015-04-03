@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.342576", 
+  "description": "Strategies for cleaning databases in Ruby.  Can be used to ensure a clean state for testing.", 
+  "fork": false, 
+  "full_name": "DatabaseCleaner/database_cleaner", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:21.039193"
+}

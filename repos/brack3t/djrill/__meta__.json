@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.622269", 
+  "description": "Djrill is an email backend and new message class for Django users that want to take advantage of the Mandrill transactional email service from MailChimp.", 
+  "fork": false, 
+  "full_name": "brack3t/Djrill", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:04.857429"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.089137", 
+  "description": "test for differences between HTTP response times using the Mann-Whitney U test", 
+  "fork": false, 
+  "full_name": "sebcat/http-mwu", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:50.832703"
+}

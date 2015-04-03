@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.436071", 
+  "description": "A scala library for connecting to a redis server, or a cluster of redis nodes using consistent hashing on the client side.", 
+  "fork": true, 
+  "full_name": "debasishg/scala-redis", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T22:27:52.436107"
+}

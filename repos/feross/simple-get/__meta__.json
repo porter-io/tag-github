@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.605207", 
+  "description": "Simplest way to make http get requests. Supports HTTPS, redirects, gzip/deflate, streams in < 100 lines", 
+  "fork": false, 
+  "full_name": "feross/simple-get", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.586710"
+}

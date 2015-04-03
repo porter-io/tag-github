@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.075554", 
+  "description": "Convert matching double-quotes to single-quotes: I \"love\" unicorns => I 'love' unicorns", 
+  "fork": false, 
+  "full_name": "sindresorhus/to-single-quotes", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.937295"
+}

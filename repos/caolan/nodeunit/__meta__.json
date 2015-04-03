@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.458503", 
+  "description": "Easy unit testing in node.js and the browser, based on the assert module.", 
+  "fork": false, 
+  "full_name": "caolan/nodeunit", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:28.239243"
+}

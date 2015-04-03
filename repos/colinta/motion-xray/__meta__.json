@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.385030", 
+  "description": "An iOS Inspector that runs inside your app, so you can debug and analyze from your device in real-world situations.", 
+  "fork": false, 
+  "full_name": "colinta/motion-xray", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:18.110517"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.674091", 
+  "description": "Ensures presence and type of your app's ENV-variables", 
+  "fork": false, 
+  "full_name": "eval/envied", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:27.093713"
+}

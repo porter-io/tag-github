@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.196596", 
+  "description": "Code transformer to change Node-style callbacks into promises. ", 
+  "fork": false, 
+  "full_name": "Stuk/promise-me", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:00.947967"
+}

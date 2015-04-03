@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.508743", 
+  "description": "Block unwanted Toast notifications. Presently there is no functional UI. In order to block stuff, you need to make a file named whatever the app's package name is (ie com.egingell.untoasted) in /sdcard/UnToasted and put the text you want to block. Multiple lines in the same file will get used individually so you can block multiple Toasts from the same app. You can also use regular expressions. ", 
+  "fork": false, 
+  "full_name": "egingell/UnToasted", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:46.242249"
+}

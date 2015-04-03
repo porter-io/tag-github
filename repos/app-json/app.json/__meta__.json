@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.814322", 
+  "description": "A node module for working with app.json files and deploying app.json apps to Heroku. Designed to work on the server, the browser, and the command line.", 
+  "fork": false, 
+  "full_name": "app-json/app.json", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:49.369194"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.705237", 
+  "description": "A lightweight eventbus library for android, simplifies communication between Activities, Fragments, Threads, Services, etc.", 
+  "fork": false, 
+  "full_name": "bboyfeiyu/AndroidEventBus", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:07.965556"
+}

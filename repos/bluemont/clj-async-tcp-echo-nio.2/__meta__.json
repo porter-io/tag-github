@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.972106", 
+  "description": "An asynchrononous TCP echo client/server in Clojure using Java 7 NIO.2.", 
+  "fork": false, 
+  "full_name": "bluemont/clj-async-tcp-echo-nio.2", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:55.873338"
+}

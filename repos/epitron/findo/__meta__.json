@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.371183", 
+  "description": "A desktop search tool that just searches filenames and xattr metadata. (More advanced than 'locate', simpler than 'nepomuk'.)", 
+  "fork": false, 
+  "full_name": "epitron/findo", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:19.210108"
+}

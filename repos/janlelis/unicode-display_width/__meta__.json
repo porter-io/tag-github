@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.846861", 
+  "description": "This gem adds String#display_size to get the display size of a string using EastAsianWidth.txt.", 
+  "fork": false, 
+  "full_name": "janlelis/unicode-display_width", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:13.785517"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.865725", 
+  "description": "Monitoring notification routing + event processing system.  For issues with the Flapjack packages, please see https://github.com/flapjack/omnibus-flapjack/", 
+  "fork": false, 
+  "full_name": "flapjack/flapjack", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:08.177249"
+}

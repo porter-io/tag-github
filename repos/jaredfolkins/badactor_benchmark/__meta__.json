@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.583867", 
+  "description": "An external benchmark for use with wrk.", 
+  "fork": false, 
+  "full_name": "jaredfolkins/badactor_benchmark", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:41.825531"
+}

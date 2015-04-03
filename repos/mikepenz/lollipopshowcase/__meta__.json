@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.285483", 
+  "description": "A simple app to showcase Androids Material Design and some of the cool new cool stuff in Android Lollipop. RecyclerView, CardView, ActionBarDrawerToggle, DrawerLayout, Animations, Android Compat Design, Toolbar", 
+  "fork": false, 
+  "full_name": "mikepenz/LollipopShowcase", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:39.476724"
+}

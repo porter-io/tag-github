@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.620578", 
+  "description": "A tool to execute a command and stop it at a given time, should it still be running.", 
+  "fork": false, 
+  "full_name": "lartaud/runtil", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:43.497466"
+}

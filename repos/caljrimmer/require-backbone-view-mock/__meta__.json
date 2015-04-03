@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.985885", 
+  "description": "RBMV is a dependency injector for Require.js users to make Backbone views easy to unit test.  ", 
+  "fork": false, 
+  "full_name": "caljrimmer/require-backbone-view-mock", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:20.906763"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.602113", 
+  "description": "Facilities for async programming and communication in Clojure", 
+  "fork": false, 
+  "full_name": "clojure/core.async", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:44:02.852064"
+}

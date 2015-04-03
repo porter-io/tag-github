@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:23.980625", 
+  "description": "fast python port of arc90's readability tool, updated to match latest readability.js!", 
+  "fork": true, 
+  "full_name": "buriy/python-readability", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:00:42.864000"
+}

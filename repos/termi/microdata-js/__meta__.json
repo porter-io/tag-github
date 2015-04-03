@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.981347", 
+  "description": "Implementation of the HTML5 Microdata specification for all browsers (including IE8, IE7, IE6 with es5 and DOM shims)", 
+  "fork": false, 
+  "full_name": "termi/Microdata-JS", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:02.096281"
+}

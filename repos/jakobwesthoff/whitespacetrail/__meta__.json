@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.378492", 
+  "description": "Simple functions for Vim, to display trailing whitespaces while editing", 
+  "fork": false, 
+  "full_name": "jakobwesthoff/whitespacetrail", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:46.155313"
+}

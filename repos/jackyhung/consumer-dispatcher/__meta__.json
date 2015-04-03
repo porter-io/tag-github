@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.873166", 
+  "description": "Consumer Dispatcher works as a proxy between RabbitMQ and your consumers.", 
+  "fork": false, 
+  "full_name": "jackyhung/consumer-dispatcher", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:19.405472"
+}

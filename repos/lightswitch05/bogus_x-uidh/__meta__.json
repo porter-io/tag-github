@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.956020", 
+  "description": "Inject bogus data into the X-UIDH header for insecure HTTP requests", 
+  "fork": false, 
+  "full_name": "lightswitch05/Bogus_X-UIDH", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:46.504771"
+}

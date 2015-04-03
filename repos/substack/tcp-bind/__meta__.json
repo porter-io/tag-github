@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.911636", 
+  "description": "allocate a file descriptor to listen on a port later", 
+  "fork": false, 
+  "full_name": "substack/tcp-bind", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.717705"
+}

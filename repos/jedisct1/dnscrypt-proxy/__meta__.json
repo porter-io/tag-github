@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.428443", 
+  "description": "A tool for securing communications between a client and a DNS resolver", 
+  "fork": true, 
+  "full_name": "jedisct1/dnscrypt-proxy", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:28:32.428561"
+}

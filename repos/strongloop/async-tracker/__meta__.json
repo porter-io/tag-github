@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.459309", 
+  "description": "The AsyncTracker API is the JavaScript interface which allows developers to be notified about key events in the lifetime of observed objects and scheduled asynchronous events.", 
+  "fork": false, 
+  "full_name": "strongloop/async-tracker", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:39.591539"
+}

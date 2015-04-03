@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.144645", 
+  "description": "An AWS S3 library for Node.js, with bucket-scoped connection pooling.", 
+  "fork": false, 
+  "full_name": "koudelka/node-s3", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:39.103807"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.804915", 
+  "description": "upstream module that allows nginx to communicate directly with PostgreSQL database. ", 
+  "fork": false, 
+  "full_name": "FRiCKLE/ngx_postgres", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:44:20.118707"
+}

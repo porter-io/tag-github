@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.296927", 
+  "description": "Project has been superseded by native docker support in Mesos", 
+  "fork": false, 
+  "full_name": "mesosphere/mesos-docker", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:48.283215"
+}

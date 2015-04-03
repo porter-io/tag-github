@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.996540", 
+  "description": "A blazingly small and sane redis java client", 
+  "fork": true, 
+  "full_name": "JakSprats/jedis", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T22:27:28.997634"
+}

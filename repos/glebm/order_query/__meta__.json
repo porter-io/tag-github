@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.237294", 
+  "description": "Find next / previous Active Record(s) in one query", 
+  "fork": false, 
+  "full_name": "glebm/order_query", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:02.344946"
+}

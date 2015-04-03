@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.237367", 
+  "description": "Supervisord monitor allows you to monitor all your supervisord clients at a single location", 
+  "fork": false, 
+  "full_name": "jackdwyer/supervisor-monitor", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:33.981571"
+}

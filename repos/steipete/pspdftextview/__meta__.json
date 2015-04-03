@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.102767", 
+  "description": "A subclass of UITextView that fixes the most glaring problems from iOS 7 and 7.1.", 
+  "fork": false, 
+  "full_name": "steipete/PSPDFTextView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:24.940388"
+}

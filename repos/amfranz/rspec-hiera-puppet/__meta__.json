@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.048039", 
+  "description": "Hiera fixtures for puppet-rspec tests.", 
+  "fork": false, 
+  "full_name": "amfranz/rspec-hiera-puppet", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:37.550826"
+}

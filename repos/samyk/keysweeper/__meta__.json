@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.060985", 
+  "description": "KeySweeper is a stealthy Arduino-based device, camouflaged as a functioning USB wall charger, that wirelessly and passively sniffs, decrypts, logs and reports back (over GSM) all keystrokes from any Microsoft wireless keyboard in the vicinity.", 
+  "fork": false, 
+  "full_name": "samyk/keysweeper", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:34.756520"
+}

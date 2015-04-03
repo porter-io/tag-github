@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.344246", 
+  "description": "DEPRECATED: Prior to recent developments with the picture element, Foresight.js gaves webpages the ability to tell if the user's device is capable of viewing high-resolution images before the image is requested from the server. Additionally, it judges if the user's device currently has a fast enough network connection for high-resolution images. Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage.", 
+  "fork": false, 
+  "full_name": "adamdbradley/foresight.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:28:23.464699"
+}

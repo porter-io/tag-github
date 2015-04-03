@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.853158", 
+  "description": "patches irb to create a smooth output experience", 
+  "fork": false, 
+  "full_name": "janlelis/fancy_irb", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:13.806721"
+}

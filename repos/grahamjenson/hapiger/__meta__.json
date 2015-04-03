@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.541924", 
+  "description": "HapiGer is an http-wrapper around the Good Enough Recommendation engine using the Hapi.js framework", 
+  "fork": false, 
+  "full_name": "grahamjenson/hapiger", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:31:25.940783"
+}

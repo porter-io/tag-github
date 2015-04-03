@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.557002", 
+  "description": "Git based static page deploy system like github pages. Based on nginx and gitolite.", 
+  "fork": false, 
+  "full_name": "shuhaowu/gioku", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:55.244382"
+}

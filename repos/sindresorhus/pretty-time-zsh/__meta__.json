@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.347103", 
+  "description": "Convert seconds to a human readable string: 165392 \u2192 1d 21h 56m 32s", 
+  "fork": false, 
+  "full_name": "sindresorhus/pretty-time-zsh", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:44:16.157251"
+}

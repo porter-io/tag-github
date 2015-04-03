@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.105303", 
+  "description": "AWS authentication for Amazon S3 for the python requests module", 
+  "fork": false, 
+  "full_name": "tax/python-requests-aws", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:22.966404"
+}

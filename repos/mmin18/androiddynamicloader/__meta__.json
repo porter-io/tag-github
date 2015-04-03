@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.046359", 
+  "description": "A plugin system that runs like a browser, but instead of load web pages, it load plugins which runs natively on Android system.", 
+  "fork": false, 
+  "full_name": "mmin18/AndroidDynamicLoader", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:11.242030"
+}

@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:01.015041", 
+  "description": "Markdown syntax highlighter for Sublime Text, with extended support for GFM fenced code blocks, with language-specific syntax highlighting. YAML Front Matter. Works with ST2/ST3. Goes great with Assemble.", 
+  "fork": false, 
+  "full_name": "jonschlinkert/sublime-markdown-extended", 
+  "updated_at": "2015-02-27T23:42:03.272685"
+}

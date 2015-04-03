@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.535346", 
+  "description": "CLI to pipe data through Redis Pub/Sub", 
+  "fork": false, 
+  "full_name": "whee/rp", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:36.626935"
+}

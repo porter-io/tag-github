@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.416030", 
+  "description": "Packer and Vagrant images for building Mirage", 
+  "fork": false, 
+  "full_name": "mirage/mirage-vagrant-vms", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:56.472773"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.345688", 
+  "description": "oauthd - The OAuth Daemon is the open source version of the OAuth.io core", 
+  "fork": false, 
+  "full_name": "oauth-io/oauthd", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:05.571070"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.855262", 
+  "description": "R-implementation of a Markov-Modulated Poisson Process for unsupervised event detection.", 
+  "fork": false, 
+  "full_name": "giantoak/MMPP", 
+  "language": "R", 
+  "updated_at": "2015-02-27T23:41:55.719979"
+}

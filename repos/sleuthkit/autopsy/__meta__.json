@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.664349", 
+  "description": "Autopsy\u00ae is a digital forensics platform and graphical interface to The Sleuth Kit\u00ae and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card. Installers can be found at: http://www.sf.net/projects/autopsy/files/autopsy", 
+  "fork": false, 
+  "full_name": "sleuthkit/autopsy", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:01.609329"
+}

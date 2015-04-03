@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:23.905952", 
+  "description": "A tool for building/building artifacts from source and injecting into docker images", 
+  "fork": false, 
+  "full_name": "openshift/source-to-image", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:12.236384"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.391369", 
+  "description": "Detecting support for WebP, JPEG 2000, JPEG XR and SVG to supply the best image for the UA", 
+  "fork": false, 
+  "full_name": "leechy/imgsupport", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:59.234515"
+}

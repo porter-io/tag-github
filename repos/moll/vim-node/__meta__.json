@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.736438", 
+  "description": "Tools and environment to make Vim superb for developing with Node.js. Like Rails.vim for Node.", 
+  "fork": false, 
+  "full_name": "moll/vim-node", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:03:09.798628"
+}

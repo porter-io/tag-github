@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.222217", 
+  "description": "Tap into a object but only execute the block if the condition is truthy.", 
+  "fork": false, 
+  "full_name": "bnorton/tap_if", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:53.098806"
+}

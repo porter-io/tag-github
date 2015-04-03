@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.839361", 
+  "description": "Adds support for background-size \"cover\" and \"contain\" to IE8", 
+  "fork": false, 
+  "full_name": "louisremi/background-size-polyfill", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:29:27.168950"
+}

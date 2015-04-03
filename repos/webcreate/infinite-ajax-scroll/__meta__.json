@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.214400", 
+  "description": "A jQuery plugin that turns your regular paginated page into an infinite scrolling page using AJAX", 
+  "fork": false, 
+  "full_name": "webcreate/infinite-ajax-scroll", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:15.756125"
+}

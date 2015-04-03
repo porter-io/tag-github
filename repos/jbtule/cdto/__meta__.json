@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.095716", 
+  "description": "Finder Toolbar app to open the current directory in the Terminal (or iTerm, X11)", 
+  "fork": false, 
+  "full_name": "jbtule/cdto", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:45.278766"
+}

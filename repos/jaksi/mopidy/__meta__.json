@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.354920", 
+  "description": "Mopidy is an extensible music server that plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. You edit the playlist from any phone, tablet, or computer using a range of MPD and web clients.", 
+  "fork": true, 
+  "full_name": "jaksi/mopidy", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:29:04.355646"
+}

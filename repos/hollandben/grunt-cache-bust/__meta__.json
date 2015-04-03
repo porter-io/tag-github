@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.211873", 
+  "description": "Cache bust static assets using content hashing", 
+  "fork": false, 
+  "full_name": "hollandben/grunt-cache-bust", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:24.969372"
+}

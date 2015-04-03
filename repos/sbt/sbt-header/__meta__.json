@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.643032", 
+  "description": "sbt-header is an sbt plugin for creating file headers, e.g. copyright headers", 
+  "fork": false, 
+  "full_name": "sbt/sbt-header", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:43:19.157163"
+}

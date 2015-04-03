@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.912720", 
+  "description": "Runs RequireJS in Node and Rhino, and used to run the RequireJS optimizer", 
+  "fork": false, 
+  "full_name": "jrburke/r.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:37.352498"
+}

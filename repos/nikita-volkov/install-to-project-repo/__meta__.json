@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.031548", 
+  "description": "A script for installing jars to an in-project Maven repository", 
+  "fork": false, 
+  "full_name": "nikita-volkov/install-to-project-repo", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:00.634974"
+}

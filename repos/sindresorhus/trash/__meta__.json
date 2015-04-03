@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.301419", 
+  "description": "Cross-platform command-line app for moving files and directories to the trash - A safer alternative to `rm`", 
+  "fork": false, 
+  "full_name": "sindresorhus/trash", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.653475"
+}

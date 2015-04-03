@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.165422", 
+  "description": "Puma integration for Capistrano 3 ", 
+  "fork": false, 
+  "full_name": "seuros/capistrano-puma", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:06.281802"
+}

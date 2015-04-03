@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.823342", 
+  "description": "Serialize a Backbone.View in to a JavaScript object.", 
+  "fork": false, 
+  "full_name": "marionettejs/backbone.syphon", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:15.259113"
+}

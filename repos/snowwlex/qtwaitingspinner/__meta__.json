@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.601489", 
+  "description": "configurable custom Qt widget for showing waiting spinner icon", 
+  "fork": false, 
+  "full_name": "snowwlex/QtWaitingSpinner", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:38.132742"
+}

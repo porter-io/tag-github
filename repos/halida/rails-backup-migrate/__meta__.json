@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.173937", 
+  "description": "A gem providing a rake task for backing up and migrating databases and files between rails instances.", 
+  "fork": true, 
+  "full_name": "halida/rails-backup-migrate", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:29.174843"
+}

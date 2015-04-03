@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.487173", 
+  "description": "A lisp that compiles to and runs as fast as lua. Equipped with macroes and compile-time compiler manipulation. Comes with all built-in lua functions. ", 
+  "fork": false, 
+  "full_name": "meric/l2l", 
+  "language": "Lua", 
+  "updated_at": "2015-03-10T07:02:50.042795"
+}

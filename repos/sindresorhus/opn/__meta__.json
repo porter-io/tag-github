@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.369373", 
+  "description": "A better node-open. Opens stuff like websites, files, executables. Cross-platform.", 
+  "fork": false, 
+  "full_name": "sindresorhus/opn", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:44:18.776309"
+}

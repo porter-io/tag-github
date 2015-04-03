@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.919130", 
+  "description": "Generate drivetime isochrones from OpenStreetMap data using OSRM", 
+  "fork": false, 
+  "full_name": "mapbox/osrm-isochrone", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:22.568244"
+}

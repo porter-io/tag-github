@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.396639", 
+  "description": "A command-line installer for Windows.", 
+  "fork": false, 
+  "full_name": "lukesampson/scoop", 
+  "language": "PowerShell", 
+  "updated_at": "2015-03-10T07:04:08.717918"
+}

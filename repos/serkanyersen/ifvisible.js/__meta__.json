@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.548490", 
+  "description": "Crossbrowser & lightweight way to check if user is looking at the page or interacting with it.", 
+  "fork": false, 
+  "full_name": "serkanyersen/ifvisible.js", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:01:38.651185"
+}

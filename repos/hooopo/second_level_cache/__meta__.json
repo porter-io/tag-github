@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.696658", 
+  "description": "Write Through and Read Through caching library inspired by CacheMoney and cache_fu, support ActiveRecord 4.", 
+  "fork": false, 
+  "full_name": "hooopo/second_level_cache", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:29.903440"
+}

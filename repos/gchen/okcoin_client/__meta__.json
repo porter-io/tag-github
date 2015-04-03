@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.238987", 
+  "description": "A python trade client for OKCoin.com. OKCoin\u6bd4\u7279\u5e01\u4ea4\u6613\u5e73\u53f0\u7684Python\u5ba2\u6237\u7aef\uff0c\u652f\u6301\u4e0b\u5355\u4ea4\u6613\uff0c\u53d6\u6d88\u4e0b\u5355\uff0c\u67e5\u770b\u8d26\u6237\u4fe1\u606f\uff0c\u67e5\u770b\u5e02\u573a\u6df1\u5ea6\u7b49OKCoin\u5e73\u53f0API\u63d0\u4f9b\u7684\u529f\u80fd\u3002", 
+  "fork": false, 
+  "full_name": "gchen/okcoin_client", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:33.985055"
+}

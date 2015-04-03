@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.168715", 
+  "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.", 
+  "fork": false, 
+  "full_name": "ipython/ipython", 
+  "language": "Python", 
+  "updated_at": "2015-03-21T14:55:45.892827"
+}

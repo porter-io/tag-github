@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.431408", 
+  "description": "Walk a directory tree emitting events based on the contents. API compatable with node-findit. Walk a tree of any depth. Fast! Handles permission errors. Stoppable. windows support. Pull requests are awesome. watchers are appreciated.", 
+  "fork": false, 
+  "full_name": "soldair/node-walkdir", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:02.394867"
+}

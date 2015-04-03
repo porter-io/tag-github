@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.813885", 
+  "description": "Multi-database ORM: redis, mongodb, mysql, sqlite, postgres, neo4j, memory... Many databases, common API.", 
+  "fork": false, 
+  "full_name": "1602/jugglingdb", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:44.120199"
+}

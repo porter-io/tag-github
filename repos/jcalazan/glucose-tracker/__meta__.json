@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.566726", 
+  "description": "A simple web application for keeping tracking of blood glucose levels.  Written in Python using the Django framework.", 
+  "fork": false, 
+  "full_name": "jcalazan/glucose-tracker", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:31:33.459019"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.016297", 
+  "description": "Writable grep buffer and apply the changes to files", 
+  "fork": false, 
+  "full_name": "mhayashi1120/Emacs-wgrep", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:43:49.758841"
+}

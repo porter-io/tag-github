@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.192793", 
+  "description": "GDCoreDataConcurrencyDebugging helps you find cases where NSManagedObject's are being called on the wrong thread or dispatch queue.", 
+  "fork": false, 
+  "full_name": "GrahamDennis/GDCoreDataConcurrencyDebugging", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:50.925829"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.737755", 
+  "description": "Password locker sample application built using django and backbone.js - see http://10kblogger.wordpress.com/2012/05/25/a-restful-password-locker-with-django-and-backbone-js/", 
+  "fork": false, 
+  "full_name": "boosh/pwlocker", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:21.392952"
+}

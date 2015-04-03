@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.804241", 
+  "description": "fluentd \u542f\u52a8\u811a\u672c,\u6dfb\u52a0jemalloc+init.d\u542f\u52a8\u811a\u672c", 
+  "fork": false, 
+  "full_name": "fishg/fluentd-start", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:50.873966"
+}

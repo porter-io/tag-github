@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.636803", 
+  "description": "A standalone iOS & OSX class for intercepting and proxying HTTP requests (e.g. from a Web View)", 
+  "fork": false, 
+  "full_name": "marcuswestin/WebViewProxy", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:02:26.077011"
+}

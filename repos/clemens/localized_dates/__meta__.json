@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.713871", 
+  "description": "Date and Time localization based on Rails' i18n functionalities", 
+  "fork": false, 
+  "full_name": "clemens/localized_dates", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:27.689158"
+}

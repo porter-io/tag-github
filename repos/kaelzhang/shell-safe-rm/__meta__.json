@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.626160", 
+  "description": "Safe-rm: A much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the origin rm command.", 
+  "fork": false, 
+  "full_name": "kaelzhang/shell-safe-rm", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:23.320303"
+}

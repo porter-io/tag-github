@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.898100", 
+  "description": "A Python logging handler that publishes to redis pub/sub channels", 
+  "fork": false, 
+  "full_name": "jedp/python-redis-log", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:29.571674"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.196729", 
+  "description": "Implementation of suffix array (similar function as suffix tree, see wikipedia) in python, derived from https://code.google.com/p/pysuffix/  Utility function is added to show simple application of searching substring and finding longest repeating substring.", 
+  "fork": false, 
+  "full_name": "baiyubin/pysuffix", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:40.113593"
+}

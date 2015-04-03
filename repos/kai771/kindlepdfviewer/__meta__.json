@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.679854", 
+  "description": "A PDF (plus DJVU, ePub, TXT, CHM, FB2, HTML...) viewer made for e-ink framebuffer devices, using muPDF, djvulibre, crengine", 
+  "fork": true, 
+  "full_name": "kai771/kindlepdfviewer", 
+  "language": "Lua", 
+  "updated_at": "2015-04-01T19:30:54.767171"
+}

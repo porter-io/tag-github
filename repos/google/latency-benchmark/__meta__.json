@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.393386", 
+  "description": "Tests web browser input latency and jank", 
+  "fork": false, 
+  "full_name": "google/latency-benchmark", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:52:23.565203"
+}

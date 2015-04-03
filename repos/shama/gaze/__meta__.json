@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.527735", 
+  "description": ":crystal_ball: A globbing fs.watch wrapper built from the best parts of other fine watch libs.", 
+  "fork": false, 
+  "full_name": "shama/gaze", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:43.227549"
+}

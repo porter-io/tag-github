@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.298282", 
+  "description": "Ease of use Groovy library for building JVM applications with Amazon Simple Workflow (SWF)", 
+  "fork": false, 
+  "full_name": "Netflix/glisten", 
+  "language": "Groovy", 
+  "updated_at": "2015-02-27T23:43:31.380866"
+}

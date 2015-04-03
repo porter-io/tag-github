@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.576114", 
+  "description": "Sample Vim configuration files which enable Python autocomplete with virtualenv support, file structure tree (NERDTree), fuzy file and buffer finder and many more...", 
+  "fork": false, 
+  "full_name": "zenzire/vimrc", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:43:55.274057"
+}

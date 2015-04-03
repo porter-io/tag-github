@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.950956", 
+  "description": "browser-side require() the node.js way", 
+  "fork": false, 
+  "full_name": "substack/node-browserify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-21T14:55:47.774861"
+}

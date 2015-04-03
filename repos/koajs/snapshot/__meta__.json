@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.892441", 
+  "description": "take snapshot when request, cache by request path. ", 
+  "fork": false, 
+  "full_name": "koajs/snapshot", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.705712"
+}

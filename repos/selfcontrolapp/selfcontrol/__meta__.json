@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.412776", 
+  "description": "Is email a distraction? SelfControl is an OS X application which blocks access to mail servers and websites for a predetermined period of time. It can not be undone by the app or by a restart \u2013 you must wait for the timer to run out.", 
+  "fork": false, 
+  "full_name": "SelfControlApp/selfcontrol", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:18.828133"
+}

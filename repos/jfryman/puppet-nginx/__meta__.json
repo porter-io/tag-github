@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.842077", 
+  "description": "Puppet Module to manage NGINX on various UNIXes", 
+  "fork": false, 
+  "full_name": "jfryman/puppet-nginx", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:41.310589"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.322874", 
+  "description": "Parse a cookie for use in PhantomJS", 
+  "fork": false, 
+  "full_name": "sindresorhus/parse-cookie-phantomjs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.018795"
+}

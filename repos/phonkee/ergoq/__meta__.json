@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.798094", 
+  "description": "Simple queue (with publish/subscribe) abstraction.", 
+  "fork": false, 
+  "full_name": "phonkee/ergoq", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:49.960554"
+}

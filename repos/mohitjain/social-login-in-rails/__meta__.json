@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.583406", 
+  "description": "A small application with integrates with Devise + Twitter + Facebook + Linkedin + Google + Github.", 
+  "fork": false, 
+  "full_name": "mohitjain/social-login-in-rails", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:49.494559"
+}

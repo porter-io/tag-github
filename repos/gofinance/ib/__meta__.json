@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.625901", 
+  "description": "Pure Go interface to Interactive Brokers IB API", 
+  "fork": false, 
+  "full_name": "gofinance/ib", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:57.810267"
+}

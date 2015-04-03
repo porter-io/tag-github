@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.896684", 
+  "description": "MEGA client for linux, based on FUSE", 
+  "fork": false, 
+  "full_name": "matteoserva/MegaFuse", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:21.696181"
+}

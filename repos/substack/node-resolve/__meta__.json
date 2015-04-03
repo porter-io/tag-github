@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.908765", 
+  "description": "Implements the node.js require.resolve() algorithm", 
+  "fork": false, 
+  "full_name": "substack/node-resolve", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.711899"
+}

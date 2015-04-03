@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.758019", 
+  "description": "Dynamic tracing for javascript, in javascript (similar dtrace, ktap etc)", 
+  "fork": false, 
+  "full_name": "jstrace/jstrace", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:22.219333"
+}

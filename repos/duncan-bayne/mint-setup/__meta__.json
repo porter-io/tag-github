@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.211523", 
+  "description": "Scripts to take a vanilla Linux Mint installation and create a Rails & Lisp dev environment.", 
+  "fork": false, 
+  "full_name": "duncan-bayne/mint-setup", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:02:09.876804"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.452760", 
+  "description": "A development web server for ASP.NET vNext based on libuv.", 
+  "fork": false, 
+  "full_name": "aspnet/KestrelHttpServer", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T08:15:39.786270"
+}

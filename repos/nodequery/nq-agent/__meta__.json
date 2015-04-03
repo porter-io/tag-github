@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.542062", 
+  "description": "The NodeQuery agent collects selected linux server data and sends them to our monitoring system for further processing.", 
+  "fork": false, 
+  "full_name": "nodequery/nq-agent", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:22.240066"
+}

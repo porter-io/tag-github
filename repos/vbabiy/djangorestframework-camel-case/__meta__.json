@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.946503", 
+  "description": "Camel case JSON support for Django REST framework.", 
+  "fork": false, 
+  "full_name": "vbabiy/djangorestframework-camel-case", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:30:58.628894"
+}

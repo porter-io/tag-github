@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.893044", 
+  "description": "A jQuery plugin that allows you dynamically add new forms to a rendered django formset.", 
+  "fork": false, 
+  "full_name": "elo80ka/django-dynamic-formset", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:15.350292"
+}

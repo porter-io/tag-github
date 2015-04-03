@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.934378", 
+  "description": "FSQLocationBroker sits between the other classes of your app and CoreLocation's CLLocationManager, giving you a centralized place to manage location services in your app. The broker uses a list of location subscribers to determine which services to request from the system and then forwards the data back where appropriate.", 
+  "fork": false, 
+  "full_name": "foursquare/FSQLocationBroker", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:00.005116"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.592905", 
+  "description": "An ActiveRecord plugin for managing lists.", 
+  "fork": true, 
+  "full_name": "swanandp/acts_as_list", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:10.592954"
+}

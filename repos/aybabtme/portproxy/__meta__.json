@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.897795", 
+  "description": "TCP proxy, highjacks HTTP to allow CORS", 
+  "fork": false, 
+  "full_name": "aybabtme/portproxy", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:50.625284"
+}

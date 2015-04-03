@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.415674", 
+  "description": "Hardening overlay for PostgreSQL", 
+  "fork": false, 
+  "full_name": "TelekomLabs/puppet-postgres-hardening", 
+  "language": "Puppet", 
+  "updated_at": "2015-02-27T23:41:53.329197"
+}

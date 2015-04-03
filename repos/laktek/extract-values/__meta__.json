@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.937765", 
+  "description": "A simple helper to extract values from a string based on a pattern.", 
+  "fork": false, 
+  "full_name": "laktek/extract-values", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:34.670922"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.763118", 
+  "description": "An abstraction layer for webRTC. Aim is to simplify the HTML5 web standard webRTC in a similar manner to socket.io w/ websockets. Highly experimental technology", 
+  "fork": false, 
+  "full_name": "webRTC/webRTC.io", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:38.453405"
+}

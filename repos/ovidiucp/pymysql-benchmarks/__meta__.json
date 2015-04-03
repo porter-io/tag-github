@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.575891", 
+  "description": "Benchmarks of various asynchronous Python MySQL client libraries", 
+  "fork": false, 
+  "full_name": "ovidiucp/pymysql-benchmarks", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:26.338511"
+}

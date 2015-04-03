@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.162509", 
+  "description": "Sign.jar automatically signs an apk with the Android test certificate.", 
+  "fork": false, 
+  "full_name": "appium/sign", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:32.846221"
+}

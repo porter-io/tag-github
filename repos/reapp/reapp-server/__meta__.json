@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.120112", 
+  "description": "a webpack and express setup for serving hot or isomorphic react apps", 
+  "fork": false, 
+  "full_name": "reapp/reapp-server", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:55.940443"
+}

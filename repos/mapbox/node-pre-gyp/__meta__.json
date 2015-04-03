@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.042069", 
+  "description": "Node.js tool for easy binary deployment of C++ addons", 
+  "fork": false, 
+  "full_name": "mapbox/node-pre-gyp", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:22.668843"
+}

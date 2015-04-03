@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.097110", 
+  "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale.", 
+  "fork": false, 
+  "full_name": "gotwarlost/istanbul", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:28.710840"
+}

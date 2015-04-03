@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.075067", 
+  "description": "Makes role based authorization in Rails3 really simple. Wraps CanCan and RoleModel up with a smattering of syntactic sugar, some generators and scopes.", 
+  "fork": false, 
+  "full_name": "james2m/canard", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:22.899907"
+}

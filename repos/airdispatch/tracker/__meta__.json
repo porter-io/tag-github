@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.636658", 
+  "description": "A routing framework based around the concept of BitTorrent Trackers.", 
+  "fork": false, 
+  "full_name": "airdispatch/tracker", 
+  "language": "Go", 
+  "updated_at": "2015-04-01T19:31:15.424341"
+}

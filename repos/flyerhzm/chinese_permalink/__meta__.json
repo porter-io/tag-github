@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.862345", 
+  "description": "This plugin adds a capability for AR model to create a seo permalink with your chinese text. It will translate your chinese text to english url based on google translate.", 
+  "fork": false, 
+  "full_name": "flyerhzm/chinese_permalink", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:11.079538"
+}

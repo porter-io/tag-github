@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.385807", 
+  "description": "A PHP search replace tool for quickly modifying a string throughout a database. Useful for changing the base URL when migrating a WordPress site from development to production.", 
+  "fork": false, 
+  "full_name": "interconnectit/Search-Replace-DB", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:07.039056"
+}

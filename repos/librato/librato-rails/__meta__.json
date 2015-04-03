@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.412052", 
+  "description": "Report key app statistics to the Librato Metrics service and easily track your own custom metrics", 
+  "fork": false, 
+  "full_name": "librato/librato-rails", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:03.884023"
+}

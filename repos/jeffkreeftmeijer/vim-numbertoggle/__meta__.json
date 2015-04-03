@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.485036", 
+  "description": "Toggles between relative and absolute line numbers automatically", 
+  "fork": false, 
+  "full_name": "jeffkreeftmeijer/vim-numbertoggle", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:43:48.836265"
+}

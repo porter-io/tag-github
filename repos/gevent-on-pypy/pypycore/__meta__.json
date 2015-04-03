@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.042080", 
+  "description": "gevent.core implemented as cffi module, might be used with pypy", 
+  "fork": false, 
+  "full_name": "gevent-on-pypy/pypycore", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:45.833327"
+}

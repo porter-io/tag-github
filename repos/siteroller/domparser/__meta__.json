@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.345506", 
+  "description": "Parse and modify the DOM structure in PHP.  Small, quick, handles poorly formed HTML", 
+  "fork": true, 
+  "full_name": "siteroller/domparser", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T22:28:39.345546"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.496127", 
+  "description": "Refined Dracula color scheme for Vim, color palettes are from https://github.com/zenorocha/dracula-theme.", 
+  "fork": false, 
+  "full_name": "crusoexia/vim-dracula", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:43:42.775623"
+}

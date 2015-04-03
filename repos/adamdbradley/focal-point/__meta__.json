@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.346443", 
+  "description": "A small set of CSS classnames to help keep images cropped on the focal point for responsive designs. Using only HTML/CSS, web authors can specify an image's focal point, which stays as the image's primary focus, while the image's available width changes on responsive webpages. Crop and re-size images depending on available width and let CSS to do all of the work, and without any JavaScript.", 
+  "fork": false, 
+  "full_name": "adamdbradley/focal-point", 
+  "language": "CSS", 
+  "updated_at": "2015-03-10T07:00:52.236414"
+}

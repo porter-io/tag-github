@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.630942", 
+  "description": "Debugging and profiling decorator that prints or logs \ncaller name(s), args+values, execution time, and more.\nEliminates reams of boilerplate code.", 
+  "fork": false, 
+  "full_name": "Twangist/log_calls", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:03:07.382663"
+}

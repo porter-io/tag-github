@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.561494", 
+  "description": "A ruby-based (standalone) helper app that will open a Mac's .webloc files in your default browser.", 
+  "fork": false, 
+  "full_name": "jphastings/WinWebloc", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:34.413991"
+}

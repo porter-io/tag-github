@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.057263", 
+  "description": "Haml ported to server-side Javascript.  This is a traditional server-side templating language. Tested with node-js", 
+  "fork": false, 
+  "full_name": "creationix/haml-js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:01.001482"
+}

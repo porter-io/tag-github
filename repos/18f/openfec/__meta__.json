@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.533995", 
+  "description": "An experiment in taking data from the Federal Election Commission and harmonizing/cleaning it up to make it easier for external developers to use and analyze.", 
+  "fork": false, 
+  "full_name": "18F/openFEC", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:35.232044"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.681721", 
+  "description": "A fully RESTful server implementation for CodeIgniter using one library, one config file and one controller.", 
+  "fork": false, 
+  "full_name": "chriskacerguis/codeigniter-restserver", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:28.872841"
+}

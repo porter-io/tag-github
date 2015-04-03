@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.963715", 
+  "description": "A library in NodeJS, geared for RPI development that provides access to the ATT IOT platform", 
+  "fork": false, 
+  "full_name": "MichielDeMey/raspberrypi-nodejs-client", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:35.611490"
+}

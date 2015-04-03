@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.503622", 
+  "description": "A class-based dispatcher that executes the specified method, pretty much like Rails (!).", 
+  "fork": false, 
+  "full_name": "fnando/goliath-app", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:27.688852"
+}

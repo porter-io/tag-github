@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.618022", 
+  "description": "An extremely fast PHP implementation of handlebars ( http://handlebarsjs.com/ ) and mustache ( http://mustache.github.io/ ),", 
+  "fork": false, 
+  "full_name": "zordius/lightncandy", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:36.797082"
+}

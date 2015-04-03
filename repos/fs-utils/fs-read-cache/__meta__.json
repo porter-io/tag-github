@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.113231", 
+  "description": "Cache utf8 files based on mtime", 
+  "fork": false, 
+  "full_name": "fs-utils/fs-read-cache", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:19.721778"
+}

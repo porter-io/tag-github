@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.317318", 
+  "description": "send mail without setting up a SMTP server", 
+  "fork": false, 
+  "full_name": "guileen/node-sendmail", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:42.951189"
+}

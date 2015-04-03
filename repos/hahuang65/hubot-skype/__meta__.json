@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.052778", 
+  "description": "Skype Adapter for Hubot written in Ruby using SkypeKit", 
+  "fork": false, 
+  "full_name": "hahuang65/hubot-skype", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:32.583463"
+}

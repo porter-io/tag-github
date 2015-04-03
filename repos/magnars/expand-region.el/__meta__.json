@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.564679", 
+  "description": "Emacs extension to increase selected region by semantic units.", 
+  "fork": false, 
+  "full_name": "magnars/expand-region.el", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:42:15.273348"
+}

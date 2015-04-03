@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.173754", 
+  "description": "An activity diagram to describe the resolution of HTTP response status codes, given various headers.", 
+  "fork": false, 
+  "full_name": "for-GET/http-decision-diagram", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:54.486793"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.594567", 
+  "description": "Package stackerr provides a way to augment errors with one or more stack traces to allow for easier debugging.", 
+  "fork": false, 
+  "full_name": "facebookgo/stackerr", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:46.540098"
+}

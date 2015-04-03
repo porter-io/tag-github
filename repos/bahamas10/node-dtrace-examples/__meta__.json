@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.759707", 
+  "description": "Examples of DTrace probes in Node.js", 
+  "fork": false, 
+  "full_name": "bahamas10/node-dtrace-examples", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:27.407203"
+}

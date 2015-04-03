@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.013402", 
+  "description": "Searches a directory recursively for movie files and writes IMDB information into an HTML file.", 
+  "fork": false, 
+  "full_name": "mb21/moviedir2html", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:11.503502"
+}

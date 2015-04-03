@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.220306", 
+  "description": "node-force-domain is a middleware for Connect and Epxpress that redirects any request to a default domain.", 
+  "fork": false, 
+  "full_name": "goloroden/node-force-domain", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:41.423784"
+}

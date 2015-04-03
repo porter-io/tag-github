@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.302450", 
+  "description": "List of french communes with postal code, insee_code, population and latitude and longitude as a PointField", 
+  "fork": false, 
+  "full_name": "platypus-creation/django-communes", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:59.204361"
+}

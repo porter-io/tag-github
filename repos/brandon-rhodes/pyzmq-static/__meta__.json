@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.683034", 
+  "description": "Script to compile a statically-linked version of the Python \"zmq\" package with \u00d8MQ and libuuid (on Linux systems) built-in instead of relying on shared libraries.", 
+  "fork": false, 
+  "full_name": "brandon-rhodes/pyzmq-static", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:38.187520"
+}

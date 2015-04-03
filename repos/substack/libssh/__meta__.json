@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.080438", 
+  "description": "mulitplatform C library implementing the SSHv2 and SSHv1 protocol on client and server side", 
+  "fork": false, 
+  "full_name": "substack/libssh", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:15.905703"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.063387", 
+  "description": "Stripe webhook integration for Rails applications.", 
+  "fork": false, 
+  "full_name": "integrallis/stripe_event", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:50.981385"
+}

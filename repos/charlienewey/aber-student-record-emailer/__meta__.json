@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.098405", 
+  "description": "Python script that is intended to run as a `cron` job to check for updates to timetables, results, etc", 
+  "fork": false, 
+  "full_name": "charlienewey/aber-student-record-emailer", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:17.051202"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.092355", 
+  "description": "package mangos is an implementation in pure Go of the SP (\"Scalable Protocols\") protocols.", 
+  "fork": false, 
+  "full_name": "gdamore/mangos", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:00.773326"
+}

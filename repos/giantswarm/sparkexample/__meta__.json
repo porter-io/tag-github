@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.047724", 
+  "description": "A minimal example build with Docker and http://sparkjava.com", 
+  "fork": false, 
+  "full_name": "giantswarm/sparkexample", 
+  "language": "Makefile", 
+  "updated_at": "2015-02-27T23:41:26.906297"
+}

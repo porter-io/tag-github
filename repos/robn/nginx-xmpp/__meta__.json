@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.737023", 
+  "description": "nginx with XMPP proxy support", 
+  "fork": true, 
+  "full_name": "robn/nginx-xmpp", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:28:05.737103"
+}

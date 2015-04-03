@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.561357", 
+  "description": "Rate limiter for node.js that supports a rolling window, either in-memory or backed by redis", 
+  "fork": false, 
+  "full_name": "classdojo/rolling-rate-limiter", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:32.102588"
+}

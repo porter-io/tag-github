@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.942483", 
+  "description": "A simple Raft distributed consensus implementation in Ruby", 
+  "fork": false, 
+  "full_name": "harryw/raft", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:02.903117"
+}

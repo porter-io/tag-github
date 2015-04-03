@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.149163", 
+  "description": "Date and time validation plugin for ActiveModel and Rails.  Supports multiple ORMs and allows custom date/time formats.", 
+  "fork": false, 
+  "full_name": "adzap/validates_timeliness", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:03.516435"
+}

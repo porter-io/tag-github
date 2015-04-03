@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:17.356568", 
+  "description": "Simple script to configure, compile, and install a kernel (with corresponding initramfs) in Gentoo", 
+  "fork": false, 
+  "full_name": "canek-pelaez/kerninst", 
+  "updated_at": "2015-02-27T23:42:22.410054"
+}

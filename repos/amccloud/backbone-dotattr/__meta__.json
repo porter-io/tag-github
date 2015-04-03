@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.799571", 
+  "description": "Access deep Backbone.js model attributes with dot-syntax.", 
+  "fork": false, 
+  "full_name": "amccloud/backbone-dotattr", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:26.612197"
+}

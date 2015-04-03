@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.442277", 
+  "description": "A system for running validation tests against Magento's configuration files", 
+  "fork": false, 
+  "full_name": "astorm/Configlint", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:51.141888"
+}

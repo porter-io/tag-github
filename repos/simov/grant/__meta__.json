@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.857190", 
+  "description": "Authentication Middleware for Express and Koa", 
+  "fork": false, 
+  "full_name": "simov/grant", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:04.143497"
+}

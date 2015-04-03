@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.209317", 
+  "description": "Find ports where debuggable runtimes are listening", 
+  "fork": false, 
+  "full_name": "mozilla/node-firefox-find-ports", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:15.899761"
+}

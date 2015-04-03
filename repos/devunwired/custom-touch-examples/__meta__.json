@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.104227", 
+  "description": "Collection of example applications to highlight doing custom touch event handling and using GestureDetectors in Android applications.", 
+  "fork": false, 
+  "full_name": "devunwired/custom-touch-examples", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:08.508434"
+}

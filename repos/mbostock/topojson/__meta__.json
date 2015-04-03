@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.437561", 
+  "description": "An extension to GeoJSON that encodes topology.", 
+  "fork": false, 
+  "full_name": "mbostock/topojson", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:55.168795"
+}

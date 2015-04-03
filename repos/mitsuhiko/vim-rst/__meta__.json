@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.235905", 
+  "description": "Restructured text support for vim", 
+  "fork": false, 
+  "full_name": "mitsuhiko/vim-rst", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:44:12.732739"
+}

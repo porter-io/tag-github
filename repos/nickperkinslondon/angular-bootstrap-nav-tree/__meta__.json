@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.833515", 
+  "description": "An AngularJS directive that creates a Tree based on a Bootstrap \"nav\" list.", 
+  "fork": false, 
+  "full_name": "nickperkinslondon/angular-bootstrap-nav-tree", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:02:46.396230"
+}

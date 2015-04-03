@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.878632", 
+  "description": "Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.", 
+  "fork": false, 
+  "full_name": "xing/wysihtml5", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-17T07:25:46.802839"
+}

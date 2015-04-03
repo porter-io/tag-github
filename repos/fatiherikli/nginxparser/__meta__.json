@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.310861", 
+  "description": "Parses nginx configuration with Pyparsing", 
+  "fork": false, 
+  "full_name": "fatiherikli/nginxparser", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:44.605919"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.694703", 
+  "description": "Celery integration for Flask (SINCE CELERY 3.0 THIS IS NO LONGER NEEDED)", 
+  "fork": false, 
+  "full_name": "ask/flask-celery", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:30.181608"
+}

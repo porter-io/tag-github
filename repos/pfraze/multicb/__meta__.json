@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.752248", 
+  "description": "Simple way to aggregate multiple node-style callbacks", 
+  "fork": false, 
+  "full_name": "pfraze/multicb", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:54.312070"
+}

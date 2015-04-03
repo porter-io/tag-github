@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.891003", 
+  "description": "This is an Objective-C library that helps to easily convert a UIImage with a QR-code from NSString with just one line of code.", 
+  "fork": false, 
+  "full_name": "moqod/ios-qr-code-encoder", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:04:13.953832"
+}

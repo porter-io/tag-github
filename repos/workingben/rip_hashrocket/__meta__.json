@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.629786", 
+  "description": "Ruby Gem for updating hash syntax from Ruby 1.8 to 1.9 syle, removing rockets \"=>\"", 
+  "fork": false, 
+  "full_name": "workingBen/rip_hashrocket", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:29.775066"
+}

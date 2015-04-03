@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.765276", 
+  "description": "Sends HTML email commit messages splitting commits that were pushed in one step. Changes are highlighted per word.", 
+  "fork": true, 
+  "full_name": "wesabe/git-commit-notifier", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:17.765360"
+}

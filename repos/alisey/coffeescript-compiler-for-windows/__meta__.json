@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.623659", 
+  "description": "Standalone executable that compiles *.coffee to *.js. Options are compatible with the original coffee command.", 
+  "fork": false, 
+  "full_name": "alisey/CoffeeScript-Compiler-for-Windows", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:30:56.695444"
+}

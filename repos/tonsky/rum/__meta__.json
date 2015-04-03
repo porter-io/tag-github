@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.860797", 
+  "description": "Yet another React wrapper for ClojureScript. Decomplected, extensible, simple", 
+  "fork": false, 
+  "full_name": "tonsky/rum", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:06.023567"
+}

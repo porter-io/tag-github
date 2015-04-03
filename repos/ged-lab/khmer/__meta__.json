@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.901736", 
+  "description": "In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more", 
+  "fork": false, 
+  "full_name": "ged-lab/khmer", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:41.158854"
+}

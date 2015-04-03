@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.594945", 
+  "description": "Generate SSH config files from AWS EC2 inventory", 
+  "fork": false, 
+  "full_name": "gianlucaborello/aws-ssh-config", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:29.514334"
+}

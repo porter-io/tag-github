@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.712658", 
+  "description": "Port javascript lz-string in JAVA version. Done some of language optimization. And a rhino side for Testing.", 
+  "fork": false, 
+  "full_name": "rufushuang/lz-string4java", 
+  "language": "Java", 
+  "updated_at": "2015-03-10T07:00:50.264700"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.050462", 
+  "description": "Vim plugin for debugging Ruby applications (using ruby-debug-ide gem)", 
+  "fork": false, 
+  "full_name": "astashov/vim-ruby-debugger", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:52.029523"
+}

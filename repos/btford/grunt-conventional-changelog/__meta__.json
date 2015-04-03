@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.068118", 
+  "description": "Grunt task for generating a changelog from git metadata", 
+  "fork": false, 
+  "full_name": "btford/grunt-conventional-changelog", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:15.560278"
+}

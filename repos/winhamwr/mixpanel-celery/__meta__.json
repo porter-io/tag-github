@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.571552", 
+  "description": "Asynchronous event tracking for Mixpanel using Celery", 
+  "fork": false, 
+  "full_name": "winhamwr/mixpanel-celery", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:37.053687"
+}

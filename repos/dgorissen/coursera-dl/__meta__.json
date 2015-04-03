@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.266103", 
+  "description": "A script for downloading course material (video's, pdfs, quizzes, etc) from coursera.org", 
+  "fork": true, 
+  "full_name": "dgorissen/coursera-dl", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:28:42.266152"
+}

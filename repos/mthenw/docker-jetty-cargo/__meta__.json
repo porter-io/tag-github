@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:06.352392", 
+  "description": "Dockerfile for setting up Docker container with Jetty and Cargo installed", 
+  "fork": false, 
+  "full_name": "mthenw/docker-jetty-cargo", 
+  "updated_at": "2015-02-27T23:42:09.530887"
+}

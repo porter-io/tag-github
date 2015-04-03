@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.890462", 
+  "description": "Library to load a DLL from memory.", 
+  "fork": false, 
+  "full_name": "fancycode/MemoryModule", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:28.275058"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.653223", 
+  "description": "FileAPI \u2014 a set of  javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.", 
+  "fork": false, 
+  "full_name": "mailru/FileAPI", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:50.352252"
+}

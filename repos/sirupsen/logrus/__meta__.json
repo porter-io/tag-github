@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.277616", 
+  "description": "Structured, pluggable logging for Go.", 
+  "fork": false, 
+  "full_name": "Sirupsen/logrus", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:27.466573"
+}

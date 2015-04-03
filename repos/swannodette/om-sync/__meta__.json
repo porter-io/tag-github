@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.888009", 
+  "description": "A reusable Om component for keeping local application state in sync with server application state", 
+  "fork": false, 
+  "full_name": "swannodette/om-sync", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:38.608769"
+}

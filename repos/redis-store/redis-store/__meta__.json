@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.685495", 
+  "description": "Namespaced Rack::Session, Rack::Cache, I18n and cache Redis stores for Ruby web frameworks", 
+  "fork": false, 
+  "full_name": "redis-store/redis-store", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:13.674562"
+}

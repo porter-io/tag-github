@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.578901", 
+  "description": "An example of how to run an Android service in the background even when the user kills the app.", 
+  "fork": false, 
+  "full_name": "henrylilei/AlwaysOn", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:23.972825"
+}

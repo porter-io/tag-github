@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.711160", 
+  "description": "For use with Google's Doubleclick for Publishers (DFP).  Taps into dfp's logger function and fires triggers events using jQuery.", 
+  "fork": false, 
+  "full_name": "mcountis/dfp-events", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:59.778132"
+}

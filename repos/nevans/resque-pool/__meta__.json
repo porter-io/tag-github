@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.120108", 
+  "description": "quickly fork a pool resque workers, saving memory (w/REE) and monitoring their uptime.", 
+  "fork": false, 
+  "full_name": "nevans/resque-pool", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:37.837242"
+}

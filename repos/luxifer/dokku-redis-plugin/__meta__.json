@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.936121", 
+  "description": "Redis plugin for Dokku", 
+  "fork": false, 
+  "full_name": "luxifer/dokku-redis-plugin", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:19.741657"
+}

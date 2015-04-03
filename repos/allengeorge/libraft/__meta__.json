@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.376402", 
+  "description": "Raft distributed consensus protocol in Java", 
+  "fork": false, 
+  "full_name": "allengeorge/libraft", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:22.052087"
+}

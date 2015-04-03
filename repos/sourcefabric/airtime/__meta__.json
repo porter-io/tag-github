@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.241345", 
+  "description": "Airtime is Sourcefabric\u2019s open source radio software for scheduling and remote station management. Airtime provides a reliable audio playout with sub-second precision, an improved interface with modern usability features, advanced user management supporting roles and a Google-style calendar to schedule and move shows and playlists.", 
+  "fork": false, 
+  "full_name": "sourcefabric/Airtime", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:48.097583"
+}

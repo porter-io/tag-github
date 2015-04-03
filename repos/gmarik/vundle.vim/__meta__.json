@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.162877", 
+  "description": "Vundle, the plug-in manager for Vim", 
+  "fork": false, 
+  "full_name": "gmarik/Vundle.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-03-21T14:55:47.666833"
+}

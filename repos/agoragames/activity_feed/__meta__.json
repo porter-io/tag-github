@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.441670", 
+  "description": "Activity feeds backed by Redis", 
+  "fork": false, 
+  "full_name": "agoragames/activity_feed", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:09.678212"
+}

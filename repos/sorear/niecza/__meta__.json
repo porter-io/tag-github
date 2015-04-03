@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.864805", 
+  "description": "A Perl 6 compiler targetting the CLR with an experimental focus on optimizations.", 
+  "fork": false, 
+  "full_name": "sorear/niecza", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T07:04:10.311106"
+}

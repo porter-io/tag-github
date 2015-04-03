@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.022895", 
+  "description": "Ruby library that integrates the R interpreter in Ruby, making R's statistical routines and graphics available within Ruby.", 
+  "fork": false, 
+  "full_name": "clbustos/rinruby", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:55.946269"
+}

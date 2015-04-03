@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.461644", 
+  "description": "An Objective-C wrapper for Mac OS X\u2019s FSEvents C API.", 
+  "fork": false, 
+  "full_name": "rastersize/CDEvents", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:04.684093"
+}

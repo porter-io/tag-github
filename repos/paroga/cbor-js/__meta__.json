@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.498844", 
+  "description": "The Concise Binary Object Representation (CBOR) data format (RFC7049) implemented in pure JavaScript.", 
+  "fork": false, 
+  "full_name": "paroga/cbor-js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:11.004771"
+}

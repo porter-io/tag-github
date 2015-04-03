@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.116163", 
+  "description": "Packer templates for vagrant baseboxes", 
+  "fork": false, 
+  "full_name": "misheska/basebox-packer", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:41.333264"
+}

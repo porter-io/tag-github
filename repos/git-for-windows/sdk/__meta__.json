@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:50.476305", 
+  "description": "This is an Inno Setup based wrapper around MinGW's mingw-get which installs a development environment for building Git for Windows using GCC.", 
+  "fork": false, 
+  "full_name": "git-for-windows/sdk", 
+  "language": "Shell", 
+  "updated_at": "2015-03-10T07:01:19.422050"
+}

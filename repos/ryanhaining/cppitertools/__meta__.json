@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.192790", 
+  "description": "Implementation of python itertools and builtin iteration functions for C++11", 
+  "fork": false, 
+  "full_name": "ryanhaining/cppitertools", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:48.529630"
+}

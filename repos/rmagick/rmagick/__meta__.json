@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.073762", 
+  "description": "An interface to the ImageMagick and GraphicsMagick image processing libraries.", 
+  "fork": false, 
+  "full_name": "rmagick/rmagick", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:37.593342"
+}

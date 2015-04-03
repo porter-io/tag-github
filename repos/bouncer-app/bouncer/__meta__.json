@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.106682", 
+  "description": "Declarative Authentication DSL inspired by Ryan Bates excellent cancan library", 
+  "fork": false, 
+  "full_name": "bouncer-app/bouncer", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:56.946238"
+}

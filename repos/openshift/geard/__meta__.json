@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:23.897469", 
+  "description": "A client and agent for installing and linking Docker containers into systemd across hosts", 
+  "fork": false, 
+  "full_name": "openshift/geard", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:12.229847"
+}

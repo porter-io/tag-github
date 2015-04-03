@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.657982", 
+  "description": "Javascript plugin which automatically tells the browser which pages/links to prerender to optimize and speed up page transitions.", 
+  "fork": false, 
+  "full_name": "KevinJannis/prerender.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:50.355826"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.243143", 
+  "description": "Note: there is a fine Rails3 replacement for this old thing!  http://github.com/nathancolgate/s3-swf-upload-plugin  .   However... this one is:.... A rails plugin which allow user upload files to S3 through an embedded flash directly.    This fork has environment setting of amazon creds (to avoid hardcode in app), configurable message for the select button, bugfix on submit-without-select, much improved feedback to the user about what is happening, ability to check the file they selected, before it gets actually uploaded.   This fork was taken from the head of elcgit version, backed out to danhixons fork and started from there.    ....   and, after all this time, I've taken offline the example app, because it was running on a version of rails at its end of life at heroku!", 
+  "fork": true, 
+  "full_name": "GreenAsJade/s3-swf-upload-plugin", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:27:41.243183"
+}

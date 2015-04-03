@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.166674", 
+  "description": "Stale identifies (and optionally deletes) stale Delicious and Pinboard links.", 
+  "fork": false, 
+  "full_name": "jparise/stale", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:41.635244"
+}

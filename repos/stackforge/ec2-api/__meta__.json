@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:50.400846", 
+  "description": "AWS EC2 and VPC API support in standalone service for OpenStack. At first uses nova's EC2 API for non-VPC functionality. Later it'll be transferred here out of nova.", 
+  "fork": false, 
+  "full_name": "stackforge/ec2-api", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:54.183968"
+}

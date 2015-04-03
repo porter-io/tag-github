@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.146380", 
+  "description": "A browser extension to block unencrypted web traffic for added security.", 
+  "fork": false, 
+  "full_name": "cwilper/http-nowhere", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:33.925814"
+}

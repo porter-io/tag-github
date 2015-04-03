@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.739155", 
+  "description": "Following googlecode project crypto-js, provide standard and secure cryptographic algorithms for NodeJS. Support MD5, SHA-1, SHA-256, RC4, Rabbit, AES, DES, PBKDF2, HMAC, OFB, CFB, CTR, CBC, Base64", 
+  "fork": false, 
+  "full_name": "gwjjeff/cryptojs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:49.923893"
+}

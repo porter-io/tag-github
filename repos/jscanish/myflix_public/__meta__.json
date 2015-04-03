@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.657544", 
+  "description": "A clone of Netflix created the TDD way. It uses Rspec with Fabrication, Faker, and Capybara.  Log in to Myflix using the email 'user@example.com' and the password 'password'.", 
+  "fork": false, 
+  "full_name": "jscanish/myflix_public", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:13.180684"
+}

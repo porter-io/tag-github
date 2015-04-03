@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.533024", 
+  "description": "Native AngularJS (Angular) directives for Bootstrap. Small footprint (5kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue!", 
+  "fork": false, 
+  "full_name": "angular-ui/bootstrap", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:29:00.020370"
+}

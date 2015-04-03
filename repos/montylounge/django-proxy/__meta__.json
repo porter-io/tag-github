@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.056083", 
+  "description": "A reusable django application to create a proxy object for your models. Intended to aggregate various content types into a model for reuse. A poor man's django-tumbleweed.", 
+  "fork": false, 
+  "full_name": "montylounge/django-proxy", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:52.923328"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.756600", 
+  "description": "a capistrano recipe to deploy python apps with virtualenv.", 
+  "fork": false, 
+  "full_name": "yyuu/capistrano-virtualenv", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:13.839616"
+}

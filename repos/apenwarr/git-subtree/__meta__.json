@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.960911", 
+  "description": "An experimental alternative to the git-submodule command.  Merges and splits subtrees from your project into subprojects and back.", 
+  "fork": false, 
+  "full_name": "apenwarr/git-subtree", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:18.789193"
+}

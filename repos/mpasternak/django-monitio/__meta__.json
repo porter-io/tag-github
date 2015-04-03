@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.982706", 
+  "description": "Unified, persistent user messages with live notifications via SSE for Django.", 
+  "fork": true, 
+  "full_name": "mpasternak/django-monitio", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:46.059638"
+}

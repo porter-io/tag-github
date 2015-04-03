@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.539493", 
+  "description": "Ruby EventMachine file tailing and friends. 'gem install eventmachine-tail' to install.", 
+  "fork": false, 
+  "full_name": "jordansissel/eventmachine-tail", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:43.267175"
+}

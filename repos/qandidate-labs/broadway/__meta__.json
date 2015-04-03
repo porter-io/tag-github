@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.342316", 
+  "description": "Infrastructure and testing helpers for creating CQRS and event sourced applications.", 
+  "fork": false, 
+  "full_name": "qandidate-labs/broadway", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:36.326643"
+}

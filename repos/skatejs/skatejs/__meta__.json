@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.551018", 
+  "description": "Skate is a web component library that is focused on being a tiny, performant, syntactic-sugar for binding behaviour to custom and existing elements without ever having to worry about when your element is inserted into the DOM.", 
+  "fork": false, 
+  "full_name": "skatejs/skatejs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:19.011561"
+}

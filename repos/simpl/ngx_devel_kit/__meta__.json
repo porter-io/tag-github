@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.689621", 
+  "description": "Nginx Development Kit - an Nginx module that adds additional generic tools that module developers can use in their own modules", 
+  "fork": false, 
+  "full_name": "simpl/ngx_devel_kit", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:58.640201"
+}

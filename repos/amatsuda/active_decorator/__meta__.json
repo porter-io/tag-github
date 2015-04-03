@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.510234", 
+  "description": "ORM agnostic truly Object-Oriented view helper for Rails 3 and Rails 4", 
+  "fork": false, 
+  "full_name": "amatsuda/active_decorator", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:25.155940"
+}

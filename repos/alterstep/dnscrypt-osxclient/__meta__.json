@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.722007", 
+  "description": "Mac OSX application to control the DNSCrypt Proxy", 
+  "fork": true, 
+  "full_name": "alterstep/dnscrypt-osxclient", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:14.966594"
+}

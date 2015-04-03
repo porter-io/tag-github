@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.367724", 
+  "description": "Android library to display a ListView whose cells are not rigid but flabby and react to ListView scroll.", 
+  "fork": false, 
+  "full_name": "jpardogo/FlabbyListView", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:25.524802"
+}

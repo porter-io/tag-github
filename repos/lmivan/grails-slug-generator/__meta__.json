@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.025658", 
+  "description": "This plugin generate unique slugs for String properties. Its main use case is to generate unique an \"nice\" urls for access to domain objects.", 
+  "fork": false, 
+  "full_name": "lmivan/grails-slug-generator", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:00.628058"
+}

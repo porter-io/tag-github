@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.284763", 
+  "description": "yet another bloom filter implementation for node.js; backed by xxhash", 
+  "fork": false, 
+  "full_name": "ceejbot/xx-bloom", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:11.545250"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.591956", 
+  "description": "procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.", 
+  "fork": false, 
+  "full_name": "prometheus/procfs", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:35.092244"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.051443", 
+  "description": "evercookie is a javascript API available that produces extremely persistent cookies in a browser. Its goal is to identify a client even after they've removed standard cookies, Flash cookies (Local Shared Objects or LSOs), and others. ", 
+  "fork": false, 
+  "full_name": "samyk/evercookie", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:34.750207"
+}

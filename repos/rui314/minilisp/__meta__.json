@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.030960", 
+  "description": "A readable lisp in less than 1k lines of C", 
+  "fork": false, 
+  "full_name": "rui314/minilisp", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:01:58.893957"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.187000", 
+  "description": "A consistent iOS API for cloud file storage services including Dropbox and Google Drive.", 
+  "fork": false, 
+  "full_name": "GrahamDennis/GDFileManagerKit", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T08:16:58.105493"
+}

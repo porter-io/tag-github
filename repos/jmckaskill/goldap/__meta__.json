@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.004806", 
+  "description": "Go bindings to LDAP", 
+  "fork": false, 
+  "full_name": "jmckaskill/goldap", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:28.971959"
+}

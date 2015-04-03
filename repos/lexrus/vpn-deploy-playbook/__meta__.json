@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.704467", 
+  "description": "A collection of Ansible Playbooks to deploy VPN and proxy services.", 
+  "fork": true, 
+  "full_name": "lexrus/vpn-deploy-playbook", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T22:28:01.705149"
+}

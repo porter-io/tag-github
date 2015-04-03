@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.954700", 
+  "description": "Subclass of UIView that enables native iOS 7 blur effect.", 
+  "fork": false, 
+  "full_name": "ivoleko/ILTranslucentView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:02:39.853963"
+}

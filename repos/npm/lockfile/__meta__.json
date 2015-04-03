@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.885968", 
+  "description": "A very polite lock file utility, which endeavors to not litter, and to wait patiently for others. ", 
+  "fork": false, 
+  "full_name": "npm/lockfile", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:24.482366"
+}

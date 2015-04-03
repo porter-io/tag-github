@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.770030", 
+  "description": "MongoDB ODM for Node.js using ES6 generators. Supports schema validation, raw querying, cursors, etc.", 
+  "fork": false, 
+  "full_name": "hiddentao/robe", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:11.313414"
+}

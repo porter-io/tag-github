@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.309021", 
+  "description": "Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices", 
+  "fork": false, 
+  "full_name": "hubert3/iSniff-GPS", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:01:29.263828"
+}

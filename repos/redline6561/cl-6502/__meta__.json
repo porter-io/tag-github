@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.527113", 
+  "description": "A 6502 emulator in Lisp.", 
+  "fork": false, 
+  "full_name": "redline6561/cl-6502", 
+  "language": "Common Lisp", 
+  "updated_at": "2015-03-10T07:02:07.149727"
+}

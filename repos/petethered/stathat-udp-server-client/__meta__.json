@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:27:46.069822", 
+  "description": "A simple Perl UDP server to receive and submit StatHat.com events", 
+  "fork": false, 
+  "full_name": "petethered/StatHat-UDP-Server-Client", 
+  "updated_at": "2015-03-10T07:01:12.964682"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.479016", 
+  "description": "An express inspired, event-driven framework for building real time distributed applications over socket.io and redis.", 
+  "fork": false, 
+  "full_name": "turbonetix/bus.io", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:28:21.447982"
+}

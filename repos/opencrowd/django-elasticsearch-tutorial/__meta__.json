@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.531631", 
+  "description": "A simple tutorial, showing how to quickly and easily use ElasticSearch as the data store for a simple application (in this case a simple blogging engine)", 
+  "fork": false, 
+  "full_name": "opencrowd/django-elasticsearch-tutorial", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:13.040831"
+}

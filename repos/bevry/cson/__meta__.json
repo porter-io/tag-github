@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.737868", 
+  "description": "CoffeeScript-Object-Notation Parser. Same as JSON but for CoffeeScript objects.", 
+  "fork": false, 
+  "full_name": "bevry/cson", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:30:12.107918"
+}

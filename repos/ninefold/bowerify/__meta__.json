@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.532324", 
+  "description": "Makes rails assets pipeline to work correctly with bower components", 
+  "fork": false, 
+  "full_name": "ninefold/bowerify", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:57.230452"
+}

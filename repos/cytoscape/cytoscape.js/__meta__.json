@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.916991", 
+  "description": "Graph theory (a.k.a. network) library for analysis and visualisation (compatible with CommonJS/Node.js, AMD/Require.js, jQuery, Bower, npm, and plain JavaScript)", 
+  "fork": false, 
+  "full_name": "cytoscape/cytoscape.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:30.510343"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.738768", 
+  "description": "Swift Client Library for the Faye Pub-Sub messaging server (http://faye.jcoglan.com/)", 
+  "fork": false, 
+  "full_name": "hamin/FayeSwift", 
+  "language": "Swift", 
+  "updated_at": "2015-02-27T23:43:35.310150"
+}

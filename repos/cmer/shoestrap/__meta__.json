@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.160737", 
+  "description": "A simple alternative to Chef and Puppet to bootstrap *nix machines.", 
+  "fork": false, 
+  "full_name": "cmer/shoestrap", 
+  "language": "Shell", 
+  "updated_at": "2015-03-10T07:01:32.975348"
+}

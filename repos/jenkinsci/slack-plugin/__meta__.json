@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.804883", 
+  "description": "A Jenkins CI plugin for posting notifications to a Slack channel", 
+  "fork": true, 
+  "full_name": "jenkinsci/slack-plugin", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T22:29:08.805001"
+}

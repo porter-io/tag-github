@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.848319", 
+  "description": "Versatile tool for webOS package installation (with ipkg feed support), raw .patch installation, and device management", 
+  "fork": false, 
+  "full_name": "JayCanuck/webos-quick-install", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:29.782078"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.722566", 
+  "description": "Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions", 
+  "fork": false, 
+  "full_name": "AvisoNovate/pretty", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:59.985601"
+}

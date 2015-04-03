@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.360541", 
+  "description": "A library that provides an embeddable, persistent key-value store for fast storage.", 
+  "fork": false, 
+  "full_name": "facebook/rocksdb", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:54:36.770235"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.162703", 
+  "description": "Optional type annotations and type checking for Clojure.", 
+  "fork": false, 
+  "full_name": "stch-library/schema", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:44:28.816863"
+}

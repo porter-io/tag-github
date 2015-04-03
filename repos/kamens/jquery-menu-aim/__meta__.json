@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.120534", 
+  "description": "jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.", 
+  "fork": false, 
+  "full_name": "kamens/jQuery-menu-aim", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-21T14:55:45.536844"
+}

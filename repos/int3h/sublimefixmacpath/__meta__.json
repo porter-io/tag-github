@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.993813", 
+  "description": "A Sublime Text 2/3 plugin to set the PATH correctly on OS X", 
+  "fork": false, 
+  "full_name": "int3h/SublimeFixMacPath", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:19.830977"
+}

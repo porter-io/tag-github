@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.662557", 
+  "description": "Eero is a fully binary- and header-compatible dialect of Objective-C, implemented with a modified version of the Apple-sponsored LLVM/clang open-source compiler. It features a streamlined syntax, Python-like indentation, and other features that improve readability and code safety. It is inspired by languages such as Smalltalk, Python, and Ruby.", 
+  "fork": false, 
+  "full_name": "eerolanguage/eero", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:49.686340"
+}

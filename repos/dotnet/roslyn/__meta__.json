@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.386078", 
+  "description": "The .NET Compiler Platform (\"Roslyn\") provides open-source C# and Visual Basic compilers with rich code analysis APIs.", 
+  "fork": false, 
+  "full_name": "dotnet/roslyn", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T08:16:50.863695"
+}

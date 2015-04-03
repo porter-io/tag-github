@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.946291", 
+  "description": "Convert a Source Map object to a comment", 
+  "fork": false, 
+  "full_name": "sindresorhus/source-map-to-comment", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.620222"
+}

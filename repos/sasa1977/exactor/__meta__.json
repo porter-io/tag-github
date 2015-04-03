@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.349532", 
+  "description": "Helpers for simpler implementation of GenServer based processes", 
+  "fork": false, 
+  "full_name": "sasa1977/exactor", 
+  "language": "Elixir", 
+  "updated_at": "2015-02-27T23:41:47.928381"
+}

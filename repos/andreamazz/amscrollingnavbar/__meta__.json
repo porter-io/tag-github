@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.610296", 
+  "description": "Scrollable UINavigationBar that follows the scrolling of a UIScrollView", 
+  "fork": false, 
+  "full_name": "andreamazz/AMScrollingNavbar", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:29.979433"
+}

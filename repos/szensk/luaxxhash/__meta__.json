@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.955862", 
+  "description": "luajit implementation of xxhash", 
+  "fork": false, 
+  "full_name": "szensk/luaxxhash", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:43:38.447006"
+}

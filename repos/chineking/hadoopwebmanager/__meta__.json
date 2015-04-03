@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.565390", 
+  "description": "A web ui to manage hdfs and simple mapreduce job", 
+  "fork": false, 
+  "full_name": "chineking/HadoopWebManager", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:49.453133"
+}

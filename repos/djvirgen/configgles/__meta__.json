@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.639595", 
+  "description": "A simple configuration loader for node.js", 
+  "fork": false, 
+  "full_name": "djvirgen/configgles", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:00:52.465585"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.024656", 
+  "description": "An AngularJS interceptor that sets the Spring Security CSRF token information in all HTTP requests if it's able to find it in a response header on application startup.", 
+  "fork": false, 
+  "full_name": "aditzel/spring-security-csrf-token-interceptor", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:38.041505"
+}

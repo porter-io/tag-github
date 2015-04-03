@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.426950", 
+  "description": "Redis sharding client library", 
+  "fork": false, 
+  "full_name": "zhihu/redis-shard", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:14.497246"
+}

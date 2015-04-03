@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.944456", 
+  "description": "SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself)", 
+  "fork": false, 
+  "full_name": "wuub/SublimeREPL", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:41.698960"
+}

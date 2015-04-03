@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.705123", 
+  "description": "A small library to allow attaching PFFiles to PFObjects in the Parse Local Datastore for iOS", 
+  "fork": false, 
+  "full_name": "AlexEKoren/AKLocalDatastore", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:00:53.645893"
+}

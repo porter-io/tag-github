@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.233048", 
+  "description": "Marked with built-in syntax highlighting and input sanitizing that doesn't encode all HTML.", 
+  "fork": false, 
+  "full_name": "bevacqua/ultramarked", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:18.161775"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.344435", 
+  "description": "A package that loads XML Schema Definition (XSD) files. Its *makepkg* tool generates a Go package with struct type-defs to xml.Unmarshal() into, based on the XSD's schema definitions.", 
+  "fork": false, 
+  "full_name": "metaleap/go-xsd", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:01.765571"
+}

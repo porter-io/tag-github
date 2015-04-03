@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.037054", 
+  "description": "Builds JavaScript projects using PackR and ERB", 
+  "fork": false, 
+  "full_name": "jcoglan/jake", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:03:11.292190"
+}

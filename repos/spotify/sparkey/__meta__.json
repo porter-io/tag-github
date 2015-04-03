@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.367049", 
+  "description": "Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts.", 
+  "fork": false, 
+  "full_name": "spotify/sparkey", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:27.525111"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.664803", 
+  "description": "Formo allows you to use your configuration file as a dynamic object. Turn your web.config or application settings into a rich, dynamic object.", 
+  "fork": false, 
+  "full_name": "ChrisMissal/Formo", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:42:09.965069"
+}

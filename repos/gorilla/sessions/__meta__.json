@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.177831", 
+  "description": "Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends.", 
+  "fork": false, 
+  "full_name": "gorilla/sessions", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:44.525813"
+}

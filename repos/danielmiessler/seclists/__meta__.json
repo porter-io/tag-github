@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.932548", 
+  "description": "SecLists is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.", 
+  "fork": false, 
+  "full_name": "danielmiessler/SecLists", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:10.374625"
+}

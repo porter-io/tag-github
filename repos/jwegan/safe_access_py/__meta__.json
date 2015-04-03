@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.873231", 
+  "description": "Simple library to allow you to drill down multiple levels into any python object without having to worry about AttributeErrors, KeyErrors, or IndexErrors", 
+  "fork": false, 
+  "full_name": "jwegan/safe_access_py", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:07.314990"
+}

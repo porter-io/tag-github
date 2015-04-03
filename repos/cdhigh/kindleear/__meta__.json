@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.347599", 
+  "description": "A website application running in Google app engine, deliver rss news to your kindle. generate mobi by using python, multilanguages supported.", 
+  "fork": false, 
+  "full_name": "cdhigh/KindleEar", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:16.234409"
+}

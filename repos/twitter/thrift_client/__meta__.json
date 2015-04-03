@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.672032", 
+  "description": "A Thrift client wrapper that encapsulates some common failover behavior", 
+  "fork": false, 
+  "full_name": "twitter/thrift_client", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T08:16:00.263836"
+}

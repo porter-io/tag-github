@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.531665", 
+  "description": "True Sublime Text style multiple selections for Vim", 
+  "fork": false, 
+  "full_name": "terryma/vim-multiple-cursors", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:43:28.489604"
+}

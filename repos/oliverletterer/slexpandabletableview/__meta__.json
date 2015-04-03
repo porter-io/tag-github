@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.059839", 
+  "description": "SLExpandableTableView is a UITableView subclass that gives you easy access to expandable and collapsable sections by just implementing a few more delegate and dataSource protocols. (iPhone, iPad, iOS)", 
+  "fork": false, 
+  "full_name": "OliverLetterer/SLExpandableTableView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:02.560498"
+}

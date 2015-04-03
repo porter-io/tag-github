@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.287336", 
+  "description": "SFTP support for the go.crypto/ssh package", 
+  "fork": false, 
+  "full_name": "pkg/sftp", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:24.592388"
+}

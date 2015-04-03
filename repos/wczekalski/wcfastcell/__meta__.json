@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.733429", 
+  "description": "A drop-in replacement for UITableViewCell and UICollectionViewCell which draws contents using CoreGraphics. Seamless integration with nibs provided.", 
+  "fork": false, 
+  "full_name": "wczekalski/WCFastCell", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:52.590998"
+}

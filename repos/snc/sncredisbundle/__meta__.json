@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.692991", 
+  "description": "A Redis bundle for Symfony2 supporting Predis and PhpRedis", 
+  "fork": false, 
+  "full_name": "snc/SncRedisBundle", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:43.983102"
+}

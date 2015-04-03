@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.583004", 
+  "description": "Functions for transforming PostgreSQL and PL/v8 into a totally awesome JSON document store", 
+  "fork": false, 
+  "full_name": "tobyhede/postsql", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:20.244346"
+}

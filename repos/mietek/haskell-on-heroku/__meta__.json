@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.061467", 
+  "description": "Buildpack for deploying Haskell apps", 
+  "fork": false, 
+  "full_name": "mietek/haskell-on-heroku", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:49.803768"
+}

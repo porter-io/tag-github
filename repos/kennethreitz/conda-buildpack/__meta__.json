@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.422060", 
+  "description": "Buildpack for Conda.", 
+  "fork": false, 
+  "full_name": "kennethreitz/conda-buildpack", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:35.132304"
+}

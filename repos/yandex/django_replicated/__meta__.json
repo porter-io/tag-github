@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.585688", 
+  "description": "Django DB router for stateful master-slave replication", 
+  "fork": false, 
+  "full_name": "yandex/django_replicated", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:01.554285"
+}

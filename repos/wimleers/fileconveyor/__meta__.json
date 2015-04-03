@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.607337", 
+  "description": "File Conveyor is a daemon written in Python to detect, process and sync files. In particular, it's designed to sync files to CDNs. Amazon S3 and Rackspace Cloud Files, as well as any Origin Pull or (S)FTP Push CDN, are supported. Originally written for my bachelor thesis at Hasselt University in Belgium. ", 
+  "fork": false, 
+  "full_name": "wimleers/fileconveyor", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:04.833313"
+}

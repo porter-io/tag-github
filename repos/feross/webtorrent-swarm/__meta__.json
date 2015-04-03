@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.610570", 
+  "description": "Simple, robust, WebTorrent \"swarm\" implementation", 
+  "fork": false, 
+  "full_name": "feross/webtorrent-swarm", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.596281"
+}

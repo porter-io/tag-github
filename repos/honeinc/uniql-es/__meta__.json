@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.820656", 
+  "description": "Produces ElasticSearch queries from UniQL ASTs.", 
+  "fork": false, 
+  "full_name": "honeinc/uniql-es", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:30.148140"
+}

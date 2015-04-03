@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.775164", 
+  "description": "Django backends for App Engine (datastore, mail, ...)", 
+  "fork": false, 
+  "full_name": "django-nonrel/djangoappengine", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:16.687976"
+}

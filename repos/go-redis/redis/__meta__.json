@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.298437", 
+  "description": "Redis client for Golang.", 
+  "fork": false, 
+  "full_name": "go-redis/redis", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:54.905683"
+}

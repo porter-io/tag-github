@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.161913", 
+  "description": "snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim. ", 
+  "fork": true, 
+  "full_name": "akitaonrails/snipmate.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T22:29:16.162792"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.613686", 
+  "description": "Like acts as state machine (aasm), but _way_ better (it's in Ruby too!)", 
+  "fork": true, 
+  "full_name": "geekq/workflow", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:20.613805"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.268890", 
+  "description": "A Framework to add convenience-stuff for easier coping with CoreLocation/MapKit on iOS. It includes a custom UIBarButtonItem mimicing the Locate-Me-Button of the built-in Google Maps App", 
+  "fork": false, 
+  "full_name": "myell0w/MTLocation", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:29:03.203238"
+}

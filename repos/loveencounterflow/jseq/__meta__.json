@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.970972", 
+  "description": "test suite for testing shallow & deep, strict equality as provided by various libraries", 
+  "fork": false, 
+  "full_name": "loveencounterflow/jseq", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:14.280598"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.372357", 
+  "description": "Ruby class that takes an iTunes Podcast URL and outputs the XML feed URL.", 
+  "fork": false, 
+  "full_name": "RLovelett/imasquerade", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:44.769644"
+}

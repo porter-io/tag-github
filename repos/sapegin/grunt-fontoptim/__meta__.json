@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.982618", 
+  "description": "Generates CSS with WOFF(2) fonts embedded as Base64", 
+  "fork": false, 
+  "full_name": "sapegin/grunt-fontoptim", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:55.463446"
+}

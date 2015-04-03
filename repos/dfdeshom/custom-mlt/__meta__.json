@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.312803", 
+  "description": "adds the ability to boost Solr mlt requests from ``MoreLikeThisHandler`` by arbitrary functions", 
+  "fork": false, 
+  "full_name": "dfdeshom/custom-mlt", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:38.220605"
+}

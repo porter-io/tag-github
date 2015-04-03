@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.502687", 
+  "description": "Plugin for Redmine to deliver room notifications.", 
+  "fork": true, 
+  "full_name": "rocodev/redmine_hipchat", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:29:22.502771"
+}

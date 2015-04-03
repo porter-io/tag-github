@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.702851", 
+  "description": "Offload tasks to a pool of workers on node.js and in the browser", 
+  "fork": false, 
+  "full_name": "josdejong/workerpool", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:41.919163"
+}

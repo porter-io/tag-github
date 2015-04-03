@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.741902", 
+  "description": "Backport of Java 8's lambda expressions to Java 7, 6 and 5", 
+  "fork": false, 
+  "full_name": "orfjackal/retrolambda", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:15.163873"
+}

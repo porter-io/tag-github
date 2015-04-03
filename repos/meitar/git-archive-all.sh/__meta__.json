@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.346690", 
+  "description": "A bash shell script wrapper for git-archive that archives a git superproject and its submodules, if it has any.", 
+  "fork": false, 
+  "full_name": "meitar/git-archive-all.sh", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:44:07.756162"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.876048", 
+  "description": "A restful comment system using modified preordered tree traversal ala. slashdot - this fork, designed to work with authenticated comments only, tries to add some useful features that big sites might need", 
+  "fork": true, 
+  "full_name": "liberation/django-mptt-comments", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:49.705685"
+}

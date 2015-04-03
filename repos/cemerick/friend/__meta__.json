@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.405152", 
+  "description": "An extensible authentication and authorization library for Clojure Ring web applications and services. ", 
+  "fork": false, 
+  "full_name": "cemerick/friend", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:23.670776"
+}

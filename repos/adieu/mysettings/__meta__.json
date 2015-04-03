@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.471947", 
+  "description": "iPhone API for displaying application settings in the iPhone application itself, instead of in the Settings app. NB: mySettings is no longer in active development.", 
+  "fork": true, 
+  "full_name": "adieu/mySettings", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T22:27:52.472113"
+}

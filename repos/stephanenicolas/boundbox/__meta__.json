@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.921033", 
+  "description": "BoundBox provides an easy way to test an object by accessing all its fields, constructor and methods, public or not. BoundBox breaks encapsulation.", 
+  "fork": false, 
+  "full_name": "stephanenicolas/boundbox", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:04.233976"
+}

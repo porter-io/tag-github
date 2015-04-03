@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.906084", 
+  "description": "Easily serialize, and deserialize data of any complexity (supports XML, JSON, YAML)", 
+  "fork": false, 
+  "full_name": "schmittjoh/JMSSerializerBundle", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:44:28.264279"
+}

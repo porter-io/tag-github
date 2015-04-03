@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.666141", 
+  "description": "Chef orchestration layer -- your system diagram come to life. Provision EC2, OpenStack or Vagrant without changes to cookbooks or configuration", 
+  "fork": false, 
+  "full_name": "infochimps-labs/ironfan", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:14.858180"
+}

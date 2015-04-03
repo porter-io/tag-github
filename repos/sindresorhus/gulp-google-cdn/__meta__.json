@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.092306", 
+  "description": "Replaces script references with Google CDN ones", 
+  "fork": false, 
+  "full_name": "sindresorhus/gulp-google-cdn", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.979730"
+}

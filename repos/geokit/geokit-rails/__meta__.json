@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.234292", 
+  "description": "Official Geokit plugin for Rails/ActiveRecord. Provides location-based goodness for your Rails app. Requires the Geokit gem.", 
+  "fork": false, 
+  "full_name": "geokit/geokit-rails", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:46.025450"
+}

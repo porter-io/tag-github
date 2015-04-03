@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.626711", 
+  "description": "WebRTC libraries, WebRTC demos, WebRTC experiments, audio, video, screen, conferencing, file sharing, screen sharing, recording, MCU, media stacks, media servers, signaling, SIP, XMPP, XHR, websockets, socket.io, websync, signalR, Translator.js, RecordRTC.js, ffmpeg.js, RTCMultiConnection.js, DataChannel.js, DetectRTC, Meeting.js, MediaRecorder, MediaStreamRecorder, SDP-Serializer, captureStreamUntilEnded, pre-recorded, media streaming, live streaming, mp3 live, desktop sharing, part of screen sharing and everything regarding webrtc i.e. realtime web!", 
+  "fork": false, 
+  "full_name": "muaz-khan/WebRTC-Experiment", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:33.241407"
+}

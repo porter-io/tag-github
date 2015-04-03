@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.761091", 
+  "description": "ActiveRecord Mixin for Safe Destroys", 
+  "fork": false, 
+  "full_name": "dockyard/ruby-destroyed_at", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:05.938826"
+}

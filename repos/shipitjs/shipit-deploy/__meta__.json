@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.007565", 
+  "description": "Set of deployment tasks for Shipit based on git and rsync commands.", 
+  "fork": false, 
+  "full_name": "shipitjs/shipit-deploy", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:11.204468"
+}

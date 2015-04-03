@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.160261", 
+  "description": "Clojure wrapper for Avro schema and serialization", 
+  "fork": false, 
+  "full_name": "asmyczek/simple-avro", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:37.908224"
+}

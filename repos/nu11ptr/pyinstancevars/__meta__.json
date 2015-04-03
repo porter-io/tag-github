@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.490306", 
+  "description": "Automatically create Python instance variables from initializer arguments using a simple decorator", 
+  "fork": false, 
+  "full_name": "nu11ptr/PyInstanceVars", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:40.498599"
+}

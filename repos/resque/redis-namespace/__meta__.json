@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.934557", 
+  "description": "This gem adds a Redis::Namespace class which can be used to namespace Redis keys.", 
+  "fork": false, 
+  "full_name": "resque/redis-namespace", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:05.695369"
+}

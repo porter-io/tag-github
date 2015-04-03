@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.108507", 
+  "description": "Lightweight, embedded, syncable NoSQL database engine for iOS (and Mac!) apps.", 
+  "fork": false, 
+  "full_name": "couchbase/couchbase-lite-ios", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:02:58.150631"
+}

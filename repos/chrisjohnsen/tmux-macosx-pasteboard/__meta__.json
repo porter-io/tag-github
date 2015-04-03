@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.897576", 
+  "description": "Notes and workarounds for accessing the Mac OS X pasteboard in tmux sessions. Note: The pu branch (\u201cProposed Updates\u201d) may be rewound without notice.", 
+  "fork": false, 
+  "full_name": "ChrisJohnsen/tmux-MacOSX-pasteboard", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:49.652242"
+}

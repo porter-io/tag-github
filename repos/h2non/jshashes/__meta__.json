@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.750476", 
+  "description": "Fast and dependency-free hashing library in pure JavaScript (ES3 compliant) for node and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD with HMAC and Base64 encoding)", 
+  "fork": false, 
+  "full_name": "h2non/jshashes", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:55.493866"
+}

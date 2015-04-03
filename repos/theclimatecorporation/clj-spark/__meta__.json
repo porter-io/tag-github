@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.521927", 
+  "description": "A Clojure api for the the Spark project (a fast, open source cluster computing system).", 
+  "fork": false, 
+  "full_name": "TheClimateCorporation/clj-spark", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:09.635102"
+}

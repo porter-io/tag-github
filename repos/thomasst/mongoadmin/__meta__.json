@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.950152", 
+  "description": "Admin interface for MongoDB built using Django and Bootstrap. Features a JSON editor written in JavaScript that supports nested JSON objects.", 
+  "fork": false, 
+  "full_name": "thomasst/mongoadmin", 
+  "language": "Java", 
+  "updated_at": "2015-03-10T07:01:55.403336"
+}

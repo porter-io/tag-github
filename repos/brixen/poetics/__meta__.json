@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.795497", 
+  "description": "The first *native* implementation of CoffeeScript on the Rubinius VM.", 
+  "fork": false, 
+  "full_name": "brixen/poetics", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:28:14.130539"
+}

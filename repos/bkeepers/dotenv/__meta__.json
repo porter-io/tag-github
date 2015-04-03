@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.554137", 
+  "description": "Loads environment variables from `.env`. ", 
+  "fork": false, 
+  "full_name": "bkeepers/dotenv", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:39.112310"
+}

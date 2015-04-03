@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.850616", 
+  "description": "A custom API for Magento that generates one-time use coupons. ", 
+  "fork": false, 
+  "full_name": "needle/CouponGenerator", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:04.136563"
+}

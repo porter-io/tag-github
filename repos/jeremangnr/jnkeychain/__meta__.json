@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.325215", 
+  "description": "Simple wrapper to store, load and delete items from the iOS Keychain. (Uses ARC)", 
+  "fork": false, 
+  "full_name": "jeremangnr/JNKeychain", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:02:11.867169"
+}

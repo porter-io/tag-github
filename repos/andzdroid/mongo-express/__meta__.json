@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.334320", 
+  "description": "Web-based MongoDB admin interface, written with Node.js and express", 
+  "fork": false, 
+  "full_name": "andzdroid/mongo-express", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:33.751081"
+}

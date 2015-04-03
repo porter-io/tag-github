@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.636115", 
+  "description": "Create and manage sbt process using unicorns and forks", 
+  "fork": false, 
+  "full_name": "sbt/sbt-remote-control", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:43:19.149387"
+}

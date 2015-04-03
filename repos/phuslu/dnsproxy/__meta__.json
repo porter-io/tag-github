@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.645755", 
+  "description": "DNS Proxy over TCP to avoid DNS poisoning", 
+  "fork": false, 
+  "full_name": "phuslu/dnsproxy", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:26.432313"
+}

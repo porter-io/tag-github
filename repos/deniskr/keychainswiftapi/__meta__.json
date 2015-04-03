@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.566596", 
+  "description": "This Keychain Swift API library is a wrapper of iOS C Keychain Framework. It allows easily and securely storing sensitive data in secure keychain store.", 
+  "fork": false, 
+  "full_name": "deniskr/KeychainSwiftAPI", 
+  "language": "Swift", 
+  "updated_at": "2015-04-01T19:31:27.647711"
+}

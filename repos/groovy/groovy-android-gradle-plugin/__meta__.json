@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.402800", 
+  "description": "A Gradle plugin to support the Groovy language for building Android apps", 
+  "fork": false, 
+  "full_name": "groovy/groovy-android-gradle-plugin", 
+  "language": "Groovy", 
+  "updated_at": "2015-02-27T23:44:03.773801"
+}

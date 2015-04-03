@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.543189", 
+  "description": "This project aims at making sure your style sheets are fully documented whilst being synchronized with your webpages styles. To do this it actually uses your live stylesheets in so that at anytime you can review how your styleguide looks.", 
+  "fork": false, 
+  "full_name": "thomasdavis/kaleistyleguide", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:09.837298"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.166623", 
+  "description": "Hacky http server providing head tracking data from the oculus rift hmd.", 
+  "fork": false, 
+  "full_name": "possan/oculus-rest", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:52.166297"
+}

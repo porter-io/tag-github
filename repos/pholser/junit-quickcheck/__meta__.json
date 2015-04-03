@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.897844", 
+  "description": "QuickCheck-style parameter suppliers for JUnit Theories", 
+  "fork": false, 
+  "full_name": "pholser/junit-quickcheck", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:20.622410"
+}

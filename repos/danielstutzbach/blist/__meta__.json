@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.066081", 
+  "description": "A list-like type with better asymptotic performance and similar performance on small lists", 
+  "fork": false, 
+  "full_name": "DanielStutzbach/blist", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:14.454051"
+}

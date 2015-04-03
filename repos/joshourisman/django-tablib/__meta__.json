@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.408881", 
+  "description": "django-tablib is a helper library for Django that allows Django models to be used to generate tablib datasets with introspection of the fields on the models if no headers are provided. If headers are provided they can reference any attribute, fields, properties, or methods on the model.", 
+  "fork": false, 
+  "full_name": "joshourisman/django-tablib", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:29.121270"
+}

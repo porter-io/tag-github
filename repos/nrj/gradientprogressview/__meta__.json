@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.915607", 
+  "description": "Animated hue progress bar using CAGradientLayer for iOS.", 
+  "fork": false, 
+  "full_name": "nrj/GradientProgressView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:53.785796"
+}

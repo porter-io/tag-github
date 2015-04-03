@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.504977", 
+  "description": "Command line tool to locally run and deploy your node.js application to Amazon Lambda", 
+  "fork": false, 
+  "full_name": "RebelMail/node-lambda", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:34.874410"
+}

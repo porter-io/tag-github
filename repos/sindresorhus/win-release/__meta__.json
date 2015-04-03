@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.761975", 
+  "description": "Get the name of a Windows version from the release number: 5.1.2600 \u2192 XP", 
+  "fork": false, 
+  "full_name": "sindresorhus/win-release", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:41.580455"
+}

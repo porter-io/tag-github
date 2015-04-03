@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.434210", 
+  "description": "This is my base template built around Zurb Foundation 5. Utilizes Bower and Grunt for task and package management. See Readme for more information.", 
+  "fork": false, 
+  "full_name": "wadehammes/base-foundation", 
+  "language": "CSS", 
+  "updated_at": "2015-02-27T23:41:36.634923"
+}

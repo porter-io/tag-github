@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.088469", 
+  "description": "JavaScript library for controlling a Mopidy music server over a WebSocket from the browser or from Node.js. This is the foundation of Mopidy web clients.", 
+  "fork": false, 
+  "full_name": "mopidy/mopidy.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:03.421523"
+}

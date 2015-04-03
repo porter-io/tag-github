@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.292503", 
+  "description": "A standalone implementation of Pushstate AJAX, for non-jquery webpages.", 
+  "fork": false, 
+  "full_name": "thybag/PJAX-Standalone", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:32.970405"
+}

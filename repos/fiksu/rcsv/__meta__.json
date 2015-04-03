@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.336409", 
+  "description": "A fast libcsv-based CSV parser for Ruby", 
+  "fork": false, 
+  "full_name": "fiksu/rcsv", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:50.047628"
+}

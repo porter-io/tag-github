@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.894251", 
+  "description": "Example setup of an Akka cluster in an Amazon EC2 AutoScaling group", 
+  "fork": false, 
+  "full_name": "chrisloy/akka-ec2", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:44:01.991497"
+}

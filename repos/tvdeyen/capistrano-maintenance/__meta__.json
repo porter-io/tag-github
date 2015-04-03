@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.417299", 
+  "description": "Offers deploy:web:disable and deploy:web:enable tasks for Capistrano.", 
+  "fork": false, 
+  "full_name": "tvdeyen/capistrano-maintenance", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:46.244831"
+}

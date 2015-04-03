@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.105591", 
+  "description": "Python module for interacting with nested dicts as a single level dict with delimited keys.", 
+  "fork": false, 
+  "full_name": "gmr/flatdict", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:19.708990"
+}

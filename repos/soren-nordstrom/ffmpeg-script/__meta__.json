@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.327816", 
+  "description": "Shell script for conversion of 16-bit WAV to 320k MP3 and FLAC with embedded album art using FFMPEG.", 
+  "fork": false, 
+  "full_name": "Soren-Nordstrom/ffmpeg-script", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:38.248777"
+}

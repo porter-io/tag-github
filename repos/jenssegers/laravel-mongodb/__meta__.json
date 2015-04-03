@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.583654", 
+  "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)", 
+  "fork": false, 
+  "full_name": "jenssegers/laravel-mongodb", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:12.571103"
+}

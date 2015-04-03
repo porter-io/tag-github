@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.932597", 
+  "description": "Project management web application with scrum in mind! Built on top of Django and AngularJS (Front)", 
+  "fork": false, 
+  "full_name": "taigaio/taiga-front", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:01:23.436517"
+}

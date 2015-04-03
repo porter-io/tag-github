@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.552902", 
+  "description": "NATS client for Go", 
+  "fork": false, 
+  "full_name": "apcera/nats", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:23.322682"
+}

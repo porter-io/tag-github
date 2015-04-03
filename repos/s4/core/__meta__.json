@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.420747", 
+  "description": "S4 is a general-purpose, distributed, scalable, partially fault-tolerant, pluggable platform that allows programmers to easily develop applications for processing continuous unbounded streams of data. ", 
+  "fork": false, 
+  "full_name": "s4/core", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:38.398446"
+}

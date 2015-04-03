@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.967698", 
+  "description": "Extends `glob` with support for multiple patterns", 
+  "fork": false, 
+  "full_name": "sindresorhus/globby", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.669636"
+}

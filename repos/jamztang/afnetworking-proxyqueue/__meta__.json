@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.352814", 
+  "description": "AFNetworking with multiple operation queue support, to separate download operations from affecting too much on main network request.", 
+  "fork": false, 
+  "full_name": "jamztang/AFNetworking-ProxyQueue", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:46.130917"
+}

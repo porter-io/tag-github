@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.897361", 
+  "description": "LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming. ", 
+  "fork": false, 
+  "full_name": "gkz/LiveScript", 
+  "language": "LiveScript", 
+  "updated_at": "2015-03-10T07:04:23.523896"
+}

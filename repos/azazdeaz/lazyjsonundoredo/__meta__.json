@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.443255", 
+  "description": "Makes a history with automatic undo/redo functionality for the specified javascript objects, using ES6 Object.observe().", 
+  "fork": false, 
+  "full_name": "azazdeaz/LazyJsonUndoRedo", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.366745"
+}

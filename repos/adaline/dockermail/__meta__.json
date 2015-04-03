@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.785152", 
+  "description": "A secure, minimal-configuration mail server in a docker container.", 
+  "fork": false, 
+  "full_name": "adaline/dockermail", 
+  "language": "Makefile", 
+  "updated_at": "2015-02-27T23:44:03.984805"
+}

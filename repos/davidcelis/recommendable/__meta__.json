@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.974152", 
+  "description": "A recommendation engine using Likes and Dislikes for your Ruby/Redis application.", 
+  "fork": false, 
+  "full_name": "davidcelis/recommendable", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:44.251597"
+}

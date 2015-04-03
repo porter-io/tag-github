@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.735915", 
+  "description": "A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change", 
+  "fork": false, 
+  "full_name": "Comcast/FreeFlow", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:03.926442"
+}

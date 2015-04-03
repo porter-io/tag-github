@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.668451", 
+  "description": "Implementation of CSP constructors (Communication Sequence Process, i.e. go-like channels) in scala", 
+  "fork": false, 
+  "full_name": "rssh/scala-gopher", 
+  "language": "Scala", 
+  "updated_at": "2015-02-28T08:41:31.091508"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:50.985599", 
+  "description": "stringify a javascript object, so it can be saved and read from a file", 
+  "fork": false, 
+  "full_name": "tgriesser/objectdump", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:54.633770"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.462645", 
+  "description": "ReactJS / Flux  Starter Kit - a skeleton for an isomorphic web application (SPA) built with Facebook's React.js library and powered by Flux architecture. It also uses ES6 Harmony, JSX, Gulp, Webpack, BrowserSync, Jest, Flow... Demo:", 
+  "fork": false, 
+  "full_name": "kriasoft/react-starter-kit", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:09.454248"
+}

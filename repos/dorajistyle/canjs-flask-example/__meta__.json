@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.972258", 
+  "description": "It's an example app using Canjs, Flask, RequireJS, Initializr, Bootstrap, JSDoc, mustache, i18next, BusterJS, Flask-SQLAlchemy,Flask-Babel,pyjade", 
+  "fork": false, 
+  "full_name": "dorajistyle/canjs-flask-example", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:03:10.975365"
+}

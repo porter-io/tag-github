@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.916694", 
+  "description": "Autoloader is a simple PHP class autoloader which is PSR-4 compliant.", 
+  "fork": false, 
+  "full_name": "mageekguy/autoloader", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:44:11.797244"
+}

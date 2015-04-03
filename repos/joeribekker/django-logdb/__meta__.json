@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.968518", 
+  "description": "Django-logdb enables you to log entries to a database, aggregate and act on  them with certain rules, and gives you more insight in what's going on.", 
+  "fork": false, 
+  "full_name": "joeribekker/django-logdb", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:16.896461"
+}

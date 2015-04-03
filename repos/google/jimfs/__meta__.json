@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.282182", 
+  "description": "An in-memory file system for Java 7+", 
+  "fork": false, 
+  "full_name": "google/jimfs", 
+  "language": "Java", 
+  "updated_at": "2015-03-10T07:52:23.045192"
+}

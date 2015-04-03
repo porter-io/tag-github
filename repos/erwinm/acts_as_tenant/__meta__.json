@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.833590", 
+  "description": "Easy multi-tenancy for Rails in a shared database setup", 
+  "fork": false, 
+  "full_name": "ErwinM/acts_as_tenant", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:33.414693"
+}

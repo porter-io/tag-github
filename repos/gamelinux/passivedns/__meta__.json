@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.124820", 
+  "description": "A network sniffer that logs all DNS server replies for use in a passive DNS setup", 
+  "fork": false, 
+  "full_name": "gamelinux/passivedns", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:34.817221"
+}

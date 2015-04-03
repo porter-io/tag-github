@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.128542", 
+  "description": "Tokeninput is a jQuery plugin which allows your users to select multiple items from a predefined list, using autocompletion as they type to find each item. You may have seen a similar type of text entry when filling in the recipients field sending messages on facebook.", 
+  "fork": false, 
+  "full_name": "loopj/jquery-tokeninput", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:37.856628"
+}

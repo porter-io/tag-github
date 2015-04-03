@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.743087", 
+  "description": "A polyfill for CSS units vw, vh & vmin and now some media queries to boot. Works in IE5.5 and Opera Mini", 
+  "fork": false, 
+  "full_name": "saabi/vminpoly", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:28:44.873383"
+}

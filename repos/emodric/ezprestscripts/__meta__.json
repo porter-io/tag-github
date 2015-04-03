@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.741911", 
+  "description": "Just a collection of scripts to help test the REST API v2 for eZ Publish 5", 
+  "fork": false, 
+  "full_name": "emodric/ezpRestScripts", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:19.038952"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.689114", 
+  "description": "A clone of Quartz Chartbuilder, with angular and d3 for modular building of chart types", 
+  "fork": false, 
+  "full_name": "dmachat/angularjs-d3-chartbuilder", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:50.722692"
+}

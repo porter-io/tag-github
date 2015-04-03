@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.790542", 
+  "description": "A minimal skeleton for doing Bottle apps in a structured fashion (targeting Python 2.7 or above)", 
+  "fork": false, 
+  "full_name": "rcarmo/ink-bottle", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:03:24.607934"
+}

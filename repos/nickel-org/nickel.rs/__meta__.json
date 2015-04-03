@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.055573", 
+  "description": "An expressjs inspired web framework for Rust", 
+  "fork": false, 
+  "full_name": "nickel-org/nickel.rs", 
+  "language": "Rust", 
+  "updated_at": "2015-04-01T19:28:58.450419"
+}

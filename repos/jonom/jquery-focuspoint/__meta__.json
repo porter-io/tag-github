@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.777742", 
+  "description": "jQuery plugin for 'responsive cropping'. Dynamically crop images to fill available space without cutting out the image's subject. Great for full-screen images.", 
+  "fork": false, 
+  "full_name": "jonom/jquery-focuspoint", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.765677"
+}

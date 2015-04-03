@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.059629", 
+  "description": "PyChecker is a static analysis tool for finding bugs in Python source code. It finds problems that are typically caught by a compiler for less dynamic languages, like C and C++. It is similar to lint. This is my mirror/fork of the SourceForge CVS repository.", 
+  "fork": false, 
+  "full_name": "akaihola/PyChecker", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:26.124899"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.976573", 
+  "description": "Sane and multilingual singularization/pluralization rules for ActiveSupport and Rails.", 
+  "fork": false, 
+  "full_name": "davidcelis/inflections", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:44.254169"
+}

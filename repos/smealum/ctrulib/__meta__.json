@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.841355", 
+  "description": "C library for writing user mode arm11 code for the 3DS (CTR)", 
+  "fork": false, 
+  "full_name": "smealum/ctrulib", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:37.493161"
+}

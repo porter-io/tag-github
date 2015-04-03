@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.089734", 
+  "description": "An XCode project template to build universal frameworks (arm7, arm7s, and simulator) for iOS / iPhone.", 
+  "fork": false, 
+  "full_name": "kstenerud/iOS-Universal-Framework", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:28:25.205918"
+}

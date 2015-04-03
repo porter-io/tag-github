@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.892556", 
+  "description": "Reactive type-safe Scala DSL for Cassandra", 
+  "fork": false, 
+  "full_name": "websudos/phantom", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:44:04.093631"
+}

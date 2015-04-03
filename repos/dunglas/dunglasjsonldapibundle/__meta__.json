@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.729004", 
+  "description": "JSON-LD and Hydra REST API generator for Symfony", 
+  "fork": false, 
+  "full_name": "dunglas/DunglasJsonLdApiBundle", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:40.699791"
+}

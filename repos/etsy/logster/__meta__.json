@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.614309", 
+  "description": "Parse log files, generate metrics for Graphite and Ganglia", 
+  "fork": false, 
+  "full_name": "etsy/logster", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:26.390572"
+}

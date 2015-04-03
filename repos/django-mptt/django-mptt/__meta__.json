@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.756712", 
+  "description": "Utilities for implementing a modified pre-order traversal tree in django.", 
+  "fork": false, 
+  "full_name": "django-mptt/django-mptt", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:27.826002"
+}

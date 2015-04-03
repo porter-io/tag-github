@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.222480", 
+  "description": "Gevent-based Socket.IO integration layer for Pyramid", 
+  "fork": false, 
+  "full_name": "abourget/pyramid_socketio", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:34.934106"
+}

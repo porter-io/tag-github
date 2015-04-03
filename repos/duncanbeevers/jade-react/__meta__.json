@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.490369", 
+  "description": "Compile Jade templates to React.DOM expressions", 
+  "fork": false, 
+  "full_name": "duncanbeevers/jade-react", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:50.210951"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.518198", 
+  "description": "Helps developers maintain consistent coding styles between different editors", 
+  "fork": false, 
+  "full_name": "sindresorhus/atom-editorconfig", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:44:16.686130"
+}

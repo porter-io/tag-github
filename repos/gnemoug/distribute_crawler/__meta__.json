@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.293748", 
+  "description": "\u4f7f\u7528scrapy,redis, mongodb,graphite\u5b9e\u73b0\u7684\u4e00\u4e2a\u5206\u5e03\u5f0f\u7f51\u7edc\u722c\u866b,\u5e95\u5c42\u5b58\u50a8mongodb\u96c6\u7fa4,\u5206\u5e03\u5f0f\u4f7f\u7528redis\u5b9e\u73b0,\u722c\u866b\u72b6\u6001\u663e\u793a\u4f7f\u7528graphite\u5b9e\u73b0", 
+  "fork": false, 
+  "full_name": "gnemoug/distribute_crawler", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:07.626661"
+}

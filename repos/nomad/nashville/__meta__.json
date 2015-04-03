@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.384016", 
+  "description": "A wrapper and command line interface for querying the iTunes Store API", 
+  "fork": false, 
+  "full_name": "nomad/nashville", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:07.597910"
+}

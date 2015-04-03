@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.591225", 
+  "description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to http://core.trac.wordpress.org/ instead.", 
+  "fork": false, 
+  "full_name": "WordPress/WordPress", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T06:07:09.762268"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.569025", 
+  "description": "This is a simple example of how send MQTT messages using PHP", 
+  "fork": false, 
+  "full_name": "tokudu/PhpMQTTClient", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:55.341197"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.976692", 
+  "description": "The source code for MapRejuice, the distributed client-side computing implementation of Map Reduce built on top of Node.js for the Node Knockout competition in 2010. Built over 48 hours, code is not perfect and hasn't been touched since. Feel free to peruse though!", 
+  "fork": true, 
+  "full_name": "ryanmcgrath/maprejuice", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:27:55.976823"
+}

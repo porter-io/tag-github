@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.697566", 
+  "description": "User authentication with email addresses instead of usernames.  ", 
+  "fork": false, 
+  "full_name": "dabapps/django-email-as-username", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:00.494632"
+}

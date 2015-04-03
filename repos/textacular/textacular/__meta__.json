@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.338909", 
+  "description": "Textacular exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacularwill extend ActiveRecord with named_scope methods making searching easy and fun! ", 
+  "fork": false, 
+  "full_name": "textacular/textacular", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:55.032282"
+}

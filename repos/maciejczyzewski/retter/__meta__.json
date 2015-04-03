@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.378965", 
+  "description": "A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography. :closed_lock_with_key:", 
+  "fork": false, 
+  "full_name": "maciejczyzewski/retter", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:09.577747"
+}

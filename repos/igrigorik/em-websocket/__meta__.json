@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.682474", 
+  "description": "EventMachine based WebSocket server", 
+  "fork": false, 
+  "full_name": "igrigorik/em-websocket", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:26.470048"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.933926", 
+  "description": "A clojure wrapper for Stanford CoreNLP package based on stan-cn-nlp Java wrapper for Simplified Chinese users", 
+  "fork": false, 
+  "full_name": "guokr/clj-cn-nlp", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:28.342328"
+}

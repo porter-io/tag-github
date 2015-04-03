@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.550061", 
+  "description": "A Java-based statically-typed fast template engine that can be used in any Java code. It has special adapter for use with the Play! Framework. ", 
+  "fork": false, 
+  "full_name": "branaway/Japid", 
+  "language": "Java", 
+  "updated_at": "2015-04-01T19:30:09.333487"
+}

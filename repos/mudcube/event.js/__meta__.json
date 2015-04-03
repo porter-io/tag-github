@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.967047", 
+  "description": "Multi-touch, gestures, and other events\u2014click, dblclick, dbltap, tap, longpress, drag, swipe, pinch, rotate, shake. For pointer events, each listener can handle anywhere from 1 to 12 fingers at a time, or more, depending on the device. Includes MetaKey tracking (CMD, CTRL) to support native key-commands in various platforms.", 
+  "fork": false, 
+  "full_name": "mudcube/Event.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:00.887608"
+}

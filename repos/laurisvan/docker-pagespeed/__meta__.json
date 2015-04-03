@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.572544", 
+  "description": "Sample Dockerfile and Nginx configuration to run nginx + ngx_pagespeed.", 
+  "fork": false, 
+  "full_name": "laurisvan/docker-pagespeed", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:33.191167"
+}

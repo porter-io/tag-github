@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.340207", 
+  "description": "Open source drivers for the Kinect for Windows v2 device", 
+  "fork": false, 
+  "full_name": "OpenKinect/libfreenect2", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:02:34.796093"
+}

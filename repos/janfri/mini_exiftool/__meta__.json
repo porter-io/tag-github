@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.874185", 
+  "description": "This library is a wrapper for the Exiftool command-line application (http://www.sno.phy.queensu.ca/~phil/exiftool/) written by Phil Harvey. You will get the full power of Exiftool to Ruby: Reading and writing of EXIF-data, IPTC-data and XMP-data. Branch master is for actual development and branch compatibility-version is for compatibility with Ruby 1.8 and exiftool versions prior 7.65.", 
+  "fork": false, 
+  "full_name": "janfri/mini_exiftool", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:15.215272"
+}

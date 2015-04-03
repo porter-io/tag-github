@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.366180", 
+  "description": " An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript? 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs.", 
+  "fork": false, 
+  "full_name": "mikechambers/as3corelib", 
+  "language": "ActionScript", 
+  "updated_at": "2015-02-27T23:41:53.238371"
+}

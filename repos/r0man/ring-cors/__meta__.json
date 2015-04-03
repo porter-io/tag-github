@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.144250", 
+  "description": "Ring middleware for Cross-Origin Resource Sharing.", 
+  "fork": false, 
+  "full_name": "r0man/ring-cors", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:37.687417"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.216535", 
+  "description": "Tool to easily start up an IPython cluster on different schedulers.", 
+  "fork": false, 
+  "full_name": "roryk/ipython-cluster-helper", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:37.749447"
+}

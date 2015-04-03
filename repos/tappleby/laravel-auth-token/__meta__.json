@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.121803", 
+  "description": "Hooks into the laravel auth module and provides an auth token upon success. This token is really only secure in https environment. This main purpose for this module was to provide an auth token to javascript web app which could be used to identify users on api calls.", 
+  "fork": false, 
+  "full_name": "tappleby/laravel-auth-token", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:03:15.625932"
+}

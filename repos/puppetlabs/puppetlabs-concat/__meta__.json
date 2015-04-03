@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.827324", 
+  "description": "File concatenation system for Puppet", 
+  "fork": false, 
+  "full_name": "puppetlabs/puppetlabs-concat", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:21.516482"
+}

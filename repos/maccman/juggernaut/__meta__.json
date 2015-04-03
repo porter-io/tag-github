@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:50.292582", 
+  "description": "[DEPRECATED] Realtime server push with node.js, WebSockets and Comet", 
+  "fork": false, 
+  "full_name": "maccman/juggernaut", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:29:31.144971"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.653030", 
+  "description": "Restart process when files change - reload node.js automatically", 
+  "fork": false, 
+  "full_name": "aaronblohowiak/restartr", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:19.723994"
+}

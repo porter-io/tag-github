@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.276047", 
+  "description": "Docker Image with Openresty, redis and luarocks", 
+  "fork": false, 
+  "full_name": "3scale/docker-openresty", 
+  "language": "Makefile", 
+  "updated_at": "2015-02-27T23:44:10.874971"
+}

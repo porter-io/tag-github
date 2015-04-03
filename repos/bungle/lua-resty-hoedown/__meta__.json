@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.484042", 
+  "description": "LuaJIT FFI bindings to Hoedown, a standards compliant, fast, secure markdown processing library in C.", 
+  "fork": false, 
+  "full_name": "bungle/lua-resty-hoedown", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:42:12.497118"
+}

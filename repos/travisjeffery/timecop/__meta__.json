@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.908365", 
+  "description": "A gem providing \"time travel\", \"time freezing\", and \"time acceleration\" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.", 
+  "fork": false, 
+  "full_name": "travisjeffery/timecop", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:30.500375"
+}

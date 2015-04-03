@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.771425", 
+  "description": "Core emoncms bundle: includes: input, feed, dashboard, vis", 
+  "fork": false, 
+  "full_name": "emoncms/emoncms", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:08.026112"
+}

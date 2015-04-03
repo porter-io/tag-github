@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.851178", 
+  "description": "Grunt task for running an Express Server that works great with LiveReload + Watch/Regarde", 
+  "fork": false, 
+  "full_name": "ericclemmons/grunt-express-server", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:11.374957"
+}

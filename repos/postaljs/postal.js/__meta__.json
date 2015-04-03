@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.950105", 
+  "description": "JavaScript pub/sub library supporting some advanced subscription features, plus message capture and replay", 
+  "fork": false, 
+  "full_name": "postaljs/postal.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:30.171628"
+}

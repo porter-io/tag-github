@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:27:45.182247", 
+  "description": "This Google Cast demo application shows how to send messages from an Chrome desktop browser to a receiver using a custom namespace. ", 
+  "fork": false, 
+  "full_name": "googlecast/CastHelloText-chrome", 
+  "updated_at": "2015-02-27T23:41:49.564791"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.348144", 
+  "description": "A window manager that makes working with UIWindow objects easily using an API similar to the UIViewController modal presentation API.", 
+  "fork": false, 
+  "full_name": "LeoNatan/LNWindowManager", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:03.995639"
+}

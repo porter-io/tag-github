@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.973853", 
+  "description": "An iOS and OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.", 
+  "fork": false, 
+  "full_name": "syedhali/EZAudio", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:30:25.585768"
+}

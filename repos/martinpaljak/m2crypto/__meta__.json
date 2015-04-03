@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.662635", 
+  "description": "M2Crypto for 2013+: Python 2.6+, OpenSSL 0.9.8+, SWIG 2.0+, modern POSIX or Windows Vista+", 
+  "fork": false, 
+  "full_name": "martinpaljak/M2Crypto", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:01:09.849689"
+}

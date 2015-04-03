@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.140643", 
+  "description": "Pre-defined set of CSS3 transformation which can be used with ng-view, ui-view, ng-repeat, ng-show, ng-hide. Both the 1.1.5 and 1.2.0 APIs are supported.", 
+  "fork": false, 
+  "full_name": "mgechev/angular-transitions", 
+  "language": "CSS", 
+  "updated_at": "2015-02-27T23:42:03.519635"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.488427", 
+  "description": "Convert an absolute path to tilde path: /Users/sindresorhus/dev => ~/dev", 
+  "fork": false, 
+  "full_name": "sindresorhus/tildify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:19.177955"
+}

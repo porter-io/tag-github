@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.310205", 
+  "description": "Create and load persistent GitHub authentication tokens for command-line apps", 
+  "fork": false, 
+  "full_name": "rvagg/ghauth", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:18.273382"
+}

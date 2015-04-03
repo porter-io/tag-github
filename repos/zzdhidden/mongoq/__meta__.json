@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.911987", 
+  "description": "Use mongoDB like this: mongoq('mongodb://localhost/db').collection('users').find().toArray(function(error, docs){});", 
+  "fork": false, 
+  "full_name": "zzdhidden/mongoq", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:26.536239"
+}

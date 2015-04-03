@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.381671", 
+  "description": "RSS/ATOM feed parser that returns the requested feed urls in a simple json object", 
+  "fork": false, 
+  "full_name": "tk120404/node-rssparser", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:10.916274"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.262981", 
+  "description": "Allows you to add multiple view controllers and have them scroll horizontally, with a header scroller that stays in sync with the content and shows next, current and previous items. A zoom out effect appears as you scroll between pages. Similar in style to the Groupon app.", 
+  "fork": false, 
+  "full_name": "TomThorpe/UIScrollSlidingPages", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:40.177405"
+}

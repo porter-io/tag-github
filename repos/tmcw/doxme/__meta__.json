@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:11.388453", 
+  "description": "A Markdown formatter for dox. Takes dox's JSON output as stdin and writes Markdown to stdout.", 
+  "fork": false, 
+  "full_name": "tmcw/doxme", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:03.754609"
+}

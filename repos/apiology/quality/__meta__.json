@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.541315", 
+  "description": "Quality is a tool that runs quality checks on Ruby code using rubocop, cane, reek, flog and flay, and makes sure your numbers don't get any worse over time.  Just add 'rake quality' as part of your Continuous Integration.", 
+  "fork": false, 
+  "full_name": "apiology/quality", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:17.435092"
+}

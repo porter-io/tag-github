@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.654278", 
+  "description": "A tool to help generate EPUB file from HTML file.", 
+  "fork": false, 
+  "full_name": "localvar/makeepub", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:48.211959"
+}

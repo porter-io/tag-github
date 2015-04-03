@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.660080", 
+  "description": "ES6 6to5 & SystemJS Boilerplate (production ready, without traceur)", 
+  "fork": false, 
+  "full_name": "weiland/es6-6to5-systemjs-boilerplate", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:21.367156"
+}

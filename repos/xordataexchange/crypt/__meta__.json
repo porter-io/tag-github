@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.588916", 
+  "description": "Store and retrieve encrypted configs from etcd or consul", 
+  "fork": false, 
+  "full_name": "xordataexchange/crypt", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:59.643558"
+}

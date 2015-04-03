@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.676719", 
+  "description": "Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models.", 
+  "fork": false, 
+  "full_name": "collectiveidea/audited", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:16.949467"
+}

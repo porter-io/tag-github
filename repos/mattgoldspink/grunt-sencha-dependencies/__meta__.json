@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.219873", 
+  "description": "Grunt task to get the list of Ext.require dependencies in your application", 
+  "fork": false, 
+  "full_name": "mattgoldspink/grunt-sencha-dependencies", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:08.983004"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.424684", 
+  "description": "A type safe SQL template library for C++", 
+  "fork": false, 
+  "full_name": "rbock/sqlpp11", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:00:57.104612"
+}

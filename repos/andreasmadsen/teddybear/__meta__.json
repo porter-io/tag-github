@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.258432", 
+  "description": "blocks the event loop in node.js without draining your cpu", 
+  "fork": false, 
+  "full_name": "AndreasMadsen/teddybear", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:01:20.628541"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.719758", 
+  "description": "A Python Slack bot framework using asyncio and Slack's Real Time Messaging API", 
+  "fork": false, 
+  "full_name": "sunlightlabs/butterfield", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:30:56.850450"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.520189", 
+  "description": "AngularJS directive that adds support for multi touch gestures to your app. Based on hammer.js.", 
+  "fork": false, 
+  "full_name": "wzr1337/angular-gestures", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:50.234731"
+}

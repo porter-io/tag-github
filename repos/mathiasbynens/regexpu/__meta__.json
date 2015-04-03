@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.592393", 
+  "description": "A source code transpiler that enables the use of ES6 Unicode regular expressions in ES5.", 
+  "fork": false, 
+  "full_name": "mathiasbynens/regexpu", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:14.821044"
+}

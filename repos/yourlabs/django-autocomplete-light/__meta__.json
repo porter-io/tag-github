@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.386653", 
+  "description": "A fresh approach to autocomplete implementations, specially for Django. It supports templated autocompletes, foreign key, many to many, generic foreign key, generic many to many, autocompletes that depend on each other, etc, etc ... Status: 2.x.x stable, 1.x.x deprecated.", 
+  "fork": false, 
+  "full_name": "yourlabs/django-autocomplete-light", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:31:30.230116"
+}

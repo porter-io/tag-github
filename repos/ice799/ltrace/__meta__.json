@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.458673", 
+  "description": "ltrace intercepts and records dynamic library calls which are called by an executed process and the signals received by that process. It can also intercept and print the system calls executed by the program.", 
+  "fork": false, 
+  "full_name": "ice799/ltrace", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:10.653156"
+}

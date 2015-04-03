@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.084839", 
+  "description": "jquery.hotkeys plugin lets you easily add and remove handlers for keyboard events anywhere in your code supporting almost any key combination. It takes one line of code to bind/unbind a hot key combination", 
+  "fork": false, 
+  "full_name": "tzuryby/jquery.hotkeys", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:50.203236"
+}

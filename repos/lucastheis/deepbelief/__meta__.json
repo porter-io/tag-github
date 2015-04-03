@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.756656", 
+  "description": "Code for training and evaluating restricted Boltzmann machines (RBMs) and deep belief networks (DBNs).", 
+  "fork": false, 
+  "full_name": "lucastheis/deepbelief", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:09.371980"
+}

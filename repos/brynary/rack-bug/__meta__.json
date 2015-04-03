@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.551596", 
+  "description": "Debugging toolbar for Rack applications implemented as middleware", 
+  "fork": false, 
+  "full_name": "brynary/rack-bug", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:20.194954"
+}

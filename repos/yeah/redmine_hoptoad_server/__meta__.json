@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.590397", 
+  "description": "This plugin turns Redmine (http://redmine.org) into an Airbrake (formerly known as Hoptoad) server, i.e. an API provider which can be used with the Airbrake gem (as well as the deprecated hoptoad_notifier) which is available at: http://airbrake.io/.", 
+  "fork": false, 
+  "full_name": "yeah/redmine_hoptoad_server", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:31:54.995228"
+}

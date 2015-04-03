@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.765136", 
+  "description": "An workflow for Alfred to create Gists from your clipboard contents or selected file(s).", 
+  "fork": false, 
+  "full_name": "phallstrom/AlfredGist", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:32.102362"
+}

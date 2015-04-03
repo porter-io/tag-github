@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.293908", 
+  "description": "A variable length record, checksumming, append only rotating log implementation with graceful recovery", 
+  "fork": false, 
+  "full_name": "fusesource/hawtjournal", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:30.742653"
+}

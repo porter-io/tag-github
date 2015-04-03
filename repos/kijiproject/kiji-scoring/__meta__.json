@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.874419", 
+  "description": "A module for applying trained models to score Kiji entities in real-time.", 
+  "fork": false, 
+  "full_name": "kijiproject/kiji-scoring", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:32.653697"
+}

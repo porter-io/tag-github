@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.376446", 
+  "description": "Expose your flows without laying so much `.pipe()`.", 
+  "fork": false, 
+  "full_name": "blakelapierre/gulp-pipe", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.254604"
+}

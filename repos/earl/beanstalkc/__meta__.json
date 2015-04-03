@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.448372", 
+  "description": "A simple beanstalkd client library for Python", 
+  "fork": false, 
+  "full_name": "earl/beanstalkc", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:22.140639"
+}

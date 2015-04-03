@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.585006", 
+  "description": "Measure the difference between two strings with the fastest JS implementation of the Levenshtein distance algorithm", 
+  "fork": false, 
+  "full_name": "sindresorhus/leven", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.870477"
+}

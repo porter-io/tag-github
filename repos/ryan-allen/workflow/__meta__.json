@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.728393", 
+  "description": "A Ruby state machine library, like assm / acts_as_state_machine, but with a nicer, more sensible API (in my opinion).", 
+  "fork": false, 
+  "full_name": "ryan-allen/workflow", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:24.420707"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.565790", 
+  "description": "Python/JavaScript bridge module, making use of Mozilla's spidermonkey JavaScript implementation.", 
+  "fork": false, 
+  "full_name": "davisp/python-spidermonkey", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:01:11.300070"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:50.133669", 
+  "description": "Set docker options for dokku (https://github.com/progrium/dokku)", 
+  "fork": false, 
+  "full_name": "dyson/dokku-docker-options", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:53.976142"
+}

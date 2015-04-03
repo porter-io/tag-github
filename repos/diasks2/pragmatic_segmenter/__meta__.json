@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.286213", 
+  "description": "Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.", 
+  "fork": false, 
+  "full_name": "diasks2/pragmatic_segmenter", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:22.298983"
+}

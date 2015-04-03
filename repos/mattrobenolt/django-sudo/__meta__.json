@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.108194", 
+  "description": "Extra security for your sensitive pages", 
+  "fork": false, 
+  "full_name": "mattrobenolt/django-sudo", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:37.813948"
+}

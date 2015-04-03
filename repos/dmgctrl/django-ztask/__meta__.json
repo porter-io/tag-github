@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.900319", 
+  "description": "A simple framework for backgrounding tasks with Django, built on top of ZeroMQ.", 
+  "fork": false, 
+  "full_name": "dmgctrl/django-ztask", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:28:14.314116"
+}

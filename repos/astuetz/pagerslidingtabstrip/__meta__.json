@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.290887", 
+  "description": "An interactive indicator to navigate between the different pages of a ViewPager", 
+  "fork": false, 
+  "full_name": "astuetz/PagerSlidingTabStrip", 
+  "language": "Java", 
+  "updated_at": "2015-03-10T14:34:24.389584"
+}

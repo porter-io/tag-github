@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.528018", 
+  "description": "Adds an option to IntelliJ to import drawables in different resolutions from AndroidIcons, own \"drawable repos\" and scale a certain image down/up to the defined resolutions.", 
+  "fork": false, 
+  "full_name": "winterDroid/android-drawable-importer-intellij-plugin", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:13.036442"
+}

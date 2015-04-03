@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.609537", 
+  "description": "A collection of tools that interact with reddit's API providing moderator utilities, subreddit statistics, and keyword alerts.", 
+  "fork": false, 
+  "full_name": "praw-dev/prawtools", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:38.046883"
+}

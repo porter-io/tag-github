@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.106705", 
+  "description": "(MOVED TO C42/wrest) A fluent, easy-to-use, object oriented Ruby HTTP/REST client library with support RFC2616 HTTP caching and async calls that runs on CRuby, JRuby and rbx.", 
+  "fork": true, 
+  "full_name": "kaiwren/wrest", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:27:39.106756"
+}

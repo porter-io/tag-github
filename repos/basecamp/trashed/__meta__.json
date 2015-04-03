@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.472271", 
+  "description": "Tell StatsD about request time, GC, objects and more. Latest Rails 4 and Ruby 2.1 support, and ancient Rails 2 and Ruby 1.8 support.", 
+  "fork": false, 
+  "full_name": "basecamp/trashed", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:23.116793"
+}

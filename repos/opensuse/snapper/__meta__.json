@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.593842", 
+  "description": "Manage filesystem snapshots and allow undo of system modifications", 
+  "fork": false, 
+  "full_name": "openSUSE/snapper", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:04.703288"
+}

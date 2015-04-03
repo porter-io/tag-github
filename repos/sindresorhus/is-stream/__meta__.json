@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.233895", 
+  "description": "Check if something is a Node.js stream", 
+  "fork": false, 
+  "full_name": "sindresorhus/is-stream", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:15.779211"
+}

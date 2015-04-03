@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.836586", 
+  "description": "Lamer News -- an HN style social news site written in Ruby/Sinatra/Redis/JQuery", 
+  "fork": false, 
+  "full_name": "antirez/lamernews", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:52.678884"
+}

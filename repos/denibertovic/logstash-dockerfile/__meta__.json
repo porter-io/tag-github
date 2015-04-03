@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.102083", 
+  "description": "Dockerfile for building Logstash", 
+  "fork": false, 
+  "full_name": "denibertovic/logstash-dockerfile", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:14.244328"
+}

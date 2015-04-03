@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.434141", 
+  "description": "JSON query and mutation library. It traverses a tree structure in post-order (leaves first, root last), across objects and arrays, returning the nodes which match the partial structure passed in the query, as well as allowing you to mutate or replace matched nodes.", 
+  "fork": false, 
+  "full_name": "idevelop/treeql", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:40.406300"
+}

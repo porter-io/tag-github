@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.210791", 
+  "description": "A highly efficient and modular mail delivery framework for Python 2.6+ and 3.1+, formerly TurboMail.", 
+  "fork": false, 
+  "full_name": "marrow/marrow.mailer", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:31:40.083685"
+}

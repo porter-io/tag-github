@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.744583", 
+  "description": "An alternative to accepts_nested_attributes_for that doesn't tightly couple your view to your model", 
+  "fork": false, 
+  "full_name": "ClearFit/redtape", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:40.744751"
+}

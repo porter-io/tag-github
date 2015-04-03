@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.397427", 
+  "description": "Streisand sets up a new server running L2TP/IPsec, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, and a Tor bridge. It also generates custom configuration instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.", 
+  "fork": false, 
+  "full_name": "jlund/streisand", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:44:30.824716"
+}

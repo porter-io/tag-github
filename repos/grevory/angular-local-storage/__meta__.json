@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.593794", 
+  "description": "An AngularJS module that gives you access to the browsers local storage with cookie fallback", 
+  "fork": false, 
+  "full_name": "grevory/angular-local-storage", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:11.121288"
+}

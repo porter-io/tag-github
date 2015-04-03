@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.096430", 
+  "description": "A collection of Chef plugins for managing the migration of cookbooks to environments in different Opscode organizations. The main reason for having a workflow around the development and promotion of cookbooks is to ensure quality, reliability and administrative security of the process.", 
+  "fork": false, 
+  "full_name": "mdsol/knife-flow", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:36.311689"
+}

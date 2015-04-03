@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.935078", 
+  "description": "Javascript Library to create scrollable table with infinite rows and columns.", 
+  "fork": false, 
+  "full_name": "fulmicoton/fattable", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:03:34.930917"
+}

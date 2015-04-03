@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.286566", 
+  "description": "Ruby's net/http is setup to never verify SSL certificates by default. Most ruby libraries do the same. That means that you're not verifying the identity of the server you're communicating with and are therefore exposed to man in the middle attacks. This gem monkey-patches net/http to force certificate verification and make turning it off impossible. ", 
+  "fork": false, 
+  "full_name": "jamesgolick/always_verify_ssl_certificates", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:02.662676"
+}

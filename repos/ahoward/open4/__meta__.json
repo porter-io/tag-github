@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.384741", 
+  "description": "open child process with handles on pid, stdin, stdout, and stderr: manage child processes and their io handles easily.", 
+  "fork": false, 
+  "full_name": "ahoward/open4", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:38.344740"
+}

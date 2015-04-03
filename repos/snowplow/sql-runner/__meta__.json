@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.842243", 
+  "description": "Run templatable playbooks of SQL scripts in series and parallel on Redshift and Postgres", 
+  "fork": false, 
+  "full_name": "snowplow/sql-runner", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:01:24.585910"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.496017", 
+  "description": "A platform to create a scale-able and container-less application.  The platform is built on OSGi, Vertx.io, Cassandra, Ehcache, SOLR, Spring data, LMAX disruptor and Quartz. ", 
+  "fork": false, 
+  "full_name": "mcraken/platform", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:20.112779"
+}

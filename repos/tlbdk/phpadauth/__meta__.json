@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.228295", 
+  "description": "PHP code to authentication against Active Directory for use with apache mod-auth-external", 
+  "fork": false, 
+  "full_name": "tlbdk/phpadauth", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:25.959496"
+}

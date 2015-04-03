@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.465175", 
+  "description": "Collection of Ansible playbooks to quickly install up todate Linux packages", 
+  "fork": false, 
+  "full_name": "martinrusev/edgium", 
+  "language": "Makefile", 
+  "updated_at": "2015-02-27T23:44:04.818097"
+}

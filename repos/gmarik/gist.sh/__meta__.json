@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.161026", 
+  "description": "Bash shell script for getting/posting code snippets (gists) from/to https://gist.github.com", 
+  "fork": false, 
+  "full_name": "gmarik/gist.sh", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:47.712749"
+}

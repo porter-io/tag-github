@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.378380", 
+  "description": "A set of vim, zsh, git, and tmux configuration files.", 
+  "fork": false, 
+  "full_name": "thoughtbot/dotfiles", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:49.714858"
+}

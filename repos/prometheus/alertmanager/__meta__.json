@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.566229", 
+  "description": "Prometheus Alertmanager", 
+  "fork": false, 
+  "full_name": "prometheus/alertmanager", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:35.049397"
+}

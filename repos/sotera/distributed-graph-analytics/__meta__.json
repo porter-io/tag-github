@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.492268", 
+  "description": "Distributed Graph Analytics (DGA) is a compendium of graph analytics written for Bulk-Synchronous-Parallel (BSP) processing frameworks such as Giraph and GraphX. The analytics included are High Betweenness Set Extraction, Weakly Connected Components, Page Rank, Leaf Compression, and Louvain Modularity.", 
+  "fork": false, 
+  "full_name": "Sotera/distributed-graph-analytics", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:23.810454"
+}

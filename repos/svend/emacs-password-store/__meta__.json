@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.335213", 
+  "description": "Password store (pass) support for Emacs", 
+  "fork": false, 
+  "full_name": "svend/emacs-password-store", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:41:39.200974"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.563808", 
+  "description": "A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk", 
+  "fork": false, 
+  "full_name": "cthackers/adm-zip", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:37.912223"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.459680", 
+  "description": "Binding to libsodium 0.6.1+, a shared library wrapper for djb's NaCl", 
+  "fork": false, 
+  "full_name": "dsheets/ocaml-sodium", 
+  "language": "OCaml", 
+  "updated_at": "2015-02-27T23:42:15.168341"
+}

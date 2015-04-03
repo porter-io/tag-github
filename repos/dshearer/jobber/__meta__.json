@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.893359", 
+  "description": "A replacement for cron, with sophisticated status-reporting and error-handling.", 
+  "fork": false, 
+  "full_name": "dshearer/jobber", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:29.558770"
+}

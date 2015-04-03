@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.398568", 
+  "description": "Namespace all imported modules rather than polluting the global namespace.", 
+  "fork": false, 
+  "full_name": "andrew/module_import", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:29.096777"
+}

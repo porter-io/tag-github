@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.429340", 
+  "description": "A Grunt plugin to help bind Grunt tasks to Git hooks", 
+  "fork": false, 
+  "full_name": "wecodemore/grunt-githooks", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:45.483158"
+}

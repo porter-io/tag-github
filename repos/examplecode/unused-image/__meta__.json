@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.950361", 
+  "description": "This is shell script used to check and clean unused image resource , support Android and IOS project", 
+  "fork": false, 
+  "full_name": "examplecode/unused-image", 
+  "language": "Shell", 
+  "updated_at": "2015-03-10T07:04:08.112645"
+}

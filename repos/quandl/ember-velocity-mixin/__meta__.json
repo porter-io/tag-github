@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.101554", 
+  "description": "Ember Mixin for Velocity.js library, provides View#css & View#animate methods", 
+  "fork": false, 
+  "full_name": "quandl/ember-velocity-mixin", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:42.501947"
+}

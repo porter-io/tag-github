@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.389080", 
+  "description": "Build tools that are necessary for building the .NET Core projects", 
+  "fork": false, 
+  "full_name": "dotnet/buildtools", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T08:16:50.874236"
+}

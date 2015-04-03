@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.290779", 
+  "description": "A ready to use minimal Vim (Sublime Text -like) .vimrc configuration", 
+  "fork": false, 
+  "full_name": "grigio/vim-sublime", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:14.063440"
+}

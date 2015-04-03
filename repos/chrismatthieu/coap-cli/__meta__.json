@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.282616", 
+  "description": "A command line interface for CoAP built on node-coap", 
+  "fork": true, 
+  "full_name": "chrismatthieu/coap-cli", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:29:05.282662"
+}

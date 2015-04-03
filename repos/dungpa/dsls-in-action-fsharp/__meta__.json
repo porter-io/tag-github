@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.162705", 
+  "description": "DSLs in Action samples in Java, Groovy, Ruby, Clojure and Scala, translated to F#", 
+  "fork": false, 
+  "full_name": "dungpa/dsls-in-action-fsharp", 
+  "language": "F#", 
+  "updated_at": "2015-02-27T23:41:23.096502"
+}

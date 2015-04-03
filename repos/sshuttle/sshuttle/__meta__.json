@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.675509", 
+  "description": "Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.", 
+  "fork": true, 
+  "full_name": "sshuttle/sshuttle", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:29:23.676268"
+}

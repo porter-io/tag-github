@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.571520", 
+  "description": "A lightweight class for rendering text containing HTML tags on iOS 6.0+", 
+  "fork": false, 
+  "full_name": "mattdonnelly/MDHTMLLabel", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:24.412402"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.506018", 
+  "description": "jQuery autocomplete plugin that works with times. Works basically the same as Google Calendars time input when you add an event. Example: http://7shifts.com/better-time-drop-downs-jquery-timeautocomplete/", 
+  "fork": false, 
+  "full_name": "7shifts/jQueryTimeAutocomplete", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:28.374229"
+}

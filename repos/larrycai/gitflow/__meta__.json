@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.896978", 
+  "description": "Git extensions to provide high-level repository operations for Vincent Driessen's branching model.", 
+  "fork": true, 
+  "full_name": "larrycai/gitflow", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T22:27:45.897091"
+}

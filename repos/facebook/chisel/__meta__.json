@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.383474", 
+  "description": "Chisel is a collection of LLDB commands to assist debugging iOS apps.", 
+  "fork": false, 
+  "full_name": "facebook/chisel", 
+  "language": "Python", 
+  "updated_at": "2015-03-21T14:55:08.194871"
+}

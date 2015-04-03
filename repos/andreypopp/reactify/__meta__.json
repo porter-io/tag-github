@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.909842", 
+  "description": "Browserify transform for JSX (superset of JavaScript used in React library by Facebook)", 
+  "fork": false, 
+  "full_name": "andreypopp/reactify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:27.736295"
+}

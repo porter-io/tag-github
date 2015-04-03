@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.731989", 
+  "description": "A Django app for managing robots.txt files following the robots exclusion protocol", 
+  "fork": false, 
+  "full_name": "jezdez/django-robots", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:57.949946"
+}

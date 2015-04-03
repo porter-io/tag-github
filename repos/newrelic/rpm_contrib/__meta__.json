@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.133052", 
+  "description": "Extra Instrumentation for the New Relic RPM Gem", 
+  "fork": false, 
+  "full_name": "newrelic/rpm_contrib", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:45.296505"
+}

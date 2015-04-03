@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.041525", 
+  "description": "A plugin for automatically restoring file's cursor position and folding", 
+  "fork": false, 
+  "full_name": "vim-scripts/restore_view.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:55.969503"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.591981", 
+  "description": "Freemarker tags for Apache Shiro, mirroring the JSP tags that ship with Shiro", 
+  "fork": false, 
+  "full_name": "jagregory/shiro-freemarker-tags", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:16.208724"
+}

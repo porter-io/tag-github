@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.570298", 
+  "description": "Vastly improved Javascript indentation and syntax support in Vim.", 
+  "fork": false, 
+  "full_name": "pangloss/vim-javascript", 
+  "language": "VimL", 
+  "updated_at": "2015-03-10T07:01:00.169083"
+}

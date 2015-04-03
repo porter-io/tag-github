@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.265925", 
+  "description": "Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.", 
+  "fork": false, 
+  "full_name": "scotch-io/scotch-box", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:46.832278"
+}

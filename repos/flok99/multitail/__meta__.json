@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.730473", 
+  "description": "MultiTail allows you to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge. http://vanheusden.com/multitail/", 
+  "fork": false, 
+  "full_name": "flok99/multitail", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:01:39.920889"
+}

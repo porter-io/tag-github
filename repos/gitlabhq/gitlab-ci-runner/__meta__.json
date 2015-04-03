@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.927764", 
+  "description": "Continuous integration server for gitlabhq | Runner", 
+  "fork": false, 
+  "full_name": "gitlabhq/gitlab-ci-runner", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:41.119273"
+}

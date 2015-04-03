@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.012661", 
+  "description": "Super-fast, efficiently stored Trie for Python. Uses libdatrie.", 
+  "fork": false, 
+  "full_name": "kmike/datrie", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:00.102745"
+}

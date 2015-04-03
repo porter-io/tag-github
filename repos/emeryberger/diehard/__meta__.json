@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.841949", 
+  "description": "DieHard: An error-resistant memory allocator for Windows, Linux, and Mac OS X", 
+  "fork": false, 
+  "full_name": "emeryberger/DieHard", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:02:12.511925"
+}

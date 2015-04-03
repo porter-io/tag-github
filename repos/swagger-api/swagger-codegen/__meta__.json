@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.405173", 
+  "description": "swagger-codegen contains a template-driven engine to generate client code in different languages by parsing your Swagger Resource Declaration.", 
+  "fork": false, 
+  "full_name": "swagger-api/swagger-codegen", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:56.349581"
+}

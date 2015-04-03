@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.950968", 
+  "description": "A gem to use Rails Database Migrations in non Rails projects", 
+  "fork": false, 
+  "full_name": "thuss/standalone-migrations", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:19.756203"
+}

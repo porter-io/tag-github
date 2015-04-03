@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.449971", 
+  "description": "Strip comments from CSS", 
+  "fork": false, 
+  "full_name": "sindresorhus/gulp-strip-css-comments", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:40.463404"
+}

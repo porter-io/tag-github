@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.193143", 
+  "description": "[DEPRECATED] Docker provider for Vagrant", 
+  "fork": false, 
+  "full_name": "fgrehm/docker-provider", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:31:37.246935"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.150337", 
+  "description": "MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.", 
+  "fork": false, 
+  "full_name": "jankotek/MapDB", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:24.788651"
+}

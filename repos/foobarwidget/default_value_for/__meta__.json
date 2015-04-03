@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.782652", 
+  "description": "Provides a way to specify default values for ActiveRecord models", 
+  "fork": false, 
+  "full_name": "FooBarWidget/default_value_for", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:29.236909"
+}

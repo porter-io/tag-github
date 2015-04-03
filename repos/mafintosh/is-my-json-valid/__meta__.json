@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.244535", 
+  "description": "A JSONSchema validator that uses code generation to be extremely fast", 
+  "fork": false, 
+  "full_name": "mafintosh/is-my-json-valid", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:14.833460"
+}

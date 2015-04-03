@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.298480", 
+  "description": "An Objective-C wrapper around Core Text for creating multi-column text and loading custom fonts", 
+  "fork": false, 
+  "full_name": "akosma/CoreTextWrapper", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:17.525267"
+}

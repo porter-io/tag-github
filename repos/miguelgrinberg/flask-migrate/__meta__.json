@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.743166", 
+  "description": "SQLAlchemy database migrations for Flask applications using Alembic", 
+  "fork": false, 
+  "full_name": "miguelgrinberg/Flask-Migrate", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:23.525014"
+}

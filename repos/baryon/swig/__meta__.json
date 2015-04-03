@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.915149", 
+  "description": "A fast, Django-like templating engine for node.js", 
+  "fork": true, 
+  "full_name": "baryon/swig", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:27:44.341286"
+}

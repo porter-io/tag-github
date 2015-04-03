@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.340214", 
+  "description": "Simple PyPI server written in django. Allows you to register/upload with distutils and install with easy_install/pip.", 
+  "fork": true, 
+  "full_name": "kennethreitz-archive/chishop", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:49.818348"
+}

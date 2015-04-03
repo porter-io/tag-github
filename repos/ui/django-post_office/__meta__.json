@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.738279", 
+  "description": "A Django app that allows you to send email asynchronously in Django. Supports HTML email, database backed templates and logging.", 
+  "fork": false, 
+  "full_name": "ui/django-post_office", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:45.067949"
+}

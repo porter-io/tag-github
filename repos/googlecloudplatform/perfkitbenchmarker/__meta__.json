@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.007443", 
+  "description": "Perfkit Benchmarker contains set of benchmarks to measure and compare cloud offerings. The benchmarks are not tuned (i.e. use defaults) to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding.", 
+  "fork": false, 
+  "full_name": "GoogleCloudPlatform/PerfKitBenchmarker", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:30:14.698814"
+}

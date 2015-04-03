@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.589908", 
+  "description": "Modularized Packer definitions for building Vagrant baseboxes", 
+  "fork": false, 
+  "full_name": "opscode/bento", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:23.626570"
+}

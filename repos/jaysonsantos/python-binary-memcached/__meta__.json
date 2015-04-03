@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.199705", 
+  "description": "A pure python module (thread safe) to access memcached via it's binary protocol with SASL auth support.", 
+  "fork": false, 
+  "full_name": "jaysonsantos/python-binary-memcached", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:20.463699"
+}

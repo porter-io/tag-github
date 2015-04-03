@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.695569", 
+  "description": "A script to extract the main article text from an arbitrary webpage.", 
+  "fork": false, 
+  "full_name": "chrisspen/webarticle2text", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:54.094058"
+}

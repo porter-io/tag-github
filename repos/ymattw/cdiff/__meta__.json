@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.649609", 
+  "description": "View colored, incremental diff in workspace or from stdin with side by side and auto pager support", 
+  "fork": false, 
+  "full_name": "ymattw/cdiff", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:14.477769"
+}

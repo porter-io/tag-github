@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.381636", 
+  "description": "Find memory issues & leaks in your iOS app without instruments", 
+  "fork": false, 
+  "full_name": "tapwork/HeapInspector-for-iOS", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:00:54.539039"
+}

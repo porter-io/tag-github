@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.685583", 
+  "description": "Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.  [IMPORTANT: please click and read the WIKI link above before submitting issues, pull requests, etc]    IMPORTANT: PLEASE READ Nov 2 2014 UPDATE ABOUT DONATIONS -- see wiki", 
+  "fork": false, 
+  "full_name": "sitaramc/gitolite", 
+  "language": "Perl", 
+  "updated_at": "2015-03-10T14:35:03.988212"
+}

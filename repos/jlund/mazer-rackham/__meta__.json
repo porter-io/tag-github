@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:29:23.402843", 
+  "description": "Sample Ansible Playbook for Rack applications that installs Nginx, Passenger, Ruby 2.0.0 (or 1.9.3), Bundler, and git. It also demonstrates how to deploy a basic Rack application using Ansible.", 
+  "fork": false, 
+  "full_name": "jlund/mazer-rackham", 
+  "updated_at": "2015-02-27T23:44:30.828140"
+}

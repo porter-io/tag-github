@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.093449", 
+  "description": "A template tag constructor library for Django.", 
+  "fork": true, 
+  "full_name": "lincolnloop/django-ttag", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:43.920584"
+}

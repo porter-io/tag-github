@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.434524", 
+  "description": "Implementation of a non blocking Redis client in Scala using Akka IO", 
+  "fork": false, 
+  "full_name": "debasishg/scala-redis-nb", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:41:56.492297"
+}

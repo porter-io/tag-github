@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.449914", 
+  "description": "Code from 'The Reasoned Schemer' (MIT Press, 2005) by Daniel P. Friedman, William E. Byrd and Oleg Kiselyov.", 
+  "fork": false, 
+  "full_name": "miniKanren/TheReasonedSchemer", 
+  "language": "Scheme", 
+  "updated_at": "2015-02-27T23:44:08.023880"
+}

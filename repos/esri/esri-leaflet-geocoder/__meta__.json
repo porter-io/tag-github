@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.445783", 
+  "description": "API helpers and UI controls for geocoding with the ArcGIS Geocoding Service with Leaflet.", 
+  "fork": false, 
+  "full_name": "Esri/esri-leaflet-geocoder", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:33.091260"
+}

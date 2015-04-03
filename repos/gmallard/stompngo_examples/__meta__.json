@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.155045", 
+  "description": "Examples using the stomp package from git://github.com/gmallard/stompngo.git", 
+  "fork": false, 
+  "full_name": "gmallard/stompngo_examples", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:00.282436"
+}

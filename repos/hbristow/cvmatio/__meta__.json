@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.866771", 
+  "description": "Matlab Mat file read and write C++ class with OpenCV bindings. Matlab is used a lot in computer vision, and people often share Matlab code or data in Mat-file storage. This small project gives OpenCV users the ability to read and write Mat files natively in C++", 
+  "fork": false, 
+  "full_name": "hbristow/cvmatio", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:16.783285"
+}

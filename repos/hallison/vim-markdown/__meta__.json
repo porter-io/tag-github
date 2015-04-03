@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.522407", 
+  "description": "Markdown syntax highlight for Vim editor with snippets support", 
+  "fork": true, 
+  "full_name": "hallison/vim-markdown", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T22:29:14.522658"
+}

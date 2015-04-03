@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.568010", 
+  "description": "node.js client for Etsy'd StatsD server", 
+  "fork": false, 
+  "full_name": "sivy/node-statsd", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:12.083213"
+}

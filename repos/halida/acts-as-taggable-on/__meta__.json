@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.207266", 
+  "description": "A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.", 
+  "fork": true, 
+  "full_name": "halida/acts-as-taggable-on", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:29.208183"
+}

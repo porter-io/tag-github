@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.320448", 
+  "description": "Check if a filepath is a Markdown file", 
+  "fork": false, 
+  "full_name": "sindresorhus/is-md", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:15.999036"
+}

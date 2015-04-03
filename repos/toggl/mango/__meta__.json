@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.370313", 
+  "description": "Mango imports data from third party services into Toggl", 
+  "fork": false, 
+  "full_name": "toggl/mango", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:53.245687"
+}

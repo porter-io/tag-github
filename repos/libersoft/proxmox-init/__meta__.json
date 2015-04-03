@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.495087", 
+  "description": "Python script to deploy GNU/Linux cloud images, cloud-style, on Proxmox KVM. Based on Proxmox API Python (proxmoxer) and cloud-init.", 
+  "fork": false, 
+  "full_name": "libersoft/proxmox-init", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:22.187149"
+}

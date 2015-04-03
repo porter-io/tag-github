@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.496894", 
+  "description": "A generic Erlang SMTP server and client that can be extended via callback modules", 
+  "fork": true, 
+  "full_name": "zotonic/gen_smtp", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T22:28:18.496940"
+}

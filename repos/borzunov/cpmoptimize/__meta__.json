@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.552837", 
+  "description": "Decorator for automatic algorithms optimization via fast matrix exponentiation", 
+  "fork": false, 
+  "full_name": "borzunov/cpmoptimize", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:13.056762"
+}

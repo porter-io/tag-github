@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.042233", 
+  "description": "A simple package containing classes/methods for constructing decks of playing cards (standard 'French deck'). Could be used for a CLI game, or even a graphical game as well.", 
+  "fork": false, 
+  "full_name": "Trebek/pydealer", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:22.859114"
+}

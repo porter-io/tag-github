@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.413060", 
+  "description": "Default implementations of the 15 templates required to do full login, logout, registration and password retrieval when using django-registration.", 
+  "fork": false, 
+  "full_name": "yourcelf/django-registration-defaults", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:31.706613"
+}

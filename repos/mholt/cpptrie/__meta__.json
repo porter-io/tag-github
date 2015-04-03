@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.943819", 
+  "description": "A simple prefix tree (\"trie\") implemented in C++. Uses more memory than a radix tree, but is very quick when inserting items.", 
+  "fork": false, 
+  "full_name": "mholt/cpptrie", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:16.864910"
+}

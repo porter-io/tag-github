@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.246779", 
+  "description": "A ClojureScript library providing wrappers for the JavaScript console API.", 
+  "fork": false, 
+  "full_name": "noprompt/shodan", 
+  "language": "Clojure", 
+  "updated_at": "2015-03-10T07:01:25.093194"
+}

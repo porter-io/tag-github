@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.194446", 
+  "description": "The NSStringMask enables you to apply masks or formats to NSStrings using NSRegularExpression to input your format.", 
+  "fork": false, 
+  "full_name": "fjcaetano/NSStringMask", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:56.018175"
+}

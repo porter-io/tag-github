@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.744754", 
+  "description": "One-click WordPress plugin that converts all posts, pages, taxonomies, metadata, and settings to Markdown and YAML which can be dropped into Jekyll", 
+  "fork": false, 
+  "full_name": "benbalter/wordpress-to-jekyll-exporter", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:59.123784"
+}

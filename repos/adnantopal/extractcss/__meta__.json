@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:27:59.050873", 
+  "description": "extractCSS is an online tool which can extract ids, classes and inline styles from HTML document and output them as CSS stylesheet. All you have to do is to type or paste your HTML document and let extractCSS to do the rest for you!", 
+  "fork": false, 
+  "full_name": "adnantopal/extractcss", 
+  "updated_at": "2015-03-10T07:01:31.831907"
+}

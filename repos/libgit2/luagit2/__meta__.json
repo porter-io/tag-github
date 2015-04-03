@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.762103", 
+  "description": "Lua bindings for libgit2", 
+  "fork": false, 
+  "full_name": "libgit2/luagit2", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:40.794456"
+}

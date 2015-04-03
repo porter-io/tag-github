@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.447213", 
+  "description": "A project to re-implement the standard OpenStreetMap mapnik style, in CartoCSS", 
+  "fork": false, 
+  "full_name": "gravitystorm/openstreetmap-carto", 
+  "language": "CartoCSS", 
+  "updated_at": "2015-02-27T23:42:52.077387"
+}

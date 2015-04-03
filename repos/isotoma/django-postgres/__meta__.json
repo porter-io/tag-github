@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.410728", 
+  "description": "First-class Postgres feature support for the Django ORM.", 
+  "fork": true, 
+  "full_name": "isotoma/django-postgres", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:50.739522"
+}

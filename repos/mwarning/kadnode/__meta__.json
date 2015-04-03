@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.388327", 
+  "description": "P2P DNS and more - based on a Distributed Hash Table (DHT)", 
+  "fork": false, 
+  "full_name": "mwarning/KadNode", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:25.029977"
+}

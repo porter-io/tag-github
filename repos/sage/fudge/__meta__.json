@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.975852", 
+  "description": "A tool for enforcing code coverage and documentation in continuous integration.", 
+  "fork": false, 
+  "full_name": "Sage/fudge", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:52.838547"
+}

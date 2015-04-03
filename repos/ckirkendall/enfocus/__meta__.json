@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.447205", 
+  "description": "DOM manipulation and templating library for ClojureScript inspired by Enlive.", 
+  "fork": false, 
+  "full_name": "ckirkendall/enfocus", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:53.413349"
+}

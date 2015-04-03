@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.589057", 
+  "description": "Combining OpenID, OAuth and FacebookConnect signup in one application", 
+  "fork": true, 
+  "full_name": "adieu/django-socialregistration", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:45.132002"
+}

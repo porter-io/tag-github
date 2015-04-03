@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.625016", 
+  "description": "A version of pubsubclient library with support for the Adafruit CC3000 library.", 
+  "fork": true, 
+  "full_name": "lelylan/pubsubclient", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T22:29:16.625163"
+}

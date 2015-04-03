@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.616601", 
+  "description": "MsgPack library for Go (DEPRECATED. move to github.com/ugorji/go/codec)", 
+  "fork": false, 
+  "full_name": "ugorji/go-msgpack", 
+  "language": "Go", 
+  "updated_at": "2015-04-01T19:30:05.778227"
+}

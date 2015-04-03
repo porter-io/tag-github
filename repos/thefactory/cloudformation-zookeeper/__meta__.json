@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:53.248224", 
+  "description": "CloudFormation template for an Exhibitor-managed ZooKeeper cluster", 
+  "fork": false, 
+  "full_name": "thefactory/cloudformation-zookeeper", 
+  "updated_at": "2015-02-27T23:43:36.169199"
+}

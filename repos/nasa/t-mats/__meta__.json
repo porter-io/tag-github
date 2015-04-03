@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.518306", 
+  "description": "An open source thermodynamic modeling package completed on behalf of NASA. The Toolbox for the Modeling and Analysis of Thermodynamic Systems (T-MATS) package offers a MATLAB/Simulink toolbox that gives a developer the ability to create simulations of such thermodynamic systems as turbomachinery and gas turbines. Keywords: TMATS, Control System, Numerical Methods, Newton-Raphson, Jacobian Calculation, Propulsion, Aircraft Engine, Jet, Turbofan, Turbojet, Compressor, Turbine, Nozzle, Inlet, open source", 
+  "fork": false, 
+  "full_name": "nasa/T-MATS", 
+  "language": "Matlab", 
+  "updated_at": "2015-02-27T23:41:46.251805"
+}

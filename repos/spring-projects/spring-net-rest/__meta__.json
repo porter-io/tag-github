@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.223229", 
+  "description": "Simplifies communication with HTTP servers, and enforces RESTful principles. It handles HTTP connections, leaving application code to provide URLs (with possible template variables) and extract results.", 
+  "fork": false, 
+  "full_name": "spring-projects/spring-net-rest", 
+  "language": "XSLT", 
+  "updated_at": "2015-02-27T23:43:00.990720"
+}

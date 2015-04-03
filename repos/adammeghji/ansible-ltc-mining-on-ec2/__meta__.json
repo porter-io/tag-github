@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:27:51.723649", 
+  "description": "Automates the setup of LTC miners on fresh EC2 GPU instances", 
+  "fork": false, 
+  "full_name": "adammeghji/ansible-ltc-mining-on-ec2", 
+  "updated_at": "2015-02-27T23:41:55.556556"
+}

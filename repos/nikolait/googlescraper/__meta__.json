@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.999047", 
+  "description": "A Python module to scrape several search engines (like Google, Yandex, Bing, Duckduckgo, Baidu and others) by using proxies (socks4/5, http proxy) and with many different IP's, including asynchronous networking support (very fast).", 
+  "fork": false, 
+  "full_name": "NikolaiT/GoogleScraper", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:53.311064"
+}

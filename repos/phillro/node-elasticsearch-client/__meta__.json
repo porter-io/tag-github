@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.917921", 
+  "description": "A client written in node for elastic search", 
+  "fork": false, 
+  "full_name": "phillro/node-elasticsearch-client", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:26.557294"
+}

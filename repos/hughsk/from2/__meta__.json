@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.774035", 
+  "description": "Convenience wrapper for ReadableStream, with an API lifted from \"from\" and \"through2\"", 
+  "fork": false, 
+  "full_name": "hughsk/from2", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:56.882031"
+}

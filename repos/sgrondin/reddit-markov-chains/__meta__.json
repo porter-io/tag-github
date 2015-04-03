@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.538608", 
+  "description": "Generate content from reddit comments.", 
+  "fork": false, 
+  "full_name": "SGrondin/reddit-markov-chains", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:20.353371"
+}

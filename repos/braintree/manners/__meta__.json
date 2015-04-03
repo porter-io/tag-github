@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.593367", 
+  "description": "A polite Go HTTP server that shuts down gracefully.", 
+  "fork": false, 
+  "full_name": "braintree/manners", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:54.253883"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.732960", 
+  "description": "A user script that adds a search box to repository pages which allows you to search the code in that repository.", 
+  "fork": false, 
+  "full_name": "skratchdot/github-code-search.user.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:56.693887"
+}

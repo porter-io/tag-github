@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.504615", 
+  "description": "Treat an ActiveRecord model as a file attachment, storing its patch, size, content type, etc.", 
+  "fork": false, 
+  "full_name": "technoweenie/attachment_fu", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:01.526380"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.722257", 
+  "description": "GIT utilities -- repo summary, repl, changelog population, author commit percentages and more", 
+  "fork": false, 
+  "full_name": "tj/git-extras", 
+  "language": "Shell", 
+  "updated_at": "2015-03-17T07:25:47.035291"
+}

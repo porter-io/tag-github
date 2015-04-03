@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.649222", 
+  "description": "A sample project showing how to implement STI (Single Table Inheritance) in Rails 4.", 
+  "fork": false, 
+  "full_name": "T-Dnzt/sti-with-rails4", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:56.634298"
+}

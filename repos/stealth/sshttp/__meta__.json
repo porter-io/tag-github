@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.343955", 
+  "description": "SSH/HTTP(S) multiplexer. Run a webserver and a sshd on the same port w/o changes.", 
+  "fork": false, 
+  "full_name": "stealth/sshttp", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:56.242631"
+}

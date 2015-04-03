@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.404881", 
+  "description": "Store RPMs in OSTree repository", 
+  "fork": false, 
+  "full_name": "projectatomic/rpm-ostree", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:34.203781"
+}

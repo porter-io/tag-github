@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.134916", 
+  "description": "Installs HaProxy on a particular host. Only for use with Galera or MySQL Cluster s9s Deployment packages ( http://severalnines.com/configurator ).", 
+  "fork": false, 
+  "full_name": "severalnines/haproxy", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:13.080645"
+}

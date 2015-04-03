@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:50.753325", 
+  "description": "VIM plugin and command line tool for running JSLint <http://jslint.com/>. This is project is no longer under active development.  See Readme for details.", 
+  "fork": false, 
+  "full_name": "hallettj/jslint.vim", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:54.447838"
+}

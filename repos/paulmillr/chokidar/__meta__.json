@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.724079", 
+  "description": "A neat wrapper around node.js fs.watch / fs.watchFile.", 
+  "fork": false, 
+  "full_name": "paulmillr/chokidar", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:19.276584"
+}

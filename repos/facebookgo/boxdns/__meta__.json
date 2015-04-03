@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.621184", 
+  "description": "boxdns provides a DNS server suitable for use in development along with docker.", 
+  "fork": false, 
+  "full_name": "facebookgo/boxdns", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:46.574523"
+}

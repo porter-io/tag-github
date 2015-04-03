@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.649770", 
+  "description": "Distributed deterministic dataflow programming for Erlang", 
+  "fork": false, 
+  "full_name": "cmeiklejohn/lasp", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:43:16.898882"
+}

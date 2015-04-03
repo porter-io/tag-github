@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.948178", 
+  "description": "Karma reporter, that prints each executed spec to commandline (similar to mocha's spec reporter).", 
+  "fork": false, 
+  "full_name": "mlex/karma-spec-reporter", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:46.499721"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.036758", 
+  "description": "Plugin to add namespaces and REST routing to CFWheels", 
+  "fork": false, 
+  "full_name": "dhumphreys/cfwheels-coldroute", 
+  "language": "ColdFusion", 
+  "updated_at": "2015-02-27T23:41:24.738951"
+}

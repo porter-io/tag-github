@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.386084", 
+  "description": "Capistrano notifications for all team members via OSX Notification Center", 
+  "fork": false, 
+  "full_name": "evrone/capistrano-team_notifications", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:04:28.092730"
+}

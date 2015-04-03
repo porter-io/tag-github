@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.157683", 
+  "description": "JIT for a Forth-like language using LLVM", 
+  "fork": false, 
+  "full_name": "5sw/LLVMForth", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:42.401475"
+}

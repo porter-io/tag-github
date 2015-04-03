@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.098423", 
+  "description": "A safer `.hasOwnProperty()`", 
+  "fork": false, 
+  "full_name": "sindresorhus/has-own-prop", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.999629"
+}

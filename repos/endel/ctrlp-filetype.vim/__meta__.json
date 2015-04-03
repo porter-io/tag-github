@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.671284", 
+  "description": "CtrlP plugin: Filetype finder and setter.", 
+  "fork": false, 
+  "full_name": "endel/ctrlp-filetype.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:44:00.453335"
+}

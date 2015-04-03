@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.491723", 
+  "description": "oracle driver for go that using database/sql", 
+  "fork": false, 
+  "full_name": "mattn/go-oci8", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:00:58.529620"
+}

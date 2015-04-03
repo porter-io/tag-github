@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.819025", 
+  "description": "A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.", 
+  "fork": false, 
+  "full_name": "HeshamMegid/HMSegmentedControl", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:25.504243"
+}

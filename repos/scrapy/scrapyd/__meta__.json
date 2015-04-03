@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.762828", 
+  "description": "A service daemon to run Scrapy spiders", 
+  "fork": false, 
+  "full_name": "scrapy/scrapyd", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:55.599965"
+}

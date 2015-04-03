@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.038996", 
+  "description": "The SBT template for Lift 2.4 projects", 
+  "fork": false, 
+  "full_name": "lift/lift_24_sbt", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:41:58.978684"
+}

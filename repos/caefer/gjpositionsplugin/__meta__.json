@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.574566", 
+  "description": "[symfony 1.4 plugin] adds a composition workflow to your admin module that allows the user to compose a canvas from components/partials and manually assign any type of content to them", 
+  "fork": false, 
+  "full_name": "caefer/gjPositionsPlugin", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:41.818221"
+}

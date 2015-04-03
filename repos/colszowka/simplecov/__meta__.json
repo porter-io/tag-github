@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.136790", 
+  "description": "Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites", 
+  "fork": false, 
+  "full_name": "colszowka/simplecov", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:57.683689"
+}

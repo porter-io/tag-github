@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.227195", 
+  "description": "Ruby library for Ansible that checks given directory status", 
+  "fork": false, 
+  "full_name": "KamilLelonek/Ansible-Ruby-DirectoryStatus", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:41.431518"
+}

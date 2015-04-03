@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.651313", 
+  "description": "OpenSIPS is a GPL implementation of a multi-functionality SIP Server that targets to deliver a high-level technical solution (performance, security and quality) to be used in professional SIP server platforms.", 
+  "fork": false, 
+  "full_name": "OpenSIPS/opensips", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:53.635972"
+}

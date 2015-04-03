@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.990842", 
+  "description": "Capitalize every word in string: unicorn cake \u2192 Unicorn Cake", 
+  "fork": false, 
+  "full_name": "sindresorhus/titleize", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.721629"
+}

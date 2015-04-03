@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.325441", 
+  "description": "ichartjs is a HTML5 canvas charting library. written in pure JavaScript, It uses the HTML5 canvas tag to bulid a variety of charting.offering interactive charts to your web site or web application. ichartjs currently supports line, area, column, bar, pie chart types.and pie and column also support 3D model.ichartjs is covered by the Apache License 2.0", 
+  "fork": false, 
+  "full_name": "wanghetommy/ichartjs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:10.862815"
+}

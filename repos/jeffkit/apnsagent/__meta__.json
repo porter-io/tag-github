@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.049073", 
+  "description": "A simple apns agent server and client lib in python", 
+  "fork": false, 
+  "full_name": "jeffkit/apnsagent", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:26.886705"
+}

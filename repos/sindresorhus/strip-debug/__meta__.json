@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.817613", 
+  "description": "Strip console, alert, and debugger statements from JavaScript code", 
+  "fork": false, 
+  "full_name": "sindresorhus/strip-debug", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.374473"
+}

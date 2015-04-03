@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:27:30.712464", 
+  "description": "Clears test data (orders, logs, searches) during the testing phase", 
+  "fork": false, 
+  "full_name": "shatsar/Clear-Magento-Database", 
+  "updated_at": "2015-02-27T23:41:26.114469"
+}

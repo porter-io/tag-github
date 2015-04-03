@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.885172", 
+  "description": "Adds a Send To Kindle option to the Windows 8 share charm", 
+  "fork": false, 
+  "full_name": "mbmccormick/SendToKindle", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T07:01:07.620013"
+}

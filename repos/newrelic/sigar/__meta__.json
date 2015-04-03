@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.119738", 
+  "description": "System Information Gatherer And Reporter", 
+  "fork": true, 
+  "full_name": "newrelic/sigar", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:27:40.120694"
+}

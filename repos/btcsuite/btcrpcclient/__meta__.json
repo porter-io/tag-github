@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.859186", 
+  "description": "  Implements a robust and easy to use websocket-enabled Bitcoin JSON-RPC client.", 
+  "fork": false, 
+  "full_name": "btcsuite/btcrpcclient", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:44:09.602230"
+}

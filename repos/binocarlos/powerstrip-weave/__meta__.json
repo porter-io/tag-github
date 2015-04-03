@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.341296", 
+  "description": "A Powerstrip plugin that runs weave inside a container and ensures that containers are connected to the weave network before running their entrypoints.", 
+  "fork": false, 
+  "full_name": "binocarlos/powerstrip-weave", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:26.070187"
+}

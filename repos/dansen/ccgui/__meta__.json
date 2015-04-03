@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.317780", 
+  "description": "ccgui is a library for creating Graphical User Interfaces (GUIs) for cocos2d-x applications. The main goals of ccgui are: speed, flexibility and ease of use.", 
+  "fork": false, 
+  "full_name": "dansen/ccgui", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:36.076964"
+}

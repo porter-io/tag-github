@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.467046", 
+  "description": "A Vagrant plugin to automate bindfs mount in the VM", 
+  "fork": false, 
+  "full_name": "gael-ian/vagrant-bindfs", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:22.166067"
+}

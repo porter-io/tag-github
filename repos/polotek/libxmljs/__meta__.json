@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.135857", 
+  "description": "libxml bindings for v8 javascript engine", 
+  "fork": false, 
+  "full_name": "polotek/libxmljs", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:04:31.137445"
+}

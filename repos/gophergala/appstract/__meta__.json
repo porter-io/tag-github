@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.363639", 
+  "description": "Visualize go programs in a graph to create an overview of its structure by scanning a GitHub repository", 
+  "fork": false, 
+  "full_name": "gophergala/appstract", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:49.702669"
+}

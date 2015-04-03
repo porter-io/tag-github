@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.462800", 
+  "description": "An Nginx module for bringing the power of \"echo\", \"sleep\", \"time\" and more to Nginx's config file", 
+  "fork": false, 
+  "full_name": "openresty/echo-nginx-module", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:33.106507"
+}

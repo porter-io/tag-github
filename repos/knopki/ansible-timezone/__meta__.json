@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:27:51.599746", 
+  "description": "Ansible role to set up timezone in Debian-like systems", 
+  "fork": false, 
+  "full_name": "knopki/ansible-timezone", 
+  "updated_at": "2015-02-27T23:41:55.385135"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.699510", 
+  "description": "A non intrusive library for observing method calls and property access", 
+  "fork": false, 
+  "full_name": "weichsem/Oversight", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:30.198810"
+}

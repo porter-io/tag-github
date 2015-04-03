@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.391369", 
+  "description": "A very basic browser written in Ruby using Ruby-Gnome2 and Webkit", 
+  "fork": false, 
+  "full_name": "tpeden/ruby-webkit-browser", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:05.080337"
+}

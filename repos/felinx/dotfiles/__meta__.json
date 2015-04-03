@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.635943", 
+  "description": "My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc)", 
+  "fork": true, 
+  "full_name": "felinx/dotfiles", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:28:58.636021"
+}

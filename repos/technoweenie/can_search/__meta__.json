@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.471587", 
+  "description": "Build common named scopes automatically, and provide a simple way to merge them with a single #search call.", 
+  "fork": false, 
+  "full_name": "technoweenie/can_search", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:01.498670"
+}

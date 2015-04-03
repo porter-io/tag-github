@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.338094", 
+  "description": "Watcher to ensure that users get their own CouchDB databases", 
+  "fork": false, 
+  "full_name": "CodeCosmos/codecosmos-node", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:24.089742"
+}

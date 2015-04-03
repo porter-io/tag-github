@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:50.433621", 
+  "description": "Feature branches that aren't yet, or never will be, ready for mainline bitcoin", 
+  "fork": true, 
+  "full_name": "gavinandresen/bitcoin-git", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T22:27:50.433670"
+}

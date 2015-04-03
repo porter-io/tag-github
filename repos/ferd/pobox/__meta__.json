@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.308311", 
+  "description": "External buffer processes to protect against mailbox overflow in Erlang", 
+  "fork": false, 
+  "full_name": "ferd/pobox", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:43:26.036655"
+}

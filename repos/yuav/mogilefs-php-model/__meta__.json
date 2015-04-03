@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.932636", 
+  "description": "Model representation of a file inside MogileFS, complete with mapper and adapters for save, find and delete", 
+  "fork": false, 
+  "full_name": "Yuav/MogileFS-PHP-Model", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:29.654360"
+}

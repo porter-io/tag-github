@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.853374", 
+  "description": "Improved PHP omnicompletion", 
+  "fork": false, 
+  "full_name": "shawncplus/phpcomplete.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-03-10T07:03:24.715321"
+}

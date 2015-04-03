@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.161512", 
+  "description": "Sidekiq integration for Capistrano", 
+  "fork": false, 
+  "full_name": "seuros/capistrano-sidekiq", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:06.278547"
+}

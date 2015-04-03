@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.610855", 
+  "description": "node.js access to v8's \"raw\" CallSites -- useful for custom traces, c-style assertions, getting the line number in execution etc", 
+  "fork": false, 
+  "full_name": "tj/callsite", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.309044"
+}

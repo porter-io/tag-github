@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.005853", 
+  "description": "Ruby gem to handle settings for ActiveRecord objects by storing them as serialized Hash in a separate database table. Optional: Defaults and Namespaces.", 
+  "fork": true, 
+  "full_name": "ledermann/rails-settings", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:33.007116"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.385751", 
+  "description": "A service registration daemon that performs health checks; companion to airbnb/synapse", 
+  "fork": false, 
+  "full_name": "airbnb/nerve", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:42.154014"
+}

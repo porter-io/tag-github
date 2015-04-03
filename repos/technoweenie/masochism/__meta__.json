@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.494538", 
+  "description": "ActiveRecord connection proxy for master/slave connections", 
+  "fork": false, 
+  "full_name": "technoweenie/masochism", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:01.521487"
+}

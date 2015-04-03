@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.868931", 
+  "description": "A simple way to log PDO queries and execution times.", 
+  "fork": false, 
+  "full_name": "herrera-io/php-pdo-log", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:29.813654"
+}

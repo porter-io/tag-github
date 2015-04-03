@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.816772", 
+  "description": "Extension for the Standard PHP Library (SPL). Features an ExceptionInterface.", 
+  "fork": false, 
+  "full_name": "gnutix/spl-extension", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:05.983549"
+}

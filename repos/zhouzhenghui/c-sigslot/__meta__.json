@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.042915", 
+  "description": "universal event-driven, asychoronous/parallel infrastructure for ANSI-C/C++, also known as asychronous signal-slot and source level continuation mechanism for C language.", 
+  "fork": false, 
+  "full_name": "zhouzhenghui/c-sigslot", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:08.416980"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.424284", 
+  "description": "A module which reports defined, but unused variables in your code.", 
+  "fork": false, 
+  "full_name": "Kami/node-unused", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:39.476198"
+}

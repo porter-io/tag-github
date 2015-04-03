@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.007574", 
+  "description": "A modern C# (5.0/async) binding against libcurl with System.Net.Http support", 
+  "fork": false, 
+  "full_name": "abock/CurlSharp", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:44:20.984938"
+}

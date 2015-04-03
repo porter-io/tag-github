@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.998481", 
+  "description": "Carrierwave plugin that store uploader to serialized field", 
+  "fork": false, 
+  "full_name": "timsly/carrierwave-serializable", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:51.976393"
+}

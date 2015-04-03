@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.747872", 
+  "description": "A Django Application that uses Python 2.5/2.6 features to contact the Apple Push Service as well as maintaining a list of iPhone objects and handling Feedback from APS", 
+  "fork": false, 
+  "full_name": "leepa/django-iphone-push", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:13.820901"
+}

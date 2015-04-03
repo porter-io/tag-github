@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.930249", 
+  "description": "RapidXML fork; XML namespacing, per-element parsing, etc", 
+  "fork": false, 
+  "full_name": "dwd/rapidxml", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:44:30.350997"
+}

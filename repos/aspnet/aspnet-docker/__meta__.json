@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.463583", 
+  "description": "Docker image for ASP.NET 5.", 
+  "fork": false, 
+  "full_name": "aspnet/aspnet-docker", 
+  "language": "Shell", 
+  "updated_at": "2015-03-10T08:15:39.824101"
+}

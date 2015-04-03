@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.071740", 
+  "description": "Perl Compatible Regular Expression shim for Go", 
+  "fork": false, 
+  "full_name": "glenn-brown/golang-pkg-pcre", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:01:11.824780"
+}

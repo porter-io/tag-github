@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.988944", 
+  "description": "Mr. Queue - A distributed worker task queue in Python using Redis & gevent", 
+  "fork": false, 
+  "full_name": "pricingassistant/mrq", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:58.893407"
+}

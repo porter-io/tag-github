@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.569356", 
+  "description": "Logs users' recent browsing history. Helpful for customer support and merciless spying.", 
+  "fork": false, 
+  "full_name": "aaugustin/django-userlog", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:13.235569"
+}

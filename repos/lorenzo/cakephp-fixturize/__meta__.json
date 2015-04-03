@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.263849", 
+  "description": "CakePHP custom Fixture classes for those having problems maintaining PHP based fixtures.", 
+  "fork": false, 
+  "full_name": "lorenzo/cakephp-fixturize", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:34.020034"
+}

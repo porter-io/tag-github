@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.387441", 
+  "description": "An example for integrating travis and coveralls with a NodeJS project", 
+  "fork": false, 
+  "full_name": "vkarpov15/fizzbuzz-coverage", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:26.127155"
+}

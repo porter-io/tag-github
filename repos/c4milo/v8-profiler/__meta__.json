@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.465615", 
+  "description": "node bindings for the v8 profiler", 
+  "fork": true, 
+  "full_name": "c4milo/v8-profiler", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T22:27:41.468327"
+}

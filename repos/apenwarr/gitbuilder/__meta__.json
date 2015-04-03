@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.951244", 
+  "description": "Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.", 
+  "fork": false, 
+  "full_name": "apenwarr/gitbuilder", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:42:18.775455"
+}

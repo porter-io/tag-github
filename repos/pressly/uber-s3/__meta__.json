@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.372970", 
+  "description": "Ruby S3 client with synchronous and asynchronous I/O adapters", 
+  "fork": false, 
+  "full_name": "pressly/uber-s3", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:51.491958"
+}

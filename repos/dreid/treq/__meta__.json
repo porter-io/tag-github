@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.325477", 
+  "description": "Python requests like API built on top of Twisted's HTTP client.", 
+  "fork": false, 
+  "full_name": "dreid/treq", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:20.101816"
+}

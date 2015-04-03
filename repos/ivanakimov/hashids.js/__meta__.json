@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.200070", 
+  "description": "A small JavaScript class to generate YouTube-like hashids from one or many numbers. This is a client-side version of Node.js version.", 
+  "fork": false, 
+  "full_name": "ivanakimov/hashids.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:16.371054"
+}

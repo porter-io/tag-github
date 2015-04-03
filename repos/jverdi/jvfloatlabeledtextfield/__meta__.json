@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.537159", 
+  "description": "UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users", 
+  "fork": false, 
+  "full_name": "jverdi/JVFloatLabeledTextField", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-21T14:55:10.701611"
+}

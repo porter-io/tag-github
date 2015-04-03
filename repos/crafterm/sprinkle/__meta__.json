@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.951218", 
+  "description": "Sprinkle is a software provisioning tool you can use to build remote servers with. eg. to install a Rails, or Sinatra stack on a brand new slice directly after its been created", 
+  "fork": true, 
+  "full_name": "crafterm/sprinkle", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:19.951350"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.784899", 
+  "description": "A JSON Schema validation implementation in pure Java, which aims for correctness and performance, in that order", 
+  "fork": false, 
+  "full_name": "fge/json-schema-validator", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:58.092615"
+}

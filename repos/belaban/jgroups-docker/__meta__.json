@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.134521", 
+  "description": "Dockerfile for a container containing JGroups and a couple of demos", 
+  "fork": false, 
+  "full_name": "belaban/jgroups-docker", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:01.106666"
+}

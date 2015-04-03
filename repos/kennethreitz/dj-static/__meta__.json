@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.486807", 
+  "description": "Serve production static files with Django.", 
+  "fork": false, 
+  "full_name": "kennethreitz/dj-static", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:35.189505"
+}

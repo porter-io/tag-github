@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.101782", 
+  "description": "A plugin for Growl-like functionality for Ruby on Rails applications built on Prototype and Scriptaculous javascript libraries.", 
+  "fork": false, 
+  "full_name": "jfiorato/growl4rails", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:18.012677"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.616649", 
+  "description": "A tool for packaging AMD modules, compiling micro templates and optimizing html files.", 
+  "fork": false, 
+  "full_name": "webyom/grunt-yomb", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:16.244800"
+}

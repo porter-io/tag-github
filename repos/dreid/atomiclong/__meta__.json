@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.326365", 
+  "description": "A CFFI using AtomicLong type for CPython and PyPy.", 
+  "fork": false, 
+  "full_name": "dreid/atomiclong", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:20.104638"
+}

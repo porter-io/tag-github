@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.508695", 
+  "description": "Cron-like scheduler for Erlang", 
+  "fork": false, 
+  "full_name": "fra/ecron", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:42:15.222627"
+}

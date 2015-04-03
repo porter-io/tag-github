@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.517822", 
+  "description": "Guide following keys to an input key sequence automatically and dynamically in Emacs.", 
+  "fork": false, 
+  "full_name": "kai2nenobu/guide-key", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:41:18.388985"
+}

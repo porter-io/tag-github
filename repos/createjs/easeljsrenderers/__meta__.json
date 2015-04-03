@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.075545", 
+  "description": "Runtime pluggable renderers for EaselJS (Canvas 2D, WebGL, HTML DOM, SVG).", 
+  "fork": false, 
+  "full_name": "CreateJS/EaselJSRenderers", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:32.185055"
+}

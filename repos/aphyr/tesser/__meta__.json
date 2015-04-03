@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.952250", 
+  "description": "Clojure reducers, but for parallel execution: locally and on distributed systems.", 
+  "fork": false, 
+  "full_name": "aphyr/tesser", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:55.843484"
+}

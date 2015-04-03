@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.268006", 
+  "description": "A Vagrant provider for VMware vCenter\u00ae", 
+  "fork": false, 
+  "full_name": "gosddc/vagrant-vcenter", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:45.287792"
+}

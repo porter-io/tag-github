@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.354753", 
+  "description": "Colored stream handler for Python's logging module", 
+  "fork": false, 
+  "full_name": "xolox/python-coloredlogs", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:31.493938"
+}

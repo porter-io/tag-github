@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.441361", 
+  "description": "A Django admin app with a GUI to create complex forms without any programming skills; complete with logging, validation, and redirects.", 
+  "fork": false, 
+  "full_name": "samluescher/django-form-designer", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:31.372202"
+}

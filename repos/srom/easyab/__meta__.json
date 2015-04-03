@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.281390", 
+  "description": "A jQuery / Zepto plugin for easily setting up A/B and Multivariate tests using Google Analytics.", 
+  "fork": false, 
+  "full_name": "srom/easyAB", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:34.041872"
+}

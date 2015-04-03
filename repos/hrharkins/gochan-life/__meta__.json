@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.102701", 
+  "description": "Game of life implemented with goroutines and channels", 
+  "fork": false, 
+  "full_name": "hrharkins/gochan-life", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:28.588518"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.706735", 
+  "description": "Rhythmbox plugin that generates an XML document containing the current song information.", 
+  "fork": true, 
+  "full_name": "sagotsky/rhythmbox-nowplaying-text", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:28:54.706789"
+}

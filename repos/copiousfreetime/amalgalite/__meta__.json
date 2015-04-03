@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.617952", 
+  "description": "SQLite database engine embedded in a ruby extension.", 
+  "fork": false, 
+  "full_name": "copiousfreetime/amalgalite", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:27.820020"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.296380", 
+  "description": "A Singleton Macro that swaps method implementations at runtime so that only the initialization portion will require syncrhonization (lock)", 
+  "fork": false, 
+  "full_name": "cjhanson/Objective-C-Optimized-Singleton", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:51.573557"
+}

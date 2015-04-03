@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.688422", 
+  "description": "This project is MyCassandra. MyCassandra is a modular cloud storage where the storage engine is exchangeable from Cassandra's storage engine like Bigtable to MySQL or Redis or the others.", 
+  "fork": false, 
+  "full_name": "sunsuk7tp/MyCassandra", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:05.869803"
+}

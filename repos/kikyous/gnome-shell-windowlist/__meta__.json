@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.720336", 
+  "description": "Displays a list of open windows in gnome-shell", 
+  "fork": true, 
+  "full_name": "kikyous/gnome-shell-windowlist", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:28.261652"
+}

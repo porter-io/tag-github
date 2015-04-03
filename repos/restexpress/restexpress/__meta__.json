@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.731163", 
+  "description": "RestExpress is the easiest way to create RESTful web services in Java.  An extremely Lightweight, Fast, REST Engine and API for Java.  Supports JSON and XML serialization automagically as well as ISO 8601 date formats.  A thin wrapper on Netty IO HTTP handling, RestExpress lets you create performant, stand-alone REST web services rapidly.  Works 'expressly' well with Syntaxe, RepoExpress and OAuthExpress.  RestExpress supports the best practices proposed in the Best Practice document available at: http://www.restapitutorial.com", 
+  "fork": true, 
+  "full_name": "RestExpress/RestExpress", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T22:28:36.732243"
+}

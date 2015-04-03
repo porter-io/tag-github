@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.030940", 
+  "description": "Capybara integration for MiniTest::Rails", 
+  "fork": false, 
+  "full_name": "blowmage/minitest-rails-capybara", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:33.682711"
+}

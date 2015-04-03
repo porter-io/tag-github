@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.307857", 
+  "description": "A buildout config for mirroring PyPi. With this solution you will have your own PyPi in your home or bussiness network.", 
+  "fork": false, 
+  "full_name": "mviera/pypi-mirror", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:38.209980"
+}

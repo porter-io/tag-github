@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.958556", 
+  "description": "A graceful error handler for Express and Restify applications.", 
+  "fork": false, 
+  "full_name": "ericelliott/express-error-handler", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:41.725582"
+}

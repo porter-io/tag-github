@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.723429", 
+  "description": "Run MapReduce jobs on Hadoop or Amazon Web Services", 
+  "fork": false, 
+  "full_name": "Yelp/mrjob", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:00.534055"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.856214", 
+  "description": "Authentication and authorization for Iron.Router", 
+  "fork": false, 
+  "full_name": "zimme/meteor-iron-router-auth", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:02.516170"
+}

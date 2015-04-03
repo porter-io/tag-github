@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.017241", 
+  "description": "A singleton for calculating app's network traffic through system network counters", 
+  "fork": false, 
+  "full_name": "Bogdan-Stasjuk/BSNetworkTraffic", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:58.216117"
+}

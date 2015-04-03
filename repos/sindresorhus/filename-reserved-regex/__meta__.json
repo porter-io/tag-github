@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.257646", 
+  "description": "Regular expression for matching reserved filename characters", 
+  "fork": false, 
+  "full_name": "sindresorhus/filename-reserved-regex", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.533934"
+}

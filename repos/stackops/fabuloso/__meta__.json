@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.432668", 
+  "description": "Scripts to deploy Openstack-based architectures using fabric", 
+  "fork": false, 
+  "full_name": "StackOps/fabuloso", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:18.031057"
+}

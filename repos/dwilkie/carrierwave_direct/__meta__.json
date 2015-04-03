@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.170653", 
+  "description": "Process your uploads in the background by uploading directly to S3", 
+  "fork": false, 
+  "full_name": "dwilkie/carrierwave_direct", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:24.808403"
+}

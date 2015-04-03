@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.607847", 
+  "description": "Prevent identical bash/sh command lines from executing concurrently.", 
+  "fork": false, 
+  "full_name": "jakeogh/shell_command_lock", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:44:13.317687"
+}

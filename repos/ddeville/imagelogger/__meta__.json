@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.316594", 
+  "description": "Log the dynamic libraries that are loaded by an application", 
+  "fork": false, 
+  "full_name": "ddeville/ImageLogger", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:53.172733"
+}

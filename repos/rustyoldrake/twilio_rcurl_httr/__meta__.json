@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.196517", 
+  "description": "Basic Code in R Programming Language to hit Twilio REST APIs and send SMS text", 
+  "fork": false, 
+  "full_name": "rustyoldrake/twilio_rcurl_httr", 
+  "language": "R", 
+  "updated_at": "2015-02-27T23:43:24.836570"
+}

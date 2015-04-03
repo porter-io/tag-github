@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.236272", 
+  "description": "RickDOM is a javascript library to build DOM elements from string safety using DOMParser API or createHTMLDocument API of modern browsers.", 
+  "fork": false, 
+  "full_name": "hasegawayosuke/rickdom", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:52.222671"
+}

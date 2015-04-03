@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.739849", 
+  "description": "Ruby wrapper for correcting spelling and grammar mistakes based on the context of complete sentences.", 
+  "fork": false, 
+  "full_name": "subosito/gingerice", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:55.573435"
+}

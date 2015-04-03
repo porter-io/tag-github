@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.392202", 
+  "description": "A Jenkins CI plugin that pushes successful/failing build notifications to a Buddycloud channel", 
+  "fork": false, 
+  "full_name": "lloydwatkin/buddycloud-for-jenkins", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:18.375713"
+}

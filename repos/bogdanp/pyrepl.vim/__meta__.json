@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.003140", 
+  "description": "VIM plugin that provides a way to run a Python REPL inside a VIM buffer.", 
+  "fork": false, 
+  "full_name": "Bogdanp/pyrepl.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:28.435006"
+}

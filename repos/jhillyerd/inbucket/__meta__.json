@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.579506", 
+  "description": "Inbucket: disposable webmail service (similar to Mailinator) with built in SMTP, POP3, REST servers", 
+  "fork": false, 
+  "full_name": "jhillyerd/inbucket", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:38.097480"
+}

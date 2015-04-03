@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.525262", 
+  "description": "(OBSOLETE) This plugin is based on acts_as_taggable by DHH but includes extras", 
+  "fork": false, 
+  "full_name": "mattetti/acts_as_taggable_on_steroids", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:18.453719"
+}

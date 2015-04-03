@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.700633", 
+  "description": "A powerful component, based on Backbone.View, that displays your Backbone collections in a dynamic datagrid table.", 
+  "fork": false, 
+  "full_name": "loicfrering/backbone.datagrid", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:48.260315"
+}

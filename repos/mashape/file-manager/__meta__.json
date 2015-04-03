@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.097814", 
+  "description": "Interface + filesystem and s3 implementation to manage (create, read, delete) files", 
+  "fork": false, 
+  "full_name": "Mashape/file-manager", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:43.379156"
+}

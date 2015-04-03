@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.947495", 
+  "description": "Clojure data structures for performance metrics over discrete time intervals.", 
+  "fork": false, 
+  "full_name": "aphyr/interval-metrics", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:55.837060"
+}

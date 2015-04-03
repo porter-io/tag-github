@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.591256", 
+  "description": "Check whether a package name is available on bower", 
+  "fork": false, 
+  "full_name": "sindresorhus/bower-name", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:19.608942"
+}

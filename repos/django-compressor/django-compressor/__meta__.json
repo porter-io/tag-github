@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.131433", 
+  "description": "Compresses linked and inline javascript or CSS into a single cached file.", 
+  "fork": false, 
+  "full_name": "django-compressor/django-compressor", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:04:46.433270"
+}

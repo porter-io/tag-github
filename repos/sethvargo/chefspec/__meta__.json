@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.057750", 
+  "description": "Write RSpec examples and generate coverage reports for Chef recipes!", 
+  "fork": false, 
+  "full_name": "sethvargo/chefspec", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:55.872992"
+}

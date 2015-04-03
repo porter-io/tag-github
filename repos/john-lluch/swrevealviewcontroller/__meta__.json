@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.795837", 
+  "description": "A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right !", 
+  "fork": false, 
+  "full_name": "John-Lluch/SWRevealViewController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:50.099935"
+}

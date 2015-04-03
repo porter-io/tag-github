@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.597239", 
+  "description": "Modular search for Django. Currently v1.2.5.", 
+  "fork": true, 
+  "full_name": "adieu/django-haystack", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:45.145174"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.836079", 
+  "description": "Puppet configuration used to provision a development box.", 
+  "fork": false, 
+  "full_name": "fvdb/puppet-devbox", 
+  "language": "Puppet", 
+  "updated_at": "2015-02-27T23:42:57.384759"
+}

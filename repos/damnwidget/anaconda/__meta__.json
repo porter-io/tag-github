@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.644238", 
+  "description": "Anaconda turns your Sublime Text 3 in a full featured Python development IDE including autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text 3", 
+  "fork": false, 
+  "full_name": "DamnWidget/anaconda", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:51.662692"
+}

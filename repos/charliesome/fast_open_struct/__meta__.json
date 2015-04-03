@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.704663", 
+  "description": "open struct that does not invalidate ruby's method cache every time it is instantiated", 
+  "fork": false, 
+  "full_name": "charliesome/fast_open_struct", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:13.712852"
+}

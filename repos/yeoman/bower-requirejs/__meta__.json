@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.659086", 
+  "description": "Automagically wire-up installed Bower components into your RequireJS config", 
+  "fork": false, 
+  "full_name": "yeoman/bower-requirejs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:49.300851"
+}

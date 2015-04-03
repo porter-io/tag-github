@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.157280", 
+  "description": "Lightweight Ruby daemon for reading local files and emitting remote syslog (without using local syslog daemon)", 
+  "fork": true, 
+  "full_name": "beaugunderson/remote_syslog", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:34.157312"
+}

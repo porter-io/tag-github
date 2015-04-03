@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.914227", 
+  "description": "Project management web application with scrum in mind! Built on top of Django and AngularJS (Backend Code)", 
+  "fork": false, 
+  "full_name": "taigaio/taiga-back", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:01:23.418395"
+}

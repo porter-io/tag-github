@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.787903", 
+  "description": "config files for zsh, bash, completions, gem, git, irb, rails, vim", 
+  "fork": true, 
+  "full_name": "r00k/dotfiles", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T22:27:31.788604"
+}

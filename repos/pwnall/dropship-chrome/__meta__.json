@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.602343", 
+  "description": "The source code for the \"Download to Dropbox\" Chrome extension, before it makes it to dropbox.js/samples", 
+  "fork": false, 
+  "full_name": "pwnall/dropship-chrome", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T08:16:40.985250"
+}

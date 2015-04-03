@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.548804", 
+  "description": "Tool for creating Objective-C frameworks for iOS (iPhone and iPad) around static libraries", 
+  "fork": false, 
+  "full_name": "defagos/make-fmwk", 
+  "language": "Shell", 
+  "updated_at": "2015-03-10T07:01:09.715522"
+}

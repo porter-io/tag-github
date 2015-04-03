@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.373091", 
+  "description": "A plugin for ios phone gap to launch the dialer programatically in ios >= 5", 
+  "fork": false, 
+  "full_name": "j-mcnally/PhoneGap-ios-PhoneDialer", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:35.336215"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.777431", 
+  "description": "SWANK and nREPL servers for clojure providing JPDA based debuggers", 
+  "fork": false, 
+  "full_name": "pallet/ritz", 
+  "language": "Common Lisp", 
+  "updated_at": "2015-02-27T23:43:02.258068"
+}

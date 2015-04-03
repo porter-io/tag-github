@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.467301", 
+  "description": "a DSL for creating total and truly incremental parsers in Clojure", 
+  "fork": false, 
+  "full_name": "cgrand/parsley", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:26.246282"
+}

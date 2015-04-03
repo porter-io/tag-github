@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.048321", 
+  "description": "walk the dependency graph to generate a stream of json output", 
+  "fork": false, 
+  "full_name": "substack/module-deps", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.845335"
+}

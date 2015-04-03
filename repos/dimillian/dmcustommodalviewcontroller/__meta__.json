@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.479889", 
+  "description": "A UIViewController which take a root view controller and present it modally with a nice animation", 
+  "fork": false, 
+  "full_name": "Dimillian/DMCustomModalViewController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:18.914703"
+}

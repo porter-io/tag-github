@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.791935", 
+  "description": "A tool to manage project, user, and global Git hooks", 
+  "fork": false, 
+  "full_name": "icefox/git-hooks", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:44:30.092960"
+}

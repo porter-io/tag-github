@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.182938", 
+  "description": "Use the same chef to provision Vagrant VMs and EC2 instances", 
+  "fork": false, 
+  "full_name": "lynaghk/vagrant-ec2", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:22.842143"
+}

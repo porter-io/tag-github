@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.503188", 
+  "description": "Capybara driver that makes accessibility assertions in CI", 
+  "fork": false, 
+  "full_name": "Casecommons/capybara-accessible", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:27.178185"
+}

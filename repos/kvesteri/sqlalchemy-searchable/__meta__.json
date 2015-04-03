@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.277377", 
+  "description": "Fulltext searchable models for SQLAlchemy. Only supports PostgreSQL", 
+  "fork": false, 
+  "full_name": "kvesteri/sqlalchemy-searchable", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:01.323308"
+}

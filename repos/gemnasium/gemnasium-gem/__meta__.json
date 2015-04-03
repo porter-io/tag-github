@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.170442", 
+  "description": "Ruby-based client for Gemnasium.com, now deprecated. Please use the Gemnasium Toolbelt instead! https://github.com/gemnasium/toolbelt", 
+  "fork": false, 
+  "full_name": "gemnasium/gemnasium-gem", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:30:38.427863"
+}

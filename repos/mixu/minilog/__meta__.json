@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.838275", 
+  "description": "Lightweight client & server-side logging with Stream-API backends", 
+  "fork": false, 
+  "full_name": "mixu/minilog", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:24.536022"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.561524", 
+  "description": "Stack middleware for adding geolocation results as a HTTP header to the request.", 
+  "fork": false, 
+  "full_name": "geocoder-php/StackGeoIp", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:28.535840"
+}

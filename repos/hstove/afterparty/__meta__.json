@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.245289", 
+  "description": "A Rails 4 compatible queue with support for executing jobs in the future and serialization with ActiveRecord.", 
+  "fork": false, 
+  "full_name": "hstove/afterparty", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:25.296339"
+}

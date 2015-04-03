@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.748848", 
+  "description": "An Ajax library that can target local JS code and web workers.", 
+  "fork": false, 
+  "full_name": "pfraze/local", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:54.299614"
+}

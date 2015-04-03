@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.471137", 
+  "description": "Startup scripts for Zsh and other dot files. Placed here so that I can easily share them between my devices.", 
+  "fork": false, 
+  "full_name": "howardabrams/dot-files", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:43:18.899931"
+}

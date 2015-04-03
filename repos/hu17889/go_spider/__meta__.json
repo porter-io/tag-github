@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.513435", 
+  "description": "[\u722c\u866b\u6846\u67b6 (golang)] An awesome Go concurrent Crawler(spider) framework. The crawler is flexible and modular. It can be expanded to an Individualized crawler easily or you can use the default crawl components only. ", 
+  "fork": false, 
+  "full_name": "hu17889/go_spider", 
+  "language": "Go", 
+  "updated_at": "2015-04-01T19:30:24.643888"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.687192", 
+  "description": "The conformance test tool for HTTP/2 servers.", 
+  "fork": false, 
+  "full_name": "summerwind/h2spec", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:22.359342"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.015577", 
+  "description": "A modular (Frontend, Admin, and API) based Laravel 4 app to kickstart your project. Authorization with Oauth2 and Sentry. Built with easily expandable \"Plugin\" functionality", 
+  "fork": false, 
+  "full_name": "appitventures/Forret", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:32.944218"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.510590", 
+  "description": "Reload Rails code in development mode only when change is deteced", 
+  "fork": false, 
+  "full_name": "paneq/active_reload", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:58.925480"
+}

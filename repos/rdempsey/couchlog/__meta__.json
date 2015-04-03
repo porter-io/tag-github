@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.038894", 
+  "description": "A Rails plugin that uses CouchDB to store app logs rather than the standard log files.", 
+  "fork": false, 
+  "full_name": "rdempsey/CouchLog", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:19.955169"
+}

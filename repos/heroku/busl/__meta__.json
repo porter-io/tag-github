@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.109075", 
+  "description": "a simple pubsub service that runs on Heroku", 
+  "fork": false, 
+  "full_name": "heroku/busl", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:54.755047"
+}

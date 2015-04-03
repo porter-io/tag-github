@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.742789", 
+  "description": "A braindead LISP implementation in badly-written Erlang", 
+  "fork": false, 
+  "full_name": "breckinloggins/erlisp", 
+  "language": "Erlang", 
+  "updated_at": "2015-03-10T07:03:14.583667"
+}

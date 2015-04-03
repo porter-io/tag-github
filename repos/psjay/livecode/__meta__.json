@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.809507", 
+  "description": "Live sync your local code in Git repository to remote development server via rsync.", 
+  "fork": false, 
+  "full_name": "psjay/LiveCode", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:44.116803"
+}

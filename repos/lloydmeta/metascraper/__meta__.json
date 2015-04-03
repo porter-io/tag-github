@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.426048", 
+  "description": "Scala library for scraping metadata from specified URLs, with support for OpenGraph tags.", 
+  "fork": false, 
+  "full_name": "lloydmeta/metascraper", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:46.259621"
+}

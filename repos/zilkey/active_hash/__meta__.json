@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.476993", 
+  "description": "A readonly ActiveRecord-esque base class that lets you use a hash, a Yaml file or a custom file as the datasource", 
+  "fork": false, 
+  "full_name": "zilkey/active_hash", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:21.520818"
+}

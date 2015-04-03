@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.643591", 
+  "description": "A parser/serializer for SDP to JSON. Useful for converting SDP to other formats like Jingle for WebRTC signalling", 
+  "fork": false, 
+  "full_name": "otalk/sdp-jingle-json", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:33.257479"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.302311", 
+  "description": "Redis-based components for scrapy that allows distributed crawling", 
+  "fork": false, 
+  "full_name": "darkrho/scrapy-redis", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:51.427621"
+}

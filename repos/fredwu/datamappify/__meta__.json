@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.505921", 
+  "description": "Compose, decouple and manage domain logic and data persistence separately. Works particularly great for composing form objects!", 
+  "fork": false, 
+  "full_name": "fredwu/datamappify", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:55.186035"
+}

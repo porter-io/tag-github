@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.486285", 
+  "description": "This module is a bridge between the Kohana PHP framework (http://kohanaframework.org/) and the PHamlP library (http://code.google.com/p/phamlp/).", 
+  "fork": false, 
+  "full_name": "fredwu/kohana-phamlp", 
+  "language": "PHP", 
+  "updated_at": "2015-04-01T19:31:48.979823"
+}

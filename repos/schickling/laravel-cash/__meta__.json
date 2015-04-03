@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.567960", 
+  "description": "Simple to use cache layer for your laravel application using memcached & nginx.", 
+  "fork": false, 
+  "full_name": "schickling/laravel-cash", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:44:30.975012"
+}

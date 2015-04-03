@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.574233", 
+  "description": "HTML-rendered information about installation of Nginx with ngx_lua module and OpenResty", 
+  "fork": false, 
+  "full_name": "golgote/lua-resty-info", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:41:16.177626"
+}

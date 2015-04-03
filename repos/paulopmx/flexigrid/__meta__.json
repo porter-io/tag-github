@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.156196", 
+  "description": "Lightweight but rich data grid with resizable columns and a scrolling data to match the headers, plus an ability to connect to an xml/json based data source using Ajax to load the content.", 
+  "fork": false, 
+  "full_name": "paulopmx/Flexigrid", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:15.779709"
+}

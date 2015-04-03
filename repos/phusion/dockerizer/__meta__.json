@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.984974", 
+  "description": "Buildstep uses Docker and Buildpacks to build applications like Heroku", 
+  "fork": true, 
+  "full_name": "phusion/dockerizer", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T22:28:29.985116"
+}

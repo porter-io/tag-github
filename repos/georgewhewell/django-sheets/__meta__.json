@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.750106", 
+  "description": "Use Google Sheets as context variables in Django templates", 
+  "fork": false, 
+  "full_name": "georgewhewell/django-sheets", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:35.345152"
+}

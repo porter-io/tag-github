@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.087474", 
+  "description": "Find the first file matching a given pattern in the current directory or the nearest ancestor directory.", 
+  "fork": false, 
+  "full_name": "cowboy/node-findup-sync", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:37.779802"
+}

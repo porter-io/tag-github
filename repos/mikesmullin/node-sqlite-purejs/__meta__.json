@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.405368", 
+  "description": "SQLite compiled to JavaScript through Emscripten", 
+  "fork": true, 
+  "full_name": "mikesmullin/node-sqlite-purejs", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:02:59.278007"
+}

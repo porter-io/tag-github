@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:27:47.852691", 
+  "description": "Underscore 1.4 snippets for Sublime Text 2.  The snippets follow object-oriented style, i.e. `_(array).map(\u2026)`.", 
+  "fork": false, 
+  "full_name": "carlo/sublime-underscorejs-snippets", 
+  "updated_at": "2015-02-27T23:41:51.833989"
+}

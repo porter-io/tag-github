@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.519363", 
+  "description": "Shell script to download and set GO environmental paths to allow multiple versions.", 
+  "fork": false, 
+  "full_name": "cryptojuice/gobrew", 
+  "language": "Shell", 
+  "updated_at": "2015-02-28T08:41:02.954089"
+}

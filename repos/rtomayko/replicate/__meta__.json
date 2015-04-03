@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.574838", 
+  "description": "Dump and load relational objects between Ruby environments.", 
+  "fork": false, 
+  "full_name": "rtomayko/replicate", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:53.545179"
+}

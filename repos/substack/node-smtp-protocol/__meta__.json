@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.931283", 
+  "description": "smtp client and server protocol implementation in node", 
+  "fork": false, 
+  "full_name": "substack/node-smtp-protocol", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.738675"
+}

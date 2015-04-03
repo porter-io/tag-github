@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.935796", 
+  "description": "Normalizes nested JSON according to schema for Flux Stores", 
+  "fork": false, 
+  "full_name": "gaearon/normalizr", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:24.829155"
+}

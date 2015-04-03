@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.759052", 
+  "description": "A Static Library to be embedded on iOS applications to display pdf documents derived from Fast PDF", 
+  "fork": false, 
+  "full_name": "mobfarm/FastPdfKit", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:31:28.007738"
+}

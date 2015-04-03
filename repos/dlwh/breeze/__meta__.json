@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.908718", 
+  "description": "Breeze is a library for numerical processing, machine learning, and natural language processing. Its primary focus is on being generic, clean, and powerful without sacrificing (much) efficiency.  Breeze is the merger of the ScalaNLP and Scalala projects, because  one of the original maintainers is unable to continue development. The Scalala parts are largely rewritten.  ", 
+  "fork": true, 
+  "full_name": "dlwh/breeze", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T22:27:46.908843"
+}

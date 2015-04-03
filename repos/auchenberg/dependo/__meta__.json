@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.471429", 
+  "description": "Visualize your CommonJS or AMD module dependencies in a force directed graph report.", 
+  "fork": false, 
+  "full_name": "auchenberg/dependo", 
+  "language": "CSS", 
+  "updated_at": "2015-02-27T23:41:18.282284"
+}

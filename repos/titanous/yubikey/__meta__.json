@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.903040", 
+  "description": "A Ruby library for verifying, decoding, decrypting and parsing Yubikey one-time passwords.", 
+  "fork": false, 
+  "full_name": "titanous/yubikey", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:48.438481"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.839370", 
+  "description": "Reusable GeoDjango app with Norwegian administrative areas and data", 
+  "fork": false, 
+  "full_name": "anderser/django-norwaygeo", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:20.709747"
+}

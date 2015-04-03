@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.294798", 
+  "description": "Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.", 
+  "fork": false, 
+  "full_name": "serbanghita/Mobile-Detect", 
+  "language": "PHP", 
+  "updated_at": "2015-03-21T14:55:46.241735"
+}

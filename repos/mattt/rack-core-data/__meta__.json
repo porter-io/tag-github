@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.697083", 
+  "description": "Automatically generate REST APIs from Core Data models", 
+  "fork": false, 
+  "full_name": "mattt/rack-core-data", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:24.216775"
+}

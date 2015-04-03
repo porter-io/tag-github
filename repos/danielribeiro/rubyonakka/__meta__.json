@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.293291", 
+  "description": "High level concurrency using Akka actors and JRuby", 
+  "fork": false, 
+  "full_name": "danielribeiro/RubyOnAkka", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:35.003695"
+}

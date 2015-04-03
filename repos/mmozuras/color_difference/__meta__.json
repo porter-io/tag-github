@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.088419", 
+  "description": "Implementation of CIEDE2000 color-difference formula", 
+  "fork": false, 
+  "full_name": "mmozuras/color_difference", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:51.246945"
+}

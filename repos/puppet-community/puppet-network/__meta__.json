@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.077704", 
+  "description": "Types and providers to manage network interfaces", 
+  "fork": false, 
+  "full_name": "puppet-community/puppet-network", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:52.948081"
+}

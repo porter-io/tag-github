@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.950919", 
+  "description": "**Grit is no longer maintained. Check out libgit2/rugged.** Grit gives you object oriented read/write access to Git repositories via Ruby.", 
+  "fork": false, 
+  "full_name": "mojombo/grit", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:00.024489"
+}

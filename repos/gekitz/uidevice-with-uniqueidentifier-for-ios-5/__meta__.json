@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.828989", 
+  "description": "Brings back the unique identifier support under iOS 5, it uses the device's mac address in combination with the bundle identifier to generate a new hashed unique identifier.", 
+  "fork": false, 
+  "full_name": "gekitz/UIDevice-with-UniqueIdentifier-for-iOS-5", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:55.183790"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.280061", 
+  "description": "Simple UIView class with camera preview, live border detection, perspective correction and an easy to use API", 
+  "fork": false, 
+  "full_name": "mmackh/IPDFCameraViewController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:17.475740"
+}

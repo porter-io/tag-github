@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.157673", 
+  "description": "A WebSocket Implementation for Node.JS (Draft -08 through the final RFC 6455)", 
+  "fork": false, 
+  "full_name": "theturtle32/WebSocket-Node", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:39.045326"
+}

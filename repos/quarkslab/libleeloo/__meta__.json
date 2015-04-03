@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.299531", 
+  "description": "Library to manage big sets of integers (and IPv4 ranges)", 
+  "fork": false, 
+  "full_name": "quarkslab/libleeloo", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:41.507123"
+}

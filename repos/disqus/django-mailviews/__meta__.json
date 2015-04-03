@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.016155", 
+  "description": "Class-based email views for the Django framework, including a message previewer.", 
+  "fork": false, 
+  "full_name": "disqus/django-mailviews", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:28:11.226465"
+}

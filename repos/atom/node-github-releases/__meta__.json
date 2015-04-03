@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.368622", 
+  "description": "Node module for using GitHub Releases feature", 
+  "fork": false, 
+  "full_name": "atom/node-github-releases", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:55:01.971816"
+}

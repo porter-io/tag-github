@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.718058", 
+  "description": "Website performance sniffer. Uses phantomjs and netsniff.js to perform multiple tests and display averaged results.", 
+  "fork": false, 
+  "full_name": "pwlmaciejewski/basset", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:03:55.238340"
+}

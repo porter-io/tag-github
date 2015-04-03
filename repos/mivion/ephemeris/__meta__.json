@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.929665", 
+  "description": "Pure javascript implementation of ephemeris calculations for sun, planets, comets, asteroids and stars.", 
+  "fork": false, 
+  "full_name": "mivion/ephemeris", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:20.859168"
+}

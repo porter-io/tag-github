@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.384975", 
+  "description": "nginx module to log a full request", 
+  "fork": false, 
+  "full_name": "bitly/ngx_http_full_request_log", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:43.749497"
+}

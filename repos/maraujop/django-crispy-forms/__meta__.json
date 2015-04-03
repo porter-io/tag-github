@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.093240", 
+  "description": "The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.", 
+  "fork": false, 
+  "full_name": "maraujop/django-crispy-forms", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:56.937539"
+}

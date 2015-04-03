@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.557670", 
+  "description": "Simple and extensible framework for watching and handling file system events using the Java 7 Watch Service API.", 
+  "fork": false, 
+  "full_name": "rplevy/ojo", 
+  "language": "Clojure", 
+  "updated_at": "2015-04-01T19:31:09.747364"
+}

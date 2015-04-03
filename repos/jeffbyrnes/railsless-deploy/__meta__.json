@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.929175", 
+  "description": "Obsolete, see http://www.capistranorb.com/ for new Capistrano with no Railsisms!", 
+  "fork": false, 
+  "full_name": "jeffbyrnes/railsless-deploy", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:25.819314"
+}

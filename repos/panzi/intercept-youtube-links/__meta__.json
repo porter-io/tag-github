@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.851424", 
+  "description": "Inserts a hop to all watch links on YouTube in order to disable auto-play. The link won't be inserted by a normal click, only middle-click/context menu/D'n'D.", 
+  "fork": false, 
+  "full_name": "panzi/intercept-youtube-links", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:39.710956"
+}

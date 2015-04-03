@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.146232", 
+  "description": "Sass compiler task for boot 2", 
+  "fork": false, 
+  "full_name": "mathias/boot-sassc", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:25.892209"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.721010", 
+  "description": "HTTP request logger middleware for node.js", 
+  "fork": false, 
+  "full_name": "expressjs/morgan", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:54.200492"
+}

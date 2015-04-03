@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.832186", 
+  "description": "Find newer versions of Node.js dependencies than what your package.json allows", 
+  "fork": false, 
+  "full_name": "tjunnone/npm-check-updates", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:00.921591"
+}

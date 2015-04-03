@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.489721", 
+  "description": "ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.", 
+  "fork": false, 
+  "full_name": "stathissideris/ditaa", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:47.290642"
+}

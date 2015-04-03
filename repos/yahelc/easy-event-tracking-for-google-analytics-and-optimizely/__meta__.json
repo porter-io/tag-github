@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.392431", 
+  "description": "Simple jQuery plugin for DOM-event click tracking for Analytics, using mousedown and keydown for avoiding race-conditions. Includes shortcut functions for Google Analytics and Optimizely.", 
+  "fork": false, 
+  "full_name": "yahelc/Easy-Event-Tracking-for-Google-Analytics-and-Optimizely", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:06.528323"
+}

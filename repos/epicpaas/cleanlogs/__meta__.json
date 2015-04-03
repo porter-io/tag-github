@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.054937", 
+  "description": "A log file clean tool written in Golang.", 
+  "fork": false, 
+  "full_name": "EPICPaaS/cleanLogs", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:29.028829"
+}

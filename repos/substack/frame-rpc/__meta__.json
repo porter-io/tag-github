@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.894436", 
+  "description": "rpc between iframes and windows using postMessage with no serialization", 
+  "fork": false, 
+  "full_name": "substack/frame-rpc", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:51.110661"
+}

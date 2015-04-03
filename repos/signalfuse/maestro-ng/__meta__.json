@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.298174", 
+  "description": "Orchestration of Docker-based, multi-host environments", 
+  "fork": false, 
+  "full_name": "signalfuse/maestro-ng", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:12.794442"
+}

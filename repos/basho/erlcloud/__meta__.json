@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.972378", 
+  "description": "Cloud Computing library for erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB)", 
+  "fork": true, 
+  "full_name": "basho/erlcloud", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T22:28:41.972461"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.552483", 
+  "description": "An open-source distributed JSON document database with a pleasant and powerful query language.", 
+  "fork": false, 
+  "full_name": "rethinkdb/rethinkdb", 
+  "language": "C++", 
+  "updated_at": "2015-03-21T14:55:08.846404"
+}

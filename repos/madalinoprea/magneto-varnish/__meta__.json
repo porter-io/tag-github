@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.869468", 
+  "description": "Magento extension that implements full page caching using Varnish", 
+  "fork": false, 
+  "full_name": "madalinoprea/magneto-varnish", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:05.483242"
+}

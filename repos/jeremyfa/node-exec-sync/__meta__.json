@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.270430", 
+  "description": "IMPORTANT: This repository is no longer maintained. For the same feature, use this instead: https://github.com/mgutz/execSync", 
+  "fork": false, 
+  "full_name": "jeremyfa/node-exec-sync", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:59.092680"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.278367", 
+  "description": "A sublime plugin to format SQL. It supports both sublime 2 and 3.", 
+  "fork": false, 
+  "full_name": "zsong/SqlBeautifier", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:01:29.203348"
+}

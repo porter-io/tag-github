@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.509482", 
+  "description": "iOS In-App Purchase Validation - improved and modular version of Apple's VerificationController", 
+  "fork": false, 
+  "full_name": "evands/iap_validation", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:16.064039"
+}

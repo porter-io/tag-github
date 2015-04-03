@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.929879", 
+  "description": "A transparent layer for full-text search using Sphinx and Django", 
+  "fork": false, 
+  "full_name": "dcramer/django-sphinx", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:52.787023"
+}

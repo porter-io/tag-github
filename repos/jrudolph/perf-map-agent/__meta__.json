@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.084890", 
+  "description": "A java agent to generate method mappings to use with the linux `perf` tool", 
+  "fork": false, 
+  "full_name": "jrudolph/perf-map-agent", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:23.804703"
+}

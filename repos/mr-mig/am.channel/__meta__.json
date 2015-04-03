@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.538559", 
+  "description": "A fire-and-forget abstraction on top of $rootScope and $scope.", 
+  "fork": false, 
+  "full_name": "mr-mig/am.channel", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:14.343074"
+}

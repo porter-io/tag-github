@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.819188", 
+  "description": "Continuous Deployment for your DNS Records", 
+  "fork": false, 
+  "full_name": "codeship/dns_deploy", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:57.494386"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.016723", 
+  "description": "Library that provides an actor style message-passing programming model (in C++).", 
+  "fork": false, 
+  "full_name": "3rdparty/libprocess", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:03.143082"
+}

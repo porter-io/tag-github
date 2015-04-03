@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.431293", 
+  "description": "A layout that flows sections horizontally, going to the next column if section reaches the bottom of the collection view", 
+  "fork": false, 
+  "full_name": "thomasjoulin/TJCollectionViewColumnFlowLayout", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:56.404637"
+}

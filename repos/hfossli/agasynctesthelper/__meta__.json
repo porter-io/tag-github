@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.744932", 
+  "description": "C Macro for writing unit tests with asynchronous operations on iOS. Supports both SenTestingKit and XCTest.", 
+  "fork": false, 
+  "full_name": "hfossli/AGAsyncTestHelper", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:00:48.780411"
+}

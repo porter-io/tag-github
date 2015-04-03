@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.550646", 
+  "description": "Scala client and DSL for elasticsearch", 
+  "fork": false, 
+  "full_name": "sksamuel/elastic4s", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:41:45.589365"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.692089", 
+  "description": "a simple and fast JSON logging module for node.js services", 
+  "fork": false, 
+  "full_name": "trentm/node-bunyan", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:09.045689"
+}

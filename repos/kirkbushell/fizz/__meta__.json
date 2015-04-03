@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.262892", 
+  "description": "Fizz is a connector between Laravel's Form and Validator classes, providing 2 core pieces of functionality: form field value population, and error highlighting", 
+  "fork": false, 
+  "full_name": "kirkbushell/Fizz", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:00.407129"
+}

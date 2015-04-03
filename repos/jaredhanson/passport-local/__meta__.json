@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.805423", 
+  "description": "Username and password authentication strategy for Passport and Node.js.", 
+  "fork": false, 
+  "full_name": "jaredhanson/passport-local", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:48.380341"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.273517", 
+  "description": "A Middleware for Go Programming Language to check for JWTs on HTTP requests", 
+  "fork": false, 
+  "full_name": "auth0/go-jwt-middleware", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:34:07.747154"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.034648", 
+  "description": "Write your ActionMailer email templates in Markdown, send in html and plain text", 
+  "fork": false, 
+  "full_name": "schneems/maildown", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:52.901001"
+}

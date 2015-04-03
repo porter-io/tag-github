@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.136916", 
+  "description": "Conditions is cross platform portable class library that helps developers to write pre- and postcondition validations in a fluent manner. Writing these validations is easy and it improves the readability and maintainability of code.", 
+  "fork": false, 
+  "full_name": "ghuntley/conditions", 
+  "language": "Smalltalk", 
+  "updated_at": "2015-02-27T23:43:23.864277"
+}

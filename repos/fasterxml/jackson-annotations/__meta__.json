@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.051385", 
+  "description": "Core annotations (annotations that only depend on jackson-core) for Jackson data processor", 
+  "fork": false, 
+  "full_name": "FasterXML/jackson-annotations", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:28.652930"
+}

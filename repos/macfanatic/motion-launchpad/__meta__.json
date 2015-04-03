@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.003248", 
+  "description": "Provides a simple DSL for configuring actions on app launch", 
+  "fork": false, 
+  "full_name": "macfanatic/motion-launchpad", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:53.322470"
+}

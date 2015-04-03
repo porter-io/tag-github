@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.662574", 
+  "description": "Windows port of The Silver Searcher (like grep or ack but faster).", 
+  "fork": true, 
+  "full_name": "kjk/the_silver_searcher", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:04:44.854625"
+}

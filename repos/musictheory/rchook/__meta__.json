@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.923562", 
+  "description": "Make Xcode bump build #, tag git, and archive files on Product->Archive", 
+  "fork": false, 
+  "full_name": "musictheory/rchook", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:04.239033"
+}

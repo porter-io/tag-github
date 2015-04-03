@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.949369", 
+  "description": "Integrates jquery.ui's autocomplete plugin from front to back into a FubuMVC application", 
+  "fork": false, 
+  "full_name": "DarthFubuMVC/FubuMVC.AutoComplete", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:47.757167"
+}

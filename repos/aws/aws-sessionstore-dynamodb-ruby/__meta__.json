@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.214819", 
+  "description": "Handles sessions for Ruby web applications using DynamoDB as a backend.", 
+  "fork": false, 
+  "full_name": "aws/aws-sessionstore-dynamodb-ruby", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:36.669558"
+}

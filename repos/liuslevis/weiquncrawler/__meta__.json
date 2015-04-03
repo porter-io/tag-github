@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.637589", 
+  "description": "This is a crawler for Sina Weiqun website(WAP) information, including given Weiqun's posts, replies, users and their follow relation. Written in Python 2.7.1, store data in SQLite3. Relation-crawling part customized on Github Project sina_reptile.", 
+  "fork": false, 
+  "full_name": "liuslevis/weiquncrawler", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:46.605467"
+}

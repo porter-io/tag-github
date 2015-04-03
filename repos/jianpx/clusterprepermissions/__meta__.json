@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.698645", 
+  "description": "Cluster's reusable pre-permissions utility that lets developers ask the users on their own dialog for photos or contacts access, before making the system-based request. This is based on the Medium post by Cluster describing the different ways to ask for iOS permissions (https://medium.com/p/96fa4eb54f2c).", 
+  "fork": true, 
+  "full_name": "jianpx/ClusterPrePermissions", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:19.259089"
+}

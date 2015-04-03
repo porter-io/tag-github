@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.264345", 
+  "description": "uses recorderjs + web audio api. chrome only.", 
+  "fork": false, 
+  "full_name": "thomasboyt/web-audio-recording-demo", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:28.635219"
+}

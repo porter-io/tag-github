@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.889948", 
+  "description": "Convert a set of images into a spritesheet and CSS variables via gulp", 
+  "fork": false, 
+  "full_name": "twolfson/gulp.spritesmith", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:00.809061"
+}

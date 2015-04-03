@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.844565", 
+  "description": "A zc.buildout extension to ease the development of large projects with lots of packages.", 
+  "fork": false, 
+  "full_name": "fschulze/mr.developer", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:04.130001"
+}

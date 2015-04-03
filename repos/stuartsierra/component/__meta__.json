@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.172881", 
+  "description": "Managed lifecycle of stateful objects in Clojure", 
+  "fork": false, 
+  "full_name": "stuartsierra/component", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:44:15.700355"
+}

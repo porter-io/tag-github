@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.690729", 
+  "description": "Parse and stringify URL query strings", 
+  "fork": false, 
+  "full_name": "sindresorhus/query-string", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.100818"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.448308", 
+  "description": "A simple Django app that collects and displays Stripe data.", 
+  "fork": false, 
+  "full_name": "zapier/stripeboard", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:22.221826"
+}

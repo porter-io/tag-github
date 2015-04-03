@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.582079", 
+  "description": "Ring adapter for jetty9, which supports websocket and spdy", 
+  "fork": false, 
+  "full_name": "sunng87/ring-jetty9-adapter", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:37.983349"
+}

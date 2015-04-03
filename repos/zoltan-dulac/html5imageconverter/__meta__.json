@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.635241", 
+  "description": "A series of scripts that convert image files into new image formats (APNG, WEBP, JPEG-2000, JPEG-XR) with HTML code using <picture> that works in all browsers ", 
+  "fork": false, 
+  "full_name": "zoltan-dulac/html5ImageConverter", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:50.668694"
+}

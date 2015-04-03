@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.588028", 
+  "description": "RackTest driver for Capybara with remote request support", 
+  "fork": false, 
+  "full_name": "jeroenvandijk/capybara-mechanize", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:27.784570"
+}

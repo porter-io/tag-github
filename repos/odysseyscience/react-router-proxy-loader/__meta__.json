@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.677044", 
+  "description": "Dynamically load react-router components on-demand, based on react-proxy-loader", 
+  "fork": false, 
+  "full_name": "odysseyscience/react-router-proxy-loader", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:57.098533"
+}

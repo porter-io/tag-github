@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.540973", 
+  "description": "GNU GSL Statistics library (v1.15, GPLv3) implemented in Go", 
+  "fork": false, 
+  "full_name": "grd/stat", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:17.331053"
+}

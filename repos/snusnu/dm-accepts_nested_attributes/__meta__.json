@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.744018", 
+  "description": "A DataMapper plugin that allows nested model assignment like activerecord.", 
+  "fork": false, 
+  "full_name": "snusnu/dm-accepts_nested_attributes", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:13.226727"
+}

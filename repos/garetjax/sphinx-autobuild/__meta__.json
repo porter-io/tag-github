@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.627764", 
+  "description": "Watch a Sphinx directory and rebuild the documentation when a change is detected. Also includes a livereload enabled web server.", 
+  "fork": false, 
+  "full_name": "GaretJax/sphinx-autobuild", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:16.858559"
+}

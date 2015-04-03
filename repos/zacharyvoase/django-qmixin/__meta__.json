@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.301663", 
+  "description": "A Django app for extending managers and the querysets they produce.", 
+  "fork": false, 
+  "full_name": "zacharyvoase/django-qmixin", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:38.196285"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.170970", 
+  "description": "Generate & display class hierarchy diagrams for Java classes", 
+  "fork": false, 
+  "full_name": "stuartsierra/class-diagram", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:44:15.698222"
+}

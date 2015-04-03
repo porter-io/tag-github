@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.948638", 
+  "description": "HTML/JS/CSS Compressor (YUICompressor,HTMLCompressor,Closure Compiler) and CSS Data URI embedder packaged into one tool", 
+  "fork": false, 
+  "full_name": "gorakhargosh/squeeze", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:04:29.093507"
+}

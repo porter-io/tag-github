@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.867927", 
+  "description": "gzip support for koa responses.", 
+  "fork": false, 
+  "full_name": "koajs/koa-gzip", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.687429"
+}

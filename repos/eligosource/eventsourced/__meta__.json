@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.684181", 
+  "description": "A library for building reliable, scalable and distributed event-sourced applications in Scala", 
+  "fork": false, 
+  "full_name": "eligosource/eventsourced", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:50.715899"
+}

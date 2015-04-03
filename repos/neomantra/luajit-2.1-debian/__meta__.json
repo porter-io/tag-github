@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.797638", 
+  "description": "LuaJIT v2.1 repo with Debian packaging.  See Wiki for how to build. Forked from http://anonscm.debian.org/gitweb/?p=pkg-lua/luajit.git with v2.1 pulled from that branch on http://luajit.org/git/luajit-2.0.git", 
+  "fork": false, 
+  "full_name": "neomantra/luajit-2.1-debian", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:44:30.108699"
+}

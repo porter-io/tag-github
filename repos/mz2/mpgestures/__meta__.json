@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.820245", 
+  "description": "Fork of https://github.com/fe9lix/DollarP_ObjC ported to OSX, with a supervised learning layer to improve gesture detection accuracy and backed by a crowdsourcable database of gestures", 
+  "fork": false, 
+  "full_name": "mz2/MPGestures", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:00:53.831420"
+}

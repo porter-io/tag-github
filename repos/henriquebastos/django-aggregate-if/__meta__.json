@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.623910", 
+  "description": "Conditional aggregates for Django queries, just like the famous SumIf and CountIf in Excel.", 
+  "fork": false, 
+  "full_name": "henriquebastos/django-aggregate-if", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:11.806015"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.778300", 
+  "description": "The bare minimum required to run a Django 1.7 project without errors. (Hello World for Django)", 
+  "fork": false, 
+  "full_name": "halfnibble/django-light", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:37.154089"
+}

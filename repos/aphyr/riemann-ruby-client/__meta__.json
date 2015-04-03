@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.941838", 
+  "description": "A Ruby client for the Riemann event system", 
+  "fork": false, 
+  "full_name": "aphyr/riemann-ruby-client", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:55.825410"
+}

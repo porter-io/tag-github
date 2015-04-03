@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.501318", 
+  "description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.", 
+  "fork": false, 
+  "full_name": "php-vcr/php-vcr", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:44:13.103258"
+}

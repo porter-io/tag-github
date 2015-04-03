@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.449170", 
+  "description": "Puppet module to manage keepalived", 
+  "fork": false, 
+  "full_name": "luxflux/puppet-keepalived", 
+  "language": "Puppet", 
+  "updated_at": "2015-02-27T23:43:40.426575"
+}

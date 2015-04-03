@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.761246", 
+  "description": "A package management tool for Emacs, built on Cask.", 
+  "fork": false, 
+  "full_name": "rdallasgray/pallet", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:43:11.307289"
+}

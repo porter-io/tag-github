@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.803045", 
+  "description": "Adds nested inline support in Django admin", 
+  "fork": true, 
+  "full_name": "spanishdict/django-nested-inlines", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:50.376907"
+}

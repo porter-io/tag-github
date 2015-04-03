@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.716245", 
+  "description": "For ruby; a simple way of doing heavy work in a background thread in and when you really need the object it will block until it is done", 
+  "fork": false, 
+  "full_name": "Fonsan/dunder", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:49.896237"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.133427", 
+  "description": "Provide useful extra functionality to base JS objects (e.g. Array, String, Date etc) for use with jQuery", 
+  "fork": false, 
+  "full_name": "vitch/jquery-methods", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:04.399955"
+}

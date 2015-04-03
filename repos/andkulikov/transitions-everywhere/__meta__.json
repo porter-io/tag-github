@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.205700", 
+  "description": "Backport of Transitions API for animations from Android KitKat and Lollipop. Compatible with Android 2.2+", 
+  "fork": false, 
+  "full_name": "andkulikov/transitions-everywhere", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:08.966523"
+}

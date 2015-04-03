@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.563374", 
+  "description": "A yeoman generator which combines the best features and practices to initialise and scaffold an AngularJS based cordova mobile app using a module based approach.", 
+  "fork": false, 
+  "full_name": "keshavos/generator-angularjs-cordova", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:00:50.046940"
+}

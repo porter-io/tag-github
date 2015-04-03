@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.569222", 
+  "description": "django-moderation is reusable application for Django framework, that allows to moderate any model objects.", 
+  "fork": false, 
+  "full_name": "dominno/django-moderation", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:30:13.227033"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.295304", 
+  "description": "GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats. This is a mirror of the GDAL Subversion repository.", 
+  "fork": false, 
+  "full_name": "OSGeo/gdal", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:44.487108"
+}

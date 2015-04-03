@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.808342", 
+  "description": "A sudoku solver using the Rust programming language", 
+  "fork": false, 
+  "full_name": "aochagavia/Rust-Sudoku-Solver", 
+  "language": "Rust", 
+  "updated_at": "2015-02-27T23:42:24.401266"
+}

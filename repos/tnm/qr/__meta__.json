@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.534169", 
+  "description": "Queues, stacks, deques, and priority queues with Redis", 
+  "fork": false, 
+  "full_name": "tnm/qr", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:49.809571"
+}

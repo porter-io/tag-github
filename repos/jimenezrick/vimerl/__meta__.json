@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.795233", 
+  "description": "The Erlang plugin for Vim", 
+  "fork": true, 
+  "full_name": "jimenezrick/vimerl", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T22:28:01.798028"
+}

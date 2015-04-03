@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.430509", 
+  "description": "mail queuing and management for the Django web framework", 
+  "fork": false, 
+  "full_name": "jtauber/django-mailer", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:28:48.366226"
+}

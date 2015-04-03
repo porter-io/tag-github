@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.422203", 
+  "description": "CPU miner for Litecoin and Bitcoin", 
+  "fork": true, 
+  "full_name": "pooler/cpuminer", 
+  "language": "Assembly", 
+  "updated_at": "2015-02-27T22:28:22.422279"
+}

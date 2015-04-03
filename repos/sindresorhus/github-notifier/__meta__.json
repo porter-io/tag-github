@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.398347", 
+  "description": "Browser extension that displays your GitHub notifications unread count. Chrome, Firefox, Opera, Safari", 
+  "fork": false, 
+  "full_name": "sindresorhus/github-notifier", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.384466"
+}

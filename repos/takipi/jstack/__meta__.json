@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.752332", 
+  "description": "Preemptive jstack for production debugging as presented by Tal Weiss from Takipi @ JavaOne '14 SF", 
+  "fork": false, 
+  "full_name": "takipi/jstack", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:08.040198"
+}

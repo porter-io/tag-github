@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.954555", 
+  "description": "Port of Simon Willison's Soup Select (for BeautifulSoup) to node.js and node-htmlparser", 
+  "fork": false, 
+  "full_name": "harryf/node-soupselect", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:41.719118"
+}

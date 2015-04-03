@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.746263", 
+  "description": "A client for remotely controlling a Raspberry Pi running Pi-Control-Service (https://github.com/projectweekend/Pi-Control-Service)", 
+  "fork": false, 
+  "full_name": "projectweekend/Pi-Control-Client", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:49.443341"
+}

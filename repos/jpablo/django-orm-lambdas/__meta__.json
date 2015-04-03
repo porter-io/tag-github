@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.701978", 
+  "description": "A LINQ-esque Manager for Django models", 
+  "fork": false, 
+  "full_name": "jpablo/django-orm-lambdas", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:38.254327"
+}

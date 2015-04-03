@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.061721", 
+  "description": "Framework running on the .NET platform that implements the 'naked objects pattern', and supports the Restful Objects API standard", 
+  "fork": false, 
+  "full_name": "NakedObjectsGroup/NakedObjectsFramework", 
+  "language": "C#", 
+  "updated_at": "2015-04-01T19:30:01.621285"
+}

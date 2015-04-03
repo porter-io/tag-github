@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:50.228973", 
+  "description": "A pull-to-refresh view for iOS 5, 100% API-compatible with UIRefreshControl in iOS 6", 
+  "fork": false, 
+  "full_name": "instructure/CKRefreshControl", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:19.167640"
+}

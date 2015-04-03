@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.453119", 
+  "description": "A Flask skeleton application (simple package structured) with Twitter Bootstrap integration, SQLAlchemy, Gunicorn, Fabric, Sqlite and Postgresql. Heroku Ready!", 
+  "fork": false, 
+  "full_name": "albertogg/flask-bootstrap-skel", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:03:21.534481"
+}

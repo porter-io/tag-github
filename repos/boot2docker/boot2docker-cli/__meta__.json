@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.359915", 
+  "description": "boot2docker management utility", 
+  "fork": false, 
+  "full_name": "boot2docker/boot2docker-cli", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:51.708306"
+}

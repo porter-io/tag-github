@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.391855", 
+  "description": "Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules", 
+  "fork": false, 
+  "full_name": "airbnb/chronos", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:42.166060"
+}

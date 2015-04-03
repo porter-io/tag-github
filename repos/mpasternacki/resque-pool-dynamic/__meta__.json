@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.887990", 
+  "description": "A dynamic manager for resque pool", 
+  "fork": false, 
+  "full_name": "mpasternacki/resque-pool-dynamic", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:38.825785"
+}

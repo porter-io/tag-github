@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.847545", 
+  "description": "Dogecoin Wallet app for your Android device. Standalone Dogecoin node, no centralized backend required. Forked from the popular Bitcoin Wallet.", 
+  "fork": true, 
+  "full_name": "langerhans/dogecoin-wallet-new", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T22:28:38.847624"
+}

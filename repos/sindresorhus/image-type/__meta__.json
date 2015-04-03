@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.647619", 
+  "description": "Detect the image type of a Buffer/Uint8Array", 
+  "fork": false, 
+  "full_name": "sindresorhus/image-type", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.013012"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.309729", 
+  "description": "Play the interesting 2048 game right inside atom.", 
+  "fork": false, 
+  "full_name": "void-main/atom-2048", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:01.235145"
+}

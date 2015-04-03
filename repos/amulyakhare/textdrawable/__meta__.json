@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.101798", 
+  "description": "This light-weight library provides images with letter/text like the Gmail app. It extends the Drawable class thus can be used with existing/custom/network ImageView classes. Also included is a fluent interface for creating drawables and a customizable ColorGenerator.", 
+  "fork": false, 
+  "full_name": "amulyakhare/TextDrawable", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:42.172413"
+}

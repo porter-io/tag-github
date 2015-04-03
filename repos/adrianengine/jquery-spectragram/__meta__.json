@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.859574", 
+  "description": "A jQuery plugin using the Instagram API to fetch and display user, popular or tags photo feeds inside a list or any container you define.", 
+  "fork": false, 
+  "full_name": "adrianengine/jquery-spectragram", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:52.817288"
+}

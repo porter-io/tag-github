@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.224690", 
+  "description": "Lock down your npm dependencies by shasum.", 
+  "fork": false, 
+  "full_name": "mozilla/npm-lockdown", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:15.942092"
+}

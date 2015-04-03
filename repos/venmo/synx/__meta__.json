@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.250391", 
+  "description": "A command-line tool that reorganizes your Xcode project folder to match your Xcode groups", 
+  "fork": false, 
+  "full_name": "venmo/synx", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:14.575556"
+}

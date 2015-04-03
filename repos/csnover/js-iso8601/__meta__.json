@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.223421", 
+  "description": "Enhances Date.parse to support ES5 ISO-8601 strings in all environments.", 
+  "fork": false, 
+  "full_name": "csnover/js-iso8601", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:10.784268"
+}

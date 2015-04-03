@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.212772", 
+  "description": "Ansible examples using Vagrant to deploy to local VMs.", 
+  "fork": false, 
+  "full_name": "geerlingguy/ansible-vagrant-examples", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:50.302055"
+}

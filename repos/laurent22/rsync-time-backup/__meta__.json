@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.810758", 
+  "description": "Time Machine style backup with rsync.", 
+  "fork": false, 
+  "full_name": "laurent22/rsync-time-backup", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:50.884431"
+}

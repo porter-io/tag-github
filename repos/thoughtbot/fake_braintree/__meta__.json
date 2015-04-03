@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.423399", 
+  "description": "A Braintree fake so that you can avoid hitting Braintree servers in tests.", 
+  "fork": false, 
+  "full_name": "thoughtbot/fake_braintree", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:49.744365"
+}

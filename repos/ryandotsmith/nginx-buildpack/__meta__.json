@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.565236", 
+  "description": "Run NGINX in front of your app server on Heroku", 
+  "fork": false, 
+  "full_name": "ryandotsmith/nginx-buildpack", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:59.621463"
+}

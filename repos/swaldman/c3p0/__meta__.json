@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.247194", 
+  "description": "a mature, highly concurrent JDBC Connection pooling library, with support for caching and reuse of PreparedStatements.", 
+  "fork": false, 
+  "full_name": "swaldman/c3p0", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:19.856128"
+}

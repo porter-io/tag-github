@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.615261", 
+  "description": "\u7528\u4e8e\u83b7\u4e8eMySQL\u673a\u5668\u6027\u80fd\u6570\u636e\u53ca\u5c55\u793a\u4f7f\u7528\uff0c\u65b9\u4fbf\u5728\u538b\u529b\u6d4b\u8bd5\u73af\u5883\u89c2\u67e5\u6027\u80fd\u5c55\u793a", 
+  "fork": false, 
+  "full_name": "wubx/myemctl", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:48.178847"
+}

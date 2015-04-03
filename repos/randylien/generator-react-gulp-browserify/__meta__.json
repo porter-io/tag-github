@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.691250", 
+  "description": "A Yeoman Generator for facebook's React framework. It includes gulp, browserify, livereload and famous official Twitter bootstrap Sass version", 
+  "fork": false, 
+  "full_name": "randylien/generator-react-gulp-browserify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:29:11.208440"
+}

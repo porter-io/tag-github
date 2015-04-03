@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.161099", 
+  "description": "Add support for master/slave database clusters in ActiveRecord to improve performance.", 
+  "fork": false, 
+  "full_name": "bdurand/seamless_database_pool", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:14.405523"
+}

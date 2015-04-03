@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.441586", 
+  "description": "A simple DNS server to be used in OSX in conjunction with an installed /etc/resolver entry", 
+  "fork": false, 
+  "full_name": "tokaido/tokaido-dns", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:37.379618"
+}

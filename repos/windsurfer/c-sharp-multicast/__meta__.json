@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.139548", 
+  "description": "Sends and recieves files over multicast - send one file to many computers at once", 
+  "fork": false, 
+  "full_name": "windsurfer/C-Sharp-Multicast", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:43:24.777865"
+}

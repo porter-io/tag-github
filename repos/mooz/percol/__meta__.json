@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.893690", 
+  "description": "adds flavor of interactive filtering to the traditional pipe concept of UNIX shell", 
+  "fork": false, 
+  "full_name": "mooz/percol", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:03:46.934704"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.291649", 
+  "description": "A C++ node.js module that does DES encryption and actually works (node's crypto module didn't work.)", 
+  "fork": false, 
+  "full_name": "pkrumins/node-des", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:02:28.752741"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.962273", 
+  "description": "Use the Google CDN to serve jquery ui and fall back to the local version if the CDN is unreachable. \u2014 Read more http://noconformity.com", 
+  "fork": false, 
+  "full_name": "chrishough/jquery-ui-rails-google-cdn", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:41.175333"
+}

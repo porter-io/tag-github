@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.843231", 
+  "description": "Ruby wrapper for hiredis", 
+  "fork": false, 
+  "full_name": "redis/hiredis-rb", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:41.317607"
+}

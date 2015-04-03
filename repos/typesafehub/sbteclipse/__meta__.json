@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.366442", 
+  "description": "Plugin for sbt to create Eclipse project definitions", 
+  "fork": false, 
+  "full_name": "typesafehub/sbteclipse", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:11.649896"
+}

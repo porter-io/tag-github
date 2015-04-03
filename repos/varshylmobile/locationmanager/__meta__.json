@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.363168", 
+  "description": "CLLocationManager wrapper in Swift, performs location update, geocoding and reverse geocoding using Apple and Google service", 
+  "fork": false, 
+  "full_name": "varshylmobile/LocationManager", 
+  "language": "Swift", 
+  "updated_at": "2015-02-27T23:43:45.145116"
+}

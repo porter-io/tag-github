@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.272158", 
+  "description": "A collection of Rake tasks for managing and distributing iOS ad-hoc builds", 
+  "fork": false, 
+  "full_name": "lukeredpath/betabuilder", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:02.729503"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.323764", 
+  "description": "A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.", 
+  "fork": false, 
+  "full_name": "path/android-priority-jobqueue", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:45.451222"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.480512", 
+  "description": "BTCplex is an open source Bitcoin block chain browser written in Go, it allows you to search and navigate the block chain.", 
+  "fork": false, 
+  "full_name": "tsileo/btcplex", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:59.569329"
+}

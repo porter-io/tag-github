@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.530578", 
+  "description": "unix-like reverse engineering framework and commandline tools", 
+  "fork": false, 
+  "full_name": "radare/radare2", 
+  "language": "C", 
+  "updated_at": "2015-04-01T19:30:13.171975"
+}

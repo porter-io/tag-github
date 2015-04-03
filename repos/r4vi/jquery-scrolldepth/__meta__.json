@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.944499", 
+  "description": "jQuery plugin to track visitor scroll depth (forked to work with jQuery 1.44+)", 
+  "fork": true, 
+  "full_name": "r4vi/jquery-scrolldepth", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:28:51.944661"
+}

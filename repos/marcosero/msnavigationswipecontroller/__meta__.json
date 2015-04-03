@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.923068", 
+  "description": "Subclass of UINavigationController to add 'swipe right to go back' gesture recognizer like most apps (Facebook, Tweetbot) already do.", 
+  "fork": false, 
+  "full_name": "MarcoSero/MSNavigationSwipeController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-28T08:41:26.801246"
+}

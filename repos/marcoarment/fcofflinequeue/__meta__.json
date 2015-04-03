@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.524444", 
+  "description": "A serial iOS operation queue that pauses when offline and persists unfinished operations between launches.", 
+  "fork": false, 
+  "full_name": "marcoarment/FCOfflineQueue", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:02:03.255422"
+}

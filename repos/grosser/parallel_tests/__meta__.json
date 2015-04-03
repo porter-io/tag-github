@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.369554", 
+  "description": "Rails: 2 CPUs = 2x Testing Speed for RSpec, Test::Unit and Cucumber", 
+  "fork": false, 
+  "full_name": "grosser/parallel_tests", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:57.108362"
+}

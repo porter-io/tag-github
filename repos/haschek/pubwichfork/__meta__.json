@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.106306", 
+  "description": "Pubwich is an open-source PHP Web application that allows you to aggregate your published data from multiple websites and social services into a single HTML page. This fork fixed several bugs, adds filtering methods to the data streams, enables output caching and post-output processings.", 
+  "fork": true, 
+  "full_name": "haschek/PubwichFork", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T22:28:06.106382"
+}

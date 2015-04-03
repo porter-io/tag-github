@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.804788", 
+  "description": "A library for handling HTTP JSON-RPC in Google Go", 
+  "fork": false, 
+  "full_name": "ThePiachu/Go-HTTP-JSON-RPC", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:08.850005"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.213154", 
+  "description": "Asynchronous MySQL binding for Node.js", 
+  "fork": false, 
+  "full_name": "Sannis/node-mysql-libmysqlclient", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:49.588604"
+}

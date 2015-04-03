@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.476286", 
+  "description": "Naive performance test of two ways to do type assertion in Go.", 
+  "fork": false, 
+  "full_name": "hgfischer/go-type-assertion-benchmark", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:15.162768"
+}

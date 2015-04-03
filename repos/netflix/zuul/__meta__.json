@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.259206", 
+  "description": "Zuul is an edge service that provides dynamic routing, monitoring, resiliency, security, and more.", 
+  "fork": false, 
+  "full_name": "Netflix/zuul", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:31.239888"
+}

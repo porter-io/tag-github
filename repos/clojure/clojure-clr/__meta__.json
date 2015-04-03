@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.618163", 
+  "description": "A port of Clojure to the CLR, part of the Clojure project", 
+  "fork": false, 
+  "full_name": "clojure/clojure-clr", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:44:02.873705"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.350297", 
+  "description": "An adapter-based ORM for Node.js  with support for mysql, mongo, postgres, redis, and more", 
+  "fork": false, 
+  "full_name": "balderdashy/waterline", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:31.602626"
+}

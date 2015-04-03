@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.845155", 
+  "description": "Create reports based on your log files. Supports Rails, Apache, MySQL, Delayed::Job, and other formats.", 
+  "fork": false, 
+  "full_name": "wvanbergen/request-log-analyzer", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:07.265175"
+}

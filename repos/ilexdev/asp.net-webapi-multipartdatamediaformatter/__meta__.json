@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.881187", 
+  "description": "Used for binding custom types (including files) when sending and receiving multipart encoded form data", 
+  "fork": false, 
+  "full_name": "iLexDev/ASP.NET-WebApi-MultipartDataMediaFormatter", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:41:22.544084"
+}

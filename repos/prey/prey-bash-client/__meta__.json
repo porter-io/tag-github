@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.140780", 
+  "description": "Bash client for the Prey anti-theft software (Mac, Windows, Linux). The original.", 
+  "fork": false, 
+  "full_name": "prey/prey-bash-client", 
+  "language": "Perl", 
+  "updated_at": "2015-03-10T07:04:12.971970"
+}

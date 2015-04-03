@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.006153", 
+  "description": "gzippo pronounced `g-zippo` is a nodejs gzip middleware for Connect and express js using the new native node zlib api", 
+  "fork": false, 
+  "full_name": "tomgco/gzippo", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:03.116014"
+}

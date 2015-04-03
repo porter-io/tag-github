@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.301907", 
+  "description": "A UIView subclass displaying download progress. Looks similarly to springboard icons of apps being downloaded in iOS 7.", 
+  "fork": false, 
+  "full_name": "daria-kopaliani/DAProgressOverlayView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:04.175273"
+}

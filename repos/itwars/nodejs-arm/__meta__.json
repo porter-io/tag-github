@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:20.306703", 
+  "description": "Node.js Debian / Raspbian package for ARMv5t kirkwood aka armel / ARMv6 RaspberryPI aka armhf", 
+  "fork": false, 
+  "full_name": "itwars/nodejs-ARM", 
+  "updated_at": "2015-03-10T07:02:10.050857"
+}

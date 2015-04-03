@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.924362", 
+  "description": "Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files", 
+  "fork": false, 
+  "full_name": "westonplatter/phashion", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:27.769076"
+}

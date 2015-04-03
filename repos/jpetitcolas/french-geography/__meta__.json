@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.450012", 
+  "description": "A collaborative list of all French regions, departments and cities. Currently only in SQL, but perhaps soon in YAML, XML, etc.", 
+  "fork": false, 
+  "full_name": "jpetitcolas/french-geography", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:01:59.454691"
+}

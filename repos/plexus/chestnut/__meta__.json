@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.143193", 
+  "description": "Application template for ClojureScript/Om with live reloading.", 
+  "fork": false, 
+  "full_name": "plexus/chestnut", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:33.921066"
+}

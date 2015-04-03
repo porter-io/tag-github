@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.958209", 
+  "description": "A Django Central Authentication Service (CAS) single sign-on server", 
+  "fork": false, 
+  "full_name": "jbittel/django-mama-cas", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:30.608742"
+}

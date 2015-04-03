@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.391271", 
+  "description": "Generate ActiveRecord models for a pre-existing Postgres db", 
+  "fork": false, 
+  "full_name": "twopoint718/reactive_record", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:55.084546"
+}

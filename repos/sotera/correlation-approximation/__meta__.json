@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.496635", 
+  "description": "Spark implementation of the Google Correlate algorithm to quickly find highly correlated vectors in huge datasets", 
+  "fork": false, 
+  "full_name": "Sotera/correlation-approximation", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:41:23.821227"
+}

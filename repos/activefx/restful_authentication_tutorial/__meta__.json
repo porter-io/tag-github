@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.625277", 
+  "description": "Full featured restful authentication starter app from http://railsforum.com/viewtopic.php?id=14216 combining role requirement, open id authentication, recaptcha, ui, debugging, and security plugins. ", 
+  "fork": false, 
+  "full_name": "activefx/restful_authentication_tutorial", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:59.845165"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.124319", 
+  "description": "Zero penalty runtime assertions for Clojure.", 
+  "fork": false, 
+  "full_name": "pjstadig/assertions", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:13.068027"
+}

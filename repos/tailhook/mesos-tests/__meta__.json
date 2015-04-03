@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.466718", 
+  "description": "Few semi-automated tests of mesos in various network failure conditions ", 
+  "fork": false, 
+  "full_name": "tailhook/mesos-tests", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:16.430921"
+}

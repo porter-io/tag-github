@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.553501", 
+  "description": "Ruby API Client for FederalRegister.gov that handles searching articles and getting information about agencies", 
+  "fork": false, 
+  "full_name": "usnationalarchives/federal_register", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:50.258112"
+}

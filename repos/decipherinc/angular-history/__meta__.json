@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.761293", 
+  "description": "A history service for AngularJS.  Undo/redo, that sort of thing.  Has nothing to do with the \"back\" button, unless you want it to.", 
+  "fork": false, 
+  "full_name": "decipherinc/angular-history", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:30.327448"
+}

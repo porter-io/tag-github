@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.396681", 
+  "description": "Simple reuse of cache from previous browserify builds. Supports cache invalidation without file watching.", 
+  "fork": false, 
+  "full_name": "bjoerge/rebundler", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:22.115805"
+}

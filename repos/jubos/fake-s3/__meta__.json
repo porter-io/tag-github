@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.274822", 
+  "description": "A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies", 
+  "fork": false, 
+  "full_name": "jubos/fake-s3", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:18.535825"
+}

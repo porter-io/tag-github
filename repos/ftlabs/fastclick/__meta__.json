@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.935432", 
+  "description": "Polyfill to remove click delays on browsers with touch UIs", 
+  "fork": false, 
+  "full_name": "ftlabs/fastclick", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-21T14:55:47.233316"
+}

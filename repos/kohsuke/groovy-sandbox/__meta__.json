@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.397023", 
+  "description": "Compile-time transformer to run Groovy code in a restrictive sandbox ", 
+  "fork": false, 
+  "full_name": "kohsuke/groovy-sandbox", 
+  "language": "Groovy", 
+  "updated_at": "2015-02-27T23:42:04.644147"
+}

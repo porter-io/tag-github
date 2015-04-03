@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.973575", 
+  "description": "FreeSWITCH ESL implementation for Node.js; implements the full Event Socket Library specified in:", 
+  "fork": false, 
+  "full_name": "englercj/node-esl", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:30.622995"
+}

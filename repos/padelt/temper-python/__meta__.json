@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.977669", 
+  "description": "libusb/PyUSB-based driver to read TEMPer USB HID devices (USB ID 0c45:7401) and serve as a NetSNMP passpersist module", 
+  "fork": false, 
+  "full_name": "padelt/temper-python", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:12.422766"
+}

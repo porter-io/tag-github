@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.224587", 
+  "description": "A captcha solver using pixel analysis to perform OCR.", 
+  "fork": false, 
+  "full_name": "chprice/UnCaptcha", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:25.956429"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.131078", 
+  "description": "Canvas implementation of basic fighting game which allows multiplayer game over the network.", 
+  "fork": false, 
+  "full_name": "mgechev/mk.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:03.500929"
+}

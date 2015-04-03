@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.893949", 
+  "description": "A request/response rewriting HTTP proxy. A Rack app.", 
+  "fork": false, 
+  "full_name": "ncr/rack-proxy", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:26.690350"
+}

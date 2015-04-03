@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.529868", 
+  "description": "Adds Swift support to vim. It covers syntax, intenting, and more.", 
+  "fork": false, 
+  "full_name": "toyamarinyon/vim-swift", 
+  "language": "VimL", 
+  "updated_at": "2015-03-10T07:00:46.866841"
+}

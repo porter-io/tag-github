@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.020322", 
+  "description": "Two factor auth using the TOTP draft spec. Compatible with the Google Authenticator or any other TOTP token.", 
+  "fork": false, 
+  "full_name": "mtigas/django-twofactor", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:21.464627"
+}

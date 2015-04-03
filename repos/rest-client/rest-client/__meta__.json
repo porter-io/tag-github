@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.229704", 
+  "description": "Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.", 
+  "fork": false, 
+  "full_name": "rest-client/rest-client", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:32.915068"
+}

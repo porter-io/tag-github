@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.521353", 
+  "description": "jsDAV allows you to easily add WebDAV support to a NodeJS application. jsDAV is meant to cover the entire standard, and attempts to allow integration using an easy to understand API.", 
+  "fork": true, 
+  "full_name": "tritech/jsDAV", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:27:44.521413"
+}

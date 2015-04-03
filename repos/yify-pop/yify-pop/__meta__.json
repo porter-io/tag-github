@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.647352", 
+  "description": "Inspired by Popcorn Time, a node web server to stream torrents from YIFY. Built using Geddy and the peerflix library.", 
+  "fork": false, 
+  "full_name": "yify-pop/yify-pop", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:29.593282"
+}

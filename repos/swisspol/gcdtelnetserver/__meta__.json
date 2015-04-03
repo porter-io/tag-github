@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.954062", 
+  "description": "Drop-in embedded Telnet server for iOS and OS X apps", 
+  "fork": false, 
+  "full_name": "swisspol/GCDTelnetServer", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:15.958109"
+}

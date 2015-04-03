@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.199167", 
+  "description": "A octopress plugin to sync the latest post to a website which suport MetaWeblog. etc Wordpress, CSDN, CNBlogs,BlogBus....", 
+  "fork": false, 
+  "full_name": "huangbowen521/octopress-syncPost", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:58.544226"
+}

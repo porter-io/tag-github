@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.755125", 
+  "description": "Interface to read a standard Unix passwd and group file-format", 
+  "fork": false, 
+  "full_name": "bahamas10/node-etc-passwd", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:07.528874"
+}

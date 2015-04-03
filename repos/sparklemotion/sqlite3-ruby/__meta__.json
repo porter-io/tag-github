@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.426782", 
+  "description": "Ruby bindings for the SQLite3 embedded database", 
+  "fork": false, 
+  "full_name": "sparklemotion/sqlite3-ruby", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:11.911267"
+}

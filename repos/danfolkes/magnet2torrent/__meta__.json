@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.122752", 
+  "description": "This will convert a magnet link into a .torrent file", 
+  "fork": false, 
+  "full_name": "danfolkes/Magnet2Torrent", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:47.736936"
+}

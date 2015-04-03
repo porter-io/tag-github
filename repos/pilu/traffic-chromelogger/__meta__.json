@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.249975", 
+  "description": "Chrome Logger middleware for the Traffic web framework (#Go #Golang)", 
+  "fork": false, 
+  "full_name": "pilu/traffic-chromelogger", 
+  "language": "Go", 
+  "updated_at": "2015-04-01T19:31:10.754865"
+}

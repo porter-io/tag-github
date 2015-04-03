@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.253219", 
+  "description": "An easy to use, non-blocking, fast Scala client library for interacting with Riak.", 
+  "fork": false, 
+  "full_name": "agemooij/riak-scala-client", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:44:02.369474"
+}

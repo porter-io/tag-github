@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.324442", 
+  "description": "TCP proxy that also duplicates traffic to a secondary host", 
+  "fork": false, 
+  "full_name": "agnoster/duplicator", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:51.640013"
+}

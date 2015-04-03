@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.991099", 
+  "description": "A Library for easily generating PDF documents given JSON markup", 
+  "fork": false, 
+  "full_name": "yogthos/json-to-pdf", 
+  "language": "Clojure", 
+  "updated_at": "2015-04-01T19:29:25.893294"
+}

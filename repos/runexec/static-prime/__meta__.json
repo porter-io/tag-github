@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.758303", 
+  "description": "A static website editor and server written in Clojure and ClojureScript.", 
+  "fork": false, 
+  "full_name": "runexec/Static-Prime", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:45.086373"
+}

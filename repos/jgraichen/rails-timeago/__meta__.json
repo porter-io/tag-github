@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.165830", 
+  "description": "A Rails 3/4 helper for time tags that can be used with the jQuery Timeago plugin.", 
+  "fork": false, 
+  "full_name": "jgraichen/rails-timeago", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:48.451045"
+}

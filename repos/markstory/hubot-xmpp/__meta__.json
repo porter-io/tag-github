@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.150013", 
+  "description": "XMPP adapter for Hubot", 
+  "fork": false, 
+  "full_name": "markstory/hubot-xmpp", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:55.524656"
+}

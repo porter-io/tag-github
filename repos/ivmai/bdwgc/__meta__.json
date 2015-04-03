@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.525209", 
+  "description": "The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehmgc) ", 
+  "fork": false, 
+  "full_name": "ivmai/bdwgc", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:46.259698"
+}

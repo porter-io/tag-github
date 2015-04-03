@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.508141", 
+  "description": "A barely tested lightweight implementation of OAuth 2.0 \"Bearer Token\"", 
+  "fork": true, 
+  "full_name": "jackdied/python-foauth2", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:28:01.508194"
+}

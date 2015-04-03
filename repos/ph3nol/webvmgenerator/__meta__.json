@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.452620", 
+  "description": "A generator service to make your Vagrant + Puppet web Virtual Machines easily.", 
+  "fork": false, 
+  "full_name": "Ph3nol/WebVMGenerator", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:04.202634"
+}

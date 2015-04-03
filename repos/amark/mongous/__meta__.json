@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.636983", 
+  "description": "Simple MongoDB driver for Node.js with jQuery like syntax.", 
+  "fork": false, 
+  "full_name": "amark/mongous", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:29.792199"
+}

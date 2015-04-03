@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.106591", 
+  "description": "Emacs minor mode that keeps your code always indented. More reliable than electric-indent-mode.", 
+  "fork": false, 
+  "full_name": "Bruce-Connor/aggressive-indent-mode", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:43:20.775665"
+}

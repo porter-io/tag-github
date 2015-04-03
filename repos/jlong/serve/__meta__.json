@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.417297", 
+  "description": "Serve is a small Rack-based web server and rapid prototyping framework for Web applications (specifically Rails apps). Serve is meant to be a lightweight version of the Views part of the Rails MVC. This makes Serve an ideal framework for prototyping Rails applications or creating simple websites. Serve has full support for Rails-style partials and layouts.", 
+  "fork": false, 
+  "full_name": "jlong/serve", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:30:56.364904"
+}

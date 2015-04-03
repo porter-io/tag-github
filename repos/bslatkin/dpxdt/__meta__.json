@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.369034", 
+  "description": "Make continuous deployment safe by comparing before and after webpage screenshots for each release. Depicted shows when any visual, perceptual differences are found. This is the ultimate, automated end-to-end test.", 
+  "fork": false, 
+  "full_name": "bslatkin/dpxdt", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:23.025555"
+}

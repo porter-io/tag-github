@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.927020", 
+  "description": "Experimental HTTP/2 plugin for HTTPie", 
+  "fork": false, 
+  "full_name": "jakubroztocil/httpie-http2", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:44.198587"
+}

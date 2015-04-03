@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.865653", 
+  "description": "This plugin enables 'enterprise-class' Google Sitemaps to be easily generated for a Rails site as a rake task, using a simple 'Rails Routes'-like DSL. It allows you to take care of familiar Sitemap issues like: Gzip of Sitemap files, variable priority links, paging/sorting links (e.g. my_list?page=3), SSL host links (e.g. https:), Rails apps which are installed on a sub-path (e.g. example.com/blog_app/) and hidden AJAX routes. It includes a Sitemap Index file so it supports more than the standard 50,000 individual urls (up to a maximum of 2.5 billion), and pings all major search engines on completion (Google, Yahoo, MSN, Ask, SitemapWriter).", 
+  "fork": false, 
+  "full_name": "adamsalter/sitemap_generator", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:09.619963"
+}

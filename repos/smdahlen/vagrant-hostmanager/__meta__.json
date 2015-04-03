@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.749014", 
+  "description": "A Vagrant plugin that manages the /etc/hosts file on guests within a multi-machine environment", 
+  "fork": false, 
+  "full_name": "smdahlen/vagrant-hostmanager", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:57.442956"
+}

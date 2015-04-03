@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.012982", 
+  "description": "CLI to change quotes in a file from single to double, or double to single.", 
+  "fork": false, 
+  "full_name": "jonschlinkert/change-quotes", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:03.268973"
+}

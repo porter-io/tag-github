@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.451288", 
+  "description": "Extracts a plist that\u2019s been embedded in the __TEXT __info_plist section", 
+  "fork": false, 
+  "full_name": "bavarious/BVPlistExtractor", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:31.381386"
+}

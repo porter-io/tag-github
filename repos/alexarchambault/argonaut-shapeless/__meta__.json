@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.842048", 
+  "description": "Automatic argonaut codec derivation with shapeless", 
+  "fork": false, 
+  "full_name": "alexarchambault/argonaut-shapeless", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:41:45.132921"
+}

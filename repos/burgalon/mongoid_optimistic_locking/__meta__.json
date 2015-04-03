@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.136971", 
+  "description": "Addon for Mongoid to allow optimistic locking (CAS)", 
+  "fork": false, 
+  "full_name": "burgalon/mongoid_optimistic_locking", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:30.582136"
+}

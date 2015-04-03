@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.006930", 
+  "description": "Flexible, JSON Schema-based request validator middleware for express and connect.", 
+  "fork": false, 
+  "full_name": "bugventure/request-validator", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:17.905094"
+}

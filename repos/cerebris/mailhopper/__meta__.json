@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.699357", 
+  "description": "An ActiveRecord based queue for email storage and delivery in Rails apps", 
+  "fork": false, 
+  "full_name": "cerebris/mailhopper", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:51.712870"
+}

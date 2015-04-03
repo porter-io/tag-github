@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.290182", 
+  "description": "Search for Django. Based lightly on Djangosearch. Currently beta. Use at your own risk.", 
+  "fork": true, 
+  "full_name": "brosner/django-haystack", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:43.832552"
+}

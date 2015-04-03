@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.063705", 
+  "description": "Make a wordpress site from a makefile, try to do something like drush for drupal.Caution: this project is in early stage, do not use it in your product enviroment.", 
+  "fork": false, 
+  "full_name": "etng/wp-maker", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:03.348013"
+}

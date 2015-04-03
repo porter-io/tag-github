@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.931743", 
+  "description": "HTML5 History API expansion for browsers not supporting pushState, replaceState", 
+  "fork": false, 
+  "full_name": "devote/HTML5-History-API", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:58.828151"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.102217", 
+  "description": "MAConfirmButton is an animated subclass of UIButton that replicates and improves upon the behavior of the AppStore \u201cBuy Now\u201d buttons. Built and animated with Core Animation layers, it is completely image free.", 
+  "fork": false, 
+  "full_name": "mikeahmarani/MAConfirmButton", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:56.042573"
+}

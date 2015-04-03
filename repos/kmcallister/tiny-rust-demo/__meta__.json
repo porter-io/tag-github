@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.576315", 
+  "description": "Using Rust to make a 151-byte static AMD64 Linux binary", 
+  "fork": false, 
+  "full_name": "kmcallister/tiny-rust-demo", 
+  "language": "Assembly", 
+  "updated_at": "2015-02-27T23:42:52.304755"
+}

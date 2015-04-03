@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.975986", 
+  "description": "pack node-style source files from a json stream into a browser bundle", 
+  "fork": false, 
+  "full_name": "substack/browser-pack", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.800253"
+}

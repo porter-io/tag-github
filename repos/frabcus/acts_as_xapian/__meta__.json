@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.484096", 
+  "description": "Xapian full text search plugin for Ruby on Rails", 
+  "fork": false, 
+  "full_name": "frabcus/acts_as_xapian", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:06.625229"
+}

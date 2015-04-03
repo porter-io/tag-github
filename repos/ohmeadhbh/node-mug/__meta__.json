@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.943774", 
+  "description": "Generate RFC4122 UUIDs using /dev/urandom as entropy", 
+  "fork": false, 
+  "full_name": "OhMeadhbh/node-mug", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.748915"
+}

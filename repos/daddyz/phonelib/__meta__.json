@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.850308", 
+  "description": "Ruby gem for phone validation and formatting using google libphonenumber library data", 
+  "fork": false, 
+  "full_name": "daddyz/phonelib", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:05.118212"
+}

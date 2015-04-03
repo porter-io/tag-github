@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.478817", 
+  "description": "A framework for creating e-books from Markdown/Textile text markup using Ruby. Using the Prince PDF generator, you'll be able to get high quality PDFs.", 
+  "fork": false, 
+  "full_name": "fnando/kitabu", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:28:26.168534"
+}

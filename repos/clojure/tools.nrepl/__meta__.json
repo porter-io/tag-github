@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.612893", 
+  "description": "A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.", 
+  "fork": false, 
+  "full_name": "clojure/tools.nrepl", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:44:02.861571"
+}

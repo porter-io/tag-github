@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.036694", 
+  "description": "Fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.", 
+  "fork": false, 
+  "full_name": "brunch/brunch", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-21T14:55:46.972587"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.836734", 
+  "description": "An experiment in porting my preferred ClojureScript architecture to Haskell", 
+  "fork": false, 
+  "full_name": "krisajenkins/BellRinger", 
+  "language": "Haskell", 
+  "updated_at": "2015-02-27T23:42:32.198481"
+}

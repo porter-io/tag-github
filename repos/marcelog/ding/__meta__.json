@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.735212", 
+  "description": "DI ( Dependency Injection: Setter, Constructor, Method), AOP ( Aspect Oriented Programming ), Events support, xml, yaml, and annotations (including some JSR 250 and JSR 330, like @Configuration and @Bean ala java configuration) , lightweight, simple, and quick MVC ( Model View Controller ), syslog, tcp client and server, with non blocking sockets, custom error, signal, and exception handling through events. Needs PHP 5.3, very similar to seasar, spring ( java ) . Can be deployed as a PHAR file.", 
+  "fork": false, 
+  "full_name": "marcelog/Ding", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:46.809698"
+}

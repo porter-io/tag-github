@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.135691", 
+  "description": "This is an example of project which shows how to render React app on Golang server-side", 
+  "fork": false, 
+  "full_name": "olebedev/go-react-example", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:53.840290"
+}

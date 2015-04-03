@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.195416", 
+  "description": "Add express style params support to koa", 
+  "fork": false, 
+  "full_name": "segmentio/koa-params", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:10.758441"
+}

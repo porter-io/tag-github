@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.896922", 
+  "description": "A reference app for building single page apps (SPA) with ASP.NET Web API 2 and AngularJS", 
+  "fork": false, 
+  "full_name": "MarlabsInc/webapi-angularjs-spa", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:54.837223"
+}

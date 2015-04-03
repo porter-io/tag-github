@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.277382", 
+  "description": "HTTP User Agent parser for the Go programming language.", 
+  "fork": false, 
+  "full_name": "mssola/user_agent", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:52.632824"
+}

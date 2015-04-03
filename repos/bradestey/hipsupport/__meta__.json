@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.315657", 
+  "description": "HipSupport is a Laravel 4 package that facilitates the creation of a live chat support system ontop of HipChat's API.", 
+  "fork": false, 
+  "full_name": "BradEstey/hipsupport", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:27.940598"
+}

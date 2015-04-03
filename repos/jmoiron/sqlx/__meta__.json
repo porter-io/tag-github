@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.646196", 
+  "description": "general purpose extensions to golang's database/sql", 
+  "fork": false, 
+  "full_name": "jmoiron/sqlx", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:01:29.879345"
+}

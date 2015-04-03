@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.320830", 
+  "description": "Distribute processing tasks to child processes with an \u00fcber-simple API and baked-in durability & custom concurrency options.", 
+  "fork": false, 
+  "full_name": "rvagg/node-worker-farm", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:18.307458"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.784616", 
+  "description": "A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.", 
+  "fork": false, 
+  "full_name": "Jearil/SimpleNoSQL", 
+  "language": "Java", 
+  "updated_at": "2015-03-10T07:01:09.826560"
+}

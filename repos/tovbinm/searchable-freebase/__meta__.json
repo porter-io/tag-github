@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.447694", 
+  "description": "A search application for FreeBase data, based on Neo4j", 
+  "fork": false, 
+  "full_name": "tovbinm/searchable-freebase", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:26.222596"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.840622", 
+  "description": "Here's a simple MIDI sketch you can run on Arduino. You'll need a MIDI shield, iPad camera connection kit, supported USB MIDI device, and an app like Pianist Pro to play.", 
+  "fork": false, 
+  "full_name": "bjepson/iPad-MIDI-Simple-Demo", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:09.538967"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.182029", 
+  "description": "A golang foundation for RPC over HTTP services.", 
+  "fork": false, 
+  "full_name": "gorilla/rpc", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:53.949702"
+}

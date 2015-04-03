@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.485714", 
+  "description": "Extension to Spree featuring Product Groups that were originally part of core prior to 1.1 release.", 
+  "fork": true, 
+  "full_name": "assembled/spree_product_groups", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:13.486368"
+}

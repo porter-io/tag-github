@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.573099", 
+  "description": "Development environment provisioning using ansible, ala boxen -> puppet, kitchenplan -> chef", 
+  "fork": false, 
+  "full_name": "spencergibb/battleschool", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:46.522997"
+}

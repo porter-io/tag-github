@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.633883", 
+  "description": "Calculates the destination point given one point feature, distance in degrees, radians, miles, or kilometers, and bearing in degrees. ", 
+  "fork": false, 
+  "full_name": "Turfjs/turf-destination", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:24.342640"
+}

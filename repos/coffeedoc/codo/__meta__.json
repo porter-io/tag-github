@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.331760", 
+  "description": "CoffeeScript API documentation generator. It's like YARD but for CoffeeScript!", 
+  "fork": false, 
+  "full_name": "coffeedoc/codo", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:30:51.665068"
+}

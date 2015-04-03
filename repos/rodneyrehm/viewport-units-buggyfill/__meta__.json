@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.207678", 
+  "description": "Making viewport units (vh|vw|vmin|vmax) work properly in Mobile Safari.", 
+  "fork": false, 
+  "full_name": "rodneyrehm/viewport-units-buggyfill", 
+  "language": "CSS", 
+  "updated_at": "2015-02-27T23:41:42.569550"
+}

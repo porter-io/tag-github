@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.132666", 
+  "description": "A fast, streaming CSV binary parser written in javascript", 
+  "fork": false, 
+  "full_name": "maxogden/binary-csv", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.931793"
+}

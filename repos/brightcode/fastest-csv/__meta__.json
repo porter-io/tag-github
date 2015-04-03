@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.201454", 
+  "description": "Fastest CSV class for MRI Ruby and JRuby. Faster than faster_csv and fasterer-csv.", 
+  "fork": false, 
+  "full_name": "brightcode/fastest-csv", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:35.271092"
+}

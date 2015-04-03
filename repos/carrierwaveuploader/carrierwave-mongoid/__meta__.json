@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.941292", 
+  "description": "Mongoid support for CarrierWave", 
+  "fork": false, 
+  "full_name": "carrierwaveuploader/carrierwave-mongoid", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:29.673636"
+}

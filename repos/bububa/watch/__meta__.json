@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.334002", 
+  "description": "watch(1) periodically executes the given command - useful for auto-testing, auto-building, auto-anything ", 
+  "fork": true, 
+  "full_name": "bububa/watch", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:27:27.334043"
+}

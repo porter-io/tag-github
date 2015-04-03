@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.947063", 
+  "description": "Full featured CSV parser with simple api and tested against large datasets.", 
+  "fork": false, 
+  "full_name": "wdavidw/node-csv", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:27.811306"
+}

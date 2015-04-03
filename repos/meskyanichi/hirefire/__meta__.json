@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.735804", 
+  "description": "HireFire automatically \"hires\" and \"fires\" (aka \"scales\") Delayed Job and Resque workers on Heroku. When there are no queue jobs, HireFire will fire (shut down) all workers. If there are queued jobs, then it'll hire (spin up) workers. The amount of workers that get hired depends on the amount of queued jobs (the ratio can be configured by you). HireFire is great for both high, mid and low traffic applications. It can save you a lot of money by only hiring workers when there are pending jobs, and then firing them again once all the jobs have been processed. It's also capable to dramatically reducing processing time by automatically hiring more workers when the queue size increases.", 
+  "fork": false, 
+  "full_name": "meskyanichi/hirefire", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:22.172219"
+}

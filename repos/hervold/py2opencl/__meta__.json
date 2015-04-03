@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.115525", 
+  "description": "  auto-generation of OpenCL kernels from Python code", 
+  "fork": false, 
+  "full_name": "hervold/py2opencl", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:59.047029"
+}

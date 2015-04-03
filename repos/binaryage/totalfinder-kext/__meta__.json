@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.381056", 
+  "description": "The kernel extension used by TotalFinder for .DS_Store redirection [obsolete]", 
+  "fork": false, 
+  "full_name": "binaryage/totalfinder-kext", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:59.360373"
+}

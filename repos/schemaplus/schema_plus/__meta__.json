@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.923543", 
+  "description": "SchemaPlus provides ActiveRecord support for  foreign keys, database defined validations and associations.", 
+  "fork": false, 
+  "full_name": "SchemaPlus/schema_plus", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:33.165823"
+}

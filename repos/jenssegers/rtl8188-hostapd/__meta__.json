@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.580271", 
+  "description": "hostapd for Realtek RTL8188", 
+  "fork": false, 
+  "full_name": "jenssegers/RTL8188-hostapd", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:12.568605"
+}

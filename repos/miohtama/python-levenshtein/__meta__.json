@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.875877", 
+  "description": "The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity", 
+  "fork": false, 
+  "full_name": "miohtama/python-Levenshtein", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:38.814737"
+}

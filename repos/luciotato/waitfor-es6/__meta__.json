@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.595946", 
+  "description": "Sequential programming for node.js -and the browser-.  End of callback hell - Original Wait.for, implemented using upcoming javascript/ES6-Harmony generators.", 
+  "fork": false, 
+  "full_name": "luciotato/waitfor-ES6", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:09.888498"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.065293", 
+  "description": "Transformer that converts async functions and await expressions into ECMAScript 6 generator functions and yield expressions", 
+  "fork": false, 
+  "full_name": "benjamn/es7-async-await", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:56.925021"
+}

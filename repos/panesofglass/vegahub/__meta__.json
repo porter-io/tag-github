@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.529563", 
+  "description": "A SignalR Hub Utility for data scientists to push Vega charts from F# Interactive", 
+  "fork": false, 
+  "full_name": "panesofglass/VegaHub", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:50.242103"
+}

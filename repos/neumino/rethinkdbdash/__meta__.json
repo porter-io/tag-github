@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.386515", 
+  "description": "A Node.js driver for RethinkDB with promises and a connection pool.", 
+  "fork": false, 
+  "full_name": "neumino/rethinkdbdash", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:26.890786"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.549271", 
+  "description": "A patched version of python-openid to support login with Google Apps Account", 
+  "fork": false, 
+  "full_name": "adieu/python-openid", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:56.570756"
+}

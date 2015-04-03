@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.327296", 
+  "description": "forward proxy configuration for nginx", 
+  "fork": false, 
+  "full_name": "kawanet/nginx-forward-proxy", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:36.150977"
+}

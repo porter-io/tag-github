@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.218325", 
+  "description": "Wrapping ISRefreshControl for Ti.UI.TableView and Ti.UI.ListView on Titanium Mobile.", 
+  "fork": false, 
+  "full_name": "k0sukey/TiISRefreshControl", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:08.686219"
+}

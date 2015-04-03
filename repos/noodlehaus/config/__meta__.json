@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.892826", 
+  "description": "Config is a lightweight configuration file loader that supports PHP, INI, XML, JSON, and YAML files", 
+  "fork": false, 
+  "full_name": "noodlehaus/config", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:25.594853"
+}

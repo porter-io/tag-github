@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.718531", 
+  "description": "A fast, parallel backtracking algorithm for n-queens implemented in rust.", 
+  "fork": false, 
+  "full_name": "reem/rust-n-queens", 
+  "language": "Rust", 
+  "updated_at": "2015-02-27T23:41:57.403694"
+}

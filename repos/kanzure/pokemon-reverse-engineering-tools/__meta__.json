@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.912723", 
+  "description": "Tools for compiling and disassembling Pok\u00e9mon Red and Pok\u00e9mon Crystal", 
+  "fork": false, 
+  "full_name": "kanzure/pokemon-reverse-engineering-tools", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:15.017382"
+}

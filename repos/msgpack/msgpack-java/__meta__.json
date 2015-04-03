@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.845489", 
+  "description": "MessagePack serializer implementation for Java / msgpack.org[Java]", 
+  "fork": false, 
+  "full_name": "msgpack/msgpack-java", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:03.164563"
+}

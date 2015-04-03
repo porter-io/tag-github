@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.441333", 
+  "description": "Plugin to setup Mongodb accounts for containers deployed to Dokku", 
+  "fork": false, 
+  "full_name": "jeffutter/dokku-mongodb-plugin", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:03.912243"
+}

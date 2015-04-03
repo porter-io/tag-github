@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.040955", 
+  "description": "A rails plugin that provides view helpers to display configurable notifications.", 
+  "fork": true, 
+  "full_name": "kitop/system_messages", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:27:43.041143"
+}

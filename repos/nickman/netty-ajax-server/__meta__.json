@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.195660", 
+  "description": "A netty server that demonstrates various ways of using netty to implement Ajax push to the browser", 
+  "fork": false, 
+  "full_name": "nickman/netty-ajax-server", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:44.886334"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.946963", 
+  "description": "Ruby gem to snapshot database tables and compute the differences between snapshots", 
+  "fork": false, 
+  "full_name": "bronson/table_differ", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:10.413680"
+}

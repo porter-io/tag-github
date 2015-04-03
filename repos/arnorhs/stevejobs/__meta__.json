@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.741464", 
+  "description": "Simplistic in-memory job/worker manager for node.js, with rate limiting and custom worker counts", 
+  "fork": false, 
+  "full_name": "arnorhs/stevejobs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:10.114658"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.784937", 
+  "description": "Bid, launch and manage your EC2 Spot instances.", 
+  "fork": true, 
+  "full_name": "abdul/ec2-spot-instance-launcher", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:28:53.784974"
+}

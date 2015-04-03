@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.454599", 
+  "description": "Some python code to back project a 3D volume from a series of shadows", 
+  "fork": false, 
+  "full_name": "jminardi/volume-from-shadow", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:34.277249"
+}

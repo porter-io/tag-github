@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.009016", 
+  "description": "Browserify middleware to render jade templates browser-side", 
+  "fork": false, 
+  "full_name": "substack/node-jadeify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.827945"
+}

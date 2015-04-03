@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.119180", 
+  "description": "Sphinx full-text search plugin for the Kohana V3 PHP framework using the SphinxQL interface", 
+  "fork": false, 
+  "full_name": "MasterCJ/kohana-sphinxql", 
+  "language": "PHP", 
+  "updated_at": "2015-04-01T19:31:35.213491"
+}

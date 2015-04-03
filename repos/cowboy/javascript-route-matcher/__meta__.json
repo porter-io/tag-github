@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.089634", 
+  "description": "A simple route matching / url building utility. Intended to be included as part of a larger routing library.  ", 
+  "fork": false, 
+  "full_name": "cowboy/javascript-route-matcher", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:37.783458"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.130767", 
+  "description": "Icecast Clone with HTML5 Audio Uses ffmpeg to decode files, lame and oggenc to encode.", 
+  "fork": false, 
+  "full_name": "ChristopherBiscardi/Node-Icecast-Streamer", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:23.857305"
+}

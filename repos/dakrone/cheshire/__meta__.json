@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.494466", 
+  "description": "Clojure JSON and JSON SMILE (binary json format) encoding/decoding", 
+  "fork": false, 
+  "full_name": "dakrone/cheshire", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:57.203070"
+}

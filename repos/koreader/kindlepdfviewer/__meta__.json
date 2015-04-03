@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.817721", 
+  "description": "A PDF (plus DJVU, ePub, TXT, CHM, FB2, HTML...) viewer made for e-ink framebuffer devices, using muPDF, djvulibre, crengine", 
+  "fork": false, 
+  "full_name": "koreader/kindlepdfviewer", 
+  "language": "Lua", 
+  "updated_at": "2015-04-01T19:30:28.714358"
+}

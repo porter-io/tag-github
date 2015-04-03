@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.563898", 
+  "description": "OpenGL text using one vertex buffer, one texture and FreeType", 
+  "fork": false, 
+  "full_name": "rougier/freetype-gl", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:53.574502"
+}

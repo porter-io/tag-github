@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.351575", 
+  "description": "Turns a raw and crunchy Markdown file into nice and smooth output", 
+  "fork": true, 
+  "full_name": "atom/roaster", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:55:01.938648"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.430157", 
+  "description": "Native gzip compression and decompression utility for Node.js.", 
+  "fork": false, 
+  "full_name": "cranic/node-tar.gz", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:01:39.467301"
+}

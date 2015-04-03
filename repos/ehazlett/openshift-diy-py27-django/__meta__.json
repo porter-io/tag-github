@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.438950", 
+  "description": "Django 1.4 on Python 2.7 powered by uWSGI running on OpenShift :)", 
+  "fork": false, 
+  "full_name": "ehazlett/openshift-diy-py27-django", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:04.754886"
+}

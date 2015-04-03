@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.341978", 
+  "description": "Convert a camelized string into a lowercased one with a custom separator: unicornRainbow \u2192 unicorn_rainbow", 
+  "fork": false, 
+  "full_name": "sindresorhus/decamelize", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.130869"
+}

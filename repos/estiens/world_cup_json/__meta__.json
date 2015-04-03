@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.591676", 
+  "description": "Rails backend for a scraper that outputs World Cup data as JSON", 
+  "fork": false, 
+  "full_name": "estiens/world_cup_json", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:58.546665"
+}

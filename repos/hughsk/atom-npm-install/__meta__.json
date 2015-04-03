@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.791672", 
+  "description": "Automatically install and save any missing npm modules being used in the current file", 
+  "fork": false, 
+  "full_name": "hughsk/atom-npm-install", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:56.908339"
+}

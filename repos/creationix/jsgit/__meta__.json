@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.023146", 
+  "description": "A command-line git client powered by js-git and node.js", 
+  "fork": false, 
+  "full_name": "creationix/jsgit", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:00.977495"
+}

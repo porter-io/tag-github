@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.298364", 
+  "description": "A PHP 5.3 library for sending errors to the Airbrake.io service.", 
+  "fork": false, 
+  "full_name": "dbtlr/php-airbrake", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:09.293481"
+}

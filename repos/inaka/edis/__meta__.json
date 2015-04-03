@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.382771", 
+  "description": "An Erlang implementation of Redis", 
+  "fork": false, 
+  "full_name": "inaka/edis", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:41:36.428054"
+}

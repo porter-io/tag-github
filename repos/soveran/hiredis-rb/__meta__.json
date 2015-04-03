@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.054004", 
+  "description": "Ruby C extension that wraps hiredis reply parsing code", 
+  "fork": true, 
+  "full_name": "soveran/hiredis-rb", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:28:35.054085"
+}

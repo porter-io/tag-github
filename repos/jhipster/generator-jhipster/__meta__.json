@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.957631", 
+  "description": "Hipster stack for Java developers. Yeoman + Maven + Spring + AngularJS in one handy generator.", 
+  "fork": false, 
+  "full_name": "jhipster/generator-jhipster", 
+  "language": "Java", 
+  "updated_at": "2015-03-10T07:02:11.307750"
+}

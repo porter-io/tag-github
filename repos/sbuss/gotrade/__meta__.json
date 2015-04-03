@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.138695", 
+  "description": "A toy trading engine in Go. This is currently an excuse to learn go channels, but also because I want to write some toy day trading bots for bitcoin without using real money.", 
+  "fork": false, 
+  "full_name": "sbuss/gotrade", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:51.412356"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.828369", 
+  "description": "A simple Composer script to install NPM and/or Bower dependencies", 
+  "fork": false, 
+  "full_name": "yohang/dependency-tools", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:27.566346"
+}

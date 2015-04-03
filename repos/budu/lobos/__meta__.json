@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.038704", 
+  "description": "A library to create and manipulate SQL database schemas with migrations support.", 
+  "fork": false, 
+  "full_name": "budu/lobos", 
+  "language": "Clojure", 
+  "updated_at": "2015-03-10T07:00:59.270690"
+}

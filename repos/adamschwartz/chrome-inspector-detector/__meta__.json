@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.444064", 
+  "description": "Detect if the Chrome Inspector is open or closed.", 
+  "fork": false, 
+  "full_name": "adamschwartz/chrome-inspector-detector", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:56.427368"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.196067", 
+  "description": "A bash inspired readline implementation for PowerShell", 
+  "fork": false, 
+  "full_name": "lzybkr/PSReadLine", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:44:15.729293"
+}

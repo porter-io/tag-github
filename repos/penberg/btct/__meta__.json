@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.902243", 
+  "description": "Bitcoin terminal for monitoring real-time Bitcoin quotes on the command line.", 
+  "fork": false, 
+  "full_name": "penberg/btct", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:26.521723"
+}

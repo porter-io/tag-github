@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.446786", 
+  "description": "An automated mirror of Gforth's Git repository on Savannah (https://savannah.gnu.org/projects/gforth/). Updates hourly.", 
+  "fork": false, 
+  "full_name": "earl/gforth-mirror", 
+  "language": "Forth", 
+  "updated_at": "2015-02-27T23:43:22.138058"
+}

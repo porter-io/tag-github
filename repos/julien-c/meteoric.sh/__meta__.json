@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.862782", 
+  "description": "Deploy Meteor apps to EC2 (or your own server)", 
+  "fork": false, 
+  "full_name": "julien-c/meteoric.sh", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:14.094202"
+}

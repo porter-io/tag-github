@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.073297", 
+  "description": "A progress bar class with a HUD appearance and the ability to animate to progress values. ", 
+  "fork": false, 
+  "full_name": "tmdvs/TDHUDProgressBar", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:25.793516"
+}

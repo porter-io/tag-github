@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.093443", 
+  "description": "Ruby Net::SSHD aims to be a generic SSH protocol server to be used as a listener library providing a transport layer for SSH connections. ", 
+  "fork": false, 
+  "full_name": "jammi/net-sshd", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:56.029128"
+}

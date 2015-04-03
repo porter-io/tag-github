@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.250050", 
+  "description": "A lightweight nearly-zero-configuration object-relational mapper and fluent query builder for PHP5.", 
+  "fork": false, 
+  "full_name": "j4mie/idiorm", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:44:21.725672"
+}

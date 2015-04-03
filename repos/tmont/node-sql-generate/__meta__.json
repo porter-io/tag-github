@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.407569", 
+  "description": "Automatically generates SQL definitions for use by the sql NodeJS module", 
+  "fork": false, 
+  "full_name": "tmont/node-sql-generate", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:22.802620"
+}

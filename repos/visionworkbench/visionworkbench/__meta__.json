@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.284776", 
+  "description": "The NASA Vision Workbench is a general purpose image processing and computer vision library developed by the Autonomous Systems and Robotics (ASR) Area in the Intelligent Systems Division at the NASA Ames Research Center.", 
+  "fork": false, 
+  "full_name": "visionworkbench/visionworkbench", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:56.299067"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.393554", 
+  "description": "Dockerfile for Ghost (www.ghost.org)", 
+  "fork": false, 
+  "full_name": "livebytes/docker-ghost", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:38.845448"
+}

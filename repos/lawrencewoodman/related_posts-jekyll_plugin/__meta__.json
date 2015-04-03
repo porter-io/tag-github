@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.805306", 
+  "description": "Replaces jekyll's related_posts function to use tags to calculate relationships", 
+  "fork": false, 
+  "full_name": "LawrenceWoodman/related_posts-jekyll_plugin", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:51.793383"
+}

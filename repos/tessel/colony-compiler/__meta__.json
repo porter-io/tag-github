@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.328924", 
+  "description": "\"Compiles\" JS to Lua to run on Colony.", 
+  "fork": false, 
+  "full_name": "tessel/colony-compiler", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:29.057396"
+}

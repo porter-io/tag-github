@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.007447", 
+  "description": "lobSTR: a short tandem repeat profiler for next generation sequencing data", 
+  "fork": false, 
+  "full_name": "mgymrek/lobstr-code", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:58.921580"
+}

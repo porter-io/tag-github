@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.001450", 
+  "description": "Handles deploying secrets.yml file with Rails 4.1+", 
+  "fork": false, 
+  "full_name": "capistrano-plugins/capistrano-secrets-yml", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:33.657931"
+}

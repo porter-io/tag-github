@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.520977", 
+  "description": "An implementation of task/event based asynchronous pattern.", 
+  "fork": false, 
+  "full_name": "JacksonTian/eventproxy", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.473800"
+}

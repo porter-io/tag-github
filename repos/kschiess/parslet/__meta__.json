@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.727189", 
+  "description": "A small PEG based parser library. See the Hacking page in the Wiki as well.", 
+  "fork": false, 
+  "full_name": "kschiess/parslet", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:12.715687"
+}

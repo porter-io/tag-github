@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.143501", 
+  "description": "Demo of tracking using etags instead of cookies (or localstorage or anything else)", 
+  "fork": false, 
+  "full_name": "lucb1e/cookielesscookies", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:00.869445"
+}

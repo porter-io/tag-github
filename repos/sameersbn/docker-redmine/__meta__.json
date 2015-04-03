@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.060718", 
+  "description": "Dockerized redmine app server", 
+  "fork": false, 
+  "full_name": "sameersbn/docker-redmine", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:36.164998"
+}

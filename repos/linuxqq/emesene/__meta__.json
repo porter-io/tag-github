@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.937881", 
+  "description": "emesene is an instant messenger capable of connecting         to various networks and utilizing different graphical toolkits.         Currently msn and jabber are supported through papyon and xmppy,         which allows emesene to connect to various IM services such as         Windows Live Messenger, GTalk, Facebook Chat, etc.", 
+  "fork": true, 
+  "full_name": "linuxqq/emesene", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:04:03.287616"
+}

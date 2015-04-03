@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.850869", 
+  "description": "Deep Recurrent Neural Networks and LSTMs in Javascript. More generally also arbitrary expression graphs with automatic differentiation.", 
+  "fork": false, 
+  "full_name": "karpathy/recurrentjs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:38.792794"
+}

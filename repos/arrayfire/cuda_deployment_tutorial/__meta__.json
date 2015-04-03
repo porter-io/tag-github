@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.996625", 
+  "description": "Scripts to Deploy GPU Enabled Containers", 
+  "fork": false, 
+  "full_name": "arrayfire/cuda_deployment_tutorial", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:03.257370"
+}

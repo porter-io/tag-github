@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.552434", 
+  "description": "LG On Screen Phone authentication bypass PoC (CVE-2014-8757)", 
+  "fork": false, 
+  "full_name": "irsl/lgosp-poc", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:41:53.516082"
+}

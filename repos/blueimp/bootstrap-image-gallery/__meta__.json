@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.851283", 
+  "description": "Bootstrap Image Gallery is an extension to blueimp Gallery, a touch-enabled, responsive and customizable image and video gallery. It displays images and videos in the modal dialog of the Bootstrap framework, features swipe, mouse and keyboard navigation, transition effects, fullscreen support and on-demand content loading and can be extended to display additional content types.", 
+  "fork": false, 
+  "full_name": "blueimp/Bootstrap-Image-Gallery", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:28:27.415338"
+}

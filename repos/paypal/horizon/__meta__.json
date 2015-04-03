@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.478143", 
+  "description": "An SBT plugin to help with building, testing, analyzing and releasing Scala", 
+  "fork": false, 
+  "full_name": "paypal/horizon", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:43:32.189770"
+}

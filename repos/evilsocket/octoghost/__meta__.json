@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.712270", 
+  "description": "A python script to process Octopress markdown files and write a JSON file ready to import into Ghost.", 
+  "fork": false, 
+  "full_name": "evilsocket/octoghost", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:11.255229"
+}

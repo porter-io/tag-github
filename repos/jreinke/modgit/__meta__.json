@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.203453", 
+  "description": "Shell script for Git module deployment with include/exclude filters.", 
+  "fork": false, 
+  "full_name": "jreinke/modgit", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:24.843303"
+}

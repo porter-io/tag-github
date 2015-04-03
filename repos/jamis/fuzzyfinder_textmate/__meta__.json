@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.322562", 
+  "description": "A vim script that extends the fuzzyfinder plugin to support TextMate style file searches (e.g. cmd-T) (Unmaintained now, see http://weblog.jamisbuck.org/2009/1/28/the-future-of-fuzzyfinder-textmate)", 
+  "fork": false, 
+  "full_name": "jamis/fuzzyfinder_textmate", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:44:07.696074"
+}

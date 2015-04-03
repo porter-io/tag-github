@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.352454", 
+  "description": "Django transaction support for Celery tasks.", 
+  "fork": false, 
+  "full_name": "bradleyayers/django-celery-transactions", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:23.000194"
+}

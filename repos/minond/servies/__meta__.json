@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.660291", 
+  "description": "a bash micro-framework that uses netcat to listen for and respond to HTTP requests. your request handlers can be bash one-liners or functions.", 
+  "fork": false, 
+  "full_name": "minond/servies", 
+  "language": "Shell", 
+  "updated_at": "2015-04-01T19:29:38.387216"
+}

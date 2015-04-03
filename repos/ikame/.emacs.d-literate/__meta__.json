@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.464971", 
+  "description": "Personal Emacs config files described using a literate-programming style.", 
+  "fork": false, 
+  "full_name": "ikame/.emacs.d-literate", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:44:08.064968"
+}

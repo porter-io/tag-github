@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.905725", 
+  "description": "The original jQuery autocompleter. Does not need any other plugins. Supports local and remote data sets, plain text and JSON data, various options and callback hooks.", 
+  "fork": false, 
+  "full_name": "dyve/jquery-autocomplete", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:19.447931"
+}

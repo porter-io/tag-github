@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.207013", 
+  "description": "UICollectionViewLayout for displaying cells chronologically. Similar to the iOS Calendar app.", 
+  "fork": false, 
+  "full_name": "erichoracek/MSCollectionViewCalendarLayout", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:00:49.512068"
+}

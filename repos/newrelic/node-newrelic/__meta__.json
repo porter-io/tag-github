@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.116304", 
+  "description": "New Relic Node.js agent code base. Developers are welcome to create pull requests here, please see our contributing guidelines. For New Relic technical support, please go to http://support.newrelic.com.", 
+  "fork": false, 
+  "full_name": "newrelic/node-newrelic", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-28T08:40:54.437050"
+}

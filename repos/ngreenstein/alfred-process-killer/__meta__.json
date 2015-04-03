@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.847933", 
+  "description": "An Alfred 2 workflow that makes it easy to kill misbehaving processes. It is, in essence, a way to easily find processes by name and kill them using `kill -9`.", 
+  "fork": false, 
+  "full_name": "ngreenstein/alfred-process-killer", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:52.688745"
+}

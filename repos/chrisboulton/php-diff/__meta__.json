@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.500524", 
+  "description": "A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc). Based on the difflib implementation in Python", 
+  "fork": false, 
+  "full_name": "chrisboulton/php-diff", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:07.503869"
+}

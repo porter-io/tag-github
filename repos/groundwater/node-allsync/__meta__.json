@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.873608", 
+  "description": "Native Synchronous Exec Library for Node.js with No Dependencies", 
+  "fork": false, 
+  "full_name": "groundwater/node-allsync", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:04:20.831593"
+}

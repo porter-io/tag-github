@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.722795", 
+  "description": "SOCKS proxy server and socket client built upon GCDAsyncSocket.", 
+  "fork": false, 
+  "full_name": "chrisballinger/ProxyKit", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:22.146831"
+}

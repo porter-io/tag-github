@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.273137", 
+  "description": "Powerful shell implemented by vim.", 
+  "fork": false, 
+  "full_name": "Shougo/vimshell.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:43:25.997407"
+}

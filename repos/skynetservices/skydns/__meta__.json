@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.607361", 
+  "description": "DNS service discovery for etcd", 
+  "fork": true, 
+  "full_name": "skynetservices/skydns", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T22:27:33.608568"
+}

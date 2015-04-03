@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.705419", 
+  "description": "Convert a path to a file url: unicorn.jpg \u2794 file:///Users/sindresorhus/unicorn.jpg", 
+  "fork": false, 
+  "full_name": "sindresorhus/file-url", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.125859"
+}

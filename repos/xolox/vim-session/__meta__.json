@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.366166", 
+  "description": "Extended session management for Vim (:mksession on steroids)", 
+  "fork": false, 
+  "full_name": "xolox/vim-session", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:31.569131"
+}

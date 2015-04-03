@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.721915", 
+  "description": "Action caching for Action Pack (removed from core in Rails 4.0)", 
+  "fork": false, 
+  "full_name": "rails/actionpack-action_caching", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:56.817325"
+}

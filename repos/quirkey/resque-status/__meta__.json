@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.343883", 
+  "description": "resque-status is an extension to the resque queue system that provides simple trackable jobs.", 
+  "fork": false, 
+  "full_name": "quirkey/resque-status", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:09.522344"
+}

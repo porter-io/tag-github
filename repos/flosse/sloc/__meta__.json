@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.875741", 
+  "description": "simple tool to count SLOC (source lines of code)", 
+  "fork": false, 
+  "full_name": "flosse/sloc", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:26.676759"
+}

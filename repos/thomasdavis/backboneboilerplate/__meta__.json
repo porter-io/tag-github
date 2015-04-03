@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.537800", 
+  "description": "The project aims at being a modular backbone environment with as little authority on development as possible such that developers can innovate and contribute in an attempt to mimic the success of backbone.js ambiguous nature.", 
+  "fork": false, 
+  "full_name": "thomasdavis/backboneboilerplate", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:09.828977"
+}

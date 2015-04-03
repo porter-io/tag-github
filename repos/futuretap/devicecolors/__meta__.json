@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.310065", 
+  "description": "DeviceColors uses a private API to retrieve the hardware color of iOS devices.", 
+  "fork": false, 
+  "full_name": "futuretap/DeviceColors", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:34.713271"
+}

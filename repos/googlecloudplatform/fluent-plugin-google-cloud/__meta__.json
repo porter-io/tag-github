@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.046359", 
+  "description": "Plugin for Fluentd that sends logs to the Google Cloud Platform's log ingestion API.", 
+  "fork": false, 
+  "full_name": "GoogleCloudPlatform/fluent-plugin-google-cloud", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:30:14.754523"
+}

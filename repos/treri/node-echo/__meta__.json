@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.443188", 
+  "description": "A shell like echo for node.js with sync and async method", 
+  "fork": false, 
+  "full_name": "Treri/node-echo", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:01:20.024264"
+}

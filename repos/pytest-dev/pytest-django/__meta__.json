@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.271251", 
+  "description": "A Django plugin for py.test.", 
+  "fork": false, 
+  "full_name": "pytest-dev/pytest-django", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:52.239660"
+}

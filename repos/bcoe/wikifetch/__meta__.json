@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.066627", 
+  "description": "Uses jQuery to return a structured JSON representation of a Wikipedia article.", 
+  "fork": false, 
+  "full_name": "bcoe/wikifetch", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:38.532968"
+}

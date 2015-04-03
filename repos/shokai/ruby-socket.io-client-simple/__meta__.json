@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.745569", 
+  "description": "A simple ruby client for node.js's socket.io. Supports only WebSocket.", 
+  "fork": false, 
+  "full_name": "shokai/ruby-socket.io-client-simple", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:03:50.591764"
+}

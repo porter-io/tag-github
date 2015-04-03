@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.586803", 
+  "description": "Install our command line tool, to easily setup a new resume.json. Once setup, you can export or publish straight from terminal", 
+  "fork": false, 
+  "full_name": "jsonresume/resume-cli", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:08.414827"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.973408", 
+  "description": "A simple Python => MATLAB(R) interface and a matlab_magic for ipython", 
+  "fork": true, 
+  "full_name": "arokem/python-matlab-bridge", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:28:27.973629"
+}

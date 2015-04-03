@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.375656", 
+  "description": "Perform all your vim insert mode completions with Tab", 
+  "fork": false, 
+  "full_name": "ervandew/supertab", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:42:09.570623"
+}

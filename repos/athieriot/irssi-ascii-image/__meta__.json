@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.141692", 
+  "description": "Display an ASCII representation of an image using jp2a in IRSSI", 
+  "fork": false, 
+  "full_name": "athieriot/irssi-ascii-image", 
+  "language": "Prolog", 
+  "updated_at": "2015-02-27T23:43:25.883398"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.098397", 
+  "description": "Type-safe physical computations and unit conversions in Idris", 
+  "fork": false, 
+  "full_name": "timjb/quantities", 
+  "language": "Idris", 
+  "updated_at": "2015-02-27T23:43:55.910251"
+}

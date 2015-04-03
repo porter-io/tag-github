@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.037643", 
+  "description": "A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.", 
+  "fork": false, 
+  "full_name": "jimhigson/oboe.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T06:07:10.059383"
+}

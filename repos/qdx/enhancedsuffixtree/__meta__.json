@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.799873", 
+  "description": "An enhanced suffix tree than can operate as a sliding window", 
+  "fork": false, 
+  "full_name": "qdx/EnhancedSuffixTree", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:44:05.805772"
+}

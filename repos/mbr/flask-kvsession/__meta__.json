@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.458994", 
+  "description": "A drop-in replacement for Flask's session handling using server-side sessions.", 
+  "fork": false, 
+  "full_name": "mbr/flask-kvsession", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:53.387049"
+}

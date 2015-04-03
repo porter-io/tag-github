@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.007167", 
+  "description": "Standalone script to load all your Angular html/jade templates into the $templateCache using npm", 
+  "fork": false, 
+  "full_name": "arnauddri/npm-html2js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:02.120716"
+}

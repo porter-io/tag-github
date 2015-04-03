@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.608158", 
+  "description": "A ruby library for creating and reading JSON Web Tokens (JWT), supporting JSON Web Signatures (JWS) and JSON Web Encryption (JWE).", 
+  "fork": false, 
+  "full_name": "gregbeech/sandal", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:46.072612"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.276029", 
+  "description": "Transforms ES6 generator / yield syntax to ES5 compatible JavaScript source", 
+  "fork": false, 
+  "full_name": "qfox/unyield", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:35.705612"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.483052", 
+  "description": "better output for dpkg/apt-cache command,like arch's pacman", 
+  "fork": false, 
+  "full_name": "hangyan/dpkg-pacman", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:59.587813"
+}

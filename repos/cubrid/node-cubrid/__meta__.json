@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.103673", 
+  "description": "This is a Node.js driver for CUBRID RDBMS. It is developed in 100% JavaScript and does not require specific platform compilation.", 
+  "fork": false, 
+  "full_name": "CUBRID/node-cubrid", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:01.070648"
+}

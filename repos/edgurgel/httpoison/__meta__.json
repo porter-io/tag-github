@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.202075", 
+  "description": "Yet Another HTTP client for Elixir powered by hackney", 
+  "fork": false, 
+  "full_name": "edgurgel/httpoison", 
+  "language": "Elixir", 
+  "updated_at": "2015-02-27T23:42:04.454819"
+}

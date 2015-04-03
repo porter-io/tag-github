@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.437703", 
+  "description": "Example code for my building and deploying microservices with event sourcing, CQRS and Docker presentation", 
+  "fork": false, 
+  "full_name": "cer/event-sourcing-examples", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:56.495580"
+}

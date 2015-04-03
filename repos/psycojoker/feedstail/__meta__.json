@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.416273", 
+  "description": "Feedstail is a tail-f-like utility for feeds. It monitor a feed and emits new entries. Feedstail aim to be simple, hackable and compatible with rsstail its C brother.", 
+  "fork": false, 
+  "full_name": "Psycojoker/feedstail", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:22.099493"
+}

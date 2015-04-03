@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.700991", 
+  "description": "Event handler to object in canvas of mobile devices, with which you can make object handle event in canvas, just like DOM node handle event in html.", 
+  "fork": false, 
+  "full_name": "rdtriny/CanvasAction", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:32.000284"
+}

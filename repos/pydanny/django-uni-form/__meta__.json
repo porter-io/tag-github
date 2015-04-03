@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.014061", 
+  "description": "django-uni-form has been deprecated. Please use django-crispy-forms. Link provided in the README.rst", 
+  "fork": false, 
+  "full_name": "pydanny/django-uni-form", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:29:12.454747"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.022419", 
+  "description": "A dual core MIPS subset CPU written in behavioral, synthesizable VHDL", 
+  "fork": false, 
+  "full_name": "jevinskie/mips--", 
+  "language": "VHDL", 
+  "updated_at": "2015-02-27T23:44:00.975208"
+}

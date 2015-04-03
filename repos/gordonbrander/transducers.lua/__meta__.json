@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.694600", 
+  "description": "A reinterpretation of Clojure's transducers for Lua", 
+  "fork": false, 
+  "full_name": "gordonbrander/transducers.lua", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:42:27.254586"
+}

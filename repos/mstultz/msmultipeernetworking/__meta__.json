@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.541673", 
+  "description": "Client/Server networking through Apple's MultipeerConnectivity and Apache Thrift", 
+  "fork": false, 
+  "full_name": "mstultz/MSMultipeerNetworking", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:05.746457"
+}

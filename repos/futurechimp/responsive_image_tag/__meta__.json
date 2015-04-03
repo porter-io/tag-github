@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.347535", 
+  "description": "Allows you to specify two images in a responsive_image_tag, and includes a javascript generator which will rewrite the DOM, requesting the correct image based on the screen size of the current client device.", 
+  "fork": false, 
+  "full_name": "futurechimp/responsive_image_tag", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:02:13.423307"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.464288", 
+  "description": "Symfony plugin for easily managing filesystem related operations based on SPL.", 
+  "fork": false, 
+  "full_name": "joshiausdemwald/sfFilebasePlugin", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:36.720183"
+}

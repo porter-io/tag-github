@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.720300", 
+  "description": "Run bcbio-nextgen genomic sequencing analyses using isolated containers and virtual machines", 
+  "fork": false, 
+  "full_name": "chapmanb/bcbio-nextgen-vm", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:27.706217"
+}

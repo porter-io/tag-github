@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.650787", 
+  "description": "ResqueBoard is an analytics software for PHP Resque. Monitor your workers health and job activities in realtime", 
+  "fork": false, 
+  "full_name": "kamisama/ResqueBoard", 
+  "language": "CSS", 
+  "updated_at": "2015-03-10T07:02:09.156727"
+}

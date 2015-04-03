@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.208404", 
+  "description": "A spark sbt blueprint to build your own spark apps off of.", 
+  "fork": false, 
+  "full_name": "jayunit100/SparkStreamingCassandraDemo", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:44:21.630795"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.354092", 
+  "description": "Arproxy is a proxy between ActiveRecord and database adapter", 
+  "fork": false, 
+  "full_name": "cookpad/arproxy", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:58.740920"
+}

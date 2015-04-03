@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.882271", 
+  "description": "iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution. This tool is aimed at enterprises users, for enterprise deployment, when the person signing the app is different than the person(s) developing it.", 
+  "fork": false, 
+  "full_name": "maciekish/iReSign", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:55.749409"
+}

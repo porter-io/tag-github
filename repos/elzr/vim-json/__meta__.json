@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.912857", 
+  "description": "A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.", 
+  "fork": true, 
+  "full_name": "elzr/vim-json", 
+  "language": "VimL", 
+  "updated_at": "2015-03-10T07:04:27.404678"
+}

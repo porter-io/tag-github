@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.824860", 
+  "description": "This repository contains the source code for the JSON Web Token (JWT) bearer token exchange middleware for OAuth2orize.", 
+  "fork": false, 
+  "full_name": "xtuple/oauth2orize-jwt-bearer", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:33.398388"
+}

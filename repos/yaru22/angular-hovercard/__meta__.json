@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.705484", 
+  "description": "Hovercard is a very lightweight Angular directive that is written purely in AngularJS. It is a card that is displayed when you hover over a label. The card can contain any html element.", 
+  "fork": false, 
+  "full_name": "yaru22/angular-hovercard", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:50.401260"
+}

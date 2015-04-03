@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.717326", 
+  "description": "JavaScript build tool, similar to Make or Rake. Built to work with Node.js.", 
+  "fork": false, 
+  "full_name": "jakejs/jake", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:01.782674"
+}

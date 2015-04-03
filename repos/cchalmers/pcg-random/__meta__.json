@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.549853", 
+  "description": "Haskell interface to the pcg random number generator", 
+  "fork": false, 
+  "full_name": "cchalmers/pcg-random", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:40.587072"
+}

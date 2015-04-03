@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.043507", 
+  "description": "This rails plugin not only runs \"EXPLAIN\" before each of your select queries in development, but provides a small DIV in the rendered output of each page with the summary of query warnings that it analyzed.", 
+  "fork": false, 
+  "full_name": "dsboulder/query_reviewer", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:33.026523"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.627629", 
+  "description": "Clojure web application library: abstracts HTTP to allow modular and concise webapps", 
+  "fork": false, 
+  "full_name": "mmcgrana/ring", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:44:01.698474"
+}

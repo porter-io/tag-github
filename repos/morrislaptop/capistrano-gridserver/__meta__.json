@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.314329", 
+  "description": "Fixes issues related to using Capistrano with MediaTemple's grid server", 
+  "fork": false, 
+  "full_name": "morrislaptop/capistrano-gridserver", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:09.186140"
+}

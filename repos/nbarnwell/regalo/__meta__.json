@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.977300", 
+  "description": "A simple event sourcing \"framework\" packaged on Nuget.org at https://nuget.org/packages/Regalo/ and based entirely on my learnings from Greg Young's DDD, CQRS and Event Sourcing course. The implementation may differ from Greg's in places, but the goal is generally the same. Calling it a \"framework\" is overstating things somewhat given it's such a straightforward pattern. The code here is extracted from initial versions of my OrderManagementSystem example implementation (also on Github).", 
+  "fork": false, 
+  "full_name": "nbarnwell/Regalo", 
+  "language": "C#", 
+  "updated_at": "2015-04-01T19:31:26.620572"
+}

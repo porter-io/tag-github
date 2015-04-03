@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.721469", 
+  "description": "remodel -- a minimal ORM (object-redis-mapper) in a few hundred lines of ruby", 
+  "fork": false, 
+  "full_name": "tlossen/remodel", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:11.265390"
+}

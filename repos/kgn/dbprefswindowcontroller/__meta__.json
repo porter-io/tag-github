@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.291329", 
+  "description": "A subclass of NSWindowController that provides an easy way to create preference windows.", 
+  "fork": false, 
+  "full_name": "kgn/DBPrefsWindowController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:34.692861"
+}

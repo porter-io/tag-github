@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.941072", 
+  "description": "Implementation of the new iOS7-style masking transparency blur, using StackBlur", 
+  "fork": false, 
+  "full_name": "NickTitle/iOS7-Trans-Blur", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:30.144408"
+}

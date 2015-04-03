@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.993719", 
+  "description": "Exploratory data analysis for large datasets (10-100 million observations)", 
+  "fork": false, 
+  "full_name": "hadley/bigvis", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:00.085810"
+}

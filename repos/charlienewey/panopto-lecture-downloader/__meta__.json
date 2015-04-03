@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.104501", 
+  "description": "Scrapes and downloads Panopto lecture recordings", 
+  "fork": false, 
+  "full_name": "charlienewey/panopto-lecture-downloader", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:17.056623"
+}

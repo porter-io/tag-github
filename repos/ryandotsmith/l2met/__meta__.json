@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.570602", 
+  "description": "Convert a formatted log stream into metrics", 
+  "fork": false, 
+  "full_name": "ryandotsmith/l2met", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:59.625031"
+}

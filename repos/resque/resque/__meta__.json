@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.928356", 
+  "description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.", 
+  "fork": false, 
+  "full_name": "resque/resque", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T14:34:24.763486"
+}

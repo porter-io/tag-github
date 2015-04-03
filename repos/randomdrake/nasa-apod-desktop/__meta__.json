@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.548089", 
+  "description": "Automatically downloads and sets the NASA picture of the day (APOD) as your desktop in Ubuntu.", 
+  "fork": false, 
+  "full_name": "randomdrake/nasa-apod-desktop", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:49.140948"
+}

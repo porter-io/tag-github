@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.753941", 
+  "description": "A fast Browserify integration for Karma that handles large projects with ease", 
+  "fork": false, 
+  "full_name": "nikku/karma-browserify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:07.999449"
+}

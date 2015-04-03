@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.337442", 
+  "description": "Laravel package to list repositories on Github, Bitbucket and Sourceforge.", 
+  "fork": false, 
+  "full_name": "nWidart/projectLister", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:42.563232"
+}

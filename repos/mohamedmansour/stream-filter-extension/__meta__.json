@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.408321", 
+  "description": "Filter your stream by removing topics from words and monitor them", 
+  "fork": false, 
+  "full_name": "mohamedmansour/stream-filter-extension", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:51.939189"
+}

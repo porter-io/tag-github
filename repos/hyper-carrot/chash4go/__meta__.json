@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.400285", 
+  "description": "A simple implement of consistent hash (hash ring).", 
+  "fork": false, 
+  "full_name": "hyper-carrot/chash4go", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:40.092102"
+}

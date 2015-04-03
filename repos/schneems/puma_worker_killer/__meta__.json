@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.052205", 
+  "description": "Automatically restart Puma cluster workers based on max RAM available", 
+  "fork": false, 
+  "full_name": "schneems/puma_worker_killer", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:52.918427"
+}

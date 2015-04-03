@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.679303", 
+  "description": "A respond_to style Rails block for baked-in web service support in Sinatra", 
+  "fork": false, 
+  "full_name": "cehoffman/sinatra-respond_to", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:57.874263"
+}

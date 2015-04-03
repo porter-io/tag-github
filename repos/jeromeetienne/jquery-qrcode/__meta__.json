@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.488972", 
+  "description": "qrcode generation standalone (doesn't depend on external services)", 
+  "fork": false, 
+  "full_name": "jeromeetienne/jquery-qrcode", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:57.946876"
+}

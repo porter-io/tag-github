@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.288412", 
+  "description": "Node.js 0.12 util.debuglog() ponyfill", 
+  "fork": false, 
+  "full_name": "sindresorhus/debug-log", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.629236"
+}

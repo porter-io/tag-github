@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.394643", 
+  "description": "Terasology is an open source project started by Benjamin \"begla\" Glatzel to research procedural terrain generation and efficient rendering techniques in Java using the LWJGL. The engine uses a block-based voxel-like approach as seen in Minecraft.  After proving itself as a solid tech demo begla was joined at first by Anton \"small-jeeper\" Kireev and Rasmus \"Cervator\" Praestholm and a full-fledged game concept was born. Our goal is a game that pays ample tribute to Minecraft in initial look and origin, but stakes out its own niche by adopting the NPC-helper and caretaker feel from such games as Dwarf Fortress and Dungeon Keeper, while striving for added depth and sophistication in the foundation systems akin to DF.", 
+  "fork": false, 
+  "full_name": "MovingBlocks/Terasology", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:31.872278"
+}

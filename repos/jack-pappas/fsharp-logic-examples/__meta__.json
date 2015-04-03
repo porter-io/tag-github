@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.148046", 
+  "description": "Examples from John Harrison's \"Handbook of Practical Logic and Automated Reasoning\", ported to F#.", 
+  "fork": false, 
+  "full_name": "jack-pappas/fsharp-logic-examples", 
+  "language": "F#", 
+  "updated_at": "2015-02-27T23:43:00.879550"
+}

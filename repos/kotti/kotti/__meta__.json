@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.103429", 
+  "description": "Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS.", 
+  "fork": false, 
+  "full_name": "Kotti/Kotti", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:30:06.161386"
+}

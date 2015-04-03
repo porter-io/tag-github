@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.672978", 
+  "description": "nRF24L01+ Library for MSP430 microcontroller line", 
+  "fork": false, 
+  "full_name": "spirilis/msprf24", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:57.344744"
+}

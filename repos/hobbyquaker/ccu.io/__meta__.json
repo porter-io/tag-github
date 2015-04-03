@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.225387", 
+  "description": "Extend your Homematic CCU. Script-Engine, Adapters, Logging, Webserver. Socket.IO based, implements Homematic xmlrpc_bin protocol.", 
+  "fork": false, 
+  "full_name": "hobbyquaker/ccu.io", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:16.106211"
+}

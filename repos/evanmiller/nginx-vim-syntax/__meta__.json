@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.520238", 
+  "description": "nginx vim syntax. Copied from http://www.vim.org/scripts/script.php?script_id=1886", 
+  "fork": false, 
+  "full_name": "evanmiller/nginx-vim-syntax", 
+  "language": "VimL", 
+  "updated_at": "2015-03-10T07:01:00.113566"
+}

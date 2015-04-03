@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.668321", 
+  "description": "A cruel mistress that uses the public suffix domain list to dominate URLs by canonicalizing, finding the public suffix, and breaking them into their domain parts.", 
+  "fork": false, 
+  "full_name": "pauldix/domainatrix", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:06.845728"
+}

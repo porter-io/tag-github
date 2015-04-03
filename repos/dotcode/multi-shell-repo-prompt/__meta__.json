@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.380164", 
+  "description": "A shell script to make your prompt pretty and useful. Works with bash & zsh, git & hg.", 
+  "fork": false, 
+  "full_name": "dotcode/multi-shell-repo-prompt", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:12.904850"
+}

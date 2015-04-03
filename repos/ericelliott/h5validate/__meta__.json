@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.969830", 
+  "description": "An HTML5 form validation plugin for jQuery. Works on all major browsers, both new and old. Implements inline, realtime validation best practices (based on surveys and usability studies). Developed for production use in e-commerce. Currently in production with millions of users.", 
+  "fork": false, 
+  "full_name": "ericelliott/h5Validate", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:41.750206"
+}

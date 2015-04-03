@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.216749", 
+  "description": "A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)", 
+  "fork": false, 
+  "full_name": "mozilla/nunjucks", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:15.919971"
+}

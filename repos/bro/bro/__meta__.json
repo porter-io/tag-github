@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.231714", 
+  "description": "Bro is a powerful network analysis framework that is much different from the typical IDS you may know.  Official mirror of git.bro.org/bro.git .", 
+  "fork": false, 
+  "full_name": "bro/bro", 
+  "language": "C++", 
+  "updated_at": "2015-04-01T19:30:20.657943"
+}

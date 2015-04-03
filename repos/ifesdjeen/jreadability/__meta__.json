@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.748061", 
+  "description": "Article text extractor from given HTML text", 
+  "fork": false, 
+  "full_name": "ifesdjeen/jReadability", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:43:52.345089"
+}

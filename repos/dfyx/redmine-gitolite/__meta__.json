@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.643553", 
+  "description": "A Redmine plugin which manages your gitolite configuration based on your projects and memberships in Redmine. It's based upon the work done by the root project of redmine-gitosis, just adapted for the differing syntaxes etc. Currently completely pre-alpha, do not use.", 
+  "fork": true, 
+  "full_name": "dfyx/redmine-gitolite", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:24.643630"
+}

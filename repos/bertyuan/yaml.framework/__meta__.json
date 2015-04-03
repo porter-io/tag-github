@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.137559", 
+  "description": "Proper YAML support for Objective-C. Based on recommended libyaml.", 
+  "fork": true, 
+  "full_name": "bertyuan/YAML.framework", 
+  "language": "Shell", 
+  "updated_at": "2015-04-01T19:30:20.584644"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.878005", 
+  "description": "Like `fs.createWriteStream(...)`, but atomic.", 
+  "fork": false, 
+  "full_name": "npm/fs-write-stream-atomic", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:24.453159"
+}

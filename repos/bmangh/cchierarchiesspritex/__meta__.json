@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.188071", 
+  "description": "render flash animation in cocos2d-x, a animation sprite extension for cocos2d-x, base on hierarchies node like bone.", 
+  "fork": false, 
+  "full_name": "bmanGH/CCHierarchiesSpriteX", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:42.503459"
+}

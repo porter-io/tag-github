@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.014788", 
+  "description": "Recipe to build an OpenVPN image for Docker", 
+  "fork": false, 
+  "full_name": "jpetazzo/dockvpn", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:30.544190"
+}

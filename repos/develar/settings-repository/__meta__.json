@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.245279", 
+  "description": "Supports sharing settings between installations of IntelliJ Platform based products used by the same developer (or team) on different computers", 
+  "fork": false, 
+  "full_name": "develar/settings-repository", 
+  "language": "Kotlin", 
+  "updated_at": "2015-02-27T23:42:33.996064"
+}

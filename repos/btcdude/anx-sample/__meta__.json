@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.119404", 
+  "description": "Short example using ANX node library to get a data token and subscribe to streaming data.", 
+  "fork": false, 
+  "full_name": "btcdude/anx-sample", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:49.846719"
+}

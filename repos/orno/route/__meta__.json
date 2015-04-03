@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.238857", 
+  "description": "Fast routing package combining Nikita Popov's FastRoute and Orno\\Di to provide route dispatching to dependency injected controllers.", 
+  "fork": false, 
+  "full_name": "orno/route", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:22.154614"
+}

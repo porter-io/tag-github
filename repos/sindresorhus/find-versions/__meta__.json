@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.856304", 
+  "description": "Find semver versions in a string: `unicorn 1.0.0` \u2192 `1.0.0`", 
+  "fork": false, 
+  "full_name": "sindresorhus/find-versions", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.463495"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:50.490409", 
+  "description": "Port of Practical Common Lisp samples to Clojure", 
+  "fork": false, 
+  "full_name": "stuarthalloway/practical-cl-clojure", 
+  "language": "Clojure", 
+  "updated_at": "2015-03-10T07:01:19.441725"
+}

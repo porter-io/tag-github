@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.925368", 
+  "description": "Bundle for Laravel which allows you to use xtemplate engine in your views", 
+  "fork": false, 
+  "full_name": "Meroje/laravel-xtemplate", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:21.717841"
+}

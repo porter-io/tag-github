@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.638176", 
+  "description": "Deploy fat JARs. Restart processes. (port of codahale/assembly-sbt)", 
+  "fork": true, 
+  "full_name": "sbt/sbt-assembly", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T22:28:42.638229"
+}

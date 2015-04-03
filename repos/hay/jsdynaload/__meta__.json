@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.321452", 
+  "description": "A dynamic Javascript file loader with support for arrays and callbacks", 
+  "fork": false, 
+  "full_name": "hay/jsdynaload", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:34.182771"
+}

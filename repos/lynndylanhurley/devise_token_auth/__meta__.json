@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.371706", 
+  "description": "Token based authentication for Rails JSON APIs. Designed to work with http://github.com/lynndylanhurley/ng-token-auth", 
+  "fork": false, 
+  "full_name": "lynndylanhurley/devise_token_auth", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:12.894702"
+}

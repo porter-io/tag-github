@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.591302", 
+  "description": "a module for tanslating Chinese(\u6c49\u5b57) into /\\w+/ or pinyin", 
+  "fork": false, 
+  "full_name": "sofish/han", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:22.725793"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.480152", 
+  "description": "An (experimental) implementation of the Octobot distributed task queue worker in Scala", 
+  "fork": false, 
+  "full_name": "cscotta/Octobot-Scala", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:41:16.008893"
+}

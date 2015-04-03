@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.255070", 
+  "description": "Macros in Python: quasiquotes, case classes, LINQ and more!", 
+  "fork": false, 
+  "full_name": "lihaoyi/macropy", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:22.207420"
+}

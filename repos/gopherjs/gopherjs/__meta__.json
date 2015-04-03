@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.395821", 
+  "description": "A compiler from Go (golang.org) to JavaScript for running Go code in a browser", 
+  "fork": false, 
+  "full_name": "gopherjs/gopherjs", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:03:19.378449"
+}

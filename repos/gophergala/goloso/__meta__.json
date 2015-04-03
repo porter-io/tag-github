@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.333921", 
+  "description": "Goloso is an Ansible callback server over NSQ", 
+  "fork": false, 
+  "full_name": "gophergala/goloso", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:14.117451"
+}

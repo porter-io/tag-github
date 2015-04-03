@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.802710", 
+  "description": "This is a fork of the kdirstat project to update it for use in KDE4 and later. (currently external obligations are preventing work on it --10/29/2011)", 
+  "fork": false, 
+  "full_name": "thomas-joiner/k4dirstat", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:55.643371"
+}

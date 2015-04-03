@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.359210", 
+  "description": "Examples of using each Illuminate component in non-Laravel applications", 
+  "fork": false, 
+  "full_name": "mattstauffer/IlluminateNonLaravel", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:37.877424"
+}

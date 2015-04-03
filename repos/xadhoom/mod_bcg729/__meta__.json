@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.477854", 
+  "description": "FreeSWITCH G.729 module using the opensource bcg729 implementation by Belledonne Communications", 
+  "fork": false, 
+  "full_name": "xadhoom/mod_bcg729", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:11.711103"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.663105", 
+  "description": "Continuous integration server built on top of Jenkins and Hubot", 
+  "fork": true, 
+  "full_name": "lightyrs/janky", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:55.663995"
+}

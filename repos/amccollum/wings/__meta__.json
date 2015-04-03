@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.277807", 
+  "description": "Templating library that works on the server and client closely modeled on Mustache", 
+  "fork": false, 
+  "full_name": "amccollum/wings", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:11.536881"
+}

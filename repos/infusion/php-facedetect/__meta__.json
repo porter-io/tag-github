@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.662687", 
+  "description": "A simple OpenCV wrapper for PHP to detect faces on images", 
+  "fork": false, 
+  "full_name": "infusion/PHP-Facedetect", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:02:12.279136"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.273265", 
+  "description": "Geo is a very basic, but simple and in-progress, geo library for Node.js using Google's Geocode API (V3) for Geocoding and GeoHash for GeoSpatial support. ", 
+  "fork": false, 
+  "full_name": "feliperazeek/geonode", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:38.136301"
+}

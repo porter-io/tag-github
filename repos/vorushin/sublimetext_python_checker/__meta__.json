@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.973916", 
+  "description": "Integration of pep8 and pyflakes checkers for python files in SublimeText 2 editor (Linux/MacOSX only)", 
+  "fork": false, 
+  "full_name": "vorushin/sublimetext_python_checker", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:32.396685"
+}

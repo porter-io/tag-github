@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.447441", 
+  "description": "Alternative implementation of django \"sites\" framework based on settings instead of models.", 
+  "fork": false, 
+  "full_name": "niwibe/django-sites", 
+  "language": "CSS", 
+  "updated_at": "2015-04-01T19:31:31.703559"
+}

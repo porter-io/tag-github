@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.376127", 
+  "description": "A synthetic benchmark to compare the performance of various sql-drivers for Go's database/sql package", 
+  "fork": false, 
+  "full_name": "go-sql-driver/sql-benchmark", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:03:37.781514"
+}

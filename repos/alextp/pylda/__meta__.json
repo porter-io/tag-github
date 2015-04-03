@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.529439", 
+  "description": "An implementation of gibbs sampling for Latent Dirichlet Allocation", 
+  "fork": false, 
+  "full_name": "alextp/pylda", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:31.455478"
+}

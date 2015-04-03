@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.799989", 
+  "description": "Modification of ZXING Barcode Scanner project for easy Android QR-Code detection in portrait mode and AR purposes", 
+  "fork": false, 
+  "full_name": "dlazaro66/QRCodeReaderView", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:01.712943"
+}

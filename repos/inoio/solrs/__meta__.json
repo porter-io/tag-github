@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.226085", 
+  "description": "A solr client for scala, providing a query interface like SolrJ, just asynchronously / non-blocking", 
+  "fork": false, 
+  "full_name": "inoio/solrs", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:43:54.579074"
+}

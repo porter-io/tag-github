@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.079760", 
+  "description": "An OO-based JavaScript color parser/computation toolkit with support for RGB, HSV, HSL, CMYK, and alpha channels. Conversion between color spaces occurs implicitly, and all methods return new objects rather than mutating existing instances. Works in the browser and node.js.", 
+  "fork": false, 
+  "full_name": "One-com/one-color", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:33.758316"
+}

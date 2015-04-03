@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.591494", 
+  "description": "Asynchronous, non-blocking I/O, event based PHP library  for writing custom TCP/IP client and server implementations.  From it's previous versions, library inherits a full blown stable support  for XMPP protocol stack. In v3.0, support for HTTP protocol stack was  also added.", 
+  "fork": false, 
+  "full_name": "jaxl/JAXL", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:31.628544"
+}

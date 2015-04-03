@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.079321", 
+  "description": "Control the fans of every Intel Mac to make it run cooler", 
+  "fork": false, 
+  "full_name": "hholtmann/smcFanControl", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:32.632849"
+}

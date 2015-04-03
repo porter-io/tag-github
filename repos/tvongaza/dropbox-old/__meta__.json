@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.666921", 
+  "description": "NOTE:  This gem is getting depreciated.  Please see http://github.com/RISCfuture/dropbox  |  Dropbox has announced their official API: http://blog.dropbox.com/?p=492  |  This is a simple stop-gap Ruby API for DropBox.", 
+  "fork": false, 
+  "full_name": "tvongaza/dropbox-old", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T08:16:52.313821"
+}

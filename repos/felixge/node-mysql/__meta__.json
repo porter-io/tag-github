@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.285676", 
+  "description": "A pure node.js JavaScript Client implementing the MySql protocol.", 
+  "fork": false, 
+  "full_name": "felixge/node-mysql", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-17T07:25:46.750230"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.204663", 
+  "description": "A GPU implementation of Convolutional Neural Nets in C++", 
+  "fork": false, 
+  "full_name": "TorontoDeepLearning/convnet", 
+  "language": "Cuda", 
+  "updated_at": "2015-02-27T23:41:23.205306"
+}

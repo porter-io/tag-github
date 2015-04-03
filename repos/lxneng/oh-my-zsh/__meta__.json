@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.170629", 
+  "description": "A community-driven framework for managing your zsh configuration. Includes 40+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, macports, etc), over 80 terminal themes to spice up  your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.", 
+  "fork": true, 
+  "full_name": "lxneng/oh-my-zsh", 
+  "language": "Shell", 
+  "updated_at": "2015-04-01T19:30:06.932558"
+}

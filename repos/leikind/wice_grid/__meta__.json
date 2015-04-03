@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.466175", 
+  "description": "A Rails grid plugin to create  grids with sorting, pagination, and (automatically generated) filters", 
+  "fork": false, 
+  "full_name": "leikind/wice_grid", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:24.778450"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.486259", 
+  "description": "The latlong package maps from a latitude and longitude to a timezone.", 
+  "fork": false, 
+  "full_name": "bradfitz/latlong", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:42.739071"
+}

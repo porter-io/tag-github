@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.989183", 
+  "description": "A Sass port of Noisy JS (https://github.com/DanielRapp/Noisy) for generating noise background images as base64 data URIs. Based on work of @philippbosch & @aaronrussell (https://gist.github.com/1200394/741bb7566da29b1e1550f3e7e135390966f5c83f).", 
+  "fork": false, 
+  "full_name": "antsa/sassy_noise", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:55.468133"
+}

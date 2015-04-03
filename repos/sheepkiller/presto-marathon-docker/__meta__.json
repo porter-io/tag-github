@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.339302", 
+  "description": "On demand presto cluster with mesos, marathon and docker.", 
+  "fork": false, 
+  "full_name": "sheepkiller/presto-marathon-docker", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:23.595852"
+}

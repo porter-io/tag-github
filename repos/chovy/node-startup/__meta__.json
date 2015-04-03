@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.249467", 
+  "description": "Startup script for Linux-based systems for running node app when rebooting using an /etc/init.d script.", 
+  "fork": false, 
+  "full_name": "chovy/node-startup", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:12.305192"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.960765", 
+  "description": "Haxelib which downloads node-webkit binary for your platform and makes it accessible via `haxelib run node-webkit path/to/index.html`", 
+  "fork": false, 
+  "full_name": "as3boyan/node-webkit-haxelib", 
+  "language": "Haxe", 
+  "updated_at": "2015-03-10T07:02:51.941663"
+}

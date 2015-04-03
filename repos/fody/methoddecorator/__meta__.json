@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.497443", 
+  "description": "Compile time decorator pattern via IL rewriting", 
+  "fork": false, 
+  "full_name": "Fody/MethodDecorator", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:43:34.832079"
+}

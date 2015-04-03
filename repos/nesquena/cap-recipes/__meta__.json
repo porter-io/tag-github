@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.015127", 
+  "description": "Battle-tested capistrano recipes for ruby, rubygems, apache, passenger, delayed_job, juggernaut, thinking_sphinx, mongodb, whenever, among other popular tools", 
+  "fork": false, 
+  "full_name": "nesquena/cap-recipes", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:55.933238"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.674599", 
+  "description": "Wrapper of MongoDB database for CommonJS", 
+  "fork": false, 
+  "full_name": "sergi/narwhal-mongodb", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:32.309764"
+}

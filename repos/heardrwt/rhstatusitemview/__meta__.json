@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.424542", 
+  "description": "An NSStatusItem hosted view that supports handling both left and right click actions, menus and showing an image / alternateImage pair. ", 
+  "fork": false, 
+  "full_name": "heardrwt/RHStatusItemView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:45.518606"
+}

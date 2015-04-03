@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.689068", 
+  "description": "Knife plugin to manage/bootstrap DigitalOcean cloud instances. Supports chef-server and knife-solo bootstrapping", 
+  "fork": false, 
+  "full_name": "rmoriz/knife-digital_ocean", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:02:32.404200"
+}

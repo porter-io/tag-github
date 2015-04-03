@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.866482", 
+  "description": "Oculus Ensemble Clustering is a flexible multi-threaded clustering library for rapidly constructing tailored clustering solutions that leverage the different semantic aspects of heterogeneous data.  The library can be used on a single machine using multi-threading or distributed computing using Spark.", 
+  "fork": false, 
+  "full_name": "oculusinfo/ensemble-clustering", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:00.326996"
+}

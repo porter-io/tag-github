@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.392672", 
+  "description": "Automatic caching and invalidation for Django models through the ORM.", 
+  "fork": true, 
+  "full_name": "mfaulise/django-cache-machine", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:48.837771"
+}

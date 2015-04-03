@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.092287", 
+  "description": "A Sublime-like minimap for VIM, based on the Drawille console-based drawing library", 
+  "fork": false, 
+  "full_name": "severin-lemaignan/vim-minimap", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:30.526247"
+}

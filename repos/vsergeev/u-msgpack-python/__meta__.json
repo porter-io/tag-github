@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.096839", 
+  "description": "A portable, lightweight MessagePack serializer and deserializer written in pure Python, compatible with Python 2, Python 3, CPython, PyPy / msgpack.org[Python] ", 
+  "fork": false, 
+  "full_name": "vsergeev/u-msgpack-python", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:04.391902"
+}

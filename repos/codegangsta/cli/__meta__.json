@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.642536", 
+  "description": "A small package for building command line apps in Go", 
+  "fork": false, 
+  "full_name": "codegangsta/cli", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:11.176836"
+}

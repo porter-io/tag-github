@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.477136", 
+  "description": "Example of  how to run a GO application on dotCloud using their custom service.", 
+  "fork": false, 
+  "full_name": "kencochrane/golang-on-dotcloud", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:23.646693"
+}

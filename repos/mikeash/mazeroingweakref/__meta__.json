@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.076355", 
+  "description": "Zeroing weak references for retain/release Objective-C", 
+  "fork": false, 
+  "full_name": "mikeash/MAZeroingWeakRef", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:38.960345"
+}

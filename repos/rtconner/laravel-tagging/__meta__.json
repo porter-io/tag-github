@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.416786", 
+  "description": "Tag support for Laravel Eloquent models - Taggable Trait", 
+  "fork": false, 
+  "full_name": "rtconner/laravel-tagging", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:33.070012"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.310901", 
+  "description": "A native Apple I (M6502) emulator for Mac OS X and iOS", 
+  "fork": false, 
+  "full_name": "mattrajca/Nibble", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:09.375095"
+}

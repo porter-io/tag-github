@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.796173", 
+  "description": "Fix for Node pipes panic unpiping on error", 
+  "fork": false, 
+  "full_name": "floatdrop/gulp-plumber", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:37.187020"
+}

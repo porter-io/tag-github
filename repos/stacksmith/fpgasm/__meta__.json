@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.660112", 
+  "description": "FPGA assembler!  Create bare-metal FPGA designs without Verilog or VHDL", 
+  "fork": false, 
+  "full_name": "stacksmith/fpgasm", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:52.004159"
+}

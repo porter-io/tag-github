@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.127007", 
+  "description": "Plugin for Symfony 1.4 that allow to simply change user language (culture). It is also integrated with sfDoctrineGuardUser so information about user's culture are stored in sfGuardUser object. Plugin has component to display available languages in couple of ways.", 
+  "fork": false, 
+  "full_name": "whisller/sfDoctrineGuardCulturePlugin", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:28.616750"
+}

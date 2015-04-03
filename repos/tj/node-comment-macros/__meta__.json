@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.694431", 
+  "description": "JavaScript comment macros useful for injecting logging, tracing, debugging, or stats related code.", 
+  "fork": false, 
+  "full_name": "tj/node-comment-macros", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.438068"
+}

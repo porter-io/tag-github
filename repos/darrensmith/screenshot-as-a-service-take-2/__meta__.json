@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.093558", 
+  "description": "Website screenshot service powered by node.js and phantomjs (modified to eliminate separate sync / async behaviour and return default images prior to screenshot being ready)", 
+  "fork": true, 
+  "full_name": "darrensmith/screenshot-as-a-service-take-2", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:29:14.093652"
+}

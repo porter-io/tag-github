@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.469844", 
+  "description": "This is an MIT-licensed jsdoc-toolkit 2 template that produces ReStructured Text (*.rst) with Sphinx directives. Makes it easy to document Javascript in Sphinx projects.", 
+  "fork": false, 
+  "full_name": "debrouwere/jsdoc-for-sphinx", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:31.844828"
+}

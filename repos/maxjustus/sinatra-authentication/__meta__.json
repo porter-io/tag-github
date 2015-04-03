@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.089506", 
+  "description": "A sinatra extension wrapped in a gem that implements authentication/permissions with users stored in the database. Now with optional support for facebook connect", 
+  "fork": false, 
+  "full_name": "maxjustus/sinatra-authentication", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:38.553496"
+}

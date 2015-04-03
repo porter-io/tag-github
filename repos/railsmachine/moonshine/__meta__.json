@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.010146", 
+  "description": "Simple Rails deployment and configuration management. 15 minute deploys of Rails 2, 3, or 4 apps.", 
+  "fork": false, 
+  "full_name": "railsmachine/moonshine", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:26.790257"
+}

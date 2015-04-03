@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.741885", 
+  "description": "A Django test runner based on unittest2's test discovery.", 
+  "fork": false, 
+  "full_name": "jezdez/django-discover-runner", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:57.963625"
+}

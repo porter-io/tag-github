@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.434308", 
+  "description": "MQ API with cluster integration, implemented over various message queues.", 
+  "fork": false, 
+  "full_name": "strongloop/strong-mq", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:39.513335"
+}

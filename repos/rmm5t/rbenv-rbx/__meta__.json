@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.004050", 
+  "description": "Plugin for rbenv that adds Rubinius 2.x support", 
+  "fork": false, 
+  "full_name": "rmm5t/rbenv-rbx", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:19.859954"
+}

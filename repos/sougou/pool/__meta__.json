@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.657036", 
+  "description": "Connection pool for net.Conn interface", 
+  "fork": true, 
+  "full_name": "sougou/pool", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T22:29:18.657122"
+}

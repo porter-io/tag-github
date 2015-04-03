@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.391048", 
+  "description": "Grit is a Ruby library for extracting information from a git repository in an object oriented manner - this fork tries to intergrate as much pure-ruby functionality as possible", 
+  "fork": true, 
+  "full_name": "schacon/grit", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:35.391101"
+}

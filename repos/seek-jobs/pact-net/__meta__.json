@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.203344", 
+  "description": ".NET version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.", 
+  "fork": false, 
+  "full_name": "SEEK-Jobs/pact-net", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:44:21.602113"
+}

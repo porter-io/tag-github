@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.470312", 
+  "description": "Django AJAX upload widget and model field for multiple files or images, featuring drag & drop uploading, upload progress bar, sortable image gallery", 
+  "fork": false, 
+  "full_name": "TND/django-files-widget", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:55.213808"
+}

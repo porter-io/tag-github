@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.263127", 
+  "description": "Javascript plugin for cross-browser Ajax file uploading with progress bar support. Works in all major browsers, including IE7+, Chrome, Firefox, Safari, and  Opera. No dependencies - use it with or without jQuery.", 
+  "fork": false, 
+  "full_name": "LPology/Simple-Ajax-Uploader", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:57.037190"
+}

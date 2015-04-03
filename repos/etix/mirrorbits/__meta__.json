@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.170453", 
+  "description": "Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.", 
+  "fork": false, 
+  "full_name": "etix/mirrorbits", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:54.458146"
+}

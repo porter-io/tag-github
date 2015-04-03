@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.967387", 
+  "description": "Node canvas is a Cairo backed Canvas implementation for NodeJS.", 
+  "fork": false, 
+  "full_name": "Automattic/node-canvas", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:21.167509"
+}

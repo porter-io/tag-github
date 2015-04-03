@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.002364", 
+  "description": "Adds easy python 3 and 2.7 support to Django for management of static assets.", 
+  "fork": false, 
+  "full_name": "pydanny/dj-libcloud", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:48.517657"
+}

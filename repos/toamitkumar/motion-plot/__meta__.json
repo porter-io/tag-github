@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.814029", 
+  "description": "Create native iOS charts using simple JSON as you are used-to with Highcharts like JS library. This library is a wrapper on top of CorePlot", 
+  "fork": false, 
+  "full_name": "toamitkumar/motion-plot", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:25.641429"
+}

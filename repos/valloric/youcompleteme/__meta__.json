@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.084818", 
+  "description": "A code-completion engine for Vim", 
+  "fork": false, 
+  "full_name": "Valloric/YouCompleteMe", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T06:06:30.341301"
+}

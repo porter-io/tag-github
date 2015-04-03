@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.290701", 
+  "description": "A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + (experimental) RTMP, providing reliable cross-browser/platform audio control in as little as 11 KB. BSD licensed.", 
+  "fork": false, 
+  "full_name": "scottschiller/SoundManager2", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:56.038666"
+}

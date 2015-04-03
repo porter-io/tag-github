@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.272834", 
+  "description": "(Deprecated) HasDetails is a Rails plugin to allow you to serialize an arbitrary amount of (optional) attributes into a column.", 
+  "fork": false, 
+  "full_name": "marten/has_details", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:28:59.282347"
+}

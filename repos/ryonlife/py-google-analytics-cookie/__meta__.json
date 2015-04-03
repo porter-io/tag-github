@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.138567", 
+  "description": "A simple Python class for parsing useful visitor and referral data from a Google Analytics cookie.", 
+  "fork": false, 
+  "full_name": "ryonlife/py-google-analytics-cookie", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:13.869840"
+}

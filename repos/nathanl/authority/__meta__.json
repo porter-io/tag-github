@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.730604", 
+  "description": "Authority helps you authorize actions in your Rails app. It's ORM-neutral and has very little fancy syntax; just group your models under one or more Authorizer classes and write plain Ruby methods on them.", 
+  "fork": false, 
+  "full_name": "nathanl/authority", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:24.185868"
+}

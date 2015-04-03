@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.564404", 
+  "description": "Chef cookbook for rbenv. Manages rbenv and its installed rubies. Several LWRPs are also defined.", 
+  "fork": false, 
+  "full_name": "fnichol/chef-rbenv", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:23.224314"
+}

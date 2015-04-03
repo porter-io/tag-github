@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.498157", 
+  "description": "MAThemeKit provides iOS developers the ability to create a coherent color theme throughout their entire application using a single line of code, removing the need to mess with the dozens of UIAppearance proxies for each UI component.", 
+  "fork": false, 
+  "full_name": "mamaral/MAThemeKit", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:33.277252"
+}

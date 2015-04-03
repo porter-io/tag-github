@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.178252", 
+  "description": "Ruby language bindings for LIBSVM", 
+  "fork": false, 
+  "full_name": "febeling/rb-libsvm", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:44:02.275919"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.343443", 
+  "description": "A simple C++11 Thread Pool implementation", 
+  "fork": false, 
+  "full_name": "progschj/ThreadPool", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:52.342690"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.165413", 
+  "description": "Asynchronous Solr indexing support for the sunspot gem.", 
+  "fork": false, 
+  "full_name": "bdurand/sunspot_index_queue", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:14.413233"
+}

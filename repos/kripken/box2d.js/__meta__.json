@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.022031", 
+  "description": "Port of Box2D to JavaScript using Emscripten", 
+  "fork": false, 
+  "full_name": "kripken/box2d.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:52.885186"
+}

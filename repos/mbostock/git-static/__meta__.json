@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.429359", 
+  "description": "A versioned static file server backed by Git.", 
+  "fork": false, 
+  "full_name": "mbostock/git-static", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:55.155994"
+}

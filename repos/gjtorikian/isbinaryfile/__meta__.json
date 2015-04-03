@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.375173", 
+  "description": "Detects if a file is binary in Node.js. Similar to Perl's -B", 
+  "fork": false, 
+  "full_name": "gjtorikian/isBinaryFile", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:15.879763"
+}

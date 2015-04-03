@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.589104", 
+  "description": "ES6 Number.isFinite() ponyfill", 
+  "fork": false, 
+  "full_name": "sindresorhus/is-finite", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:19.601861"
+}

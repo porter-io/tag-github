@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.059007", 
+  "description": "Realtime node.js + socket.io server in a box", 
+  "fork": false, 
+  "full_name": "onemightyroar/valet", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:01:12.946213"
+}

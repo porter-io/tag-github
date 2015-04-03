@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.512376", 
+  "description": "This is imporved from rails-settings, added caching for all settings", 
+  "fork": true, 
+  "full_name": "huacnlee/rails-settings-cached", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:41.512464"
+}

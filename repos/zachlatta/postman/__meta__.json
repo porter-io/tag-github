@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.376093", 
+  "description": "Command-line utility for batch-sending email.", 
+  "fork": false, 
+  "full_name": "zachlatta/postman", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:59.396765"
+}

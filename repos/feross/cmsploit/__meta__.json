@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.591362", 
+  "description": "Security scanner to find temporary config files that contain passwords on public websites", 
+  "fork": false, 
+  "full_name": "feross/CMSploit", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:41:53.568378"
+}

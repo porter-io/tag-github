@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.601704", 
+  "description": "Photoshop layer styles for iOS icons. Stop maintaining a separate file for each color, resolution, and style.", 
+  "fork": false, 
+  "full_name": "peyton/MOOMaskedIconView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:29.790746"
+}

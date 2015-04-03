@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.111495", 
+  "description": "Monitor NPM changes and keep an up-to-date mirror of modules metadata (not the whole data, i.e. including attachments info, but not attachments body)", 
+  "fork": false, 
+  "full_name": "naholyr/node-npm-metadata-mirror", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:17.632588"
+}

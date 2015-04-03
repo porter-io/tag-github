@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.655485", 
+  "description": "The PHP Hooks Class is a fork of the WordPress filters hook system rolled in to a class to be ported into any php based system .", 
+  "fork": false, 
+  "full_name": "bainternet/PHP-Hooks", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:40.447039"
+}

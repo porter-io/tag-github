@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.073067", 
+  "description": "The File System State Monitor keeps track of the state of any number of paths and will fire events when said state changes (create/update/delete). FSSM supports using FSEvents on MacOS, Inotify on GNU/Linux, and polling anywhere else.", 
+  "fork": false, 
+  "full_name": "ttilley/fssm", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:21.776724"
+}

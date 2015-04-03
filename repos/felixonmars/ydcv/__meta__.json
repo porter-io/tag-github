@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.773109", 
+  "description": "YouDao Console Version - Simple wrapper for Youdao online translate (Chinese <-> English) service API, as an alternative to the StarDict Console Version(sdcv).", 
+  "fork": false, 
+  "full_name": "felixonmars/ydcv", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:56.717325"
+}

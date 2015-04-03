@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.458147", 
+  "description": "Rails app for tracking trends in server logs - powered by the Cloudera Hadoop Distribution on EC2", 
+  "fork": false, 
+  "full_name": "datawrangling/trendingtopics", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:29.416758"
+}

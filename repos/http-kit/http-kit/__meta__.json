@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.731197", 
+  "description": "http-kit is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support", 
+  "fork": false, 
+  "full_name": "http-kit/http-kit", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:57.418422"
+}

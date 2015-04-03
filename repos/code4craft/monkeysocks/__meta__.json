@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.116371", 
+  "description": "A socks proxy in Java. It can be used to record network traffics and replay them for tests. ", 
+  "fork": false, 
+  "full_name": "code4craft/monkeysocks", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:42:34.811353"
+}

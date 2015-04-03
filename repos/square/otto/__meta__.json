@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.451658", 
+  "description": "An enhanced Guava-based event bus with emphasis on Android support.", 
+  "fork": false, 
+  "full_name": "square/otto", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:38.449934"
+}

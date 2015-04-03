@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.458336", 
+  "description": "PHP5 library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoimage", 
+  "fork": false, 
+  "full_name": "KnpLabs/snappy", 
+  "language": "PHP", 
+  "updated_at": "2015-04-01T19:29:31.981191"
+}

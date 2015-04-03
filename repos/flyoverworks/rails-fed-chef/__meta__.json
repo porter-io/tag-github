@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.457625", 
+  "description": "Chef kitchen for setting up servers for use with a rails stack", 
+  "fork": false, 
+  "full_name": "FlyoverWorks/rails-fed-chef", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:08.049074"
+}

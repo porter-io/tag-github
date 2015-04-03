@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.320533", 
+  "description": "limit the number of connections to upstream for NGINX", 
+  "fork": false, 
+  "full_name": "cfsego/nginx-limit-upstream", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:48.862375"
+}

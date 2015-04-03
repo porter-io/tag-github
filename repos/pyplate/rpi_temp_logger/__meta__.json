@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.099924", 
+  "description": "Raspberry Pi SQLite temperature logger with a web UI", 
+  "fork": false, 
+  "full_name": "Pyplate/rpi_temp_logger", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:51.264636"
+}

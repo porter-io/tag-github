@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.126880", 
+  "description": "Capistrano recipe for deploying node.js apps", 
+  "fork": false, 
+  "full_name": "loopj/capistrano-node-deploy", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:00:59.386561"
+}

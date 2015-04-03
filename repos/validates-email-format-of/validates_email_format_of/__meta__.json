@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.786179", 
+  "description": "Validate e-mail addreses against RFC 2822 and RFC 3696 with this Ruby on Rails plugin and gem.", 
+  "fork": false, 
+  "full_name": "validates-email-format-of/validates_email_format_of", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:02.291843"
+}

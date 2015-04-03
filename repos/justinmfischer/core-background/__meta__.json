@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.435894", 
+  "description": "An Objective-C API inspired by iOS 7 and the Yahoo Weather App. Location-based Flickr photos in background UIImageView are Gaussian blurred by a UIScrollView while scrolling over foreground iPhone content.", 
+  "fork": false, 
+  "full_name": "justinmfischer/core-background", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:03:12.174914"
+}

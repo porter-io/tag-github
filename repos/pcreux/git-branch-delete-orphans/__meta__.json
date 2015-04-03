@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.899693", 
+  "description": "Delete tracking branches which remote branches do not exist anymore.", 
+  "fork": false, 
+  "full_name": "pcreux/git-branch-delete-orphans", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:44.222513"
+}

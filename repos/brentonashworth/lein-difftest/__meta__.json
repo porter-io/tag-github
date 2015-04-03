@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.331430", 
+  "description": "Leiningen plugin for running tests with better error reporting", 
+  "fork": false, 
+  "full_name": "brentonashworth/lein-difftest", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:44:14.375011"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.025326", 
+  "description": "sofia-kmeans with sparse RBF cluster mapping", 
+  "fork": false, 
+  "full_name": "zygmuntz/sofia-ml-mod", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:12.482937"
+}

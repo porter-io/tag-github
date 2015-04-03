@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.464357", 
+  "description": "Drop-in solution to achieve the \"More\" button in an UITableView's \"Swipe to Delete\" menu (as seen in Mail.app under iOS 7)", 
+  "fork": false, 
+  "full_name": "scheinem/MSCMoreOptionTableViewCell", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:02:08.682341"
+}

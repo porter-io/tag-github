@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.204627", 
+  "description": "Context sensitive completion for OCaml in Vim and Emacs", 
+  "fork": false, 
+  "full_name": "the-lambda-church/merlin", 
+  "language": "OCaml", 
+  "updated_at": "2015-02-27T23:43:14.476644"
+}

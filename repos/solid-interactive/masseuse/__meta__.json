@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.744508", 
+  "description": "masseuse is a helper library for Backbone. It has optionally async lifecycle methods, 2 way DOM binding to Models, Collections, and Views via Rivets, Child Views, Proxy & Computed Properties, plus more.", 
+  "fork": false, 
+  "full_name": "Solid-Interactive/masseuse", 
+  "language": "CSS", 
+  "updated_at": "2015-02-27T23:41:22.194816"
+}

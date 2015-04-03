@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.983795", 
+  "description": "Minor modes to highlight indentation guides in emacs.", 
+  "fork": false, 
+  "full_name": "antonj/Highlight-Indentation-for-Emacs", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:42:08.279184"
+}

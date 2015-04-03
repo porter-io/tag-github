@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.345594", 
+  "description": "Sucker Punch is a Ruby asynchronous processing library using Celluloid, heavily influenced by Sidekiq and girl_friday.", 
+  "fork": false, 
+  "full_name": "brandonhilkert/sucker_punch", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:10.881124"
+}

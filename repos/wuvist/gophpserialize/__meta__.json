@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.477583", 
+  "description": "GO module to parse php serialised obj and help to convert to json.  ", 
+  "fork": false, 
+  "full_name": "Wuvist/gophpserialize", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:01:17.407861"
+}

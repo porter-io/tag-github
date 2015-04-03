@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.157603", 
+  "description": "js utility for summarizing large bodies of text using a basic sentence relevance ranking algorithm", 
+  "fork": false, 
+  "full_name": "topliceanu/text-summarization", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:34.865539"
+}

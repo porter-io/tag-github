@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.317893", 
+  "description": "A suite of scala libraries for building and consuming RESTful web services on top of Akka: lightweight, asynchronous, non-blocking, actor-based, testable", 
+  "fork": false, 
+  "full_name": "spray/spray", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:41:28.879073"
+}

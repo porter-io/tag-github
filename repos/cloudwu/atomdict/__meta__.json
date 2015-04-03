@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.555903", 
+  "description": "A data structure for data exchange between multi lua states.", 
+  "fork": false, 
+  "full_name": "cloudwu/atomdict", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:00.666968"
+}

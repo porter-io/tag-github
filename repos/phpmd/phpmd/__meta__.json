@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.578753", 
+  "description": "PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend.", 
+  "fork": true, 
+  "full_name": "phpmd/phpmd", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T22:28:58.579085"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.986901", 
+  "description": "This Ruby on Rails gem allows you to easily add Growl-like notifications to your application using a jQuery plugin called 'gritter'.", 
+  "fork": false, 
+  "full_name": "RobinBrouwer/gritter", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:05.835787"
+}

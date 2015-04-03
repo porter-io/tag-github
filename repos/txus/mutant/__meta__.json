@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.190120", 
+  "description": "Mutant is a mutation tester. It modifies your code and runs your tests to make sure they fail. The idea is that if code can be changed and your tests don't notice, either that code isn't being covered or it doesn't do anything. This is a rewrite on top of Rubinius.", 
+  "fork": false, 
+  "full_name": "txus/mutant", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:32.877412"
+}

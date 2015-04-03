@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.398589", 
+  "description": "PostgreSQL HStore support for Django.", 
+  "fork": false, 
+  "full_name": "djangonauts/django-hstore", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:15.107998"
+}

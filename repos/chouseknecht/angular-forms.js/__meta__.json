@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.993455", 
+  "description": "AngularForms makes it easy to build forms for your AngularJS app. Create forms as JSON objects, and let AngularForms generate, compile and inject the HTML into your app, complete with Angular directives, validation and Twitter Bootstrap styling.", 
+  "fork": false, 
+  "full_name": "chouseknecht/angular-forms.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:00:56.453983"
+}

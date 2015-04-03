@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.781521", 
+  "description": "this project is a solution to solve nginx proxy store without file manager.", 
+  "fork": false, 
+  "full_name": "cxwshawn/ngx_proxy_store_file_mgr", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:44:31.138948"
+}

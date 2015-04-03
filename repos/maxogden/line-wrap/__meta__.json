@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.190886", 
+  "description": "writable stream that reformats text and wraps lines to a specific line width (default 80). also available as a command line tool", 
+  "fork": false, 
+  "full_name": "maxogden/line-wrap", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.980880"
+}

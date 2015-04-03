@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.353170", 
+  "description": "A simple DNS forwarder that also happens to resolve docker container names", 
+  "fork": false, 
+  "full_name": "farcaller/DockDNS", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:40.276542"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.627211", 
+  "description": "Mongify allows you to map your data from a sql database and into a mongodb document database.", 
+  "fork": false, 
+  "full_name": "anlek/mongify", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:03:21.916849"
+}

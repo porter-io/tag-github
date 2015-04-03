@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.217883", 
+  "description": "A starter repo for custom chef recipes on EY's cloud platform.  These are for reference, and do not indicate a supported status.", 
+  "fork": true, 
+  "full_name": "engineyard/ey-cloud-recipes", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:29:14.217987"
+}

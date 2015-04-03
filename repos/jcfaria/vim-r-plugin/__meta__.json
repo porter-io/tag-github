@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.371190", 
+  "description": "Plugin to work with R (forked for development only)", 
+  "fork": true, 
+  "full_name": "jcfaria/Vim-R-plugin", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T22:27:32.371988"
+}

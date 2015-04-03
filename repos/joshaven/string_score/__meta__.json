@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.021867", 
+  "description": "JavaScript string ranking 0 for no match upto 1 for perfect... \"String\".score(\"str\"); //=> 0.825", 
+  "fork": false, 
+  "full_name": "joshaven/string_score", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:07.434097"
+}

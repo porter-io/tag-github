@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.856545", 
+  "description": "Simple Emacs major mode for editing AsciiDoc files", 
+  "fork": false, 
+  "full_name": "emanchado/asciidoc-mode", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:41:22.456554"
+}

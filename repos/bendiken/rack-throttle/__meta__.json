@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.753063", 
+  "description": "Rack middleware for rate-limiting incoming HTTP requests.", 
+  "fork": false, 
+  "full_name": "bendiken/rack-throttle", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:29.141511"
+}

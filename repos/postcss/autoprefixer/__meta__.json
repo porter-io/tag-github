@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.285781", 
+  "description": " Parse CSS and add vendor prefixes to rules by Can I Use", 
+  "fork": false, 
+  "full_name": "postcss/autoprefixer", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T06:06:30.783041"
+}

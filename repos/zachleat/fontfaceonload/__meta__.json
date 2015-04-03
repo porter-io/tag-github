@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.597682", 
+  "description": "A simple utility to execute a callback when a webfont loads.", 
+  "fork": false, 
+  "full_name": "zachleat/fontfaceonload", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:40.188527"
+}

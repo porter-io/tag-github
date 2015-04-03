@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.927586", 
+  "description": "jQuery plugin that allows you to define event handlers to be fired the moment a specified element becomes available within the DOM.", 
+  "fork": false, 
+  "full_name": "tkambler/whenLive", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:30.345940"
+}

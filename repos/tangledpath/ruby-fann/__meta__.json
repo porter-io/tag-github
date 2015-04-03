@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.940632", 
+  "description": "Ruby library for interfacing with FANN (Fast Artificial Neural Network)", 
+  "fork": false, 
+  "full_name": "tangledpath/ruby-fann", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:44:00.838896"
+}

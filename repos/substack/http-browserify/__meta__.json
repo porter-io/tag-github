@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.101997", 
+  "description": "node's http module, but for the browser", 
+  "fork": false, 
+  "full_name": "substack/http-browserify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.939168"
+}

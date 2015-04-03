@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.751841", 
+  "description": "A simple demo of real-time tweet stream monitoring using Tornado, WebSocket, and Redis.", 
+  "fork": false, 
+  "full_name": "aekpalakorn/python-rt-stream-demo", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:13.828739"
+}

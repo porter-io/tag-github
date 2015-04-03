@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.408681", 
+  "description": "Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary.", 
+  "fork": false, 
+  "full_name": "schacon/ruby-git", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:07.252894"
+}

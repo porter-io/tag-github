@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.168116", 
+  "description": "Kill all children processes when the parent dies", 
+  "fork": false, 
+  "full_name": "douban/CaoE", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:01.229432"
+}

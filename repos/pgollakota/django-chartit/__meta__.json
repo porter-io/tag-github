@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.775493", 
+  "description": "A Django app to plot charts and pivot charts directly from the models. Uses HighCharts and jQuery JavaScript libraries to render the charts on the webpage.", 
+  "fork": false, 
+  "full_name": "pgollakota/django-chartit", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:03:14.646921"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.287059", 
+  "description": "Polyfill using the Jazz NPAPI MIDI plugin to implement the Web MIDI API on Mac and Windows.", 
+  "fork": false, 
+  "full_name": "cwilso/WebMIDIAPIShim", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:30:19.384754"
+}

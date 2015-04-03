@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.698962", 
+  "description": "template application demonstrating how to get Rails 3 pluggability without waiting for Rails 3 (Sinatra FTW)", 
+  "fork": false, 
+  "full_name": "alexch/vegas", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:58.647194"
+}

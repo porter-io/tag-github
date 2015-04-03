@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.809056", 
+  "description": "UICollectionViewLayout subclass for displaying items of different sizes in a grid without wasting any visual space. Inspired by: http://www.crispymtn.com/stories/the-algorithm-for-a-perfectly-balanced-photo-gallery", 
+  "fork": false, 
+  "full_name": "njdehoog/NHBalancedFlowLayout", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:03.136541"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.436895", 
+  "description": "General-purpose programming language featuring functional idioms, strong static inferred types, and a concurrency model built on managed mutability and STM.", 
+  "fork": false, 
+  "full_name": "adobe-research/mesh", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:47.240462"
+}

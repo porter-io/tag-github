@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.167807", 
+  "description": "Pyramid configuration with celery integration. Allows you to use pyramid .ini files to configure celery and have your pyramid configuration inside celery tasks.", 
+  "fork": true, 
+  "full_name": "lxneng/pyramid_celery", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:28:06.167844"
+}

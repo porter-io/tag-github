@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.089260", 
+  "description": "Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. This tool is necessary for security researchers to be able to look under the hood of encryption.", 
+  "fork": false, 
+  "full_name": "stefanesser/dumpdecrypted", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:42.140190"
+}

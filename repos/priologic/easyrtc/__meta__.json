@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.714067", 
+  "description": "EasyRTC is a bundle of Open Source WebRTC joy!   Our Javascript API hides the differences between Chrome and Firefox browsers and simplifies coding needed for working WebRTC apps. Signalling server using socket.io built on node.js.  Tons of free code so you can build WebRTC apps in a few hours that just work.  Demos include Instant messaging, Multiparty chatroom, Audio + Video, Screen sharing, Data channel Messaging and File sharing, and more.", 
+  "fork": false, 
+  "full_name": "priologic/easyrtc", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:07.022112"
+}

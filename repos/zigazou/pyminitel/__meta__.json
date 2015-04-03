@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.779771", 
+  "description": "PyMinitel est une biblioth\u00e8que Python permettant de pilor un Minitel depuis un PC sous Linux. Pour cela, la biblioth\u00e8que PySerial est n\u00e9cessaire car elle est utilis\u00e9e pour dialoguer avec le Minitel, en \u00e9mission comme en r\u00e9ception.", 
+  "fork": false, 
+  "full_name": "Zigazou/PyMinitel", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:30.356049"
+}

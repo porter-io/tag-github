@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.152070", 
+  "description": "RakeUp provides a set of turn-key Rake tasks for running a local Rack based server application", 
+  "fork": false, 
+  "full_name": "blakewatters/RakeUp", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:17.230165"
+}

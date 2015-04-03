@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.859050", 
+  "description": "A simple filesystem abstraction package for Laravel 4.", 
+  "fork": false, 
+  "full_name": "dmyers/laravel-storage", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:05.125519"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.663261", 
+  "description": "Scheduler (HTTP API and webapp) for running mesos tasks\u2014long running processes, one-off tasks, and scheduled jobs. #hubspot-open-source", 
+  "fork": false, 
+  "full_name": "HubSpot/Singularity", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:49.268405"
+}

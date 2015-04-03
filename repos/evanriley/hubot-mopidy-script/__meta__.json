@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.167551", 
+  "description": "Control the Mopidy music server through Github's Hubot.", 
+  "fork": false, 
+  "full_name": "evanriley/Hubot-Mopidy-Script", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:41:20.355563"
+}

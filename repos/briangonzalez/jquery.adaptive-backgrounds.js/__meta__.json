@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.704696", 
+  "description": "A jQuery plugin for extracting the dominant color from images and applying the color to their parent.", 
+  "fork": false, 
+  "full_name": "briangonzalez/jquery.adaptive-backgrounds.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T06:07:10.307036"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.560300", 
+  "description": "An example of using Docker to package a Node.js script with all its dependencies, including Node.  The example logic saves a URL response to Amazon S3", 
+  "fork": false, 
+  "full_name": "adamalex/docker-urlarchiver", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:29.692744"
+}

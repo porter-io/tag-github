@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.100805", 
+  "description": "Hash type for manipulation with huge map[string]interface{}", 
+  "fork": false, 
+  "full_name": "zazab/zhash", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:32.696517"
+}

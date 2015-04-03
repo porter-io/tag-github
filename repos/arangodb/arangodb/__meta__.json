@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.934738", 
+  "description": "ArangoDB is a multi-model, open-source database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions. Use ACID transactions if you require them. Scale horizontally and vertically with a few mouse clicks.", 
+  "fork": false, 
+  "full_name": "arangodb/arangodb", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:01:05.605690"
+}

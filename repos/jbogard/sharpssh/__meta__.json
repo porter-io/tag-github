@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.688992", 
+  "description": "Fork of SharpSSH - SharpSSH is a pure .NET implementation of the SSH2 client protocol suite. It provides an API for communication with SSH servers and can be integrated into any .NET application.", 
+  "fork": false, 
+  "full_name": "jbogard/SharpSSH", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:41:57.365814"
+}

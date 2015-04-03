@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.156084", 
+  "description": "Mqtt service for Android, based on Eclipse Paho Mqtt Client and Dale Lane's blog article (http://dalelane.co.uk/blog/?p=1599)", 
+  "fork": false, 
+  "full_name": "dirkmoors/MqttService", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:24.794884"
+}

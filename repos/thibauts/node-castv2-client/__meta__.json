@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.413154", 
+  "description": "A Chromecast client based on the new (CASTV2) protocol", 
+  "fork": false, 
+  "full_name": "thibauts/node-castv2-client", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:42.203484"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.070587", 
+  "description": "A nodejs connect middleware to prevent bruteforce", 
+  "fork": false, 
+  "full_name": "revington/connect-bruteforce", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:03.359823"
+}

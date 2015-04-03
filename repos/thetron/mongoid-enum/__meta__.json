@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.555848", 
+  "description": "Sweet enum sugar for your Mongoid documents", 
+  "fork": false, 
+  "full_name": "thetron/mongoid-enum", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:09.847164"
+}

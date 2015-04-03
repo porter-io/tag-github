@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:36.340049", 
+  "description": "Block bad, possibly even malicious web crawlers (automated bots) using htaccess.", 
+  "fork": false, 
+  "full_name": "bluedragonz/bad-bot-blocker", 
+  "updated_at": "2015-02-27T23:43:09.216168"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.161111", 
+  "description": "checks which modules you have used in your code and then makes sure they are listed as dependencies in your package.json", 
+  "fork": false, 
+  "full_name": "maxogden/dependency-check", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.954679"
+}

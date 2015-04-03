@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.857591", 
+  "description": "Example CoreOS services for a load balancing cluster", 
+  "fork": false, 
+  "full_name": "lordelph/confd-demo", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:26.664225"
+}

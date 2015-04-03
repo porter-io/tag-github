@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.637705", 
+  "description": "A Clojure library designed to allow Clojure configuration to travel between hosts.", 
+  "fork": false, 
+  "full_name": "james-henderson/nomad", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:13.133991"
+}

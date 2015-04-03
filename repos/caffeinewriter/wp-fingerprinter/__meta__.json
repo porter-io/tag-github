@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.790672", 
+  "description": "Quickly fingerprints WordPress installations and returns their version numbers if possible.", 
+  "fork": false, 
+  "full_name": "caffeinewriter/wp-fingerprinter", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:32.135004"
+}

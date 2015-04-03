@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.630981", 
+  "description": "A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  Much of the functionality is inspired by the Python standard libraries.", 
+  "fork": false, 
+  "full_name": "stevedonovan/Penlight", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:42:18.535964"
+}

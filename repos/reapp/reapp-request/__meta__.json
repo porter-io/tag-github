@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.106399", 
+  "description": "thin wrapper around superagent + superagent-bluebird-promise that adds runtime and localstorage caching", 
+  "fork": false, 
+  "full_name": "reapp/reapp-request", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:55.920207"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.086282", 
+  "description": "Cross-site request forgery protection for Express Node.js framework", 
+  "fork": false, 
+  "full_name": "hanssonlarsson/express-csrf", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:32:06.195043"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.279421", 
+  "description": "A flow layout for UICollectionView that implements swiping-to-select gestures.", 
+  "fork": false, 
+  "full_name": "CEWendel/SECollectionViewFlowLayout", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:34.038237"
+}

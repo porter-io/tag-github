@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.542699", 
+  "description": "Detect whether a video element has enough data such that it can be played and render frames", 
+  "fork": false, 
+  "full_name": "DamonOehlman/canplay", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:34.349323"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.991594", 
+  "description": "Stricter operations for Typed Clojure, inspired by Scala collections", 
+  "fork": false, 
+  "full_name": "typedclojure/strict-typed-ops", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:52.855761"
+}

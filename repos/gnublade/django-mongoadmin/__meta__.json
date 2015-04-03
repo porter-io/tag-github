@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.520792", 
+  "description": "A basic CRUD admin interface for Django+MongoEngine, very similar to `django.contrib.admin`", 
+  "fork": true, 
+  "full_name": "gnublade/django-mongoadmin", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:46.110358"
+}

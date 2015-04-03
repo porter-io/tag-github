@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.561388", 
+  "description": "Plugin for dynamic generation of angular constant and value definition modules.", 
+  "fork": false, 
+  "full_name": "werk85/grunt-ng-constant", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:38.079935"
+}

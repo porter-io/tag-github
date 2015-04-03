@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.696359", 
+  "description": "Portal = NodeJS(expressjs + socketio) + Sencha ExtJS 4.0", 
+  "fork": false, 
+  "full_name": "mikekunze/portalstack", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:28.959868"
+}

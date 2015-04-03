@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.415938", 
+  "description": "A Simple Postgres Hstore wrapper for use with the Rollout gem.", 
+  "fork": false, 
+  "full_name": "Americastestkitchen/rollout_postgres_store", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:02.625252"
+}

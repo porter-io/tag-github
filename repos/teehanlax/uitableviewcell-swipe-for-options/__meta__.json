@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.445470", 
+  "description": "A reproduction of the iOS 7 Mail app's swipe-to-reveal options", 
+  "fork": false, 
+  "full_name": "TeehanLax/UITableViewCell-Swipe-for-Options", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:15.525087"
+}

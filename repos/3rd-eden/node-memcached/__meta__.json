@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.422810", 
+  "description": "A fully featured Memcached client build on top of Node.js. Build with scaling in mind so it will support Memcached clusters and consistent hashing.", 
+  "fork": false, 
+  "full_name": "3rd-Eden/node-memcached", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:42.652186"
+}

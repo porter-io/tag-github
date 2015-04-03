@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.051901", 
+  "description": "Simple role based security for restful_authentication\n\nI am no longer involved in this project. If you are interested in becoming the new maintainer and making it your own, please contact me. I will no longer be responding to bug reports or questions.\n\nThanks,\n\nTim\n", 
+  "fork": false, 
+  "full_name": "timcharper/role_requirement", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:47.666409"
+}

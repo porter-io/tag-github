@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.109994", 
+  "description": "Opsworks Chef Cookbook for Docker deployments.", 
+  "fork": false, 
+  "full_name": "intinig/opsworks-docker", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:02.219228"
+}

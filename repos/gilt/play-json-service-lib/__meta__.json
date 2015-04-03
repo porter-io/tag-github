@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.435743", 
+  "description": "Library making it easier to create JSON-based services using Play Framework", 
+  "fork": false, 
+  "full_name": "gilt/play-json-service-lib", 
+  "language": "Scala", 
+  "updated_at": "2015-04-01T19:28:18.767163"
+}

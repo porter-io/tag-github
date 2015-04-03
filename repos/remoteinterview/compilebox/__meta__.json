@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.600042", 
+  "description": "Compile and run user-submitted code in a docker based sandbox.", 
+  "fork": false, 
+  "full_name": "remoteinterview/compilebox", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:04.821069"
+}

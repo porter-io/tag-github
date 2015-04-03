@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.449084", 
+  "description": "node.js-runnable v8.log processor (d8 + %platform%-tick-processor friend)", 
+  "fork": false, 
+  "full_name": "sidorares/node-tick", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:11.691645"
+}

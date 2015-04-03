@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.477532", 
+  "description": "A node.js module for implementing BLE (Bluetooth low energy) peripherals", 
+  "fork": false, 
+  "full_name": "sandeepmistry/bleno", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:09.734960"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.512187", 
+  "description": "Help ActiveRecord::Enum feature to work fine with I18n and simple_form.", 
+  "fork": false, 
+  "full_name": "zmbacker/enum_help", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:29.520424"
+}

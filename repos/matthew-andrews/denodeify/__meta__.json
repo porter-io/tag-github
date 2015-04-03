@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.018895", 
+  "description": "Standalone denodeify, for all of your callback -> promise needs.  Just drop in an ES6 complaint promise library & stir", 
+  "fork": false, 
+  "full_name": "matthew-andrews/denodeify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:33.668521"
+}

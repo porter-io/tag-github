@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.257086", 
+  "description": "A Cordova/PhoneGap plugin to open and use sqlite databases on Android/iOS/WP(8) with HTML5 Web SQL API", 
+  "fork": false, 
+  "full_name": "brodysoft/Cordova-SQLitePlugin", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T07:01:05.870198"
+}

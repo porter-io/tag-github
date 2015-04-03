@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.693614", 
+  "description": "FXImageView is a class designed to simplify the application of common visual effects such as reflections and drop-shadows to images, and also to help the performance of image loading by handling it on a background thread. ", 
+  "fork": false, 
+  "full_name": "nicklockwood/FXImageView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:02.925805"
+}

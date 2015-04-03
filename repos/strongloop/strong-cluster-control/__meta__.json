@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.462091", 
+  "description": "cluster control module, allowing run-time control and monitoring of cluster", 
+  "fork": false, 
+  "full_name": "strongloop/strong-cluster-control", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:39.605155"
+}

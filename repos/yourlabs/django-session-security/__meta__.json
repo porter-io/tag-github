@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.388387", 
+  "description": "A little javascript and middleware work together to ensure that the user was active during the past X minutes in any tab he has open. Otherwise, display a warning leaving a couple of minutes to show any kind of activity like moving the mouse. Otherwise, logout the user.", 
+  "fork": false, 
+  "full_name": "yourlabs/django-session-security", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:03:45.918893"
+}

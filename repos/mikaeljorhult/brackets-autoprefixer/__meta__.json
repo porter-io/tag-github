@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.350129", 
+  "description": "Brackets/Edge Code extension that parses CSS documents and add vendor prefixes automatically.", 
+  "fork": false, 
+  "full_name": "mikaeljorhult/brackets-autoprefixer", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:21.398682"
+}

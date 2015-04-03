@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.298322", 
+  "description": "jquery.safegard.js is a modular jquery plugin that save the current state of a form in the local storage to prevent loss of data.", 
+  "fork": false, 
+  "full_name": "lauxley/jquery.safeguard.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:42.862954"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.734546", 
+  "description": "A very small javascript library that allows you to create browser specific CSS to be merged into your normal classes. No more hacks or mischievous code in your CSS code.", 
+  "fork": false, 
+  "full_name": "rafaelp/css_browser_selector", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:07.479011"
+}

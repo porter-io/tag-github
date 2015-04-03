@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.103511", 
+  "description": "pip2pi builds a PyPI-compatible package repository from pip requirements", 
+  "fork": false, 
+  "full_name": "wolever/pip2pi", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:04.396175"
+}

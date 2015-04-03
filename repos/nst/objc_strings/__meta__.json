@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.894077", 
+  "description": "Helps in localizing Cocoa applications by showing unused/missing keys in Localizable.strings. ", 
+  "fork": false, 
+  "full_name": "nst/objc_strings", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:52.643244"
+}

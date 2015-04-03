@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.068422", 
+  "description": "HTTP client mocking tool for Python, it's like ruby's FakeWeb for python", 
+  "fork": false, 
+  "full_name": "gabrielfalcao/HTTPretty", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:07.444274"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.966594", 
+  "description": "A DataMapper adapter for redis", 
+  "fork": true, 
+  "full_name": "sfeu/dm-redis-adapter", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:27:31.967330"
+}

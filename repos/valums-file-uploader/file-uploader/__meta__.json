@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.341185", 
+  "description": "Multiple file upload plugin for HTML forms.  User-friendly progress-bar + uploads via drag-and-drop.  Coded in Javascript + AJAX, not Flash.  Server-side PHP, Java, & ColdFusion examples included.", 
+  "fork": true, 
+  "full_name": "Valums-File-Uploader/file-uploader", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:33.252649"
+}

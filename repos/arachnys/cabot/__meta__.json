@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.523594", 
+  "description": "Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty", 
+  "fork": false, 
+  "full_name": "arachnys/cabot", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:24.876719"
+}

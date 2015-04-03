@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.838985", 
+  "description": "JavaScript Load Image is a library to load images provided as File or Blob objects or via URL. It returns an optionally scaled and/or cropped HTML img or canvas element. It also provides a method to parse image meta data to extract Exif tags and thumbnails and to restore the complete image header after resizing.", 
+  "fork": false, 
+  "full_name": "blueimp/JavaScript-Load-Image", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:28.180256"
+}

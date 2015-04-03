@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.423365", 
+  "description": "Plupload is JavaScript API for building file uploaders. It supports multiple file selection, file filtering, chunked upload, client side image downsizing and when necessary can fallback to alternative runtimes, like Flash and Silverlight.", 
+  "fork": false, 
+  "full_name": "moxiecode/plupload", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T14:35:04.130630"
+}

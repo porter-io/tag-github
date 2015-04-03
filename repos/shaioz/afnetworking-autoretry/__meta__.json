@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.167963", 
+  "description": "An iOS category adding retry functionality to requests made using AFNetworking 2", 
+  "fork": false, 
+  "full_name": "shaioz/AFNetworking-AutoRetry", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:03:31.709646"
+}

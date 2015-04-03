@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.316446", 
+  "description": "Governator is a library of extensions and utilities that enhance Google Guice to provide: classpath scanning and automatic binding, lifecycle management, configuration to field mapping, field validation and parallelized object warmup.", 
+  "fork": false, 
+  "full_name": "Netflix/governator", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:31.436022"
+}

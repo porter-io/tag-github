@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.066967", 
+  "description": "A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.", 
+  "fork": false, 
+  "full_name": "Caliburn-Micro/Caliburn.Micro", 
+  "language": "C#", 
+  "updated_at": "2015-04-01T19:30:26.557691"
+}

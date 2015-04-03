@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.021469", 
+  "description": "A system for auto-decorating models with presenter objects.", 
+  "fork": false, 
+  "full_name": "ShawnMcCool/laravel-auto-presenter", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:32.503167"
+}

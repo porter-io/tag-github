@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.804487", 
+  "description": "Dispatch is a MacRuby wrapper around Mac OS X's Grand Central Dispatch.", 
+  "fork": false, 
+  "full_name": "gunn/Dispatch", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:50.496806"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.271438", 
+  "description": "Prometheus exporter exposing container metrics", 
+  "fork": false, 
+  "full_name": "docker-infra/container_exporter", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:44:02.423053"
+}

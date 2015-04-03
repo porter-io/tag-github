@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.178116", 
+  "description": "Modern implementation of the Preferences window for OS X apps, used in TextMate, GitBox and Mou:", 
+  "fork": false, 
+  "full_name": "shpakovski/MASPreferences", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:58.785391"
+}

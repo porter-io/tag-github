@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.250562", 
+  "description": "The first open source connect4 game in Opa (also called \"puissance 4\" in french). The application proposes an IA written in Opa to play with the server.", 
+  "fork": false, 
+  "full_name": "MLstate/tictactopa", 
+  "language": "Pascal", 
+  "updated_at": "2015-02-27T23:41:39.098822"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.401089", 
+  "description": "A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library", 
+  "fork": false, 
+  "full_name": "EarToEarOak/RTLSDR-Scanner", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:45.507140"
+}

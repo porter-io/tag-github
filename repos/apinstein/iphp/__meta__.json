@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.925579", 
+  "description": "An interactive php shell (REPL) with support for readline, autocomplete, include/require, and fatal-error tolerance.", 
+  "fork": false, 
+  "full_name": "apinstein/iphp", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:29.627710"
+}

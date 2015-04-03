@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.516763", 
+  "description": "A full text indexing extension for MongoDB using Sphinx. (Not maintained)", 
+  "fork": true, 
+  "full_name": "burke/mongosphinx", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:23.516870"
+}

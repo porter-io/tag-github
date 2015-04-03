@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.846030", 
+  "description": "Make any Ruby object quack like ActiveRecord", 
+  "fork": false, 
+  "full_name": "makandra/active_type", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:41.038411"
+}

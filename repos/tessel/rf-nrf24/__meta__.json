@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.326724", 
+  "description": "Pure-JavaScript nRF24L01 driver library", 
+  "fork": true, 
+  "full_name": "tessel/rf-nrf24", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:29:22.326776"
+}

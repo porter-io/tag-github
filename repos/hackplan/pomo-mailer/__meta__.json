@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.957155", 
+  "description": "Simple mailer with i18n and template engine", 
+  "fork": false, 
+  "full_name": "HackPlan/pomo-mailer", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:41:52.820039"
+}

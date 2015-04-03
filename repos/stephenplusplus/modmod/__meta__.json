@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.848693", 
+  "description": "namespace your external dependencies: var $ = require('modmod')('fs', 'path'); $.fs; $.path;", 
+  "fork": false, 
+  "full_name": "stephenplusplus/modmod", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:44.099900"
+}

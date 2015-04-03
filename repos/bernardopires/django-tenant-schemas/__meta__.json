@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.517101", 
+  "description": "Tenant support for Django using PostgreSQL schemas.", 
+  "fork": false, 
+  "full_name": "bernardopires/django-tenant-schemas", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:30.926923"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.275467", 
+  "description": "neo-snippet plugin contains neocomplcache snippets source", 
+  "fork": false, 
+  "full_name": "Shougo/neosnippet.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:43:25.999976"
+}

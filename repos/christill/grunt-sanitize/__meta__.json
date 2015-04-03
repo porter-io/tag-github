@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.405442", 
+  "description": "A grunt plugin that sanitizes filenames by either removing or replacing spaces, forcing them to lowercase and removing any non alphanumeric characters.", 
+  "fork": false, 
+  "full_name": "christill/grunt-sanitize", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:07.895781"
+}

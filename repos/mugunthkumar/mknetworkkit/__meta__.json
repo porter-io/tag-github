@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.487745", 
+  "description": "ARC ready Networking Framework with built in authentication and HTTP 1.1 caching standards support for iOS 5+ devices", 
+  "fork": false, 
+  "full_name": "MugunthKumar/MKNetworkKit", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:29:26.153264"
+}

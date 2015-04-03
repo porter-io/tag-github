@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.402536", 
+  "description": "HAR viewer that mimics (or at least tries really hard to) Chromes network tab", 
+  "fork": false, 
+  "full_name": "ericduran/chromeHAR", 
+  "language": "CSS", 
+  "updated_at": "2015-02-27T23:42:53.378333"
+}

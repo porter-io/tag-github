@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.310524", 
+  "description": "Collection of functions and scripts to debug Erlang in production.", 
+  "fork": false, 
+  "full_name": "ferd/recon", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:43:26.039276"
+}

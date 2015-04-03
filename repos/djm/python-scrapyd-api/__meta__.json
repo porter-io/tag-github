@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.744947", 
+  "description": "A Python wrapper for working with Scrapyd's API.", 
+  "fork": false, 
+  "full_name": "djm/python-scrapyd-api", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:48.324880"
+}

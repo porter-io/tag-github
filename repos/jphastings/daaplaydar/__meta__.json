@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.665856", 
+  "description": "Make resolvable playlists visible in DAAP Clients (like iTunes and songbird) via the power of playdar", 
+  "fork": false, 
+  "full_name": "jphastings/DAAPlaydar", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:34.509441"
+}

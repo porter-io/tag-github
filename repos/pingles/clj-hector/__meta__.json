@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.141722", 
+  "description": "Simple Cassandra client for Clojure", 
+  "fork": false, 
+  "full_name": "pingles/clj-hector", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:06.292799"
+}

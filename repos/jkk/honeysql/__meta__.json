@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.237978", 
+  "description": "Turn Clojure data structures into SQL", 
+  "fork": false, 
+  "full_name": "jkk/honeysql", 
+  "language": "Clojure", 
+  "updated_at": "2015-03-10T07:02:06.489681"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.310487", 
+  "description": "Similar to acts_as_commentable; however, utilizes awesome_nested_set to provide threaded comments", 
+  "fork": false, 
+  "full_name": "elight/acts_as_commentable_with_threading", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:25.541112"
+}

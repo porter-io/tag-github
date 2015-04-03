@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.095376", 
+  "description": "Use Source Han Sans (all CTJK GUI) or Hiragino Sans (Simp & Trad Chinese GUI) as OS X's default GUI Fonts", 
+  "fork": false, 
+  "full_name": "othercat/CJKFontScript", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:57.379752"
+}

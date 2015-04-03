@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.947095", 
+  "description": "Simple Bearer authentication scheme plugin for hapi, accepts token by Header or Query parameter.", 
+  "fork": false, 
+  "full_name": "johnbrett/hapi-auth-bearer-token", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:08.530864"
+}

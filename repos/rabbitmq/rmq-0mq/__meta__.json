@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.844362", 
+  "description": "ZeroMQ support in RabbitMQ", 
+  "fork": false, 
+  "full_name": "rabbitmq/rmq-0mq", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:43:29.438545"
+}

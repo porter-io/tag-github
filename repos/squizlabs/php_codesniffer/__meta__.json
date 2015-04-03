@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.536768", 
+  "description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.", 
+  "fork": false, 
+  "full_name": "squizlabs/PHP_CodeSniffer", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:02:36.355580"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.368016", 
+  "description": "FriendlyId is the \u201cSwiss Army bulldozer\u201d of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL\u2019s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.", 
+  "fork": false, 
+  "full_name": "norman/friendly_id", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-21T14:56:31.880482"
+}

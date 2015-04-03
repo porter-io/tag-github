@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.187393", 
+  "description": "Rails plugin for Fastly dynamic caching", 
+  "fork": false, 
+  "full_name": "fastly/fastly-rails", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:05.424431"
+}

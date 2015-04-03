@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.334412", 
+  "description": "a port of shadowsocks via websockets protocol, able to tunnel through HTTP proxy", 
+  "fork": false, 
+  "full_name": "shadowsocks/shadowsocks-dotcloud", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:33.004508"
+}

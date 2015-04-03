@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.696380", 
+  "description": "PostgreSQL driver for Elixir", 
+  "fork": false, 
+  "full_name": "ericmj/postgrex", 
+  "language": "Elixir", 
+  "updated_at": "2015-02-27T23:43:55.426064"
+}

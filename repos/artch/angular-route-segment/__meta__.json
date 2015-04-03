@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.279659", 
+  "description": "A lightweight extension for AngularJS $route service which supports tree-like nested views and routes, and advanced loading flow handling.", 
+  "fork": false, 
+  "full_name": "artch/angular-route-segment", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.397447"
+}

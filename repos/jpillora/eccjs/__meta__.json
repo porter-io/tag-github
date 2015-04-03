@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.362068", 
+  "description": "Simple wrapper around SJCL's ECC Implementation", 
+  "fork": false, 
+  "full_name": "jpillora/eccjs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:01.235016"
+}

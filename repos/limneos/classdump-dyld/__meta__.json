@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.066182", 
+  "description": "Class-dump any Mach-o file without extracting it from dyld_shared_cache", 
+  "fork": false, 
+  "full_name": "limneos/classdump-dyld", 
+  "language": "Logos", 
+  "updated_at": "2015-02-27T23:43:41.274069"
+}

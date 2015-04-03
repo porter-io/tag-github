@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.216372", 
+  "description": "Simulating a vaguely WriteRoom-like environment in Vim.", 
+  "fork": true, 
+  "full_name": "amix/vim-zenroom", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T22:27:31.217183"
+}

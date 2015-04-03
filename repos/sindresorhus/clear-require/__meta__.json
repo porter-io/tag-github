@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.951910", 
+  "description": "Clear a module from the require cache", 
+  "fork": false, 
+  "full_name": "sindresorhus/clear-require", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.634136"
+}

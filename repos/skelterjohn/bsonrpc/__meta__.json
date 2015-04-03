@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.135787", 
+  "description": "Equivalent of net/rpc/jsonrpc, except with bson", 
+  "fork": false, 
+  "full_name": "skelterjohn/bsonrpc", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:17.207261"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.547725", 
+  "description": "Make a snapshot for lua state to detect memory leaks.", 
+  "fork": false, 
+  "full_name": "cloudwu/lua-snapshot", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:00.662583"
+}

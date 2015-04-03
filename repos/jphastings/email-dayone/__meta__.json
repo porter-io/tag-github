@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.576567", 
+  "description": "DayOne is a Mac/iOS journal app which uses DropBox as a syncing agent. This heroku app takes advantage of that and gives you an email address you can use to email entries directly to your journal.", 
+  "fork": false, 
+  "full_name": "jphastings/Email-DayOne", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T08:15:05.938052"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.456323", 
+  "description": "WebSocket support for the ngx_lua module (and OpenResty)", 
+  "fork": false, 
+  "full_name": "openresty/lua-resty-websocket", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:42:33.101548"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.523908", 
+  "description": "Utility class for zipping and unzipping files on iOS and Mac", 
+  "fork": false, 
+  "full_name": "soffes/ssziparchive", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:01:09.670926"
+}

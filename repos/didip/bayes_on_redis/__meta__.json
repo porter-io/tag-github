@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.209550", 
+  "description": "Bayesian classifier on top of Redis", 
+  "fork": false, 
+  "full_name": "didip/bayes_on_redis", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:39.074521"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.611988", 
+  "description": "jDBI is designed to provide convenient tabular data access in Java(tm). It uses the Java collections framework for query results, provides a convenient means of externalizing sql statements, and provides named parameter support for any database being used.", 
+  "fork": false, 
+  "full_name": "jdbi/jdbi", 
+  "language": "Java", 
+  "updated_at": "2015-04-01T19:30:49.714261"
+}

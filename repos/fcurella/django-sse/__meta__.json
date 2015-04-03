@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.987527", 
+  "description": "HTML5 Server-Sent Events integration for Django ", 
+  "fork": true, 
+  "full_name": "fcurella/django-sse", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:50.383236"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.919094", 
+  "description": "minimal monitor for JS Heap Size via performance.memory", 
+  "fork": false, 
+  "full_name": "paulirish/memory-stats.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:50.654745"
+}

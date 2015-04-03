@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.774937", 
+  "description": "A django form field that renders json field as groups of fields", 
+  "fork": false, 
+  "full_name": "ledzep2/django-jsonformfieldex", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:58.085684"
+}

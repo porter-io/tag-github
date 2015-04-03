@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.649349", 
+  "description": "Javascript database module for Indexeddb, Web SQL and localStorage storage mechanisms supporting version migration, advanced query, SQL and transaction.", 
+  "fork": false, 
+  "full_name": "yathit/ydn-db", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:35.009412"
+}

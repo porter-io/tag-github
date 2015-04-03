@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.682985", 
+  "description": "A pure Go relational database system ported from and inspired by SQLite 3", 
+  "fork": false, 
+  "full_name": "feyeleanor/serendipity", 
+  "language": "C", 
+  "updated_at": "2015-02-28T08:40:51.321855"
+}

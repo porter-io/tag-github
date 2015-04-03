@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.753212", 
+  "description": "Hybrid IaaS/Docker orchestration platform running on CoreOS", 
+  "fork": false, 
+  "full_name": "cattleio/stampede", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:30.314543"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.973017", 
+  "description": "An asset pipeline implementation for Sinatra based on Sprockets.", 
+  "fork": false, 
+  "full_name": "kalasjocke/sinatra-asset-pipeline", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:06.114784"
+}

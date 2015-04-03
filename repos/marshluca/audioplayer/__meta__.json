@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.943901", 
+  "description": "An online iOS audio player based on AVAudioStreamer with a custom UI.", 
+  "fork": false, 
+  "full_name": "marshluca/AudioPlayer", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:00:55.078862"
+}

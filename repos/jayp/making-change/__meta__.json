@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.351607", 
+  "description": "An implementation of \"Making Change\" kata. Focus is on testing using test.check.", 
+  "fork": false, 
+  "full_name": "jayp/making-change", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:39.220984"
+}

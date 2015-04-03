@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.152075", 
+  "description": "Manages user data, account information, credentials of hardware ownership; takes the schedule of operations from the DSS and sends it to raspberry-pi-controller via the SkyNet platform; receives data from bot via SkyNet and stores it; other services such as user account creation, email alerts, etc", 
+  "fork": false, 
+  "full_name": "FarmBot/farmbot-web-app", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:24.899137"
+}

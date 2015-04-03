@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.930210", 
+  "description": "Experimental implementation of Account Management and Session Identification (see https://wiki.mozilla.org/Labs/Weave/Identity/Account_Manager).", 
+  "fork": false, 
+  "full_name": "francois2metz/django-account-manager", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:23.670136"
+}

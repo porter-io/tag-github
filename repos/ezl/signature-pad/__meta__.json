@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.340182", 
+  "description": "A jQuery plugin for assisting in the creation of an HTML5 canvas based signature pad. Records the drawn signature in JSON for later regeneration.", 
+  "fork": true, 
+  "full_name": "ezl/signature-pad", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:28:04.341016"
+}

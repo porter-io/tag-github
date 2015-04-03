@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.791877", 
+  "description": "A .Net Library for generating Passbook packages for iOS 6, iOS 7 & iOS 8. Please get involved by forking and updating the repository.", 
+  "fork": false, 
+  "full_name": "tomasmcguinness/dotnet-passbook", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T07:04:13.806031"
+}

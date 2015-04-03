@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.789212", 
+  "description": "Rich is an opinionated WYSIWYG editor (based on CKEditor) for Rails with flexible image uploads (using Paperclip).", 
+  "fork": false, 
+  "full_name": "bastiaanterhorst/rich", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:07.174500"
+}

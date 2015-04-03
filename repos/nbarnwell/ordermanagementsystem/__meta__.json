@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.974466", 
+  "description": "A sample application using RavenDB, Msmq and MS SQL Server to demonstrate a working DDD, CQRS and ES system, inspired by Greg Young's 3-day course. Please note that the \"Framework\" namespace and concrete implementations thereof are being built into a new library called \"Regalo\", another repository of mine that can be found on Github at https://github.com/nbarnwell/Regalo.", 
+  "fork": false, 
+  "full_name": "nbarnwell/OrderManagementSystem", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:31:26.629837"
+}

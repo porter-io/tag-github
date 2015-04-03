@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.600652", 
+  "description": "A caching library for Clojure implementing various cache strategies", 
+  "fork": false, 
+  "full_name": "clojure/core.cache", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:44:02.849503"
+}

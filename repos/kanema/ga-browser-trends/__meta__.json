@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.149876", 
+  "description": "A graphic visualization in node.js to analyzer tendency of web browsers in Google Analytics.", 
+  "fork": false, 
+  "full_name": "kanema/ga-browser-trends", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:12.565564"
+}

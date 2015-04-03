@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.752664", 
+  "description": "A lossless xml to json and json to xml converter (and csv/xlsx/yaml). Writing PHP Json/Xml/Csv/Yaml/excel Importers made easy.", 
+  "fork": false, 
+  "full_name": "DracoBlue/Craur", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:14.996917"
+}

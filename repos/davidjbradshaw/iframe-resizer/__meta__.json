@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.283280", 
+  "description": "Keep same and cross domain iFrames sized to their content with support for window/content resizing, nesting and multiple iFrames. (Dependency free, IE8+)", 
+  "fork": false, 
+  "full_name": "davidjbradshaw/iframe-resizer", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:31.298365"
+}

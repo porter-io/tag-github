@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.300691", 
+  "description": "Modernizes Python code for eventual Python 3 migration. Build on top of 2to3", 
+  "fork": false, 
+  "full_name": "mitsuhiko/python-modernize", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:12.798298"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.853529", 
+  "description": "An Emacs configuration bundle with batteries included", 
+  "fork": false, 
+  "full_name": "purcell/emacs.d", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:42:30.426832"
+}

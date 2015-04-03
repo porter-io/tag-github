@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.852887", 
+  "description": "Rails provides an excellent XML Builder by default to build RSS and ATOM feeds, but nothing to help you build complex and custom JSON data structures. JSON Builder is here to help.", 
+  "fork": false, 
+  "full_name": "dewski/json_builder", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:19.374306"
+}

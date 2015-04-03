@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.441158", 
+  "description": "A port of dotenv to Elixir", 
+  "fork": false, 
+  "full_name": "avdi/dotenv_elixir", 
+  "language": "Elixir", 
+  "updated_at": "2015-02-27T23:43:32.094980"
+}

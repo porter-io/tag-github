@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.980725", 
+  "description": "Work with remote servers via cURL much easier than using the native PHP bindings.", 
+  "fork": true, 
+  "full_name": "brodkinca/BCA-PHP-CURL", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:04.212512"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.327064", 
+  "description": "A simple cron system for Meteor. It supports syncronizing jobs between multiple processes.", 
+  "fork": false, 
+  "full_name": "percolatestudio/meteor-synced-cron", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:20.883222"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.040408", 
+  "description": "Spherical mercator tile and coordinate utilities", 
+  "fork": false, 
+  "full_name": "mapbox/mercantile", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:22.666194"
+}

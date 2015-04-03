@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.260371", 
+  "description": "Export github issues to a CSV file (developed in NodeJS)", 
+  "fork": false, 
+  "full_name": "colmsjo/github-issues-export", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:12.314112"
+}

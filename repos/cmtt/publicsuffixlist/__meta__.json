@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.965059", 
+  "description": "A validator for domain names and top level domains, driven by publicsuffixlist.org and ICANN's generic TLDs.", 
+  "fork": false, 
+  "full_name": "cmtt/publicsuffixlist", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:32.802501"
+}

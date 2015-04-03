@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.281571", 
+  "description": "An optimized JavaScript implementation of the MurmurHash algorithms.", 
+  "fork": false, 
+  "full_name": "garycourt/murmurhash-js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:12.669068"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.058086", 
+  "description": "Automatically sort AngularJS app files depending on module definitions and usage", 
+  "fork": false, 
+  "full_name": "klei/gulp-angular-filesort", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:30.695623"
+}

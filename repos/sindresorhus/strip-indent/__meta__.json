@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.261746", 
+  "description": "Strip leading whitespace from every line in a string", 
+  "fork": false, 
+  "full_name": "sindresorhus/strip-indent", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:15.806755"
+}

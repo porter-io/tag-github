@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.503648", 
+  "description": "manage bunch of processes. include create, close, restart, send message", 
+  "fork": false, 
+  "full_name": "chinat/node-workers", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:42.894687"
+}

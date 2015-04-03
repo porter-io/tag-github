@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.586050", 
+  "description": "Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 18.", 
+  "fork": true, 
+  "full_name": "rikvanduijn/unicorn", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T22:29:10.586185"
+}

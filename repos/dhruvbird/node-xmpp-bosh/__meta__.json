@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.386952", 
+  "description": "An XMPP BOSH & WebSocket server (connection manager) written on node.js using Javascript", 
+  "fork": false, 
+  "full_name": "dhruvbird/node-xmpp-bosh", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:34.183179"
+}

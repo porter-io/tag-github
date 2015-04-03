@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.661387", 
+  "description": "A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).", 
+  "fork": false, 
+  "full_name": "newsapps/beeswithmachineguns", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:57.328228"
+}

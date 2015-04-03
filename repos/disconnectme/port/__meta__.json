@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.022307", 
+  "description": "port.js is an expanded version of Michael Gundlach\u2019s Chrome-(and-Opera!)\u2013to\u2013Safari porting library for extensions <https://adblockforchrome.googlecode.com/svn/trunk/port.js>.", 
+  "fork": false, 
+  "full_name": "disconnectme/port", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:34.718169"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.227882", 
+  "description": "Memfetch is a simple utility to dump all memory of a running process, either immediately or when a fault condition is discovered. It is an attractive alternative to the vastly inferior search capabilities of many debuggers and tracers - and a convenient way to grab \"screenshots\" from many types of text-based interactive utilities. ", 
+  "fork": false, 
+  "full_name": "citypw/lcamtuf-memfetch", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:59.161866"
+}

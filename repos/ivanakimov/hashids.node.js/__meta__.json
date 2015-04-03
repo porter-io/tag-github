@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.197659", 
+  "description": "A small Node.js class to generate YouTube-like hashids from one or many numbers. Use hashids when you do not want to expose your database ids to the user.", 
+  "fork": false, 
+  "full_name": "ivanakimov/hashids.node.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:16.363578"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.516088", 
+  "description": "Python bindings for the Vedis embedded NoSQL database", 
+  "fork": false, 
+  "full_name": "coleifer/vedis-python", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:37.753977"
+}

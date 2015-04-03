@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.160405", 
+  "description": "A subclass of UINavigationController, custom animation, inspired by Nichijyou. Demo: http://www.youtube.com/watch?v=10E6KH_ol-4", 
+  "fork": false, 
+  "full_name": "b123400/NichijyouNavigationController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:08.356758"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.710732", 
+  "description": "android app to do background GPS location polling and POST it to an HTTP server", 
+  "fork": false, 
+  "full_name": "jcs/triptracker", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:52.575303"
+}

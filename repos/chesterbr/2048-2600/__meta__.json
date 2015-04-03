@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.983562", 
+  "description": "A port of the 2048 game to the Atari 2600 VCS", 
+  "fork": false, 
+  "full_name": "chesterbr/2048-2600", 
+  "language": "Assembly", 
+  "updated_at": "2015-02-27T23:41:55.885513"
+}

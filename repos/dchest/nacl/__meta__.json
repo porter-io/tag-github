@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.191274", 
+  "description": "Pure Go implementation of NaCl: Networking and Cryptography Library. USE IMPLEMENTATION FROM go.crypto INSTEAD OF THIS ONE.", 
+  "fork": false, 
+  "full_name": "dchest/nacl", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:09.007113"
+}

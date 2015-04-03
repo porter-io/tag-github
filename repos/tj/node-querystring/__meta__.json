@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.725787", 
+  "description": "querystring parser for node and the browser - supporting nesting (used by Express, Connect, etc)", 
+  "fork": false, 
+  "full_name": "tj/node-querystring", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.484822"
+}

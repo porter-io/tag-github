@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.349620", 
+  "description": "{MEAN Stack on Steroids} The ultimate full-stack AngularJS + Node.js/Express seed (batteries included!) that makes web developers insanely productive. (Angular, AngularUI, Barbeque, Bootstrap, Bower, Browserify, Docker, Express, Font Awesome, Grunt, Handlebars, jQuery, JSHint, Karma/Mocha, LESS/LESSHat, Livereload, Lodash/Underscore, Modernizr, MongoDB/Mongoose, Passport for Facebook/Google/Twitter, Redis, SocketIO, Source Maps, Uglify, Winston)", 
+  "fork": false, 
+  "full_name": "pilwon/ultimate-seed", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:30:04.149249"
+}

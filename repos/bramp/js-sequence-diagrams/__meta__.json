@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.970075", 
+  "description": "Draws simple SVG sequence diagrams from textual representation of the diagram", 
+  "fork": false, 
+  "full_name": "bramp/js-sequence-diagrams", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:24.765198"
+}

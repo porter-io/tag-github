@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.089163", 
+  "description": "Control pm2 via RPC and receive real time notifications", 
+  "fork": false, 
+  "full_name": "Unitech/pm2-interface", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:03.413848"
+}

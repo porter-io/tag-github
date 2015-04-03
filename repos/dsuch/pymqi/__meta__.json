@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.356736", 
+  "description": "Python interface to WebSphere MQ (MQSeries) - main docs at https://pythonhosted.org/pymqi/index.html", 
+  "fork": false, 
+  "full_name": "dsuch/pymqi", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:28.996350"
+}

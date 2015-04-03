@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.623415", 
+  "description": "A Django admin theme using Twitter Bootstrap. It doesn't need any kind of modification on your side, just add it to the installed apps.", 
+  "fork": false, 
+  "full_name": "django-admin-bootstrapped/django-admin-bootstrapped", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:01:59.837796"
+}

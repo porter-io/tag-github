@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.552703", 
+  "description": "Adds a handful of commands to chef's knife tool that aim to make working with chef-solo as powerful as chef-server.", 
+  "fork": false, 
+  "full_name": "matschaffer/knife-solo", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:23.421691"
+}

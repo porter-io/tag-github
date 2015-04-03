@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.035902", 
+  "description": "OpenGLES 2.0 bindings for nodeJS with a webGL API", 
+  "fork": false, 
+  "full_name": "creationix/node-webgl", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:00.982392"
+}

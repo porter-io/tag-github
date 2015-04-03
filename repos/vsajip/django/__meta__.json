@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.461903", 
+  "description": "The code in this repo is the Python 3 port of Django: it supports Python 2.x and 3.x from the same codebase (in the django3 branch). Recent test results can be seen at  https://gist.github.com/1373553", 
+  "fork": true, 
+  "full_name": "vsajip/django", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:48.620211"
+}

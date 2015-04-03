@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.343647", 
+  "description": "Simple wrapper for cross-browser usage of the JavaScript Fullscreen API", 
+  "fork": false, 
+  "full_name": "sindresorhus/screenfull.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.144719"
+}

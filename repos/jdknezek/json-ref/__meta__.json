@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.075793", 
+  "description": "A JavaScript implementation of the default referencing scheme used by Json.NET to encode object and array references", 
+  "fork": false, 
+  "full_name": "jdknezek/json-ref", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:44.401767"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.807196", 
+  "description": "Minify files with UglifyJS", 
+  "fork": false, 
+  "full_name": "terinjokes/gulp-uglify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:29.323396"
+}

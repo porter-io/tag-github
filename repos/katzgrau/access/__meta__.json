@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.257244", 
+  "description": "A CodeIgniter Spark for easily protecting all or part of your site with HTTP Auth prompts", 
+  "fork": false, 
+  "full_name": "katzgrau/access", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:33.382441"
+}

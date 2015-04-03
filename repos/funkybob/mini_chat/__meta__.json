@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.908650", 
+  "description": "a raw WSGI app to provide realtime web chat", 
+  "fork": false, 
+  "full_name": "funkybob/mini_chat", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:30.311359"
+}

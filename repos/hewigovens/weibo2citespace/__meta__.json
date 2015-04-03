@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.664884", 
+  "description": "convert weibo(sina/tencent/netease) data source into an intermediate format supported by citespace", 
+  "fork": false, 
+  "full_name": "hewigovens/weibo2citespace", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:05.022827"
+}

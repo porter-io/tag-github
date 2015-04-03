@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.130603", 
+  "description": "RGhost is a document creation and conversion API. It uses the Ghostscript framework for the format conversion, utilizes EPS templates and is optimized to work with larger documents. Support(PDF,PS,GIF,TIF,PNG,JPG,etc)", 
+  "fork": false, 
+  "full_name": "shairontoledo/rghost", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:31:29.899172"
+}

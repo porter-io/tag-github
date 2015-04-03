@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.447836", 
+  "description": "Components for creating and verifying cryptographic signatures of files and NuGet Packages.", 
+  "fork": false, 
+  "full_name": "aspnet/Signing", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T08:15:39.830971"
+}

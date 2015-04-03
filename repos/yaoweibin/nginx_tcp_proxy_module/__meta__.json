@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.050481", 
+  "description": "add the feature of tcp proxy with nginx, with health check and status monitor", 
+  "fork": false, 
+  "full_name": "yaoweibin/nginx_tcp_proxy_module", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:28.012094"
+}

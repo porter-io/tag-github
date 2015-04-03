@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.122422", 
+  "description": "base skin for MediaWiki, based on Bootstrap \u2014 layer your own style (fonts, graphics, color) on top", 
+  "fork": false, 
+  "full_name": "OSAS/strapping-mediawiki", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:01:33.502226"
+}

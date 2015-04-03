@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.092947", 
+  "description": "Creates a SVG font from a set of SVG files and vice versa. The glyph mapping is based on the file names \u2013 that makes updating and extending easy and fast.", 
+  "fork": false, 
+  "full_name": "madeyourday/SVG-Icon-Font-Generator", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:00:55.270642"
+}

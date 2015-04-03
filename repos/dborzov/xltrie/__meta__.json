@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.300638", 
+  "description": "An implementation of using the x-fast trie for fast predecessor search. Illustrated with an example of the problem of searching for the closest movie release meeting some arbitrary condition.", 
+  "fork": false, 
+  "full_name": "dborzov/XLtrie", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:12.341452"
+}

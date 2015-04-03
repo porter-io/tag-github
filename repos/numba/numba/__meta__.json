@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.935945", 
+  "description": "NumPy aware dynamic Python compiler using LLVM", 
+  "fork": false, 
+  "full_name": "numba/numba", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:41.137801"
+}

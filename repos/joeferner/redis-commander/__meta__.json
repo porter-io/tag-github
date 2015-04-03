@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.054878", 
+  "description": "Redis management tool written in node.js", 
+  "fork": false, 
+  "full_name": "joeferner/redis-commander", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:24.713436"
+}

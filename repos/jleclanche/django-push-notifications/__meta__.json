@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.257184", 
+  "description": "Send push notifications to mobile devices through GCM or APNS in Django.", 
+  "fork": false, 
+  "full_name": "jleclanche/django-push-notifications", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:25.335958"
+}

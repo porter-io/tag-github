@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.852201", 
+  "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo. You may find some ddoc here:http://arsdnet.net/ddoc/ or you can always ask me for help. ", 
+  "fork": false, 
+  "full_name": "adamdruppe/arsd", 
+  "language": "D", 
+  "updated_at": "2015-02-27T23:42:52.602546"
+}

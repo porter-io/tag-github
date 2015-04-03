@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.708601", 
+  "description": "A a proof of concept application that uses BLE api and the Nike+ FuelBand SE protocol to communicate with Nike BLE devices. ", 
+  "fork": false, 
+  "full_name": "evilsocket/nikeplus-fuelband-se-reversed", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:11.251435"
+}

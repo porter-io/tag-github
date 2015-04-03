@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.652836", 
+  "description": "A Go lang library for Chinese Zhuyin and Pinyin.  \u4e00\u4e2a\u5e2e\u52a9\u5904\u7406\u4e2d\u6587\u6ce8\u97f3\u548c\u62fc\u97f3\u7684\u5e93\uff0c\u5982\u628azhang1\u8f6c\u6362\u6210zh\u0101ng\u6216\u3113\u3124\u3002", 
+  "fork": false, 
+  "full_name": "localvar/zhuyin", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:56.165271"
+}

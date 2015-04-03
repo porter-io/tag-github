@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.203660", 
+  "description": "Lint tool for Opscode Chef cookbooks.", 
+  "fork": false, 
+  "full_name": "acrmp/foodcritic", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:38.033902"
+}

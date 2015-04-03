@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.467605", 
+  "description": "backup plugin to store data into qiniu.com", 
+  "fork": false, 
+  "full_name": "lidaobing/backup2qiniu", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:24.208523"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.039040", 
+  "description": "Experimental Swiss Army Knife of Network Concurrency,  ZeroMQ, EventMachine, WebSockets, HTTP, and More", 
+  "fork": false, 
+  "full_name": "andrewvc/dripdrop", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:17.521159"
+}

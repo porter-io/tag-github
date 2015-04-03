@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.741642", 
+  "description": "Distributed Redis. Can be used in place of a StrictRedis client. Enables real-time failover of redis masters to paired slaves for improved reliability.", 
+  "fork": false, 
+  "full_name": "SawdustSoftware/disredis", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:38.713805"
+}

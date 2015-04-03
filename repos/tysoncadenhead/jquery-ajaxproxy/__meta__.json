@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:27:56.294827", 
+  "description": "Makes cross-domain ajax GET, POST, PUT and DELETE requests by using a proxy on each domain.", 
+  "fork": false, 
+  "full_name": "tysoncadenhead/jquery-ajaxproxy", 
+  "updated_at": "2015-02-27T23:41:59.238807"
+}

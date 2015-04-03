@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.064559", 
+  "description": "EmberJS WebSockets addon for both Ember-CLI & non CLI Ember apps. This addon aims to be a simple and easy way to integrate with any websocket protocol supported backend. It has been designed to be minimalistic, flexible, and lightweight instead of forcing conventions or libraries on the developer.", 
+  "fork": false, 
+  "full_name": "thoov/ember-websockets", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:39.941334"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.338700", 
+  "description": "A CoffeScript html generator compatible with CoffeeKup but without the magic.", 
+  "fork": false, 
+  "full_name": "mark-hahn/drykup", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:41:38.278691"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.397623", 
+  "description": "stream-json is a collection of node.js 0.10 stream components for creating custom standard-compliant JSON processors, which requires a minimal memory footprint. It can parse JSON files far exceeding available memory. Even individual data items are streamed piece-wise. Streaming SAX-inspired event-based API is included as well.", 
+  "fork": false, 
+  "full_name": "uhop/stream-json", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:12.419970"
+}

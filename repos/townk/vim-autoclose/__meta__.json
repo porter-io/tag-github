@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.047372", 
+  "description": "This plugin for Vim enable an auto-close chars feature for you. For instance if you type an '(', ``autoclose`` will automatically insert a ')' and put the cursor between than.", 
+  "fork": false, 
+  "full_name": "Townk/vim-autoclose", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:43:49.790123"
+}

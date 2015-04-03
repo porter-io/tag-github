@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.480048", 
+  "description": "SitemapGenerator is a framework-agnostic XML Sitemap generator written in Ruby with automatic Rails integration. It supports Video, News, Image, Geo, Mobile, PageMap and Alternate Links sitemap extensions and includes Rake tasks for managing your sitemaps, as well as many other great features.", 
+  "fork": true, 
+  "full_name": "kjvarga/sitemap_generator", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:30:26.488547"
+}

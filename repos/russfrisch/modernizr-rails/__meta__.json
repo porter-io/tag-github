@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.500454", 
+  "description": "Gem wrapper to include the Modernizr.js library via the Rails 3.1 asset pipeline.", 
+  "fork": false, 
+  "full_name": "russfrisch/modernizr-rails", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:25.415392"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.114952", 
+  "description": "Redis PubSub to Server-Sent Event bridge in Go", 
+  "fork": false, 
+  "full_name": "BonkaBonka/sseredis", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:27.904638"
+}

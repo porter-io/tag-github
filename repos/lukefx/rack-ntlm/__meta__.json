@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.347208", 
+  "description": "Rack module for NTLM Authentication", 
+  "fork": false, 
+  "full_name": "lukefx/rack-ntlm", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:47.078319"
+}

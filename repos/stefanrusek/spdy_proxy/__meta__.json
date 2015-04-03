@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.646987", 
+  "description": "A simple, scalable SPDY -> HTTP proxy", 
+  "fork": false, 
+  "full_name": "stefanrusek/spdy_proxy", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:43:55.369340"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.739768", 
+  "description": "All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).", 
+  "fork": false, 
+  "full_name": "hexorx/countries", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:16.660138"
+}

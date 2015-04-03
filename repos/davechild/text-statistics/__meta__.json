@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.974712", 
+  "description": "Generate information about text including syllable counts and Flesch-Kincaid, Gunning-Fog, Coleman-Liau, SMOG and Automated Readability scores.", 
+  "fork": false, 
+  "full_name": "DaveChild/Text-Statistics", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:51.121678"
+}

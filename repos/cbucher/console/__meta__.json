@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.762723", 
+  "description": "This is a modified version of Console 2 for a better experience under Windows Vista/7/8 and a better visual rendering. Built packages are available here:", 
+  "fork": true, 
+  "full_name": "cbucher/console", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:04:12.203170"
+}

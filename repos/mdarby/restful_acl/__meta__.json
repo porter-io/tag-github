@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.863445", 
+  "description": "Rails gem/plugin that provides contextual access control to RESTful resources.", 
+  "fork": false, 
+  "full_name": "mdarby/restful_acl", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:34.595788"
+}

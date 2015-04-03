@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.689396", 
+  "description": "Django application that provides cropping, resizing, thumbnailing, overlays, tint and mask for images and videos with the ability to set the center of attention in order to have automatic perfect cropping.", 
+  "fork": false, 
+  "full_name": "francescortiz/image", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:38.659454"
+}

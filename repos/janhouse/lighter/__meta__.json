@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.160078", 
+  "description": "Script for LINUX to automatically control Macbook Air (2012) screen and keyboard backlight brightness using data from the built in light sensor.", 
+  "fork": false, 
+  "full_name": "Janhouse/lighter", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:42:14.625622"
+}

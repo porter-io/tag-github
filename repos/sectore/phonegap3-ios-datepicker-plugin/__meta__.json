@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.352004", 
+  "description": "Migration of DatePicker iOS plugin to work with Cordova/PhoneGap 3", 
+  "fork": false, 
+  "full_name": "sectore/phonegap3-ios-datepicker-plugin", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:03:19.186154"
+}

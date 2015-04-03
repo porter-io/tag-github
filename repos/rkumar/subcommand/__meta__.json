@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.151903", 
+  "description": "A tiny ruby wrapper over OptionParser giving simple, elegant subcommand facility for command line programs (CLI)", 
+  "fork": false, 
+  "full_name": "rkumar/subcommand", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:41.596293"
+}

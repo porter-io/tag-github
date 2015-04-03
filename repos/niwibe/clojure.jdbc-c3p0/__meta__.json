@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.399853", 
+  "description": "C3P0 Connection Pool implementation for clojure.jdbc", 
+  "fork": false, 
+  "full_name": "niwibe/clojure.jdbc-c3p0", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:34.302129"
+}

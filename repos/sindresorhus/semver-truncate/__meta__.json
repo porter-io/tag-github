@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.218256", 
+  "description": "Truncate a semver version: 1.2.3 \u2192 1.2.0", 
+  "fork": false, 
+  "full_name": "sindresorhus/semver-truncate", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.400621"
+}

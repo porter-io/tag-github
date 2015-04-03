@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.880570", 
+  "description": "Midje provides a migration path from clojure.test to a more flexible, readable, abstract, and gracious style of testing", 
+  "fork": false, 
+  "full_name": "marick/Midje", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:33.468680"
+}

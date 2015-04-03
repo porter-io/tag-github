@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.143320", 
+  "description": "A utility to accurately report the in core memory usage for a program", 
+  "fork": false, 
+  "full_name": "pixelb/ps_mem", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:05.390703"
+}

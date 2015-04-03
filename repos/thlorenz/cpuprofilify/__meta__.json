@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.681531", 
+  "description": "Converts output of various profiling/sampling tools to the .cpuprofile format so it can be loaded into Chrome DevTools.", 
+  "fork": false, 
+  "full_name": "thlorenz/cpuprofilify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.505968"
+}

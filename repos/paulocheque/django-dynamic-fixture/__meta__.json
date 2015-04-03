@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.466473", 
+  "description": "A complete library to create dynamic model instances for testing purposes.", 
+  "fork": false, 
+  "full_name": "paulocheque/django-dynamic-fixture", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:23.110768"
+}

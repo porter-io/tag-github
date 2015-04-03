@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.271446", 
+  "description": "A tool for creating EBS AMIs. This tool currently works for CentOS/RedHat Linux images and is intended to run on an EC2 instance.", 
+  "fork": false, 
+  "full_name": "Netflix/aminator", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:31.302566"
+}

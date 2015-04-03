@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.705548", 
+  "description": "A control flow library for node.js to help reduce the pain of callback-heavy programming", 
+  "fork": false, 
+  "full_name": "gmalysa/flux-link", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:05.887544"
+}

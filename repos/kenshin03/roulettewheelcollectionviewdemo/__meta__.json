@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.468578", 
+  "description": "Demo of a custom UICollectionViewFlowLayout subclass implementation of a roulette wheel of cards, in the style of the Yahoo TimeTraveler app.", 
+  "fork": false, 
+  "full_name": "kenshin03/RouletteWheelCollectionViewDemo", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:45.540416"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.059199", 
+  "description": "Deprecated in favor of https://github.com/papertrail/remote_syslog2", 
+  "fork": false, 
+  "full_name": "papertrail/remote_syslog", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:30:53.298853"
+}

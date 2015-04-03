@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.889285", 
+  "description": "Middleware allowing the client to filter the response to only what they need, reducing the amount of traffic over the wire.", 
+  "fork": false, 
+  "full_name": "koajs/json-filter", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.703707"
+}

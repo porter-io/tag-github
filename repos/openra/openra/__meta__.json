@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.550693", 
+  "description": "An open-source implementation of the Command & Conquer: Red Alert engine using .NET/Mono and OpenGL. Runs on Windows, Linux and Mac OS X.", 
+  "fork": false, 
+  "full_name": "OpenRA/OpenRA", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T07:04:02.940804"
+}

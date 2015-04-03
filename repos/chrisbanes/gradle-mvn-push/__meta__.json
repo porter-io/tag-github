@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.855877", 
+  "description": "Helper to upload Gradle Android Artifacts to Maven repositories", 
+  "fork": false, 
+  "full_name": "chrisbanes/gradle-mvn-push", 
+  "language": "Groovy", 
+  "updated_at": "2015-02-27T23:41:14.942850"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.028744", 
+  "description": "Node Version Manager - Simple bash script to manage multiple active node.js versions", 
+  "fork": false, 
+  "full_name": "creationix/nvm", 
+  "language": "Shell", 
+  "updated_at": "2015-03-21T14:55:08.109033"
+}

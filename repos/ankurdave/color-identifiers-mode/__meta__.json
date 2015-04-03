@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.680356", 
+  "description": "Emacs minor mode to highlight each source code identifier uniquely based on its name", 
+  "fork": false, 
+  "full_name": "ankurdave/color-identifiers-mode", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:42:18.571676"
+}

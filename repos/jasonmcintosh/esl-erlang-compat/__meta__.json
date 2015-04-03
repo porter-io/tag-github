@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:29:13.062191", 
+  "description": "Compat RPM to get esl-erlang RPMs to provide erlang to the RPM Database as well as esl-erlang", 
+  "fork": false, 
+  "full_name": "jasonmcintosh/esl-erlang-compat", 
+  "updated_at": "2015-02-27T23:44:07.212951"
+}

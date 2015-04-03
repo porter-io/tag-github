@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.805812", 
+  "description": "Geometry primitives (basic linear algebra) for Rust", 
+  "fork": false, 
+  "full_name": "servo/rust-geom", 
+  "language": "Rust", 
+  "updated_at": "2015-02-27T23:41:57.484889"
+}

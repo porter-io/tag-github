@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.459117", 
+  "description": "Automatically comment your BEM compliant SASS files to add class name comments", 
+  "fork": false, 
+  "full_name": "dpellier/bem-comment", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:47.261697"
+}

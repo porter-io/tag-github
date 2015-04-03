@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.448902", 
+  "description": "Add some nice features for viewing the dependency graph assuming a mac and graphviz installed", 
+  "fork": false, 
+  "full_name": "gilt/sbt-dependency-graph-sugar", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:41:21.453288"
+}

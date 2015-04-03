@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.471440", 
+  "description": "a selector-based (\u00e0 la CSS) templating and transformation system for Clojure", 
+  "fork": false, 
+  "full_name": "cgrand/enlive", 
+  "language": "Clojure", 
+  "updated_at": "2015-03-10T07:03:38.855758"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.578960", 
+  "description": "a git-remote-helper that allows you to push source code into a CouchDB", 
+  "fork": false, 
+  "full_name": "peritus/git-remote-couch", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:50.605276"
+}

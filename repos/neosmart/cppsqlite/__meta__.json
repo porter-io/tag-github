@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.923561", 
+  "description": "A simple and easy-to-use cross-platform C++ wrapper for the SQLite API. Fork of the CppSQLite project, originally by Rob Groves, currently updated and maintained by NeoSmart Technologies.", 
+  "fork": false, 
+  "full_name": "neosmart/CppSQLite", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:32.738319"
+}

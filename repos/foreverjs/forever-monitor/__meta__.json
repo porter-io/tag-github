@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.934747", 
+  "description": "The core monitoring functionality of forever without the CLI", 
+  "fork": false, 
+  "full_name": "foreverjs/forever-monitor", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:33.201555"
+}

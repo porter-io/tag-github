@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.726277", 
+  "description": "Clustering solution for Meteor with load balancing and service discovery", 
+  "fork": false, 
+  "full_name": "meteorhacks/cluster", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:29.061824"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.713019", 
+  "description": "Simple session middleware for Express", 
+  "fork": false, 
+  "full_name": "expressjs/session", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:54.178849"
+}

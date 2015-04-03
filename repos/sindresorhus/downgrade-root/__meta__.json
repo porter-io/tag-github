@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.878034", 
+  "description": "Try to downgrade the permissions of a process with root privileges", 
+  "fork": false, 
+  "full_name": "sindresorhus/downgrade-root", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.505857"
+}

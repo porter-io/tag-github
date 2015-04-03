@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.766034", 
+  "description": "Invert the key/value of an object. Example: {foo: 'bar'} \u2192 {bar: 'foo'}", 
+  "fork": false, 
+  "full_name": "sindresorhus/invert-kv", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.281736"
+}

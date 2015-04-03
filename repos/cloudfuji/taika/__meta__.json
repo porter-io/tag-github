@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.416477", 
+  "description": "A Clojure wrapper around the Firebase REST API", 
+  "fork": false, 
+  "full_name": "cloudfuji/taika", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:09.336668"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.444392", 
+  "description": "flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary function is to provide some useful base classes that you can extend to make your own game objects.", 
+  "fork": false, 
+  "full_name": "AdamAtomic/flixel", 
+  "language": "ActionScript", 
+  "updated_at": "2015-02-27T23:43:20.041673"
+}

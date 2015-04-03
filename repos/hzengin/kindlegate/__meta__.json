@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.655615", 
+  "description": "KindleGate is a simple Flask application that uses Calibre's \"ebook-convert\" command line application to convert your *.epub e-books on the fly and makes them downloadable as *.mobi for to Kindle directly from Experimantal Browser.", 
+  "fork": false, 
+  "full_name": "hzengin/KindleGate", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:04.911535"
+}

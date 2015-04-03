@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.998684", 
+  "description": "Pykka is a Python implementation of the actor model, which makes it easier to build concurrent applications", 
+  "fork": false, 
+  "full_name": "jodal/pykka", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:33.557129"
+}

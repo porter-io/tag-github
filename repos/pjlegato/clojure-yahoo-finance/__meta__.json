@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.513079", 
+  "description": "Clojure interface to historic stock data from Yahoo! Finance.", 
+  "fork": false, 
+  "full_name": "pjlegato/Clojure-yahoo-finance", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:26.375765"
+}

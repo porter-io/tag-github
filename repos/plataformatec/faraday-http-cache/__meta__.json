@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.294046", 
+  "description": "a faraday middleware that respects HTTP cache", 
+  "fork": false, 
+  "full_name": "plataformatec/faraday-http-cache", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:16.111132"
+}

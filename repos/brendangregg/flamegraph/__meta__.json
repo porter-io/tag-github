@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.820895", 
+  "description": "stack trace visualizer", 
+  "fork": false, 
+  "full_name": "brendangregg/FlameGraph", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:42:30.393307"
+}

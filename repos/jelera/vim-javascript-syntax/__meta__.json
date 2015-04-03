@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.475825", 
+  "description": "Enhanced javascript syntax file for Vim", 
+  "fork": false, 
+  "full_name": "jelera/vim-javascript-syntax", 
+  "language": "VimL", 
+  "updated_at": "2015-03-10T07:03:58.793459"
+}

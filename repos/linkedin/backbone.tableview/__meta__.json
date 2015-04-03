@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.997857", 
+  "description": "Backbone View to render collections as tables", 
+  "fork": false, 
+  "full_name": "linkedin/Backbone.TableView", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:41:38.902059"
+}

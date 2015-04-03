@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.725261", 
+  "description": "Android Network Intents (ANI) is a library to send Android Intent objects to listening apps/devices via multicast (UDP).", 
+  "fork": false, 
+  "full_name": "pocmo/Android-Network-Intents", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:16.411687"
+}

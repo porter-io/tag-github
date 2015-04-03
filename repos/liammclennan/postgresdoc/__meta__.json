@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.954213", 
+  "description": "Unit of work + document database on Postgresql", 
+  "fork": false, 
+  "full_name": "liammclennan/PostgresDoc", 
+  "language": "F#", 
+  "updated_at": "2015-02-27T23:43:05.758563"
+}

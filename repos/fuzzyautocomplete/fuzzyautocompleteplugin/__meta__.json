@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.973551", 
+  "description": "A Xcode 5+ plugin that adds more flexible autocompletion rather than just prefix-matching.", 
+  "fork": false, 
+  "full_name": "FuzzyAutocomplete/FuzzyAutocompletePlugin", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:55.875766"
+}

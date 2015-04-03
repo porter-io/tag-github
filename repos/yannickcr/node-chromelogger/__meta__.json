@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.854725", 
+  "description": "Implementation of the Chrome Logger protocol for Node.js", 
+  "fork": false, 
+  "full_name": "yannickcr/node-chromelogger", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:41.070712"
+}

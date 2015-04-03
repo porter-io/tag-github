@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.592878", 
+  "description": "Implements File.trash to move a file to the Recycle Bin, Trash or OS equivalent", 
+  "fork": false, 
+  "full_name": "jphastings/trash", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:34.473562"
+}

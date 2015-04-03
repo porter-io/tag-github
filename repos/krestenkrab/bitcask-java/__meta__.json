@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.382500", 
+  "description": "Implementation of Basho's bitcask in Java", 
+  "fork": false, 
+  "full_name": "krestenkrab/bitcask-java", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:51.084127"
+}

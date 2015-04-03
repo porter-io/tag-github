@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.836122", 
+  "description": "Leaner version of jpropel, containing only LINQ, reified collections and utilities for arrays/strings/numerics/files/xml etc.", 
+  "fork": false, 
+  "full_name": "nicholas22/jpropel-light", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:50.922651"
+}

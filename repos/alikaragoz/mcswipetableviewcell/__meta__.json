@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.078169", 
+  "description": "Convenient UITableViewCell subclass that implements a swippable content to trigger actions (similar to the Mailbox app).", 
+  "fork": false, 
+  "full_name": "alikaragoz/MCSwipeTableViewCell", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:13.016004"
+}

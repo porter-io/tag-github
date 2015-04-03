@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.336931", 
+  "description": "Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X", 
+  "fork": false, 
+  "full_name": "OpenKinect/libfreenect", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:02:34.790595"
+}

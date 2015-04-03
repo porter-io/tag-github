@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:59.405465", 
+  "description": "Verbatim mirror of the git.drupal.org repository for Drupal core. Changes will not be pulled, and merge requests will not be accepted, if you want to contibute, go to Drupal.org: ", 
+  "fork": false, 
+  "full_name": "drupal/drupal", 
+  "language": "PHP", 
+  "updated_at": "2015-02-28T08:41:03.248827"
+}

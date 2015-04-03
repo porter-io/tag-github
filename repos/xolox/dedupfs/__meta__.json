@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.359295", 
+  "description": "A Python FUSE file system that features transparent deduplication and compression which make it ideal for archiving backups.", 
+  "fork": false, 
+  "full_name": "xolox/dedupfs", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:31.516882"
+}

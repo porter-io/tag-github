@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.361471", 
+  "description": "UAParser.js - Lightweight JavaScript-based User-Agent string parser. Supports browser & node.js environment. Also available as jQuery/Zepto plugin, Component package, Bower package, & AMD module", 
+  "fork": false, 
+  "full_name": "faisalman/ua-parser-js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.049591"
+}

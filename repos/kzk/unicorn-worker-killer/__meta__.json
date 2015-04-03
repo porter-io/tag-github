@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.801707", 
+  "description": "Automatically restart Unicorn workers based on 1) max number of requests and 2) max memory", 
+  "fork": false, 
+  "full_name": "kzk/unicorn-worker-killer", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:30.118150"
+}

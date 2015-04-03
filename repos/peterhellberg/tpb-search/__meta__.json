@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.238999", 
+  "description": "Locally index and search database dumps from https://openbay.isohunt.to using the bleve text indexing library", 
+  "fork": false, 
+  "full_name": "peterhellberg/tpb-search", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:04.489589"
+}

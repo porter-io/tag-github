@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.314430", 
+  "description": "Convert a URL to a valid filename", 
+  "fork": false, 
+  "full_name": "sindresorhus/filenamify-url", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.677452"
+}

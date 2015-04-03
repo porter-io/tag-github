@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.385750", 
+  "description": "ActiveRecord Connections Magic (slaves, multiple connections, sharding, etc)", 
+  "fork": false, 
+  "full_name": "kovyrin/db-charmer", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:39.329437"
+}

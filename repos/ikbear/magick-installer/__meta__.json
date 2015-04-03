@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.160360", 
+  "description": "ImageMagick installer script because macports sucks", 
+  "fork": true, 
+  "full_name": "ikbear/magick-installer", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T22:29:21.160469"
+}

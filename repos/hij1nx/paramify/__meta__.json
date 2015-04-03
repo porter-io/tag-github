@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.079836", 
+  "description": "Parameterized routes without a big bloated router, e.g. \"showtimes/:start/:end\" and \"files/*\"", 
+  "fork": false, 
+  "full_name": "hij1nx/paramify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:33.138554"
+}

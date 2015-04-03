@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.050087", 
+  "description": "Provides dynamic roles based authorisation for node.js connect and express servers.", 
+  "fork": false, 
+  "full_name": "ForbesLindesay/connect-roles", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:21.789127"
+}

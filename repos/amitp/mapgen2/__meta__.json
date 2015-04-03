@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.705555", 
+  "description": "Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines.", 
+  "fork": false, 
+  "full_name": "amitp/mapgen2", 
+  "language": "ActionScript", 
+  "updated_at": "2015-02-27T23:43:13.194787"
+}

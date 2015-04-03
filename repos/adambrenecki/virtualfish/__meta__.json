@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.291109", 
+  "description": "A Fish wrapper for Ian Bicking's virtualenv, based loosely on Doug Hellman's virtualenvwrapper for Bash.", 
+  "fork": false, 
+  "full_name": "adambrenecki/virtualfish", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:34.052566"
+}

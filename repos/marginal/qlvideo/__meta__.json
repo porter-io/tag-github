@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.381194", 
+  "description": "This package allows OSX Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.", 
+  "fork": false, 
+  "full_name": "Marginal/QLVideo", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:03:22.292421"
+}

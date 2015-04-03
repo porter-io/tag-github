@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.524529", 
+  "description": "A compact library that allows you to bind CSS3 animations to properties on your Mithril elements.", 
+  "fork": false, 
+  "full_name": "jsguy/mithril.animate", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:36.593496"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.698204", 
+  "description": "A simple database layer for localStorage and sessionStorage for creating structure data in the form of databases and tables", 
+  "fork": false, 
+  "full_name": "knadh/localStorageDB", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:06.996116"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.482864", 
+  "description": "An idiomatic clojure http client wrapping the apache client. Offically supported version.", 
+  "fork": false, 
+  "full_name": "dakrone/clj-http", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:57.192848"
+}

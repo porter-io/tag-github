@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.448455", 
+  "description": "An Hexo plugin to generate static site with minified CSS and JS resources", 
+  "fork": false, 
+  "full_name": "flerro/hexo-generator-minify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:03:08.349939"
+}

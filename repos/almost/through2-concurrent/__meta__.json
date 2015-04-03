@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.212113", 
+  "description": "Simple Node.JS stream (streams2) Transform that runs the transform functions concurrently (with a set max concurrency)", 
+  "fork": false, 
+  "full_name": "almost/through2-concurrent", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:28.893487"
+}

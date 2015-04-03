@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.322596", 
+  "description": "express/connect middleware to expose jade templates in the browser", 
+  "fork": false, 
+  "full_name": "storify/jade-browser", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:32.992927"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.938898", 
+  "description": "Puppet module for managing docker", 
+  "fork": false, 
+  "full_name": "garethr/garethr-docker", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:35.679092"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.386052", 
+  "description": "A dual (localStorage and REST) sync adapter for Backbone.js", 
+  "fork": false, 
+  "full_name": "nilbus/Backbone.dualStorage", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:22.083045"
+}

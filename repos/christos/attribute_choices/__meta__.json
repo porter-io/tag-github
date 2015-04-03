@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.056214", 
+  "description": "Map ActiveRecord attribute values to display values for consumption by humans", 
+  "fork": false, 
+  "full_name": "christos/attribute_choices", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:21.796693"
+}

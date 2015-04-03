@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.303648", 
+  "description": "Tooling for tracing object allocations in Ruby 2.1", 
+  "fork": false, 
+  "full_name": "srawlins/allocation_stats", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:04.606199"
+}

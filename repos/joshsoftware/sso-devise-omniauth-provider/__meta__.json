@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.068914", 
+  "description": "A devise Omniauth server which handles Single Sign On", 
+  "fork": false, 
+  "full_name": "joshsoftware/sso-devise-omniauth-provider", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:47.386229"
+}

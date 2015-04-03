@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.671398", 
+  "description": "mitosis allows Go applications to easily fork themselves while preserving arbitrary application state and inherit file descriptors.", 
+  "fork": false, 
+  "full_name": "jteeuwen/mitosis", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:20.781448"
+}

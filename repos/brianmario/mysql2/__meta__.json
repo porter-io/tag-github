@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.400667", 
+  "description": "A modern, simple and very fast Mysql library for Ruby - binding to libmysql", 
+  "fork": false, 
+  "full_name": "brianmario/mysql2", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:27.566847"
+}

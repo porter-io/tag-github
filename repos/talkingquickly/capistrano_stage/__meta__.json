@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.951169", 
+  "description": "Simple capistrano config for unicorn and nginx", 
+  "fork": false, 
+  "full_name": "TalkingQuickly/capistrano_stage", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:04.271555"
+}

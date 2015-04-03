@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.639259", 
+  "description": "Add interactive UI to your Gruntfile such as lists, checkboxes, text input with filtering, and password fields, all on the command line.", 
+  "fork": false, 
+  "full_name": "dylang/grunt-prompt", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:32.227657"
+}

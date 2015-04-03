@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.375731", 
+  "description": "Swarm: a Docker-native clustering system", 
+  "fork": false, 
+  "full_name": "docker/swarm", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:44:12.909437"
+}

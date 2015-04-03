@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.313511", 
+  "description": "Extends Sinatra with ActiveRecord helper methods and Rake tasks.", 
+  "fork": true, 
+  "full_name": "janko-m/sinatra-activerecord", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:54.313593"
+}

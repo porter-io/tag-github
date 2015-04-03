@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.176229", 
+  "description": "Convert videos into animated gifs using Node, libav and imagemagick", 
+  "fork": false, 
+  "full_name": "crtr0/gifit", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:04.471849"
+}

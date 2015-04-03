@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.367039", 
+  "description": "A very simple objective-c framework that maps a JSON response from NSDictionary or NSArray to an NSObject subclass for iOS.", 
+  "fork": false, 
+  "full_name": "jamztang/JTObjectMapping", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:29:03.659325"
+}

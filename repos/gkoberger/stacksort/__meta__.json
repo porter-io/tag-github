@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.048616", 
+  "description": "Sorts an array by downloading snippets from StackOverflow. Inspired by http://xkcd.com/1185/. I'm sorry.", 
+  "fork": false, 
+  "full_name": "gkoberger/stacksort", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:42.271494"
+}

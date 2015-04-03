@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.815542", 
+  "description": "Node.js wrapper for OpenNI/NiTE offering skeletal joint tracking and gestures", 
+  "fork": false, 
+  "full_name": "bengfarrell/nuimotion", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:04:05.549171"
+}

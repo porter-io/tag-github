@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.653295", 
+  "description": "A session store backend for gorilla/sessions", 
+  "fork": false, 
+  "full_name": "denizeren/dynamostore", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:41:51.672236"
+}

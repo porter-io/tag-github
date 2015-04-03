@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.304921", 
+  "description": "Headless is a Node.js wrapper for Xvfb, the virtual framebuffer", 
+  "fork": false, 
+  "full_name": "kesla/node-headless", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:31.344581"
+}

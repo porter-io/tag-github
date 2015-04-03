@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.146466", 
+  "description": "Loggly client for Go", 
+  "fork": false, 
+  "full_name": "segmentio/go-loggly", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:18.036574"
+}

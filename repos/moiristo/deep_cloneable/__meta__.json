@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.068992", 
+  "description": "This gem gives every ActiveRecord::Base object the possibility to do a deep clone that includes user specified associations.", 
+  "fork": false, 
+  "full_name": "moiristo/deep_cloneable", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:59.013739"
+}

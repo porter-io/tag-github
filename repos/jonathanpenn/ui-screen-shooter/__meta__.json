@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.767762", 
+  "description": "Using UI Automation to automatically generate all screenshots of your iOS app, on different device types, in different locales by running a single command. Hands free.", 
+  "fork": false, 
+  "full_name": "jonathanpenn/ui-screen-shooter", 
+  "language": "Shell", 
+  "updated_at": "2015-03-10T07:00:45.729183"
+}

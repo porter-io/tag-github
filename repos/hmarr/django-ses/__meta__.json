@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.946233", 
+  "description": "A Django email backend for Amazon's Simple Email Service", 
+  "fork": false, 
+  "full_name": "hmarr/django-ses", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:11.452171"
+}

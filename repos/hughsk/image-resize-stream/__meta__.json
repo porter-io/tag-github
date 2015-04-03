@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.785013", 
+  "description": "A streaming interface for resizing image buffers in node", 
+  "fork": false, 
+  "full_name": "hughsk/image-resize-stream", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:56.898979"
+}

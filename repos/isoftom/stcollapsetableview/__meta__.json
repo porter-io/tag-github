@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.596309", 
+  "description": "A UITableView subclass that automatically collapse and/or expand your sections", 
+  "fork": false, 
+  "full_name": "iSofTom/STCollapseTableView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:44:31.005160"
+}

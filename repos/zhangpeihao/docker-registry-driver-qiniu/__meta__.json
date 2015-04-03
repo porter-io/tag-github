@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.265195", 
+  "description": "This is a docker-registry backend driver for Qiniu Cloud Storage.", 
+  "fork": false, 
+  "full_name": "zhangpeihao/docker-registry-driver-qiniu", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:09.090548"
+}

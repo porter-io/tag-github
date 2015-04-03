@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.908438", 
+  "description": "Serialization/deserialization for Rust", 
+  "fork": false, 
+  "full_name": "rust-lang/rustc-serialize", 
+  "language": "Rust", 
+  "updated_at": "2015-02-27T23:43:10.344695"
+}

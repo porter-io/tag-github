@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.366476", 
+  "description": "Obj-C/Cocoa library for getting user to authenticate a facebook app and return an access token.", 
+  "fork": false, 
+  "full_name": "jubishop/FBAuthenticator", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:56.285404"
+}

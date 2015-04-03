@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.846448", 
+  "description": "RabbitMQ Server", 
+  "fork": false, 
+  "full_name": "rabbitmq/rabbitmq-server", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:43:29.445980"
+}

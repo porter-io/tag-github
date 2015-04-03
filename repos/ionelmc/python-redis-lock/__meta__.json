@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.426656", 
+  "description": "Lock context manager implemented via redis SET NX EX and BLPOP.", 
+  "fork": false, 
+  "full_name": "ionelmc/python-redis-lock", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:47.988646"
+}

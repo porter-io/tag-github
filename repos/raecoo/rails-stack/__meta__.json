@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.394258", 
+  "description": "Nginx + Passenger + MySQL + Ruby 1.9.2 + Git", 
+  "fork": false, 
+  "full_name": "raecoo/rails-stack", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:47.960682"
+}

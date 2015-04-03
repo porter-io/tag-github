@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.484696", 
+  "description": "dcp is a distributed file copy program that automatically distributes and dynamically balances work equally across nodes in a large distributed system without centralized state.", 
+  "fork": false, 
+  "full_name": "hpc/dcp", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:49.068507"
+}

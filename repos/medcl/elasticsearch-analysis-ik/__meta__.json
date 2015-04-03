@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.961422", 
+  "description": "The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.", 
+  "fork": false, 
+  "full_name": "medcl/elasticsearch-analysis-ik", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:29.720521"
+}

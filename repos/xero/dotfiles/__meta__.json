@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.907510", 
+  "description": "custom linux config files - managed via gnu stow", 
+  "fork": false, 
+  "full_name": "xero/dotfiles", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:49.658391"
+}

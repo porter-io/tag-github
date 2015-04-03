@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.132708", 
+  "description": "A custom pull to refresh animation where timeOffset is used to control the timing as you drag down", 
+  "fork": false, 
+  "full_name": "d-ronnqvist/blogpost-codesample-PullToRefresh", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:51.237670"
+}

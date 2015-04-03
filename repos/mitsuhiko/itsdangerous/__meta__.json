@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.205227", 
+  "description": "Various helpers to pass trusted data to untrusted environments", 
+  "fork": false, 
+  "full_name": "mitsuhiko/itsdangerous", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:12.683911"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.423411", 
+  "description": "Create, query and manage graphs of relationships between your Django models", 
+  "fork": false, 
+  "full_name": "dfunckt/django-connections", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:00.206062"
+}

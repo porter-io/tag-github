@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.303828", 
+  "description": "Graphical models for Python, implemented in Cython for speed.", 
+  "fork": false, 
+  "full_name": "jmschrei/pomegranate", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:53.152535"
+}

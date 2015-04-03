@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.977178", 
+  "description": "nodejs wrapper for omxplayer on the raspberry pi, integrates well with express", 
+  "fork": false, 
+  "full_name": "rikkertkoppes/omxcontrol", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:42.200761"
+}

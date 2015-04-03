@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.241330", 
+  "description": "OpenRAVE bindings for OMPL motion planning algorithms.", 
+  "fork": false, 
+  "full_name": "personalrobotics/or_ompl", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:50.953789"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.394594", 
+  "description": "Fix default Google Analytics tracking methodologies and track micro user behaviors.", 
+  "fork": false, 
+  "full_name": "rockymadden/gap", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:59.447760"
+}

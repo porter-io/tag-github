@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.860824", 
+  "description": "Emacs: Quickly find files in a git, mercurial or other type of repository", 
+  "fork": false, 
+  "full_name": "hoffstaetter/find-file-in-repository", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:42:16.775964"
+}

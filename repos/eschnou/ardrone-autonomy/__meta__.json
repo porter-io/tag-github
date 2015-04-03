@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.907742", 
+  "description": "Provides key building blocks to create autonomous flight applications with the #nodecopter (AR.Drone).", 
+  "fork": false, 
+  "full_name": "eschnou/ardrone-autonomy", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:02.016242"
+}

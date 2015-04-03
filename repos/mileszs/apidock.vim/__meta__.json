@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.298903", 
+  "description": "Vim plugin that searches http://apidock.com Ruby, Rails, and RSpec docs from within Vim.", 
+  "fork": false, 
+  "full_name": "mileszs/apidock.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:42:51.582432"
+}

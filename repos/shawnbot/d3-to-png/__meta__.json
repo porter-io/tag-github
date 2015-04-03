@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.048993", 
+  "description": "Generate standalone SVG files with d3 and rasterize with ImageMagick", 
+  "fork": false, 
+  "full_name": "shawnbot/d3-to-png", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:03:20.847237"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.471473", 
+  "description": "A framework for processing email using worker plugins.", 
+  "fork": false, 
+  "full_name": "thusfresh/switchboard", 
+  "language": "Erlang", 
+  "updated_at": "2015-04-01T19:30:35.790460"
+}

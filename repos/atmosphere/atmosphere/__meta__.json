@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.308218", 
+  "description": "Realtime Client Server Framework for the JVM, supporting WebSockets with Cross-Browser Fallbacks", 
+  "fork": false, 
+  "full_name": "Atmosphere/atmosphere", 
+  "language": "Java", 
+  "updated_at": "2015-04-01T19:31:27.750500"
+}

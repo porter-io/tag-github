@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.971488", 
+  "description": "A plugin to run docker containers in Cozy Light (experimental stuff)", 
+  "fork": false, 
+  "full_name": "cozy-labs/cozy-light-docker", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:15.468321"
+}

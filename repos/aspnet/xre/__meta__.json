@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.457932", 
+  "description": "The .NET Cross-Platform Runtime SDK (.NET XRE) contains the code required to bootstrap and run an application, including the compilation system, SDK tools, and the native CLR hosts.", 
+  "fork": false, 
+  "full_name": "aspnet/XRE", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T08:15:39.809318"
+}

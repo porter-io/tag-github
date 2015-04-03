@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.361240", 
+  "description": "A conformant OpenGL ES 2 implementation for Windows.", 
+  "fork": false, 
+  "full_name": "google/angle", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:52:23.405729"
+}

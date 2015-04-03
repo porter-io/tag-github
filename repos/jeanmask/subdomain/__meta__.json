@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.727835", 
+  "description": "Kohana 3.x module. This module capture the current subdomain and define routes by your custom subdomains.", 
+  "fork": false, 
+  "full_name": "jeanmask/subdomain", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:44:29.960089"
+}

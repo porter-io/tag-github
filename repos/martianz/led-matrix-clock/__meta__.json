@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.674300", 
+  "description": "LED-Matrix based clock. It is made up of STC MCU, 4953 MOS and other IC. Also a gift for my girlfriend. :D", 
+  "fork": false, 
+  "full_name": "MartianZ/LED-Matrix-Clock", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:00.778682"
+}

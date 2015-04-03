@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.754862", 
+  "description": "The server and client used in transit map simulations like swisstrains.ch", 
+  "fork": false, 
+  "full_name": "vasile/transit-map", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:43.894931"
+}

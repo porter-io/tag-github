@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.364657", 
+  "description": "A simple dependency manager for Go (golang), inspired by Bundler.", 
+  "fork": false, 
+  "full_name": "nitrous-io/goop", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:00.376304"
+}

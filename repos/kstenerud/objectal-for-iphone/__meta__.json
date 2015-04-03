@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.113145", 
+  "description": "Mac and iOS Audio development, minus the headache. ObjectAL is the easy Objective-C interface to OpenAL, AVAudioPlayer, and audio session management.", 
+  "fork": false, 
+  "full_name": "kstenerud/ObjectAL-for-iPhone", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:00:53.056590"
+}

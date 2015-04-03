@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.375711", 
+  "description": "Modern, high-level Clojure driver (client) for Cassandra build around CQL 3", 
+  "fork": false, 
+  "full_name": "clojurewerkz/cassaforte", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:01.274352"
+}

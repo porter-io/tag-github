@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.679667", 
+  "description": "A vim plugin to give you some slime. (Emacs)", 
+  "fork": true, 
+  "full_name": "thlorenz/vim-slime", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T22:28:15.679723"
+}

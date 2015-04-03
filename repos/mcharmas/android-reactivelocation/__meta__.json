@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.638720", 
+  "description": "Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.", 
+  "fork": false, 
+  "full_name": "mcharmas/Android-ReactiveLocation", 
+  "language": "Java", 
+  "updated_at": "2015-03-10T07:04:48.051102"
+}

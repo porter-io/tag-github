@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.297624", 
+  "description": "Remote Web Inspector Server for Photoshop. Use the WebKit Inspector UI to goof around with your Photoshop documents!", 
+  "fork": false, 
+  "full_name": "subtleGradient/node-photoshop-inspector-server", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:53.595182"
+}

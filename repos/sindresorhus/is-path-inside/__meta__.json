@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.458776", 
+  "description": "Check if a path is inside another path", 
+  "fork": false, 
+  "full_name": "sindresorhus/is-path-inside", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.544119"
+}

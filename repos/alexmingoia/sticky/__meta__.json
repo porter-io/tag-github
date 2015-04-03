@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.045661", 
+  "description": "Simple, key/value pair browser-storage cache leveraging the latest HTML5 storage APIs.", 
+  "fork": false, 
+  "full_name": "alexmingoia/sticky", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:58.987973"
+}

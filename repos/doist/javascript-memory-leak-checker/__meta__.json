@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.381835", 
+  "description": "MemoryLeakChecker can check for data structure memory leaks in JavaScript", 
+  "fork": false, 
+  "full_name": "Doist/JavaScript-memory-leak-checker", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:22.501174"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.144316", 
+  "description": "Seamless navigation between tmux panes and vim splits", 
+  "fork": false, 
+  "full_name": "christoomey/vim-tmux-navigator", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:42:51.282419"
+}

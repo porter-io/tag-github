@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.181439", 
+  "description": "Provides NZB and Torrent postprocessing To CouchPotatoServer, SickBeard/SickRage, HeadPhones, Mylar and Gamez", 
+  "fork": false, 
+  "full_name": "clinton-hall/nzbToMedia", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:14.661427"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.650842", 
+  "description": "Simple meteor-based emailer with geolocation and UA tracking", 
+  "fork": false, 
+  "full_name": "mailgun/mailgun-meteor-demo", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:38.203008"
+}

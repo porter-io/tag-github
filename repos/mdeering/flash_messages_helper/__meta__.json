@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.313972", 
+  "description": "A simple and configurable Rails view helper for displaying flash messages.", 
+  "fork": false, 
+  "full_name": "mdeering/flash_messages_helper", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:51.025474"
+}

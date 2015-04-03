@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.429195", 
+  "description": "A pure stream http push technology for your Nginx setup. Comet made easy and really scalable.", 
+  "fork": false, 
+  "full_name": "wandenberg/nginx-push-stream-module", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:34.246766"
+}

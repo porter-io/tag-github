@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.830580", 
+  "description": "A Windows service which will run Solr", 
+  "fork": true, 
+  "full_name": "serbrech/SolrWindowsService", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T07:04:45.460335"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.852246", 
+  "description": "BAGPagingScrollView does exactly what it sounds like it does. It's a UIView that correctly implements the a UIScrollView for paging over many many UIViews. It also implements a UIPageControl. ", 
+  "fork": false, 
+  "full_name": "bguest/BAGPagingScrollView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:32.217997"
+}

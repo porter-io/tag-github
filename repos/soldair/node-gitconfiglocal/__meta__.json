@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.434535", 
+  "description": "parse the .git/config file into a useful data structure", 
+  "fork": false, 
+  "full_name": "soldair/node-gitconfiglocal", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:22.736425"
+}

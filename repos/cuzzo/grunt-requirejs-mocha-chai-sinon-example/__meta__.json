@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:25.892560", 
+  "description": "An example using mocha / chai / sinon in combination with RequireJS and Grunt.js and on top of PhantomJS. Running JavaScript tests from the command line has never been so easy.", 
+  "fork": false, 
+  "full_name": "cuzzo/grunt-requirejs-mocha-chai-sinon-example", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:14.985831"
+}

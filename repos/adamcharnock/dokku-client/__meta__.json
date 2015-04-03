@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.709643", 
+  "description": "Heroku-style command line interface for Dokku", 
+  "fork": false, 
+  "full_name": "adamcharnock/dokku-client", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:17.595891"
+}

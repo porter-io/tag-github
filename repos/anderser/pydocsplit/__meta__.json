@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.837374", 
+  "description": "Python \"port\" of DocumentCloud's great Docsplit utility for splitting PDFs into text and images", 
+  "fork": false, 
+  "full_name": "anderser/pydocsplit", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:20.706799"
+}

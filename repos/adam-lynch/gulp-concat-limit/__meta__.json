@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.015958", 
+  "description": "Concatenates files into as few files as possible without exceeding a given length limit", 
+  "fork": false, 
+  "full_name": "adam-lynch/gulp-concat-limit", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:12.331415"
+}

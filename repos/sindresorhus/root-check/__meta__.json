@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.355778", 
+  "description": "Try to downgrade the permissions of a process with root privileges and block access if it fails", 
+  "fork": false, 
+  "full_name": "sindresorhus/root-check", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.743359"
+}

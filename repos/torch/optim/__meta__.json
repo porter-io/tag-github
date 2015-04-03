@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.140072", 
+  "description": "A numeric optimization package for Torch.", 
+  "fork": false, 
+  "full_name": "torch/optim", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:42:14.604609"
+}

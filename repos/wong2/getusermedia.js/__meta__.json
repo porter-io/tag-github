@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.752572", 
+  "description": "Shim for getUserMedia - WebRTC for Chrome Canary/Opera.next.camera, Flash fallback for everyone else.", 
+  "fork": true, 
+  "full_name": "wong2/getUserMedia.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:28:34.752679"
+}

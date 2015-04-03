@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.190726", 
+  "description": "Tiny Clojure library for working with Java property lists (java.util.Properties)", 
+  "fork": false, 
+  "full_name": "michaelklishin/propertied", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:20.872236"
+}

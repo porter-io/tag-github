@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.417080", 
+  "description": "A simple API to send SMS messages. It is modeled after the django email api.", 
+  "fork": false, 
+  "full_name": "stefanfoulis/django-sendsms", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:55.142064"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.733548", 
+  "description": "A small Lisp interpreter in JavaScript", 
+  "fork": false, 
+  "full_name": "maryrosecook/littlelisp", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:23.273607"
+}

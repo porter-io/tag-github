@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:21.682692", 
+  "description": "Mazerunner extends a Neo4j graph database to run scheduled big data graph compute algorithms at scale with HDFS and Apache Spark.", 
+  "fork": false, 
+  "full_name": "kbastani/neo4j-mazerunner", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:27.623886"
+}

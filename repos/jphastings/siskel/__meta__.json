@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.672453", 
+  "description": "Inspect a video/audio file for properties and metadata, using mediainfo", 
+  "fork": true, 
+  "full_name": "jphastings/siskel", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:27:34.673561"
+}

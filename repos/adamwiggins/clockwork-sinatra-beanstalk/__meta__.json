@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.892394", 
+  "description": "A sample app using Clockwork with a Sinatra/Beanstalk app to fetch market prices periodically", 
+  "fork": false, 
+  "full_name": "adamwiggins/clockwork-sinatra-beanstalk", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:23.630992"
+}

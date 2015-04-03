@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.307478", 
+  "description": "Mirror of the official Postgres-XC GIT repository. Note that this is just a *mirror* - we don't accept pull requests on github. Please send your patches to developer mailing list => postgres-xc-developers@lists.sourceforge.net", 
+  "fork": false, 
+  "full_name": "postgres-xc/postgres-xc", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:24.051185"
+}

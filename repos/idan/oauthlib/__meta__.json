@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.344005", 
+  "description": "A generic, spec-compliant, thorough implementation of the OAuth request-signing logic", 
+  "fork": false, 
+  "full_name": "idan/oauthlib", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:48.394062"
+}

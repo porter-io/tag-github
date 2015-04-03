@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.494946", 
+  "description": "It's Magit! An Emacs mode for Git.", 
+  "fork": false, 
+  "full_name": "magit/magit", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:42:09.757960"
+}

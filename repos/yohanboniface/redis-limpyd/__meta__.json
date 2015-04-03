@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.785536", 
+  "description": "Provide an easy way to store python objects in Redis, without losing the power and the control of the Redis API", 
+  "fork": false, 
+  "full_name": "yohanboniface/redis-limpyd", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:46.987829"
+}

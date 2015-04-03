@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.447112", 
+  "description": "Strip comments from JSON. Lets you use comments in your JSON files!", 
+  "fork": false, 
+  "full_name": "sindresorhus/strip-json-comments", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.998120"
+}

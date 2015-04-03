@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.975682", 
+  "description": "A gem for Rails 3 and 4 to automatically search Google for exceptions raised in your Rails applications", 
+  "fork": false, 
+  "full_name": "excid3/stack_rescue", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:05.227177"
+}

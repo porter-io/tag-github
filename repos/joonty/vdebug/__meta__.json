@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.173664", 
+  "description": "Multi-language DBGP debugger client for Vim (PHP, Python, Perl, Ruby, etc.)", 
+  "fork": false, 
+  "full_name": "joonty/vdebug", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:04:23.851440"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.109175", 
+  "description": "Laravel 2FA Demo with MySQL, Redis & Google Authenticator", 
+  "fork": false, 
+  "full_name": "gossspel/laravel_2fa_demo", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:11.573465"
+}

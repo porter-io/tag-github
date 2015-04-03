@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.766676", 
+  "description": "Bugsnag notifier for the Laravel PHP framework", 
+  "fork": false, 
+  "full_name": "bugsnag/bugsnag-laravel", 
+  "language": "PHP", 
+  "updated_at": "2015-04-01T19:30:19.919625"
+}

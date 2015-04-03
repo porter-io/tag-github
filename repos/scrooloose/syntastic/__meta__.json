@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.201671", 
+  "description": "Syntax checking hacks for vim", 
+  "fork": false, 
+  "full_name": "scrooloose/syntastic", 
+  "language": "VimL", 
+  "updated_at": "2015-03-21T14:55:46.204127"
+}

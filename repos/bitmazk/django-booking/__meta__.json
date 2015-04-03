@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.846449", 
+  "description": "A reusable Django app that manages bookings for various purposes.", 
+  "fork": false, 
+  "full_name": "bitmazk/django-booking", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:03.084839"
+}

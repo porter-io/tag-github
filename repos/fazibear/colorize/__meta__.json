@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.896902", 
+  "description": "Ruby string class extension. It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.", 
+  "fork": false, 
+  "full_name": "fazibear/colorize", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:16.798687"
+}

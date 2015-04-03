@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.895136", 
+  "description": "Easy to use AJAX library for django. dajaxice mains goal is to trivialize the asynchronous communication within the django server side code and your js code. It's an \"agnostic JS framework\" approach and focus on decoupling the presentation logic.", 
+  "fork": false, 
+  "full_name": "jorgebastida/django-dajaxice", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:31:10.258075"
+}

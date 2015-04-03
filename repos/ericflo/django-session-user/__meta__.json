@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.086058", 
+  "description": "A simple piece of middleware that can be added to your Django project which will store and retrieve the logged-in user's information from the session", 
+  "fork": false, 
+  "full_name": "ericflo/django-session-user", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:18.001966"
+}

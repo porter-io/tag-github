@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.754262", 
+  "description": "Records changes made to an object during CRUD operations.", 
+  "fork": false, 
+  "full_name": "robwilkerson/CakePHP-Audit-Log-Plugin", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:28.025427"
+}

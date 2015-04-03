@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.420119", 
+  "description": "A brief demo showing how to authenticate and make a couple simple requests with the Google Glass Mirror API using node.js", 
+  "fork": false, 
+  "full_name": "emil10001/glass-mirror-nodejs-auth-demo", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:37.395801"
+}

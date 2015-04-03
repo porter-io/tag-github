@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.098501", 
+  "description": "HTTP method override middleware for koa", 
+  "fork": false, 
+  "full_name": "koa-modules/methodoverride", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:11.564424"
+}

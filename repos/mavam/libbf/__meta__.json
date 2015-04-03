@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.330016", 
+  "description": "Bloom filters for C++11", 
+  "fork": false, 
+  "full_name": "mavam/libbf", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:03.825634"
+}

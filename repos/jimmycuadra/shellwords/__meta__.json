@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.029641", 
+  "description": "Manipulate strings according to the word parsing rules of the UNIX Bourne shell.", 
+  "fork": false, 
+  "full_name": "jimmycuadra/shellwords", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:01:16.129037"
+}

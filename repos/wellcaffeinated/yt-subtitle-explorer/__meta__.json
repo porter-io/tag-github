@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.998619", 
+  "description": "Tool to explore subtitles of videos in a YouTube playlist. And crowdsource translations for those videos.", 
+  "fork": false, 
+  "full_name": "wellcaffeinated/yt-subtitle-explorer", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:39.912013"
+}

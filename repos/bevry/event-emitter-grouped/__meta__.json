@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.740182", 
+  "description": "Emit events in serial or parallel with support for synchronous and asynchronous listeners", 
+  "fork": false, 
+  "full_name": "bevry/event-emitter-grouped", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:42:12.729675"
+}

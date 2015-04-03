@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.003061", 
+  "description": "rails-bootstrap-forms is a Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+. Wraps the standard Rails form helpers so it's practically a drop-in replacement.", 
+  "fork": false, 
+  "full_name": "bootstrap-ruby/rails-bootstrap-forms", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:03:56.387143"
+}

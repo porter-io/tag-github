@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.745483", 
+  "description": "Change between installed Node versions in your current shell.", 
+  "fork": false, 
+  "full_name": "moll/sh-chnode", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:12.258826"
+}

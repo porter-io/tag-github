@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.253612", 
+  "description": "Parallel executor for Robot Framework test cases.", 
+  "fork": false, 
+  "full_name": "mkorpela/pabot", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:30:30.930561"
+}

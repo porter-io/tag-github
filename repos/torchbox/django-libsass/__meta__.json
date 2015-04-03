@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.844619", 
+  "description": "A django-compressor filter to compile SASS files using libsass", 
+  "fork": false, 
+  "full_name": "torchbox/django-libsass", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:50.935257"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.412931", 
+  "description": "Workarounds before ruby-core officially supports Proc#to_source (& friends)", 
+  "fork": false, 
+  "full_name": "ngty/sourcify", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:01.479399"
+}

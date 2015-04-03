@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.285107", 
+  "description": "Command line tool to share Elm libraries", 
+  "fork": false, 
+  "full_name": "elm-lang/elm-package", 
+  "language": "Haskell", 
+  "updated_at": "2015-02-27T23:43:24.928140"
+}

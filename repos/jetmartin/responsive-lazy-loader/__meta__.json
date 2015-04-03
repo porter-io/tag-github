@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.999621", 
+  "description": "A responsive lazy loader. Load image rendition according to CSS display & breakpoint.", 
+  "fork": false, 
+  "full_name": "jetmartin/responsive-lazy-loader", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:00:55.124288"
+}

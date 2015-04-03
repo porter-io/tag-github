@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.261142", 
+  "description": "Allow your Redmine installation to be notified when changes have been pushed to a Gitolite server repository.  Based on the original Github hook.", 
+  "fork": true, 
+  "full_name": "kahseng/redmine_gitolite_hook", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:29:23.261234"
+}

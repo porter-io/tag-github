@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.188852", 
+  "description": "LXC provider for Vagrant", 
+  "fork": false, 
+  "full_name": "fgrehm/vagrant-lxc", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:40.107131"
+}

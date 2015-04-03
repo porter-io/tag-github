@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.316083", 
+  "description": "Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html", 
+  "fork": false, 
+  "full_name": "rvagg/node-addon-examples", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:01:55.948409"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.050138", 
+  "description": "Fancy macro(s) to deal with many nested map/filter calls in Elixir (analog for-yield in Scala)", 
+  "fork": false, 
+  "full_name": "kachayev/elixir-scala", 
+  "language": "Elixir", 
+  "updated_at": "2015-02-27T23:42:21.698533"
+}

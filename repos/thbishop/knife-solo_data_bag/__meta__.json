@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.346787", 
+  "description": "A knife plugin to ease working with data bags and chef solo", 
+  "fork": false, 
+  "full_name": "thbishop/knife-solo_data_bag", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:21.010864"
+}

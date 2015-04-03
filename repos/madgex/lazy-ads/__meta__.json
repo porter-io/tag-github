@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.712921", 
+  "description": "Deliver synchronous ads asynchronously without modifying the ad code. Conditionally load ads for responsive layouts using the ad container's dimensions, or a media query.", 
+  "fork": false, 
+  "full_name": "madgex/lazy-ads", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.561420"
+}

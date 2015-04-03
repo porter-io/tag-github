@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.541181", 
+  "description": "Webpack loader for selectively transforming JSX based on special syntax. Most useful for embedding JSX in TypeScript.", 
+  "fork": false, 
+  "full_name": "jbrantly/ts-jsx-loader", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:35.241770"
+}

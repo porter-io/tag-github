@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.675409", 
+  "description": "Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk \"EffectiveAndroidUI\".", 
+  "fork": false, 
+  "full_name": "pedrovgs/EffectiveAndroidUI", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:01.739773"
+}

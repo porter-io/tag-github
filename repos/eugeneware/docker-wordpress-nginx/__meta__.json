@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.487145", 
+  "description": "A Dockerfile that installs the latest wordpress, nginx and php-fpm.", 
+  "fork": false, 
+  "full_name": "eugeneware/docker-wordpress-nginx", 
+  "language": "Shell", 
+  "updated_at": "2015-03-10T07:04:02.062322"
+}

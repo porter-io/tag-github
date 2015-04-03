@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.118932", 
+  "description": "This is a banner which can display the latest commit of a Github-repo on your website.", 
+  "fork": false, 
+  "full_name": "heipei/github-commit-badge", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:30.609177"
+}

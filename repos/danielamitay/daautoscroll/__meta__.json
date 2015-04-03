@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:35.607802", 
+  "description": "DAAutoScroll is a UIScrollView category that allows any chosen UIScrollView (or subclass thereof) to automatically scroll itself with adjustable speed. When the user interacts with the view, the scrolling automatically stops.", 
+  "fork": false, 
+  "full_name": "danielamitay/DAAutoScroll", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:07.704299"
+}

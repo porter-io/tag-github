@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.150645", 
+  "description": "Generate a changelog based on merged pull requests or commit messages", 
+  "fork": false, 
+  "full_name": "lalitkapoor/github-changes", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:41.367357"
+}

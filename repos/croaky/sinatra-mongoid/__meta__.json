@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.334456", 
+  "description": "A Mongoid extension for Sinatra.", 
+  "fork": false, 
+  "full_name": "croaky/sinatra-mongoid", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:05.561152"
+}

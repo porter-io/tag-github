@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.278133", 
+  "description": "A polyfill for ES6-style Promises", 
+  "fork": false, 
+  "full_name": "jakearchibald/es6-promise", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:29:26.448305"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.061285", 
+  "description": "Inject references to files into other files (think scripts and stylesheets into an html file)", 
+  "fork": false, 
+  "full_name": "klei/grunt-injector", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:30.716106"
+}

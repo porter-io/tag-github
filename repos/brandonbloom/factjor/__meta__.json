@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.243316", 
+  "description": "A Factor-inspired, concatenative DSL for Clojure", 
+  "fork": false, 
+  "full_name": "brandonbloom/factjor", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:31.175002"
+}

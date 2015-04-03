@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.789591", 
+  "description": "Emscripten'd version of giflib for optimized javascript based gif encoding/decoding", 
+  "fork": false, 
+  "full_name": "qdot/giflib.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:13.913978"
+}

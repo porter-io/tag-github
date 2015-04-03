@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.466974", 
+  "description": "If you write a Spark application that needs access to Cassandra, this library is for you", 
+  "fork": false, 
+  "full_name": "datastax/spark-cassandra-connector", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:41:18.273061"
+}

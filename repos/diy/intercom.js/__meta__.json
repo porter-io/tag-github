@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.156074", 
+  "description": "A client-side cross-window message broadcast library built on top of the HTML5 localStorage API.", 
+  "fork": false, 
+  "full_name": "diy/intercom.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:00.897601"
+}

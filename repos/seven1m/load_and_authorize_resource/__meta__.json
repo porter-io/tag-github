@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.931658", 
+  "description": "Auto-loads and authorizes resources in your controllers", 
+  "fork": false, 
+  "full_name": "seven1m/load_and_authorize_resource", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:09.841341"
+}

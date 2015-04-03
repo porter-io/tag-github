@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.613034", 
+  "description": "Use the Node `net` API in Chrome Apps", 
+  "fork": false, 
+  "full_name": "feross/chrome-net", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.598784"
+}

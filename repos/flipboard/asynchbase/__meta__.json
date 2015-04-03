@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.776471", 
+  "description": "A fully asynchronous, non-blocking, thread-safe, high-performance HBase client.", 
+  "fork": true, 
+  "full_name": "Flipboard/asynchbase", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T22:27:51.776518"
+}

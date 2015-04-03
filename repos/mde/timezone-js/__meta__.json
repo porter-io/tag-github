@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.997813", 
+  "description": "Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.", 
+  "fork": false, 
+  "full_name": "mde/timezone-js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:48.030736"
+}

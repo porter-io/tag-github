@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.082638", 
+  "description": "Thoth is a real-time solr monitor and search analysis engine. It's a set of tools that can help you collect, visualize and leverage data coming from your solr search Infrastructure", 
+  "fork": false, 
+  "full_name": "trulia/thoth", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:10.659270"
+}

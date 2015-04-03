@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.599096", 
+  "description": "Emscripten-compiled Javascript version of NaCl, the Networking and Cryptography library.", 
+  "fork": false, 
+  "full_name": "tonyg/js-nacl", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:40.672213"
+}

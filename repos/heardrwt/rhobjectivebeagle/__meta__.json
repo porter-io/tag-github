@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.433706", 
+  "description": "Beagle is an Objective C debugging tool that can sniff out class instances on the heap.", 
+  "fork": false, 
+  "full_name": "heardrwt/RHObjectiveBeagle", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:45.521448"
+}

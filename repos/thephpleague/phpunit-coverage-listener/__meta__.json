@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.418908", 
+  "description": "Report code coverage statistics to third-party services", 
+  "fork": false, 
+  "full_name": "thephpleague/phpunit-coverage-listener", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:11.902829"
+}

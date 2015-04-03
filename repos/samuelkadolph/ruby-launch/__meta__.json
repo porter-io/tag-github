@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.956029", 
+  "description": "Wrapper for liblaunch which allows you to manage jobs and checkin from processes spawned by launchd.", 
+  "fork": true, 
+  "full_name": "samuelkadolph/ruby-launch", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:28:33.956085"
+}

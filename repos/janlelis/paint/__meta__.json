@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.850620", 
+  "description": "Ruby library for terminal coloring / no string extensions / supports effects and 256 colors", 
+  "fork": false, 
+  "full_name": "janlelis/paint", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:13.795406"
+}

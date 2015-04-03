@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.069177", 
+  "description": "A PS3 Dualshock 3 Controller hook for Node.js powered by Node-HID and echtzeit.", 
+  "fork": false, 
+  "full_name": "KenanSulayman/PS3.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:03.356007"
+}

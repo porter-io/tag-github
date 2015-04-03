@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.767174", 
+  "description": "Sassy Text Shadow is a Sass mixin that calculates convoluted curvy shadows for css3 text-shadow. It can also be used for box-shadow if you're into that kind of thing.", 
+  "fork": false, 
+  "full_name": "at-import/sassytextshadow", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:57.264711"
+}

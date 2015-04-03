@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.773824", 
+  "description": "Android GPS stabilized INU with vertical acceleration and velocity output - meant primarily for use with XCSoar. ", 
+  "fork": false, 
+  "full_name": "Exadios/g-meter", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:04.102461"
+}

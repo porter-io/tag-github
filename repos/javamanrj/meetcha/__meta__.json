@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.342537", 
+  "description": "We developed the Meetcha app to demonstrate how to use Sencha Touch 2 features in a real world application. We used the Sencha Touch\u2019s built in MVC architecture, which we\u2019ve found in this app and in general is absolutely required for developing large commercial applications. We also wanted the Meetcha app to have an engaging UI, so we used custom theming to create rounded buttons and non-rectangular positioning with a custom background that changes with orientation. This app also illustrates how to create context-sensitive navigation by showing the map of the meetup or home screen depending on how soon the event is taking place. You can read about this application on a Sencha Blog Post. If you have questions, please contact ashvin@avantsoft.com.", 
+  "fork": true, 
+  "full_name": "javamanrj/meetcha", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:28:16.342616"
+}

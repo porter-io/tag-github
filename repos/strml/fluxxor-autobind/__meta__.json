@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.224989", 
+  "description": "AutoBind plugin for Fluxxor to help prevent spaghetti props wiring.", 
+  "fork": false, 
+  "full_name": "STRML/fluxxor-autobind", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:55.812722"
+}

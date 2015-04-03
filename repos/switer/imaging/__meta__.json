@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.953172", 
+  "description": "Draw image into terminal ,whithout node-canvas, and the output image is more clear than using picture-tube.", 
+  "fork": false, 
+  "full_name": "switer/imaging", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:00.947760"
+}

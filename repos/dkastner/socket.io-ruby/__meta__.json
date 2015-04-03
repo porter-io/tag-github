@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.201270", 
+  "description": "Ruby/Cramp/Eventmachine implementation of Socket.io. Status: abandonware", 
+  "fork": false, 
+  "full_name": "dkastner/socket.io-ruby", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:44.913433"
+}

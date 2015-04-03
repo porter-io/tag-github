@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.823517", 
+  "description": "A minimalist interpreted language, with a clean object model and a tiny VM.", 
+  "fork": false, 
+  "full_name": "chameco/Solid", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:49.538918"
+}

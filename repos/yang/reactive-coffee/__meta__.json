@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.403244", 
+  "description": "A lightweight CoffeeScript library/DSL for reactive programming and declaratively building scalable web UIs", 
+  "fork": false, 
+  "full_name": "yang/reactive-coffee", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:30:24.368310"
+}

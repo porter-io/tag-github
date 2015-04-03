@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.518182", 
+  "description": "Vim syntax highlight and snippets that helper coding applications based in Sinatra micro-framework.", 
+  "fork": false, 
+  "full_name": "hallison/vim-ruby-sinatra", 
+  "language": "VimL", 
+  "updated_at": "2015-04-01T19:32:03.186238"
+}

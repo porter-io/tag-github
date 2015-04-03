@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.941554", 
+  "description": "Generate a plain-english summary of what is in a GeoJSON file.", 
+  "fork": false, 
+  "full_name": "mapbox/geojson-summary", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:22.589363"
+}

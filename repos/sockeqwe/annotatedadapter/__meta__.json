@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.018530", 
+  "description": "Write less code with AnnotatedAdapter, an annotation processor for generating RecyclerView and AbsListView adapters", 
+  "fork": false, 
+  "full_name": "sockeqwe/AnnotatedAdapter", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:08.671061"
+}

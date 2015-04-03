@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.830824", 
+  "description": "VNC, RDP, SPICE, and oVirt/RHEV/Proxmox Clients for Android and Blackberry 10", 
+  "fork": false, 
+  "full_name": "iiordanov/remote-desktop-clients", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:04.122090"
+}

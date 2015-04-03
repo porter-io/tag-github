@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.654067", 
+  "description": "A Node.js program that provides a web service interface to the Stanford CoreNLP library.", 
+  "fork": false, 
+  "full_name": "mhewett/stanford-corenlp-node", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:07.922719"
+}

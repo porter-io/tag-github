@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.206082", 
+  "description": "Turn your single process code into a fault-resilient, multi-process service with built-in REST & CLI support. Restart or hot upgrade your web servers with zero downtime or impact to clients.", 
+  "fork": false, 
+  "full_name": "godaddy/node-cluster-service", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:42.561485"
+}

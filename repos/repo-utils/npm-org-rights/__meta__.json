@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.196302", 
+  "description": "Give somebody your npm publishing rights to all repos in a github org", 
+  "fork": false, 
+  "full_name": "repo-utils/npm-org-rights", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:57.746163"
+}

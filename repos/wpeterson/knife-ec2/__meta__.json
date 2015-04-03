@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.834744", 
+  "description": "Opscode Chef knife plug-in for EC2", 
+  "fork": true, 
+  "full_name": "wpeterson/knife-ec2", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:27:37.834797"
+}

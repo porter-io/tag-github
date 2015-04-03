@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.482648", 
+  "description": "Tool for resynchronizing a Postgres database after failover", 
+  "fork": false, 
+  "full_name": "vmware/pg_rewind", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:53.420376"
+}

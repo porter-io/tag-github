@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.289059", 
+  "description": "A nodejs C++ module that given a buffer with RGB or RGBA values creates a JPEG image in memory.", 
+  "fork": false, 
+  "full_name": "pkrumins/node-jpeg", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:41.894717"
+}

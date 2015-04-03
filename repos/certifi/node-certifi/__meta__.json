@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.937176", 
+  "description": "(Node Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.", 
+  "fork": false, 
+  "full_name": "certifi/node-certifi", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:46.491385"
+}

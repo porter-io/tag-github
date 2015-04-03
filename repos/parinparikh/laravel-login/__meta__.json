@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.974842", 
+  "description": "A basic membership system made with Laravel. Functionalities include Sign In, Sign Out, Forgot password, Sign Up, and Email activation. The design is responsive and made with Bootstrap v3.1.1.", 
+  "fork": false, 
+  "full_name": "ParinParikh/Laravel-Login", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:02:34.438549"
+}

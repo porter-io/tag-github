@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.995608", 
+  "description": "bring your .bashrc, .vimrc, etc. with you when you ssh", 
+  "fork": false, 
+  "full_name": "Russell91/sshrc", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:37.467002"
+}

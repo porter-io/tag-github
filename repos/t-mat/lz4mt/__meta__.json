@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.072647", 
+  "description": "Platform independent, multi-threading implementation of lz4 stream in C++11", 
+  "fork": false, 
+  "full_name": "t-mat/lz4mt", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:34.776396"
+}

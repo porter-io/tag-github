@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.189224", 
+  "description": "Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium for the Rails Asset Pipeline (and some turbolinks/pjax/angular love)", 
+  "fork": false, 
+  "full_name": "caarlos0/nprogress-rails", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:00:55.381398"
+}

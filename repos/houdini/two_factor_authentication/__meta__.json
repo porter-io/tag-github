@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.482134", 
+  "description": "Two factor authentication extension for Devise", 
+  "fork": false, 
+  "full_name": "Houdini/two_factor_authentication", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:26.270880"
+}

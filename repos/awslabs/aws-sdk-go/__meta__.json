@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.921269", 
+  "description": "An incredibly experimental, automatically generated set of AWS clients in Go.", 
+  "fork": false, 
+  "full_name": "awslabs/aws-sdk-go", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:09.816002"
+}

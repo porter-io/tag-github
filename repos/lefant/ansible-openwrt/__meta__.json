@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.074829", 
+  "description": "configure your openwrt system(s) using ansible!", 
+  "fork": false, 
+  "full_name": "lefant/ansible-openwrt", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:22.709677"
+}

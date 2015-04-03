@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.105148", 
+  "description": "Diff file sizes between current git branch and a branch/commit", 
+  "fork": false, 
+  "full_name": "sindresorhus/grunt-sizediff", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.018870"
+}

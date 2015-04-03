@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.496283", 
+  "description": "A basic key-value store, repeated in C, Go, Python (basic, gevent, and diesel), Ruby (event machine), Java, Scala, Haskell, and NodeJS.", 
+  "fork": false, 
+  "full_name": "grahamking/Key-Value-Polyglot", 
+  "language": "C", 
+  "updated_at": "2015-02-28T08:41:15.186819"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:59.730582", 
+  "description": "Simple Test Cookbook to validate test-kitchen functionality on WindowsGuest [WinRM/PoSH]", 
+  "fork": false, 
+  "full_name": "afiune/tk-windows", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:32.541235"
+}

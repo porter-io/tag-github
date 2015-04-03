@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.228182", 
+  "description": "Experimental Terminal platform built on WebKit + node.js. Currently only for Mac and Windows, though the prototype works 90% in any WebKit browser.", 
+  "fork": false, 
+  "full_name": "unconed/TermKit", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-21T14:57:12.402600"
+}

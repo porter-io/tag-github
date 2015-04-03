@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.340293", 
+  "description": "Create an array with values that are present in the first input array but not additional ones", 
+  "fork": false, 
+  "full_name": "sindresorhus/array-differ", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.119441"
+}

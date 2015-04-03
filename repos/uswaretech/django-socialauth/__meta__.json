@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.588068", 
+  "description": "Allows logging via Facebook, Yahoo, Gmail, Twitter and Openid", 
+  "fork": true, 
+  "full_name": "uswaretech/Django-Socialauth", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:46.120548"
+}

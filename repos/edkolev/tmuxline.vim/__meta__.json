@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.642862", 
+  "description": "Simple tmux statusline generator with support for powerline symbols and statusline / airline / lightline integration", 
+  "fork": false, 
+  "full_name": "edkolev/tmuxline.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:42:16.593729"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.639775", 
+  "description": "Demo of using MochaJS to test a ReactJS component (with JSX and Harmony)", 
+  "fork": false, 
+  "full_name": "danvk/mocha-react", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:07.908875"
+}

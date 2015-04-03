@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.344071", 
+  "description": "A tool for exporting Raspberry Pi-specific data to Puppet facts", 
+  "fork": false, 
+  "full_name": "vpetersson/PuppetPi", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:16.228115"
+}

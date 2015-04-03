@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.838170", 
+  "description": "Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer (supports Lua 5.1, 5.2, 5.3, LuaJIT and other Lua interpreters)", 
+  "fork": false, 
+  "full_name": "pkulchenko/ZeroBraneStudio", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:43:12.340571"
+}

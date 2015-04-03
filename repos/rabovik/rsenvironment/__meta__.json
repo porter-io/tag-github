@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.089241", 
+  "description": "Most common environment checks in one place: system version, retina support, UI flat mode, device models and so on.", 
+  "fork": false, 
+  "full_name": "rabovik/RSEnvironment", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:51.110026"
+}

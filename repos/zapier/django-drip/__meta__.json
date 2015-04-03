@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.432452", 
+  "description": "Use the admin to manage drip campaign emails using querysets on Django's User model.", 
+  "fork": false, 
+  "full_name": "zapier/django-drip", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:22.213951"
+}

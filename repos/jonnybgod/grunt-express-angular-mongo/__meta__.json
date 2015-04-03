@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.163030", 
+  "description": "Bootstrap app with Grunt, Bower, Expressjs, Angularjs, Requirejs + goodies", 
+  "fork": false, 
+  "full_name": "JonnyBGod/grunt-express-angular-mongo", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:14.352292"
+}

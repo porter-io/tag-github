@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.045518", 
+  "description": "A command-line tool that helps you clean up Git branches that have been merged into master.", 
+  "fork": false, 
+  "full_name": "arc90/git-sweep", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:46.587509"
+}

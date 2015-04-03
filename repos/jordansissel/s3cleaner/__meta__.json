@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.558681", 
+  "description": "Amazon S3 file cleaner - delete things older than a certain age, matching a pattern, etc.", 
+  "fork": false, 
+  "full_name": "jordansissel/s3cleaner", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:43.326586"
+}

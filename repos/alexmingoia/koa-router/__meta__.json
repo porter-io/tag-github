@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.050446", 
+  "description": "Router middleware for koa. Provides RESTful resource routing.", 
+  "fork": false, 
+  "full_name": "alexmingoia/koa-router", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:58.993561"
+}

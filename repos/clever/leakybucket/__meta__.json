@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.141545", 
+  "description": "Leaky bucket implementation in Go with support for different backends (redis, in-memory)", 
+  "fork": false, 
+  "full_name": "Clever/leakybucket", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:28.234160"
+}

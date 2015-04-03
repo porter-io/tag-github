@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.133534", 
+  "description": "JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.", 
+  "fork": false, 
+  "full_name": "DiUS/pact-jvm", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:43:37.678447"
+}

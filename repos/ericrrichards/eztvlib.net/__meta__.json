@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:32.173309", 
+  "description": "Simple library for scraping the EZTV site for show magnet links", 
+  "fork": false, 
+  "full_name": "ericrrichards/EZTVLib.NET", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:41:28.676560"
+}

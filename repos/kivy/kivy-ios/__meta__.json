@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.473091", 
+  "description": "Toolchain for compiling Python / Kivy / others libraries for iOS", 
+  "fork": true, 
+  "full_name": "kivy/kivy-ios", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:04:21.568723"
+}

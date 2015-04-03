@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:27:37.786299", 
+  "description": "Perl script to send Syslog events to the Loggly cloud via HTTPS (www.loggly.com)", 
+  "fork": false, 
+  "full_name": "xme/syslog2loggly", 
+  "updated_at": "2015-03-10T07:01:01.983758"
+}

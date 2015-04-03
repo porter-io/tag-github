@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.953181", 
+  "description": "Modular Restricted Boltzmann Machine (RBM) implementation using Theano", 
+  "fork": false, 
+  "full_name": "benanne/morb", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:34.673153"
+}

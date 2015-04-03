@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.133845", 
+  "description": "Package to provide api-like access to foreign sites based on html parsing", 
+  "fork": false, 
+  "full_name": "sleeping-owl/apist", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:17.079264"
+}

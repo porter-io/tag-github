@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.504196", 
+  "description": "An Erlang library for generating adversarial network conditions for QAing distributed applications/systems on a single Linux box.", 
+  "fork": false, 
+  "full_name": "lostcolony/damocles", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:42:59.621545"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.973690", 
+  "description": "(under-development) Evented WebSocket server in Go", 
+  "fork": false, 
+  "full_name": "nu7hatch/webrocket", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:27.390086"
+}

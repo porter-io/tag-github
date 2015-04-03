@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.104476", 
+  "description": "Simple script that counts total lines and LOC in one or more Ruby files", 
+  "fork": false, 
+  "full_name": "chriskottom/ruby_loc_counter", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:55.366511"
+}

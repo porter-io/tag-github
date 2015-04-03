@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.568427", 
+  "description": "Simple way to handle fat files without committing them to git, supports synchronization using rsync", 
+  "fork": false, 
+  "full_name": "jedbrown/git-fat", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:07.805834"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.833461", 
+  "description": "A schema repository system for JSON Schema", 
+  "fork": false, 
+  "full_name": "snowplow/iglu", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:57.503634"
+}

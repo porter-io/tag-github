@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.903096", 
+  "description": "Error response middleware (text, json, html) ", 
+  "fork": false, 
+  "full_name": "koajs/error", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.713799"
+}

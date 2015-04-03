@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.336879", 
+  "description": "Logging package similar to log4j for the Go programming language", 
+  "fork": false, 
+  "full_name": "alecthomas/log4go", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:18.622445"
+}

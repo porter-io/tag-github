@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.314568", 
+  "description": "Client side implementation of the eCard-API-Framework (BSI TR-03112) and related international standards, such as ISO/IEC 24727.", 
+  "fork": false, 
+  "full_name": "ecsec/open-ecard", 
+  "language": "Java", 
+  "updated_at": "2015-04-01T19:29:07.021615"
+}

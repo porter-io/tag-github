@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.287000", 
+  "description": "A Xcode plugin to automatically generate @2x, @1x image from @3x image for you, or upscale to @3x from @2x", 
+  "fork": false, 
+  "full_name": "rickytan/RTImageAssets", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:45.494534"
+}

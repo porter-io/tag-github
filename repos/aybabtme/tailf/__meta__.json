@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.901084", 
+  "description": "Read and follow subsequent writes to a file. Like tailf.", 
+  "fork": false, 
+  "full_name": "aybabtme/tailf", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:50.628937"
+}

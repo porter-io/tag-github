@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.228263", 
+  "description": "A Node.js + Phantom.js command line application that will automatically order you a sandwich from Jimmy John's. ( http://xkcd.com/149 )", 
+  "fork": true, 
+  "full_name": "kodypeterson/makemeasandwich.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:28:28.229367"
+}

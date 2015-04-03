@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.151439", 
+  "description": "An implementation of Chord, a protocol of Distributed Hash Table, using WebRTC.", 
+  "fork": false, 
+  "full_name": "tsujio/webrtc-chord", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:50.242533"
+}

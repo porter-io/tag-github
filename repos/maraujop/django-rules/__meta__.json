@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.085920", 
+  "description": "Flexible and scalable Django authorization backend for unified per object permission management", 
+  "fork": false, 
+  "full_name": "maraujop/django-rules", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:56.934247"
+}

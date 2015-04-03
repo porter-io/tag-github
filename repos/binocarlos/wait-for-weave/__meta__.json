@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.338770", 
+  "description": "Wait for a weave network to be ready before running a container entrypoint", 
+  "fork": false, 
+  "full_name": "binocarlos/wait-for-weave", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:26.067370"
+}

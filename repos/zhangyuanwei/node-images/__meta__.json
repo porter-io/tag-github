@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.065774", 
+  "description": "Cross-platform image decoder(png/jpeg/gif) and encoder(png/jpeg) for Nodejs", 
+  "fork": false, 
+  "full_name": "zhangyuanwei/node-images", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:21.808751"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.712368", 
+  "description": "not needed any more couchdb have build in now handling of coffeescript https://github.com/bdionne/couchdb/commit/972da5ab71af3eaeb939314a973398b6fe3235a9", 
+  "fork": false, 
+  "full_name": "andrzejsliwa/coffeeapp", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:29:38.743772"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.864247", 
+  "description": "pluck a property out of an object in a [].prototype callback.", 
+  "fork": false, 
+  "full_name": "stephenplusplus/propprop", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:44.132184"
+}

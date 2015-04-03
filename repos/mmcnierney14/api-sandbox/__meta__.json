@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.439199", 
+  "description": "A jQuery plugin to easily create sandbox environments to allow developers to see the results of specific API calls", 
+  "fork": false, 
+  "full_name": "mmcnierney14/api-sandbox", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:43:58.864994"
+}

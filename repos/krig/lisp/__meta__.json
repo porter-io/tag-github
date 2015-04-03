@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.301153", 
+  "description": "My attempt at implementing the original LISP paper while learning lisp. Nothing special, mostly posted as a homage to McCarthy.", 
+  "fork": false, 
+  "full_name": "krig/LISP", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:04:09.630718"
+}

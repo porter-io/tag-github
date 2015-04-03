@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.282871", 
+  "description": "EGOTextView is a complete drop in replacement for UITextView created by enormego, that adds support for Rich Text Editing. [tags:ios,objective-c,uitextview]", 
+  "fork": false, 
+  "full_name": "enormego/EGOTextView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:49.581063"
+}

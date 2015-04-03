@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.442050", 
+  "description": "Convert milliseconds to a human readable string: 1337000000 \u2192 15d 11h 23m 20s", 
+  "fork": false, 
+  "full_name": "sindresorhus/pretty-ms", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.510318"
+}

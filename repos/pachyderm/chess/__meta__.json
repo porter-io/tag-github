@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.338075", 
+  "description": "A MapReduce job to explore blunders in chess games.", 
+  "fork": false, 
+  "full_name": "pachyderm/chess", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:45.956429"
+}

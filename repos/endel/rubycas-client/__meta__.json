@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.677069", 
+  "description": "Ruby  client for Yale's Central Authentication Service protocol -- an open source enterprise single sign on system for web applications.", 
+  "fork": true, 
+  "full_name": "endel/rubycas-client", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:29:08.677124"
+}

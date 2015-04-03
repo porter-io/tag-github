@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.381854", 
+  "description": "A wrapper library for the HTML5 Filesystem API what reuses UNIX commands (cp, mv, ls) for its API.", 
+  "fork": false, 
+  "full_name": "ebidel/filer.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:09.781394"
+}

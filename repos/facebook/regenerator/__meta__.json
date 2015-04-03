@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.384832", 
+  "description": "Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.", 
+  "fork": false, 
+  "full_name": "facebook/regenerator", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:54:36.987923"
+}

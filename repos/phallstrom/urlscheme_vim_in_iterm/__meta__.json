@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:20.761652", 
+  "description": "A small app to open special \"viminiterm://\" urls in a new iTerm tab in vim.", 
+  "fork": false, 
+  "full_name": "phallstrom/urlscheme_vim_in_iterm", 
+  "updated_at": "2015-02-27T23:42:32.099260"
+}

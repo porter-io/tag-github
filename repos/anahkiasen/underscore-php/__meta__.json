@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.376125", 
+  "description": "A redacted PHP port of Underscore.js with additional functions and goodies \u2013 Available for Composer and Laravel", 
+  "fork": false, 
+  "full_name": "Anahkiasen/underscore-php", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:01:11.533618"
+}

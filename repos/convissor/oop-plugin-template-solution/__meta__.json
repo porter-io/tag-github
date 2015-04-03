@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.752180", 
+  "description": "A well engineered template for creating WordPress plugins using object-oriented programming practices. Uses Settings API, multisite, i18n, PHPUnit tests.", 
+  "fork": false, 
+  "full_name": "convissor/oop-plugin-template-solution", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:27.384494"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.628259", 
+  "description": "A fake Django admin login screen to notify admins of attempted unauthorized access.", 
+  "fork": false, 
+  "full_name": "dmpayton/django-admin-honeypot", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:46.107553"
+}

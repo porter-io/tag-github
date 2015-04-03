@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.808021", 
+  "description": "An API towards the Ubiquity Networks UniFi controller", 
+  "fork": false, 
+  "full_name": "calmh/unifi-api", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:32.556665"
+}

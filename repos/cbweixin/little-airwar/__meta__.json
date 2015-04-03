@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.437900", 
+  "description": "little-airwar is a airwar game written purely by javascript+html5. currently I only support IE9, chrome, firefox >3.5, safari, no opera, sorry for that", 
+  "fork": false, 
+  "full_name": "cbweixin/little-airwar", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:21.139443"
+}

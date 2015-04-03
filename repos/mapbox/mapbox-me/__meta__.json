@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.890312", 
+  "description": "Small reference implementation of native iPhone Mapbox maps. Showcases the Mapbox iOS SDK's user location services to display the user's location on Mapbox Streets somewhat like Maps.app. ", 
+  "fork": false, 
+  "full_name": "mapbox/mapbox-me", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:03:24.779038"
+}

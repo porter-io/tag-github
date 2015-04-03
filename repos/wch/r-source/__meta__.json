@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.067905", 
+  "description": "Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.", 
+  "fork": false, 
+  "full_name": "wch/r-source", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:17.028400"
+}

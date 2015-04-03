@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.056586", 
+  "description": "buffer/file/command/tag/etc explorer with fuzzy matching", 
+  "fork": false, 
+  "full_name": "vim-scripts/FuzzyFinder", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:55.986240"
+}

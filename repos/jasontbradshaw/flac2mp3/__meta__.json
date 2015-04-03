@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.247489", 
+  "description": "A multithreaded Python script for converting flac files to mp3 files on Linux and OS X.", 
+  "fork": false, 
+  "full_name": "jasontbradshaw/flac2mp3", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:25.976654"
+}

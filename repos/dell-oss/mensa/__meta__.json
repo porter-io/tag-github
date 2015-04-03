@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.959867", 
+  "description": "Mensa is a generic, flexible, enhanced, and efficient Java implementation of a pattern matching state machine as described by the 1975 paper by Alfred V. Aho and Margaret J. Corasick: Efficient string matching: An aid to bibliographic search.", 
+  "fork": false, 
+  "full_name": "dell-oss/Mensa", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:24.620965"
+}

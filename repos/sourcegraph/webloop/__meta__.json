@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.963385", 
+  "description": "WebLoop: Scriptable, headless WebKit with a Go API. Like PhantomJS, but for Go.", 
+  "fork": false, 
+  "full_name": "sourcegraph/webloop", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:04:33.075748"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.938003", 
+  "description": "An elegant way to define lightweight protocols on-top of TCP/TLS sockets in node.js", 
+  "fork": false, 
+  "full_name": "foreverjs/nssocket", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:33.213787"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.090346", 
+  "description": "WSGI middleware for sessions and caching", 
+  "fork": false, 
+  "full_name": "bbangert/beaker", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:21.814011"
+}

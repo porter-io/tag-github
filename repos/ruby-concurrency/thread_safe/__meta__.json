@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.309519", 
+  "description": "The thread_safe gem provides thread-safe collections for Ruby", 
+  "fork": false, 
+  "full_name": "ruby-concurrency/thread_safe", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:35.909386"
+}

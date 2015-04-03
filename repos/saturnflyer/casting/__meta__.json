@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.384795", 
+  "description": "Delegate methods in Ruby and preserve self. Add behaviors to your objects without altering their superclass heirarchy.", 
+  "fork": false, 
+  "full_name": "saturnflyer/casting", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:47.954029"
+}

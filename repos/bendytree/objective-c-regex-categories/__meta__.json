@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.356557", 
+  "description": "NSRegularExpression extensions that make regular expressions easier in Objective-C, Swift, iOS, OSX", 
+  "fork": false, 
+  "full_name": "bendytree/Objective-C-RegEx-Categories", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:22.731751"
+}

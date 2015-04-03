@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.876029", 
+  "description": "SSDB - A fast NoSQL database, an alternative to Redis", 
+  "fork": false, 
+  "full_name": "ideawu/ssdb", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:55.739920"
+}

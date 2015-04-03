@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.809691", 
+  "description": "Login session ensuring middleware for Connect and Express.", 
+  "fork": false, 
+  "full_name": "jaredhanson/connect-ensure-login", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:48.382604"
+}

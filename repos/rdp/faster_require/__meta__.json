@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.222051", 
+  "description": "A utility to make require 'xxx' take far less time in windows", 
+  "fork": false, 
+  "full_name": "rdp/faster_require", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:02:33.638771"
+}

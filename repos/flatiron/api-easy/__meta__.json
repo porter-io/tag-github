@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.683668", 
+  "description": "Fluent (i.e. chainable) syntax for generating vows tests against RESTful APIs.", 
+  "fork": false, 
+  "full_name": "flatiron/api-easy", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:40.602010"
+}

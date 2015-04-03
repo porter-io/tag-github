@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.102043", 
+  "description": "[DEPRECATED] Rails engine to manage Heroku configuration variables from within your application", 
+  "fork": false, 
+  "full_name": "danielfone/heroku_config_vars", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:30:14.110920"
+}

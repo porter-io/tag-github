@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.284862", 
+  "description": "A simple leiningen plugin for managing SQL database migrations with clojure / jdbc", 
+  "fork": false, 
+  "full_name": "ckuttruff/clj-sql-up", 
+  "language": "Clojure", 
+  "updated_at": "2015-03-10T07:04:14.386490"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.741553", 
+  "description": "Simple extension that provides Basic and Digest HTTP authentication for Flask routes", 
+  "fork": false, 
+  "full_name": "miguelgrinberg/Flask-HTTPAuth", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:23.521857"
+}

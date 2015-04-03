@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.869356", 
+  "description": "A Sinatra app to view/manage beanstalkd queues that can be embedded in a Rails app similar to what's available in Resque", 
+  "fork": false, 
+  "full_name": "denniskuczynski/beanstalkd_view", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:47.492429"
+}

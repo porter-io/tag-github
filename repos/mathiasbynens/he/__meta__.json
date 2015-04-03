@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.546760", 
+  "description": "A robust HTML entity encoder/decoder written in JavaScript.", 
+  "fork": false, 
+  "full_name": "mathiasbynens/he", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:14.693977"
+}

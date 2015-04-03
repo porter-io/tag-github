@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.663642", 
+  "description": "imghash creates Perceptual Hashes from images and offers a tool to find close matches using this hash.", 
+  "fork": false, 
+  "full_name": "jteeuwen/imghash", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:21.327183"
+}

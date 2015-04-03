@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.099958", 
+  "description": "Compatibility implementation of the ECMAScript Internationalization API (ECMA-402) for JavaScript", 
+  "fork": false, 
+  "full_name": "andyearnshaw/Intl.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:08.502919"
+}

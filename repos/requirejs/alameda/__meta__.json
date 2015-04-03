@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.001651", 
+  "description": "AMD loader, like requirejs, but with promises and for modern browsers", 
+  "fork": false, 
+  "full_name": "requirejs/alameda", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:24.935902"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.017469", 
+  "description": "Example RequireJS-based project that has multiple pages that share a common set of modules with shim config", 
+  "fork": false, 
+  "full_name": "requirejs/example-multipage-shim", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:24.956100"
+}

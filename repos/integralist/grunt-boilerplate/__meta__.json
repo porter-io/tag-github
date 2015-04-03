@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.013875", 
+  "description": "This is a project set-up using Grunt to take case of some standard tasks such as: compiling AMD based modules using RequireJS, watching/compiling Sass into CSS, watching/linting JS code and some other things such as running unit tests", 
+  "fork": false, 
+  "full_name": "Integralist/Grunt-Boilerplate", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:30.102780"
+}

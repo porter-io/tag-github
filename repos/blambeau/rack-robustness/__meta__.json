@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:40.925140", 
+  "description": "Rack::Robustness, the rescue clause of your Rack stack.", 
+  "fork": false, 
+  "full_name": "blambeau/rack-robustness", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:45.766463"
+}

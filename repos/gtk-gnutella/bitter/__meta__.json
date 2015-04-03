@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.098163", 
+  "description": "A tool to calculate the urn:bitprint, urn:sha1 or urn:tiger:tree of one or more files", 
+  "fork": false, 
+  "full_name": "gtk-gnutella/bitter", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:35.925263"
+}

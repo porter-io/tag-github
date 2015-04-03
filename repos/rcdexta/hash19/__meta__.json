@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.730598", 
+  "description": "Hash helpers to map complex JSON to ruby objects. Handles associations and eager loading", 
+  "fork": false, 
+  "full_name": "rcdexta/hash19", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:26.546472"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.933215", 
+  "description": "How to create a direction-aware hover effect using CSS3 and jQuery. The idea is to slide in an overlay from the direction we are moving with the mouse.", 
+  "fork": false, 
+  "full_name": "codrops/DirectionAwareHoverEffect", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:58.225461"
+}

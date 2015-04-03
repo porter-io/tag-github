@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.398451", 
+  "description": "A PHP-based decoder and encoder for the Minecraft NBT format", 
+  "fork": false, 
+  "full_name": "TheFrozenFire/PHP-NBT-Decoder-Encoder", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:31.318133"
+}

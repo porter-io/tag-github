@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.461438", 
+  "description": "Simple way to add a ReCaptcha field to your admin login page.", 
+  "fork": false, 
+  "full_name": "volrath/django-captcha-admin", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:16.400323"
+}

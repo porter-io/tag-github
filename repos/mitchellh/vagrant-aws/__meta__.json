@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.697355", 
+  "description": "Use Vagrant to manage your EC2 and VPC instances.", 
+  "fork": false, 
+  "full_name": "mitchellh/vagrant-aws", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:22.983418"
+}

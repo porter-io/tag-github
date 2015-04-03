@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.044011", 
+  "description": "Easily mix asynchronous and synchronous programming styles in node.js.", 
+  "fork": false, 
+  "full_name": "goodeggs/fibrous", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:03:15.212499"
+}

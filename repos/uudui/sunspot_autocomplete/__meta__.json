@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.654678", 
+  "description": "A Rails plugin encapsulating autocompletion of HTML text input using Solr and Sunspot", 
+  "fork": true, 
+  "full_name": "uudui/sunspot_autocomplete", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:03.655377"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.107294", 
+  "description": "Express/connect middleware to generate HTML5 cache manifest file.", 
+  "fork": false, 
+  "full_name": "dai-shi/connect-cache-manifest", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:42.204611"
+}

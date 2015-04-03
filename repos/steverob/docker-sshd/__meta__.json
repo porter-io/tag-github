@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.246767", 
+  "description": "A Dockerfile to build a docker container with Ubuntu 12.04 + sshd", 
+  "fork": false, 
+  "full_name": "steverob/docker-sshd", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:11.508820"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.789149", 
+  "description": "A lein template for creating ClojureScript lib with batteries included", 
+  "fork": false, 
+  "full_name": "magomimmo/cljs-start", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:44:09.418489"
+}

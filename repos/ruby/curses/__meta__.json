@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.480949", 
+  "description": "Ruby binding for curses, ncurses, and PDCurses.  Formerly part of the ruby standard library.", 
+  "fork": false, 
+  "full_name": "ruby/curses", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:10.990342"
+}

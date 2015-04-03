@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.135949", 
+  "description": "Helper page for finding bbox values from a map to help with interaction with tools like gdal, leaflet, openlayers, etc.", 
+  "fork": false, 
+  "full_name": "aaronr/bboxfinder.com", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:25.118669"
+}

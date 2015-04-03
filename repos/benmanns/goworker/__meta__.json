@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.566493", 
+  "description": "goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers.", 
+  "fork": false, 
+  "full_name": "benmanns/goworker", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:57.069847"
+}

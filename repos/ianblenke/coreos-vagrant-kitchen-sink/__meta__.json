@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.239807", 
+  "description": "Vagrant CoreOS with Flannel, Kubernetes, libswarm, Panamax, Deis, Kibana, Logstash, Logspout, Fail2Ban, ElasticSearch, Heapster, Grafana, Influxdb, cadvisor, Galera MySQL, and Zookeeper for good measure.", 
+  "fork": true, 
+  "full_name": "ianblenke/coreos-vagrant-kitchen-sink", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T22:28:08.240580"
+}

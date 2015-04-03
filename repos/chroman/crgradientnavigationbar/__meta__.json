@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.388318", 
+  "description": "Custom UINavigationBar subclass which allows gradient coloured navigation bar on iOS 7.", 
+  "fork": false, 
+  "full_name": "chroman/CRGradientNavigationBar", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:02:38.946670"
+}

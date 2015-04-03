@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.760528", 
+  "description": "Phing task to copy files to and from a remote host using sftp", 
+  "fork": false, 
+  "full_name": "discont/phing-sftptask", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:41:51.759597"
+}

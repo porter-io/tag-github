@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:29:07.868776", 
+  "description": "Ansible Playbook for automate the setup of a centralized Rsyslog server with Logstash, Elasticsearch, Redis and Kibana", 
+  "fork": false, 
+  "full_name": "valentinogagliardi/ansible-logstash", 
+  "updated_at": "2015-02-27T23:43:59.260451"
+}

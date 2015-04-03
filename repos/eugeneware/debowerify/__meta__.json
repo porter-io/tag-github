@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.491838", 
+  "description": "A browserify transform to enable the easy use of bower components in browserify client javascript projects. This can be used in conjunction with deamdify to require AMD components from bower as well.", 
+  "fork": false, 
+  "full_name": "eugeneware/debowerify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:39.010967"
+}

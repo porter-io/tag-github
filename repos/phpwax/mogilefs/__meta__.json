@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.974243", 
+  "description": "Model representation of a file inside MogileFS, complete with mapper and adapters for save, find and delete", 
+  "fork": true, 
+  "full_name": "phpwax/mogilefs", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T22:28:05.974299"
+}

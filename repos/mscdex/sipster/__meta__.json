@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.030003", 
+  "description": "A pjsip/pjsua2 binding for node.js", 
+  "fork": false, 
+  "full_name": "mscdex/sipster", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:01:53.538492"
+}

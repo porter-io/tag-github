@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.713462", 
+  "description": "Celluloid::IO support for the redis-rb gem", 
+  "fork": false, 
+  "full_name": "celluloid/celluloid-redis", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:57.165710"
+}

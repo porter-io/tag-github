@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.404855", 
+  "description": "A type-safe, Swift-language layer over SQLite3.", 
+  "fork": false, 
+  "full_name": "stephencelis/SQLite.swift", 
+  "language": "Swift", 
+  "updated_at": "2015-02-27T23:42:05.620012"
+}

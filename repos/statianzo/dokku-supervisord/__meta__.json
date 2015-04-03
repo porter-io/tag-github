@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:59.879126", 
+  "description": "Use supervisord as the runner within dokku", 
+  "fork": false, 
+  "full_name": "statianzo/dokku-supervisord", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:02.476875"
+}

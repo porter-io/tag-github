@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.284349", 
+  "description": "An experiment to cut logs in preparation for processing elsewhere.", 
+  "fork": false, 
+  "full_name": "elasticsearch/logstash-forwarder", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:16.166323"
+}

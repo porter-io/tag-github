@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.581566", 
+  "description": "Generates a URL slug/permalink based on fields in a Mongoid-based model", 
+  "fork": false, 
+  "full_name": "digitalplaywright/mongoid-slug", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:16.536035"
+}

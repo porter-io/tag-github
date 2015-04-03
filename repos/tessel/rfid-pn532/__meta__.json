@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.348448", 
+  "description": "JavaScript module for the PN532 driver for RFID.", 
+  "fork": false, 
+  "full_name": "tessel/rfid-pn532", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:29.099978"
+}

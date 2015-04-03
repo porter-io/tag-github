@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.262165", 
+  "description": "Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages", 
+  "fork": false, 
+  "full_name": "mwrock/boxstarter", 
+  "language": "PowerShell", 
+  "updated_at": "2015-03-10T07:01:54.111350"
+}

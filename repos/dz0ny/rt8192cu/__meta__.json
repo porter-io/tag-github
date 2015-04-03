@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.802197", 
+  "description": "Realtek driver for USB wlan cards: 8188C, 8192C", 
+  "fork": true, 
+  "full_name": "dz0ny/rt8192cu", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:28:00.802231"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.129259", 
+  "description": "Segment's server-side connections to different analytics services.", 
+  "fork": false, 
+  "full_name": "segmentio/integrations", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:10.699537"
+}

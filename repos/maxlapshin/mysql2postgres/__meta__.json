@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.960677", 
+  "description": "Mysqldump, writing in postgresql format", 
+  "fork": false, 
+  "full_name": "maxlapshin/mysql2postgres", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:50.655200"
+}

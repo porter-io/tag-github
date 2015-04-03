@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.112089", 
+  "description": "[UNMAINTAINED] PHP port of Douglas Crockford's JSMin JavaScript minifier.", 
+  "fork": false, 
+  "full_name": "rgrove/jsmin-php", 
+  "language": "PHP", 
+  "updated_at": "2015-03-10T07:01:40.762905"
+}

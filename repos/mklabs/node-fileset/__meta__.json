@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.148179", 
+  "description": "Wrapper around miniglob / minimatch combo to allow multiple patterns matching and include-exclude ability", 
+  "fork": false, 
+  "full_name": "mklabs/node-fileset", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:10.561802"
+}

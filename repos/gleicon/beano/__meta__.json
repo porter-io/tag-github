@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.617342", 
+  "description": "kv + leveldb + memcached database that can switch dbs on the fly for batch loading", 
+  "fork": false, 
+  "full_name": "gleicon/beano", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:01.738991"
+}

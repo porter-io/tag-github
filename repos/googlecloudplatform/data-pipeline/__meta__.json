@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.010570", 
+  "description": "Data pipeline is a tool to run Data loading pipelines. It is an open sourced app engine app that users can extend to suit their own needs. Out of the box it will load files from a source, transform them and then output them (output might be writing to a file or loading them into a data analysis tool). It is designed to be modular and support various sources, transformation technologies and output types. The transformations can be chained together to form complex pipelines.", 
+  "fork": false, 
+  "full_name": "GoogleCloudPlatform/Data-Pipeline", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:30:14.633735"
+}

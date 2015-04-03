@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.514727", 
+  "description": "Pure Go Postgres driver for database/sql", 
+  "fork": false, 
+  "full_name": "lib/pq", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:04:20.412682"
+}

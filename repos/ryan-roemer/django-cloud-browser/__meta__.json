@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.376665", 
+  "description": "Django application browser for cloud datastores (Rackspace, AWS, etc.).", 
+  "fork": false, 
+  "full_name": "ryan-roemer/django-cloud-browser", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:12.899160"
+}

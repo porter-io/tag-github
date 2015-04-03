@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.294201", 
+  "description": "A collection of helpers (categories) we've written for iOS and OS X, full with convenience methods to make them easier and more useful. [tags:cocoa,objective-c,ios,mac]", 
+  "fork": false, 
+  "full_name": "enormego/cocoa-helpers", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:49.539181"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.086628", 
+  "description": "A python utility to parses various structures inside an Adobe Photoshop(TM) PSD format file.", 
+  "fork": false, 
+  "full_name": "jerem/psdparse", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:24.739150"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:06.930389", 
+  "description": "A fixed header that will animate its size on scroll. The inner elements will also adjust their size with a transition.", 
+  "fork": false, 
+  "full_name": "codrops/AnimatedHeader", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:58.222414"
+}

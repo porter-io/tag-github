@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.584747", 
+  "description": "An extension to Rake for dealing with a directory of inputs, a number of filters, and a directory of outputs", 
+  "fork": false, 
+  "full_name": "livingsocial/rake-pipeline", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:37.077538"
+}

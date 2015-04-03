@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.133732", 
+  "description": "cli utility to show *all* open pull requests that you are able to merge", 
+  "fork": false, 
+  "full_name": "maxogden/open-prs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.933477"
+}

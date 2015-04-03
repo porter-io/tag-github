@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:01.532793", 
+  "description": "From easy to expert, all in one 3D printing software - MatterContol lets you edit, organize and manage your 3D designs and your 3D printer. Created to help you get the most out of your 3D printer, MatterControl is opensource software available here. MatterControl has a dependency on the agg-sharp library, also by MatterHackers.", 
+  "fork": false, 
+  "full_name": "MatterHackers/MatterControl", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:42:03.964050"
+}

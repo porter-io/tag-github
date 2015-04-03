@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.079055", 
+  "description": "A set of utilities for creating robust pagination tools throughout a django application.", 
+  "fork": false, 
+  "full_name": "ericflo/django-pagination", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:17.994641"
+}

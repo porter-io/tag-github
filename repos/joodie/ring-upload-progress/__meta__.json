@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.254029", 
+  "description": "Provide upload progress data in ring session", 
+  "fork": false, 
+  "full_name": "joodie/ring-upload-progress", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:19.088190"
+}

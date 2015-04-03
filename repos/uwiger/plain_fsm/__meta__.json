@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.549236", 
+  "description": "A behaviour/support library for writing plain Erlang FSMs.", 
+  "fork": false, 
+  "full_name": "uwiger/plain_fsm", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:41:49.143049"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.469237", 
+  "description": "Meteor package to rate-limit a function by queuing up calls (instead of dropping them like throttle or debounce)", 
+  "fork": false, 
+  "full_name": "dandv/rate-limit", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:56.418670"
+}

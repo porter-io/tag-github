@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.226916", 
+  "description": "Clojure implementation of backtracking iterators (https://www.lri.fr/~filliatr/publis/enum2.pdf)", 
+  "fork": false, 
+  "full_name": "Alotor/backtracking-iterators", 
+  "language": "Clojure", 
+  "updated_at": "2015-04-01T19:29:29.929936"
+}

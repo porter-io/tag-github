@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.351197", 
+  "description": "Alerts you of potential sexual predators on OkCupid based on their own answers to Match Questions patterned after Lisak and Miller's groundbreaking academic work on identifying \"undetected rapists.\"", 
+  "fork": false, 
+  "full_name": "meitar/pat-okcupid", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:07.766668"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.040830", 
+  "description": "set thresholds on number of running goroutines", 
+  "fork": false, 
+  "full_name": "mr51m0n/gorc", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:50.876399"
+}

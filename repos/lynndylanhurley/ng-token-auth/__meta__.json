@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.366904", 
+  "description": "Token based authentication module for angular.js.", 
+  "fork": false, 
+  "full_name": "lynndylanhurley/ng-token-auth", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:03:11.977008"
+}

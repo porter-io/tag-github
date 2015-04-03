@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.453087", 
+  "description": "This package is built for Embedding PHP into Golang.", 
+  "fork": false, 
+  "full_name": "mikespook/goemphp", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:01:39.507118"
+}

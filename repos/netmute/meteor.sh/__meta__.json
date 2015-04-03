@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.689688", 
+  "description": "Setup a Meteor server and deploy Meteor apps to it.", 
+  "fork": false, 
+  "full_name": "netmute/meteor.sh", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:42:27.238743"
+}

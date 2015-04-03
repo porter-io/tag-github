@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.740938", 
+  "description": "A scalaz-stream combinator library for Apache Camel, Akka Persistence and Akka Stream", 
+  "fork": false, 
+  "full_name": "krasserm/streamz", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:30.291996"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.670420", 
+  "description": "A handy class that prompts users of your iPhone or Mac App Store app to rate your application after using it for a while. Similar to Appirater, but with a simpler, cleaner interface and automatic support for iOS fast application switching. ", 
+  "fork": false, 
+  "full_name": "nicklockwood/iRate", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:24.594272"
+}

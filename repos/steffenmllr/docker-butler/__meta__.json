@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.757956", 
+  "description": "Create a new docker container from a github url, runs them, looks up old container names and stops them", 
+  "fork": false, 
+  "full_name": "steffenmllr/docker-butler", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:46.876781"
+}

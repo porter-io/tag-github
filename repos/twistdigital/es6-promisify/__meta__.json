@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.449187", 
+  "description": "Convert callback-based javascript to ES6 Promises", 
+  "fork": false, 
+  "full_name": "twistdigital/es6-promisify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:13.445311"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.541820", 
+  "description": "Puppet module to manage sudoers.", 
+  "fork": false, 
+  "full_name": "arnoudj/puppet-sudo", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:43.791597"
+}

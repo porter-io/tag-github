@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.508350", 
+  "description": "Javascript module with stealth implementation compatible with bitcoinjs-lib", 
+  "fork": false, 
+  "full_name": "darkwallet/stealth.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:29.377931"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.315039", 
+  "description": "UICKeyChainStore is a simple wrapper for Keychain on iOS. Makes using Keychain APIs as easy as NSUserDefaults.", 
+  "fork": false, 
+  "full_name": "kishikawakatsumi/UICKeyChainStore", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:20.682368"
+}

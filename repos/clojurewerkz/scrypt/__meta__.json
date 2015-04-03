@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.368046", 
+  "description": "A Clojure library for the scrypt key derivation function. Use it to encrypt passwords and other sensitive data.", 
+  "fork": false, 
+  "full_name": "clojurewerkz/scrypt", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:01.251097"
+}

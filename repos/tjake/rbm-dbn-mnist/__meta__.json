@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.084212", 
+  "description": "Restricted Boltzmann Machine and Deep Belief Network Implementation. Uses MNIST dataset as a demo.", 
+  "fork": false, 
+  "full_name": "tjake/rbm-dbn-mnist", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:34.903565"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.440515", 
+  "description": "Sample MusicStore application that uses MVC and Entity Framework.", 
+  "fork": false, 
+  "full_name": "aspnet/MusicStore", 
+  "language": "C#", 
+  "updated_at": "2015-04-01T19:29:52.622416"
+}

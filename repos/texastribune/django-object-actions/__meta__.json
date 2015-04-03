@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.935099", 
+  "description": "A Django app for adding object tools for models in the admin", 
+  "fork": false, 
+  "full_name": "texastribune/django-object-actions", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:02.874571"
+}

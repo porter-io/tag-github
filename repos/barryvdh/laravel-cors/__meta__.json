@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.389899", 
+  "description": "Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application", 
+  "fork": false, 
+  "full_name": "barryvdh/laravel-cors", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:33.052092"
+}

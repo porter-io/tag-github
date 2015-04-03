@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.935396", 
+  "description": "command line splitting of pdfs using os x native libraries (read: an excuse to learn objc)", 
+  "fork": false, 
+  "full_name": "thejefflarson/pdf-splitter", 
+  "language": "Objective-C", 
+  "updated_at": "2015-04-01T19:28:14.399279"
+}

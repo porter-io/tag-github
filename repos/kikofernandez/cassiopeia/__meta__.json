@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.741568", 
+  "description": "Cassiopeia is an app for managers and directors that evaluates and grade places. This is the implementation of the website using Clojure and Foundation Framework", 
+  "fork": false, 
+  "full_name": "kikofernandez/cassiopeia", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:30:50.075734"
+}

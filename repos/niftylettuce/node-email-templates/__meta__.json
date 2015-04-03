@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.478907", 
+  "description": "Node.js module for rendering beautiful emails with ejs templates and email-friendly inline CSS using juice.", 
+  "fork": false, 
+  "full_name": "niftylettuce/node-email-templates", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:34.208427"
+}

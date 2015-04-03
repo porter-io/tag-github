@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.601339", 
+  "description": "Dispatcher is a Laravel artisan command scheduling tool used to schedule artisan commands within your project so you don't need to touch your crontab when deploying.", 
+  "fork": false, 
+  "full_name": "Indatus/dispatcher", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:44:14.844071"
+}

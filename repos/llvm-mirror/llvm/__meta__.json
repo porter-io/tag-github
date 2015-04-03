@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.649360", 
+  "description": "Mirror of official llvm git repository located at http://llvm.org/git/llvm.  Updated hourly.", 
+  "fork": false, 
+  "full_name": "llvm-mirror/llvm", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:57.310156"
+}

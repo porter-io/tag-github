@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.284010", 
+  "description": "Powerful file explorer implemented by Vim script", 
+  "fork": false, 
+  "full_name": "Shougo/vimfiler.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:43:26.007884"
+}

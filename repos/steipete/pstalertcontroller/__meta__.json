@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.111143", 
+  "description": "API similar to UIAlertController, backwards compatible to iOS 7. Will use the new shiny API when you run iOS 8.", 
+  "fork": false, 
+  "full_name": "steipete/PSTAlertController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:24.907878"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.529858", 
+  "description": "The desktop shell for Papyros, built using QtQuick and QtCompositor as a compositor for Wayland.", 
+  "fork": false, 
+  "full_name": "papyros/papyros-shell", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:36.605907"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.592830", 
+  "description": "ringbuffer\u662f\u7528\u6765\u66ff\u4ee3Go\u8bed\u8a00\u7684channel\uff0c\u63d0\u9ad8\u6d77\u91cf\u6570\u636e\u6536\u53d1\u7684\u6027\u80fd", 
+  "fork": false, 
+  "full_name": "skoo87/ringbuffer", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:25.081861"
+}

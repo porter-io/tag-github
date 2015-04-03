@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:16.201010", 
+  "description": "A simple, scalable scrapper for apps data being listed on Apple's AppStore", 
+  "fork": false, 
+  "full_name": "MarcelloLins/Apple-Store-Crawler", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:42:19.983409"
+}

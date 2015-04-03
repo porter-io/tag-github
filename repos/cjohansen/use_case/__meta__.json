@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.817956", 
+  "description": "A small abstraction for encapsulating non-trivial business logic in Ruby applications", 
+  "fork": false, 
+  "full_name": "cjohansen/use_case", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:20.166982"
+}

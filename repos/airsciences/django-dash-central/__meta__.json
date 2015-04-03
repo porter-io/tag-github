@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.506818", 
+  "description": "A Django app showing collected system information, based on django-linux-dash and linux-dash.", 
+  "fork": true, 
+  "full_name": "airsciences/django-dash-central", 
+  "language": "CSS", 
+  "updated_at": "2015-02-27T23:27:45.269941"
+}

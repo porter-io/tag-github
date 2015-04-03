@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.868236", 
+  "description": "An example rails application that uses the jquery-fileupload-rails and paperclip gems to upload files.", 
+  "fork": false, 
+  "full_name": "tors/jquery-fileupload-rails-paperclip-example", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:22.524934"
+}

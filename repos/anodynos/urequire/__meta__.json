@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.468506", 
+  "description": "Convert JavaScript AMD & CommonJS/NodeJS modules to UMD, AMD, CommonJS or bundle them as `combined.js` (rjs & almond) & run/test on nodejs, Web/AMD or Web/Script. Manipulate & inject module code & dependencies while building & more. Build in support for Coffeescript, Iced, Coco, LiveScript.", 
+  "fork": false, 
+  "full_name": "anodynos/uRequire", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:30:43.452687"
+}

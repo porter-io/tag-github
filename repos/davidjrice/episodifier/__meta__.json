@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.345276", 
+  "description": "Simple Ruby class to extract tv epsiode metadata from a filename", 
+  "fork": false, 
+  "full_name": "davidjrice/episodifier", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:19.956771"
+}

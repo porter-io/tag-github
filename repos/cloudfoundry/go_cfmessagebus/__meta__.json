@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.270865", 
+  "description": "Wrapper to Message Bus for CF, currently NATS.", 
+  "fork": false, 
+  "full_name": "cloudfoundry/go_cfmessagebus", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:53.156406"
+}

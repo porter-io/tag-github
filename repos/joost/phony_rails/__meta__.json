@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.163385", 
+  "description": "This Gem adds useful methods to your Rails app to validate, display and save phone numbers. It uses the super awesome Phony gem (https://github.com/floere/phony).", 
+  "fork": false, 
+  "full_name": "joost/phony_rails", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:44.339906"
+}

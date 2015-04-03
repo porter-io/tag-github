@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.904129", 
+  "description": "A static analysis security vulnerability scanner for Ruby on Rails applications", 
+  "fork": false, 
+  "full_name": "presidentbeef/brakeman", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:47.500058"
+}

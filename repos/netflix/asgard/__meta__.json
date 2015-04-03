@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.276050", 
+  "description": "Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases Snapshot builds: https://netflixoss.ci.cloudbees.com/job/asgard-master/ Twitter: http://twitter.com/AsgardOSS", 
+  "fork": false, 
+  "full_name": "Netflix/asgard", 
+  "language": "Groovy", 
+  "updated_at": "2015-02-27T23:43:31.317427"
+}

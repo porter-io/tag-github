@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.776602", 
+  "description": "ELF shared library import table patching for function redirection.", 
+  "fork": false, 
+  "full_name": "shoumikhin/ELF-Hook", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:13.879216"
+}

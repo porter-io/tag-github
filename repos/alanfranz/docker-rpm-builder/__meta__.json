@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.250735", 
+  "description": "Build native RPM packages by leveraging docker capabilities.", 
+  "fork": false, 
+  "full_name": "alanfranz/docker-rpm-builder", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:10.477427"
+}

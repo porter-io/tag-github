@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.872534", 
+  "description": "uniform notifier for rails logger, customized logger, javascript alert, javascript console, growl and xmpp", 
+  "fork": false, 
+  "full_name": "flyerhzm/uniform_notifier", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:43.817187"
+}

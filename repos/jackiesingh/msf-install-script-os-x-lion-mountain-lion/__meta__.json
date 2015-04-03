@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.906812", 
+  "description": "Script to automate installation of Metasploit Framework on OS X Lion & Mountain Lion", 
+  "fork": false, 
+  "full_name": "jackiesingh/MSF-Install-Script-OS-X-Lion-Mountain-Lion", 
+  "language": "Shell", 
+  "updated_at": "2015-04-01T19:29:58.621981"
+}

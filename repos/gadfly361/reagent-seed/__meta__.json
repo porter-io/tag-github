@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.060761", 
+  "description": "Template for creating Reagent applications with client-side routing written in clojurescript, css written in clojure, bootstrap, font awesome, and a browser repl.", 
+  "fork": false, 
+  "full_name": "gadfly361/reagent-seed", 
+  "language": "Clojure", 
+  "updated_at": "2015-04-01T19:28:11.338587"
+}

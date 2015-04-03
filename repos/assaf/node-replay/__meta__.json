@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.397066", 
+  "description": "When API testing slows you down: record and replay HTTP responses like a boss", 
+  "fork": false, 
+  "full_name": "assaf/node-replay", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:44:29.232846"
+}

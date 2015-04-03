@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.349797", 
+  "description": "Allows live editing of Chrome/Firefox text area or JS Code editor content with Sublime Text 3 using WebSockets", 
+  "fork": false, 
+  "full_name": "Cacodaimon/GhostText-for-SublimeText", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:04:03.516832"
+}

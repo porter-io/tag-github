@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.317039", 
+  "description": "killer build of nginx *and* luajit-beta6 plus 21 other modules", 
+  "fork": false, 
+  "full_name": "ezmobius/super-nginx", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:16.177366"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.870968", 
+  "description": "Central Authentication Service Provider for Django", 
+  "fork": true, 
+  "full_name": "mstepniowski/django-cas-provider", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:27:48.982677"
+}

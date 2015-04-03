@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.209938", 
+  "description": "ScrApify is a library to build APIs by scraping static sites and use data as models or JSON APIs. It powers APIfy which is used to create JSON APIs from any html or wikipedia page", 
+  "fork": false, 
+  "full_name": "sathish316/scrapify", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:57.005237"
+}

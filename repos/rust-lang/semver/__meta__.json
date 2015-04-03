@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.906349", 
+  "description": "Semantic version parsing and comparison.", 
+  "fork": false, 
+  "full_name": "rust-lang/semver", 
+  "language": "Rust", 
+  "updated_at": "2015-02-27T23:43:10.341269"
+}

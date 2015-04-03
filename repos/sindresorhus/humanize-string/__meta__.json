@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:18.322586", 
+  "description": "Converts a camelized/dasherized/underscored string into a humanized one: fooBar-Baz_Faz \u2192 Foo bar baz faz", 
+  "fork": false, 
+  "full_name": "sindresorhus/humanize-string", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:18.687538"
+}

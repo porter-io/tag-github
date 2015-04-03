@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.961286", 
+  "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more", 
+  "fork": false, 
+  "full_name": "pydata/pandas", 
+  "language": "Python", 
+  "updated_at": "2015-03-21T14:55:09.393698"
+}

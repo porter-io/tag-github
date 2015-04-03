@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.892729", 
+  "description": "A self-documenting, randomized cross-thread stress test as a category of XCTextCase, for finding unsafe sequences of messages in cases where you expect to handle any exceptions gracefully.", 
+  "fork": false, 
+  "full_name": "Halle/HWHorrorShow", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:34.626553"
+}

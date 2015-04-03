@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.840715", 
+  "description": "Koa middleware for validating JSON Web Tokens", 
+  "fork": false, 
+  "full_name": "stiang/koa-jwt", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:52.740051"
+}

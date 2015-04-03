@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.714750", 
+  "description": "[DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.", 
+  "fork": false, 
+  "full_name": "JakeWharton/ActionBarSherlock", 
+  "language": "Java", 
+  "updated_at": "2015-03-10T14:34:25.230759"
+}

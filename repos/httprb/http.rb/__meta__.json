@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.442732", 
+  "description": "http.rb: a fast Ruby HTTP client with a chainable API and full streaming support", 
+  "fork": false, 
+  "full_name": "httprb/http.rb", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:11.687209"
+}

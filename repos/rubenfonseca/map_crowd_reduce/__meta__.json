@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.457395", 
+  "description": "Massively Distributed Browser-based Javascript Map Reduce Framework. node.js + socket.io (websockets) + webworkers + fun = global warming", 
+  "fork": false, 
+  "full_name": "rubenfonseca/map_crowd_reduce", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:29:49.130413"
+}

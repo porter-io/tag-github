@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.274238", 
+  "description": "Lua Assembly/Bytecode Tools. Has functions for virtually all aspects of LASM, including reading/writing, verifying, stripping debug info, LASM decompilation, and LASM parsing.", 
+  "fork": false, 
+  "full_name": "mlnlover11/LuaAssemblyTools", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:42:34.032710"
+}

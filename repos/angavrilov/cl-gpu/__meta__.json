@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.397979", 
+  "description": "A library for writing GPU (CUDA) kernels in a subset of Common Lisp", 
+  "fork": false, 
+  "full_name": "angavrilov/cl-gpu", 
+  "language": "Common Lisp", 
+  "updated_at": "2015-03-10T07:01:29.458867"
+}

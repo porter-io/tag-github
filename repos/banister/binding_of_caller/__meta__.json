@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.325057", 
+  "description": "Retrieve the binding of a method's caller in MRI 1.9.2+", 
+  "fork": false, 
+  "full_name": "banister/binding_of_caller", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:24.073451"
+}

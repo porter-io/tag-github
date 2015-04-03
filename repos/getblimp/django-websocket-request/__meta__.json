@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.073734", 
+  "description": "Support for Django's request/response lifecycle to automatically handle WebSocket messages.", 
+  "fork": false, 
+  "full_name": "GetBlimp/django-websocket-request", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:00.177215"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.209015", 
+  "description": "pajax simplifies the common pattern of looping requests for the next page until the desired endpoint is found.", 
+  "fork": false, 
+  "full_name": "joneath/pajax.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:00.358344"
+}

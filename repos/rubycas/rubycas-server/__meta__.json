@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.975564", 
+  "description": "Provides single sign-on authentication for web applications, implementing the server-end of Jasig's CAS protocol.", 
+  "fork": false, 
+  "full_name": "rubycas/rubycas-server", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:49.714494"
+}

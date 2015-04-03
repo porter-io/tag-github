@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.877539", 
+  "description": "A widget for Shopify's dashing project to display Sensu warning and critical alerts", 
+  "fork": false, 
+  "full_name": "mrichar1/dashing-sensu", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:57.023858"
+}

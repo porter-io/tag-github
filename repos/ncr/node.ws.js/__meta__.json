@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.897785", 
+  "description": "WARNING: NO LONGER ACTIVELY MAINTAINED (unless you want to help with a pull request :), use http://einaros.github.com/ws/ instead. Basic Web Sockets Server for node.js with similar interface to tcp.createServer(...)", 
+  "fork": false, 
+  "full_name": "ncr/node.ws.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:26.694657"
+}

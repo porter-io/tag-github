@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.428885", 
+  "description": "A mini testing framework, cross-compiled for Scala and Scala.js", 
+  "fork": false, 
+  "full_name": "monifu/minitest", 
+  "language": "Scala", 
+  "updated_at": "2015-04-01T19:31:33.218054"
+}

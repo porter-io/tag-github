@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.215168", 
+  "description": "Cross-platform game engine (Windows, Linux, Mac, Android) with physics, threaded texture loading, multiple backends (OpenGL, DirectX, ...) and modern streamed audio.", 
+  "fork": false, 
+  "full_name": "JonasT/Blitwizard", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:01:21.689732"
+}

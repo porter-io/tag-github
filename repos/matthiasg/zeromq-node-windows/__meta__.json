@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:59.915434", 
+  "description": "A version of zeromq-node bindings compiled for 32bit windows node.exe. Requires the bundled libzmq.dll next to node.exe.", 
+  "fork": false, 
+  "full_name": "matthiasg/zeromq-node-windows", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:01:32.784970"
+}

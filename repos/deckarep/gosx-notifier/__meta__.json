@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.622396", 
+  "description": "gosx-notifier is a Go framework for sending desktop notifications to OSX 10.8 or higher", 
+  "fork": false, 
+  "full_name": "deckarep/gosx-notifier", 
+  "language": "Go", 
+  "updated_at": "2015-04-01T19:29:30.276537"
+}

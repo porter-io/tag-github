@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.563924", 
+  "description": "Vagrant config that uses puppet to configure eZPublish sites", 
+  "fork": false, 
+  "full_name": "brucem/vagrant-puppet-ezpublish", 
+  "language": "Puppet", 
+  "updated_at": "2015-02-27T23:41:40.119156"
+}

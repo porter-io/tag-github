@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.142358", 
+  "description": "Represent seconds as a human readable string like 1h42m3s", 
+  "fork": false, 
+  "full_name": "bemurphy/human_seconds", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:34.845114"
+}

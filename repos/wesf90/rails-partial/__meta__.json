@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:43.545609", 
+  "description": "Sublime Text 2 Plugin - Makes creating partials in your Rails app a breeze! Simply select a block of code in your Rails view or stylesheet files and hit the shortcut key!", 
+  "fork": false, 
+  "full_name": "wesf90/rails-partial", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:03:21.700909"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.204434", 
+  "description": "Pusher server implementation compatible with Pusher client libraries.", 
+  "fork": false, 
+  "full_name": "edgurgel/poxa", 
+  "language": "Elixir", 
+  "updated_at": "2015-02-27T23:42:04.457729"
+}

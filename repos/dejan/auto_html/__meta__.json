@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.123933", 
+  "description": "Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video,...) ", 
+  "fork": false, 
+  "full_name": "dejan/auto_html", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:02:28.132793"
+}

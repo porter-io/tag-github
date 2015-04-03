@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.534978", 
+  "description": "A ruby gem for sending and receiving messages from a Stomp protocol compliant message queue. Includes: failover logic, ssl support.", 
+  "fork": true, 
+  "full_name": "stompgem/stomp", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:27:29.535911"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:41.982737", 
+  "description": "MQTT shell script client, for bash, dash, BusyBox ash and others", 
+  "fork": false, 
+  "full_name": "raphaelcohn/bish-bosh", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:46.521372"
+}

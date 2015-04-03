@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.096356", 
+  "description": "Automatically load balance asyncronous jobs across multiple processes in a round-robin fashion.", 
+  "fork": false, 
+  "full_name": "Mashape/boss.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:43.376548"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.437473", 
+  "description": "Fork of Paul's code base to add Ruby 1.9 compatibility (and more). [NOTE: This fork has been abandoned; for more and improved functionality see https://github.com/blackwinter/brice]", 
+  "fork": false, 
+  "full_name": "blackwinter-attic/wirble", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:07.638009"
+}

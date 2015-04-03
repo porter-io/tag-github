@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.312751", 
+  "description": "Remove HTML <a> and <img> tags identified with a catalog of advertising networks. Great for HTML parsing in Node.js!", 
+  "fork": false, 
+  "full_name": "clintonskakun/remove-ads", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:59.259061"
+}

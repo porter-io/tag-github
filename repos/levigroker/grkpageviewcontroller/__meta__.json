@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.669194", 
+  "description": "A container UIViewController providing paginated scrolling between configured view controllers. Similar to UIPageViewController, but with added control and feedback.", 
+  "fork": false, 
+  "full_name": "levigroker/GRKPageViewController", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:53.660662"
+}

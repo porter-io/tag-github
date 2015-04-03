@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.703849", 
+  "description": "Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.26, and the development branch is master. Please post patches to the mailing list for discussion (see below).", 
+  "fork": false, 
+  "full_name": "bup/bup", 
+  "language": "Python", 
+  "updated_at": "2015-03-21T14:57:12.061028"
+}

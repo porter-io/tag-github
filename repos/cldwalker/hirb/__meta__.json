@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:31.431422", 
+  "description": "A mini view framework for console/irb that's easy to use, even while under its influence. Console goodies include a no-wrap table, auto-pager, tree and menu.", 
+  "fork": false, 
+  "full_name": "cldwalker/hirb", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:28:26.066235"
+}

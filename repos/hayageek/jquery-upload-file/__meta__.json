@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.596703", 
+  "description": "jQuery Upload File plugin provides Multiple file Uploads with progress bar.Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.", 
+  "fork": false, 
+  "full_name": "hayageek/jquery-upload-file", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:47.881222"
+}

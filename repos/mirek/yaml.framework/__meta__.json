@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.187906", 
+  "description": "Proper YAML support for Objective-C. Based on recommended libyaml.", 
+  "fork": false, 
+  "full_name": "mirek/YAML.framework", 
+  "language": "C", 
+  "updated_at": "2015-04-01T19:28:41.180541"
+}

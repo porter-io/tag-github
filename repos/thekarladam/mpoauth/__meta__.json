@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.476464", 
+  "description": "With MPOAuthConnection, all the work of talking to secure web services is taken care of for you so you only have to focus on how you want to use the data the remote web service provides.", 
+  "fork": false, 
+  "full_name": "thekarladam/MPOAuth", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:47.278619"
+}

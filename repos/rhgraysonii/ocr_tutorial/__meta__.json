@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.276784", 
+  "description": "This is a tutorial on getting OCR running on a simple web server, using python, flask, tesseract-ocr, and leptonica", 
+  "fork": false, 
+  "full_name": "rhgraysonii/ocr_tutorial", 
+  "language": "CSS", 
+  "updated_at": "2015-02-27T23:43:38.724103"
+}

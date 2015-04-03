@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:40.057150", 
+  "description": "Automatically disable dangerous Rake tasks in production", 
+  "fork": false, 
+  "full_name": "adamcooke/rails-safe-tasks", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:14.150418"
+}

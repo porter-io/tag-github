@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.404189", 
+  "description": "Like Go channels over the network", 
+  "fork": false, 
+  "full_name": "docker/libchan", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:29.346896"
+}

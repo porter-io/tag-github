@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.101042", 
+  "description": "API layer that exposes ganglia data in a RESTful JSON manner", 
+  "fork": false, 
+  "full_name": "guardian/ganglia-api", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:06.219613"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.716723", 
+  "description": "zkclient - A simple and effective Java client for zookeeper (both support zookeeper 3.3.x/3.4.x)", 
+  "fork": false, 
+  "full_name": "adyliu/zkclient", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:13.207899"
+}

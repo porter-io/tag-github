@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:42.293866", 
+  "description": "Yet another immutable XML DOM-like API, heavily inspired by the Anti-XML library", 
+  "fork": false, 
+  "full_name": "dvreeze/yaidom", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:43:18.602983"
+}

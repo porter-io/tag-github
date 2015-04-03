@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.602703", 
+  "description": "An example Rails 3.2 app with Mongoid for data, OmniAuth for authentication. With a tutorial.", 
+  "fork": false, 
+  "full_name": "RailsApps/rails3-mongoid-omniauth", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:56.589181"
+}

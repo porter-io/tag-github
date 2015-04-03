@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.239259", 
+  "description": "Stitch together and crop map tiles for a specified bounding box", 
+  "fork": false, 
+  "full_name": "ericfischer/tile-stitch", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:22.903678"
+}

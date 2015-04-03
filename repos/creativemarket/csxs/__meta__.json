@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.890635", 
+  "description": "A build tool for Adobe\u00ae Creative Suite\u00ae extensions. Create, compile, debug, package, & deploy to S3 with ease!", 
+  "fork": false, 
+  "full_name": "creativemarket/csxs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:41.523676"
+}

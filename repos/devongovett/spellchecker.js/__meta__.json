@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:08.319527", 
+  "description": "A spellchecker in CoffeeScript/JavaScript based on Hunspell", 
+  "fork": false, 
+  "full_name": "devongovett/spellchecker.js", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-04-01T19:30:10.296728"
+}

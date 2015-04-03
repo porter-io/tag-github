@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.478712", 
+  "description": "An implementation of JOSE standards in Golang.", 
+  "fork": false, 
+  "full_name": "square/go-jose", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:52.047514"
+}

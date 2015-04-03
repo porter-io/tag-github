@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.141482", 
+  "description": "Support for using phpunit as compiler from within Vim", 
+  "fork": false, 
+  "full_name": "afternoon/vim-phpunit", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:56.086185"
+}

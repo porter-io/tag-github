@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:37.054689", 
+  "description": "A canvas implementation of the Meijster algorithm to compute Euclidean, Manhattan, and Chessboard distances", 
+  "fork": false, 
+  "full_name": "parmanoir/Meijster-distance", 
+  "updated_at": "2015-02-27T23:43:10.638703"
+}

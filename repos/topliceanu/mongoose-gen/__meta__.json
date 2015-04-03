@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:23.155664", 
+  "description": "generates mongoose schemas from json documents, supports DBRefs and Arrays of DBRef", 
+  "fork": false, 
+  "full_name": "topliceanu/mongoose-gen", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:34.863557"
+}

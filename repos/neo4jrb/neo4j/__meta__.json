@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.313252", 
+  "description": "An active model wrapper for the Neo4j Graph Database for Ruby.", 
+  "fork": false, 
+  "full_name": "neo4jrb/neo4j", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:16.162712"
+}

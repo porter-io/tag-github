@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.667654", 
+  "description": "A simple but useful chrome extension for web developers, helps you automaticly reload the css files in the browser after you modify them, without ruining your codes.", 
+  "fork": false, 
+  "full_name": "allenm/css-auto-reload", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:05.261377"
+}

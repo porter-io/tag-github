@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.168007", 
+  "description": "A gem to automate using CSS toolkit from Twitter converted to Sass with Rails 3 and assets pipeline", 
+  "fork": false, 
+  "full_name": "ccocchi/sass-twitter-bootstrap-rails", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:04:03.805855"
+}

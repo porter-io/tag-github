@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.642304", 
+  "description": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.", 
+  "fork": false, 
+  "full_name": "audreyr/cookiecutter", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:19.457343"
+}

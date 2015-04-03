@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.992313", 
+  "description": "Simple dsl for defining how to calculate how complete a model instance is (similar to LinkedIn profile completeness)", 
+  "fork": false, 
+  "full_name": "joshk/completeness-fu", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:55.815567"
+}

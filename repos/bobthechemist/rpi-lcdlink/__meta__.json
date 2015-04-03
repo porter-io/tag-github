@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.557728", 
+  "description": "Mathlink code to interact with the Adafruit RGB LCD plate on a RPi.  Uses WiringPi ", 
+  "fork": false, 
+  "full_name": "bobthechemist/rpi-lcdlink", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:44:01.635127"
+}

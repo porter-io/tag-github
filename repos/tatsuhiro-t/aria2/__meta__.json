@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.377333", 
+  "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, BitTorrent and Metalink.", 
+  "fork": false, 
+  "full_name": "tatsuhiro-t/aria2", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:39.296396"
+}

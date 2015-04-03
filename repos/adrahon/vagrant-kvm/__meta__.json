@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.340149", 
+  "description": "A Vagrant 1.4+ plugin that adds a KVM provider to Vagrant, allowing Vagrant to control and provision KVM/QEMU VM.", 
+  "fork": false, 
+  "full_name": "adrahon/vagrant-kvm", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:24.093891"
+}

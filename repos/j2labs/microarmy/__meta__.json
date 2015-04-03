@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.032562", 
+  "description": "Deploy N AWS micro instances and launch coordinated siege against webservers.", 
+  "fork": false, 
+  "full_name": "j2labs/microarmy", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:37.529302"
+}

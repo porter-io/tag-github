@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:27.681719", 
+  "description": "Small JS script loader utility; allows client-side script substitution.", 
+  "fork": false, 
+  "full_name": "zynga/loadScript", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:18.827737"
+}

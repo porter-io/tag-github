@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.612412", 
+  "description": "A fake filesystem. Use it in your tests.", 
+  "fork": false, 
+  "full_name": "defunkt/fakefs", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:38.591734"
+}

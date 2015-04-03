@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.135776", 
+  "description": "A set of classes to implement a RESTful interface over a Django site", 
+  "fork": false, 
+  "full_name": "rewritten/django-restful", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:25.875191"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.059104", 
+  "description": "UIImageView that shows a progress indicator while the image is loading from server. It makes use of AFNetworking. It looks like the Instagram loading indicator.", 
+  "fork": false, 
+  "full_name": "xmartlabs/XLRemoteImageView", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:28.036385"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.967031", 
+  "description": "An SBT plugin for running jasmine tests in your build.", 
+  "fork": true, 
+  "full_name": "joescii/sbt-jasmine-plugin", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:29:22.967260"
+}

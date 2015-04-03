@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.117378", 
+  "description": "A template for quickly building login systems on top of Node.js & MongoDb ", 
+  "fork": false, 
+  "full_name": "braitsch/node-login", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:00.229892"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.680919", 
+  "description": "A fast Gherkin parser in Ragel (The parser behind Cucumber)", 
+  "fork": true, 
+  "full_name": "uudui/gherkin", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:03.681779"
+}

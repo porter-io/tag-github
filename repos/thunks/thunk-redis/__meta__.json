@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:32.666533", 
+  "description": "A redis client with pipelining, rely on thunks, support promise.", 
+  "fork": false, 
+  "full_name": "thunks/thunk-redis", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:59.884199"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.295732", 
+  "description": "Determine if an object is a Node.js Stream", 
+  "fork": false, 
+  "full_name": "rvagg/isstream", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:18.256662"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:55.895326", 
+  "description": "proxy for REST/RPC style API's w/ caching & garbage collection", 
+  "fork": false, 
+  "full_name": "dhigginbotham/localize-api", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:39.732404"
+}

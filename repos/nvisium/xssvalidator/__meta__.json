@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:49.421171", 
+  "description": "This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.", 
+  "fork": false, 
+  "full_name": "nVisium/xssValidator", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:26.183771"
+}

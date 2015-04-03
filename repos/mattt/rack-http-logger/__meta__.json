@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.679916", 
+  "description": "Log metrics from HTTP request parameters according to l2met conventions", 
+  "fork": false, 
+  "full_name": "mattt/rack-http-logger", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:24.183776"
+}

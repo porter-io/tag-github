@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.024970", 
+  "description": "Native node bindings to iOS functionality (vibrate, acceleromoter, geoservices, etc.)", 
+  "fork": false, 
+  "full_name": "TooTallNate/node-iOS", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:03:18.782266"
+}

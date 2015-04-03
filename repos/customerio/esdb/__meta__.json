@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.528192", 
+  "description": "Event-stream flat file database - Immutable storage for timestamped event streams", 
+  "fork": false, 
+  "full_name": "customerio/esdb", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:42.827208"
+}

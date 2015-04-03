@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.813123", 
+  "description": "Service orchestration and management tool.", 
+  "fork": false, 
+  "full_name": "hashicorp/serf", 
+  "language": "Go", 
+  "updated_at": "2015-03-21T14:55:46.744510"
+}

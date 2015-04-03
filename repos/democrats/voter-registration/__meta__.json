@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.560079", 
+  "description": "A Ruby on Rails Application that generates a National Voter Registration Form PDF from a webform. Includes the guidelines for the National Voter Registration form in all states.", 
+  "fork": false, 
+  "full_name": "democrats/voter-registration", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:30:29.730565"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.156466", 
+  "description": "A RPC based firmware for a Spark Core device (like being connected, but without the wire!)", 
+  "fork": false, 
+  "full_name": "voodootikigod/voodoospark", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:36.004830"
+}

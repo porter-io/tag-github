@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.343937", 
+  "description": "A Python bot that can automatically follow users and favorite/RT tweets associated with a specific search query on Twitter. Also has the ability to unfollow all users not currently following you back.", 
+  "fork": false, 
+  "full_name": "rhiever/twitter-follow-bot", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:22.023883"
+}

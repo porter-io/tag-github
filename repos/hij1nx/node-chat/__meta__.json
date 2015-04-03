@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.094325", 
+  "description": "This is very simple code that can be used to demonstrate the caveats and design issues associated with building real-time chat server that uses socket.io.", 
+  "fork": false, 
+  "full_name": "hij1nx/node-chat", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:33.149642"
+}

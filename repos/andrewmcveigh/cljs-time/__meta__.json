@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:53.159195", 
+  "description": "A clj-time inspired date library for clojurescript.", 
+  "fork": false, 
+  "full_name": "andrewmcveigh/cljs-time", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:56.975110"
+}

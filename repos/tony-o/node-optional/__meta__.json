@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.925072", 
+  "description": "NodeJS module to let you optionally include modules (instead of 'require')", 
+  "fork": false, 
+  "full_name": "tony-o/node-optional", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:38.680427"
+}

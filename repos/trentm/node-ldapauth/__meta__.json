@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.683446", 
+  "description": "Simple node.js module to authenticate against an LDAP server", 
+  "fork": false, 
+  "full_name": "trentm/node-ldapauth", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:08.956278"
+}

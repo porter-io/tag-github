@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.331979", 
+  "description": "Intercept recipients when delivering email with the Mail gem.", 
+  "fork": false, 
+  "full_name": "croaky/recipient_interceptor", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:05.556909"
+}

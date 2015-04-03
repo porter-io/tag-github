@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.602735", 
+  "description": "Purely Functional HTTP Microservices on top of Finagle", 
+  "fork": false, 
+  "full_name": "finagle/finch", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:44:22.763851"
+}

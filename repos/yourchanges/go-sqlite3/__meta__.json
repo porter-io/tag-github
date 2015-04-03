@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.260161", 
+  "description": "sqlite3 driver for go that using database/sql", 
+  "fork": true, 
+  "full_name": "yourchanges/go-sqlite3", 
+  "language": "Go", 
+  "updated_at": "2015-03-10T07:01:16.413925"
+}

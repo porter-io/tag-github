@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.071779", 
+  "description": "Show a VCS diff using Vim's sign column.", 
+  "fork": false, 
+  "full_name": "mhinz/vim-signify", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:42.066013"
+}

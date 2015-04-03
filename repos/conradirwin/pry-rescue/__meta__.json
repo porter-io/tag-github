@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.056502", 
+  "description": "Start a pry session whenever something goes wrong.", 
+  "fork": false, 
+  "full_name": "ConradIrwin/pry-rescue", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:13.844817"
+}

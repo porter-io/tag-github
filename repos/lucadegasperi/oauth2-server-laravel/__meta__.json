@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:39.130064", 
+  "description": "A Laravel 4 bridge package for thephpleague/oauth2-server. A 100% spec compliant, secure by default PHP OAuth 2.0 Server ", 
+  "fork": false, 
+  "full_name": "lucadegasperi/oauth2-server-laravel", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:12.593824"
+}

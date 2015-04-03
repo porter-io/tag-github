@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:12.973013", 
+  "description": "This SDK supports Box OneCloud integrations on Android that handle file \u2018roundtrips\u2019. That is, it enables file open-edit-save scenarios between the Box app and partner apps without the need for partner apps to authenticate a Box user independently.", 
+  "fork": false, 
+  "full_name": "box/OneCloudAppToApp", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:44:07.062007"
+}

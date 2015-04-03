@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.148618", 
+  "description": "With a given country and phone number, validate and format the phone number to E.164 standard", 
+  "fork": false, 
+  "full_name": "AfterShip/node-phone", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:58.356399"
+}

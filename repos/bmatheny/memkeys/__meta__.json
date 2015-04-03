@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.410313", 
+  "description": "a top like tool for inspecting memcache key values in realtime", 
+  "fork": false, 
+  "full_name": "bmatheny/memkeys", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:33.064207"
+}

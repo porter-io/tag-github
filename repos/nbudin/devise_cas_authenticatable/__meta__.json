@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:45.861651", 
+  "description": "CAS authentication support for Devise", 
+  "fork": false, 
+  "full_name": "nbudin/devise_cas_authenticatable", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:50.002198"
+}

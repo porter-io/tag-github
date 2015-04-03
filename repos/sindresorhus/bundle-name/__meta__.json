@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.865133", 
+  "description": "Get bundle name from a bundle identifier (OS X): com.apple.Safari => Safari", 
+  "fork": false, 
+  "full_name": "sindresorhus/bundle-name", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:17.482028"
+}

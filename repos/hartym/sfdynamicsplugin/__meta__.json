@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.861351", 
+  "description": "Symfony plugin for managing javascript libraries/dependance, scripts packing, caching and automation", 
+  "fork": false, 
+  "full_name": "hartym/sfdynamicsplugin", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:57.430822"
+}

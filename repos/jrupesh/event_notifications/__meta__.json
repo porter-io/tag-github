@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.937446", 
+  "description": "Redmine event notifications : Add event notification options to the each event at the redmine project. For EX: notifications can be enabled / disabled on each document added or news added. Further the tracking can be done at the issue tracker level.", 
+  "fork": false, 
+  "full_name": "jrupesh/event_notifications", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:34.659200"
+}

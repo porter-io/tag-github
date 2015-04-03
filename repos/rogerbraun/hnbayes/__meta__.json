@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.959338", 
+  "description": "A client-side naive Bayes classifier for Hacker News", 
+  "fork": false, 
+  "full_name": "rogerbraun/HNBayes", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:51.934895"
+}

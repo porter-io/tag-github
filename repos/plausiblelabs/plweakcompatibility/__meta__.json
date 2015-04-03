@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.330899", 
+  "description": "Compatibility stubs to enable use of weak references with ARC on older OSes", 
+  "fork": false, 
+  "full_name": "plausiblelabs/PLWeakCompatibility", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:44.707167"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.701049", 
+  "description": "A rails plugin to add an active_merchant patch for china online payment platform including alipay (\u652f\u4ed8\u5b9d), 99bill (\u5feb\u94b1) and tenpay (\u8d22\u4ed8\u901a)", 
+  "fork": true, 
+  "full_name": "saberma/activemerchant_patch_for_china", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:29:20.701904"
+}

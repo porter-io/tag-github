@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.228027", 
+  "description": "Socorro is a server to accept and process Breakpad crash reports. ", 
+  "fork": false, 
+  "full_name": "mozilla/socorro", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:15.952238"
+}

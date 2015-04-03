@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:05.902998", 
+  "description": "Example service for authentication and user management.  Uses Sinatra, Mongoid, and RSpec 2.", 
+  "fork": false, 
+  "full_name": "tamoyal/Identity-Service-Example", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:57.061033"
+}

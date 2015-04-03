@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.588490", 
+  "description": "Automatically deploy Jekyll sites by creating a site folder in your Dropbox", 
+  "fork": false, 
+  "full_name": "tombh/jekbox", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T08:15:16.748996"
+}

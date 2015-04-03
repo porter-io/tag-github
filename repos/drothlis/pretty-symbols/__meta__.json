@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.759728", 
+  "description": "Emacs minor mode for drawing multi-character tokens as Unicode glyphs (lambda -> \u03bb). A configurable replacement for pretty-mode and the like.", 
+  "fork": false, 
+  "full_name": "drothlis/pretty-symbols", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:42:57.250055"
+}

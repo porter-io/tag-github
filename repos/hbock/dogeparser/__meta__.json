@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:15.507116", 
+  "description": "A pure-Python implementation of Doge Serialized Object Notation (DSON).", 
+  "fork": false, 
+  "full_name": "hbock/dogeparser", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:13.109588"
+}

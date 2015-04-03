@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.701362", 
+  "description": "Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework", 
+  "fork": false, 
+  "full_name": "niallo/pyramid_mongodb", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:30:54.858560"
+}

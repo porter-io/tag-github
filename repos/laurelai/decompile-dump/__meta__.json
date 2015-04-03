@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.630461", 
+  "description": "Partial stuxnet source decompiled with hexrays, if anyone has better decompile tools feel free to contribute better versions.", 
+  "fork": false, 
+  "full_name": "Laurelai/decompile-dump", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:43:36.837367"
+}

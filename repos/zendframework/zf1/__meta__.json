@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.878457", 
+  "description": "Conversion of ZF1 subversion repo to git, from version 15234 forward, and only containing master and release-1.12 branches and 1.12 tags.", 
+  "fork": false, 
+  "full_name": "zendframework/zf1", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:07.323941"
+}

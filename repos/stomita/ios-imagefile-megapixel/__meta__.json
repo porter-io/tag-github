@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.135206", 
+  "description": "Fixes iOS6 Safari's image file rendering issue for large size image (over mega-pixel), which causes unexpected subsampling when drawing it in canvas.", 
+  "fork": false, 
+  "full_name": "stomita/ios-imagefile-megapixel", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:04:14.232904"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:18.943388", 
+  "description": "Nice looking shell applications with pluggable middlewares for Node.js", 
+  "fork": false, 
+  "full_name": "wdavidw/node-shell", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:02:07.794022"
+}

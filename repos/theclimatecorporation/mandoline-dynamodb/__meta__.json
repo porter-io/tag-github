@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.515870", 
+  "description": "The DynamoDB backend for the Mandoline distributed array database.", 
+  "fork": false, 
+  "full_name": "TheClimateCorporation/mandoline-dynamodb", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:43:09.621861"
+}

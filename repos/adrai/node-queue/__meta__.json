@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:47.890490", 
+  "description": "Node-queue is a node.js module for multiple databases. It can be very useful if you work with (d)ddd, cqrs, eventsourcing, commands and events, etc.", 
+  "fork": false, 
+  "full_name": "adrai/node-queue", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:24.580625"
+}

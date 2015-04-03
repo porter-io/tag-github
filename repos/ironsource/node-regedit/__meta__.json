@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.322652", 
+  "description": "Read, Write, List and do all sorts of funky stuff to the windows registry using node.js and windows script host", 
+  "fork": false, 
+  "full_name": "ironSource/node-regedit", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:05.109508"
+}

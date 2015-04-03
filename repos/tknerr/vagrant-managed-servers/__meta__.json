@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.121855", 
+  "description": "Enables Vagrant to ssh into and provision managed servers", 
+  "fork": false, 
+  "full_name": "tknerr/vagrant-managed-servers", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:55.415577"
+}

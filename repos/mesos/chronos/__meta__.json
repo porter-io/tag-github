@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.485471", 
+  "description": "Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules", 
+  "fork": false, 
+  "full_name": "mesos/chronos", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:12.900277"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.679844", 
+  "description": "Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.", 
+  "fork": false, 
+  "full_name": "flatiron/nconf", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:40.589922"
+}

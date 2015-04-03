@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.532199", 
+  "description": "Allows you to specify a directory whose contents will be provided as webseeded torrents", 
+  "fork": false, 
+  "full_name": "jphastings/sinatra-torrent", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:34.368789"
+}

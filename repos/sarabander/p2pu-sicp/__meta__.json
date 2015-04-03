@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.615062", 
+  "description": "Solutions to exercises from \"Structure and Interpretation of Computer Programs\" (SICP) by Abelson, Sussman and Sussman. A PDF version of the book is here:", 
+  "fork": false, 
+  "full_name": "sarabander/p2pu-sicp", 
+  "language": "Scheme", 
+  "updated_at": "2015-04-01T19:31:41.997724"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:29.368965", 
+  "description": "Docker installer for Mac OS X", 
+  "fork": false, 
+  "full_name": "boot2docker/osx-installer", 
+  "language": "Shell", 
+  "updated_at": "2015-03-10T07:02:36.083625"
+}

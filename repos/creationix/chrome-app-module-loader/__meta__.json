@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.014970", 
+  "description": "A module loader that lets you load npm modules from a chrome app.", 
+  "fork": false, 
+  "full_name": "creationix/chrome-app-module-loader", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:00.972328"
+}

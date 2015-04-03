@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.147790", 
+  "description": "Lisp/Hiccup style templating for Facebook's React in ClojureScript.", 
+  "fork": false, 
+  "full_name": "r0man/sablono", 
+  "language": "Clojure", 
+  "updated_at": "2015-03-10T07:03:57.184141"
+}

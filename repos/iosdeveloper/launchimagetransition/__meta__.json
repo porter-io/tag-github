@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.540832", 
+  "description": "Fades from your launch image (Default.png) to root view controller. Lets you choose the transition animation and delay.", 
+  "fork": false, 
+  "full_name": "iosdeveloper/LaunchImageTransition", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:51.220122"
+}

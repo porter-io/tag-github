@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:48.066185", 
+  "description": "Script for detecting true CSS3 3D Transform support across browsers", 
+  "fork": false, 
+  "full_name": "zamiang/detect-css3-3d-transform", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:41:52.046734"
+}

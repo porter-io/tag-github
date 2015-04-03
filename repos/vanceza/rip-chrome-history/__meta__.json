@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.869349", 
+  "description": "Transfer urls and access times from chromium's browser history", 
+  "fork": false, 
+  "full_name": "vanceza/rip-chrome-history", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:44:15.315423"
+}

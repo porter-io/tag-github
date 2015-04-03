@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.398054", 
+  "description": " Let you build your node-webkit apps for mac, win and linux with grunt. It will download the prebuilt binaries for a specify version, unpacks it, creates a release folder, create the app.nw file for a specified directory and copys the app.nw file where it belongs.", 
+  "fork": false, 
+  "full_name": "mllrsohn/grunt-node-webkit-builder", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:01:20.849983"
+}

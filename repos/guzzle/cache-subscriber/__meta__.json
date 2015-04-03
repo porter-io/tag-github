@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.134144", 
+  "description": "Private transparent proxy cache that caches HTTP responses (Guzzle 5+)", 
+  "fork": false, 
+  "full_name": "guzzle/cache-subscriber", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:42:32.801334"
+}

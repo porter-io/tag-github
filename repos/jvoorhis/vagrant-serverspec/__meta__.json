@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.042204", 
+  "description": "Vagrant plugin that integrates serverspec", 
+  "fork": false, 
+  "full_name": "jvoorhis/vagrant-serverspec", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:00.666766"
+}

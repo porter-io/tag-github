@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.380381", 
+  "description": "A free ActionScript 3 library designed for developing 2D Flash games. It provides you with a fast, clean framework to prototype and develop your games in. This means that most of the dirty work (timestep, animation, input, and collision to name a few) is already coded for you and ready to go, giving you more time and energy to concentrate on the design and testing of your game. ", 
+  "fork": false, 
+  "full_name": "useflashpunk/FlashPunk", 
+  "language": "ActionScript", 
+  "updated_at": "2015-04-01T19:29:14.291108"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.543221", 
+  "description": "Check an app bundle's code signing and sandboxing state to NSBundle.", 
+  "fork": false, 
+  "full_name": "ole/NSBundle-OBCodeSigningInfo", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:58.959808"
+}

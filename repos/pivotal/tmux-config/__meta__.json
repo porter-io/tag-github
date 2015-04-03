@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:44.857484", 
+  "description": "Configuration and tools for tmux. Can be used as a Vim plugin.", 
+  "fork": false, 
+  "full_name": "pivotal/tmux-config", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:41:49.394372"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.255255", 
+  "description": "Hiera backend that stores data in a module", 
+  "fork": false, 
+  "full_name": "ripienaar/puppet-module-data", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:21.968999"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.029133", 
+  "description": "Extends `UICollectionViewFlowLayout` to support reordering of cells. Similar to long press and pan on books in iBook.", 
+  "fork": false, 
+  "full_name": "lxcid/LXReorderableCollectionViewFlowLayout", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:46.567529"
+}

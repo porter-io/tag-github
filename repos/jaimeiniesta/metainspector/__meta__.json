@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.622365", 
+  "description": "Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, an array with all the links, all the images in it, etc.", 
+  "fork": false, 
+  "full_name": "jaimeiniesta/metainspector", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:01.764479"
+}

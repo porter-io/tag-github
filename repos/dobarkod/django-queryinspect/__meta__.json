@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:04.747010", 
+  "description": "SQL query inspector for Django", 
+  "fork": false, 
+  "full_name": "dobarkod/django-queryinspect", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:01:38.880574"
+}

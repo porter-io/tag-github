@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.659828", 
+  "description": "An extensible thread safe job/message queueing system that uses mongodb as the persistent storage engine. ", 
+  "fork": false, 
+  "full_name": "skiz/mongo_queue", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:53.649745"
+}

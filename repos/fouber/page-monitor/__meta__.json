@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.499212", 
+  "description": "capture webpage and diff the dom change with phantomjs  \u2668", 
+  "fork": false, 
+  "full_name": "fouber/page-monitor", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:41.730914"
+}

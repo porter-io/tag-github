@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.673738", 
+  "description": "Port of JavaScript/WebGL based http://babylonjs.com/ engine to Haxe programming language and OpenFL framework. ", 
+  "fork": false, 
+  "full_name": "vujadin/BabylonHx", 
+  "language": "Haxe", 
+  "updated_at": "2015-04-01T19:30:59.423699"
+}

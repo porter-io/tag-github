@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.989980", 
+  "description": "Handle locking via pid files", 
+  "fork": false, 
+  "full_name": "nightlyone/lockfile", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:37.453803"
+}

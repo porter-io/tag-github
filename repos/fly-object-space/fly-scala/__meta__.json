@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:10.786311", 
+  "description": "This is the home for clients to Fly, a lightweight Object Space that can distribute and coordinate information on clusters of computers in the form of Objects.", 
+  "fork": false, 
+  "full_name": "fly-object-space/fly-scala", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:44:03.102499"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:45.234627", 
+  "description": "Export and import all collections from a mongodb database into/outof a single tarball", 
+  "fork": false, 
+  "full_name": "aredo/mongokoo", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:21.959998"
+}

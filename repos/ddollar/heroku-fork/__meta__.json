@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:21.609271", 
+  "description": "DEPRECATED: heroku fork is now part of the heroku CLI and the plugin should be uninstalled.", 
+  "fork": false, 
+  "full_name": "ddollar/heroku-fork", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:30:31.445744"
+}

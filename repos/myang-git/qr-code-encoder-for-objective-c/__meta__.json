@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.846886", 
+  "description": "An implementation of QR code encoder for Objective-C ported from Psytec library", 
+  "fork": false, 
+  "full_name": "myang-git/QR-Code-Encoder-for-Objective-C", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:43:52.769656"
+}

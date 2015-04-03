@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:00.344163", 
+  "description": "The parser that detects django models from the provided python script. It uses Python's AST (Abstract Syntax Trees) module. Extracted from dbpatterns.com codebase.", 
+  "fork": false, 
+  "full_name": "fatiherikli/django-model-parser", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:44.953573"
+}

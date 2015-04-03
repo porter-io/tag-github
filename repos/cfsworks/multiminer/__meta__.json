@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:01.792996", 
+  "description": "Multiminer server is a clustering (and soon to be pooling) management system for efficiently distributing Bitcoin mining work", 
+  "fork": false, 
+  "full_name": "CFSworks/multiminer", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:49.502140"
+}

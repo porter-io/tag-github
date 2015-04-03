@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.212880", 
+  "description": "A heroku plugin to connect to your redis servers with a local redis-cli", 
+  "fork": false, 
+  "full_name": "rapportive-oss/heroku-redis-cli", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:01.166722"
+}

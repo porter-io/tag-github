@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.590819", 
+  "description": "A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way. Release your software for a wide range of operating systems and hardware architectures.", 
+  "fork": false, 
+  "full_name": "openSUSE/open-build-service", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:04.685117"
+}

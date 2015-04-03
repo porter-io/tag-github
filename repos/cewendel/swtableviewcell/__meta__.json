@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:22.276528", 
+  "description": "An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)", 
+  "fork": false, 
+  "full_name": "CEWendel/SWTableViewCell", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T06:05:17.394049"
+}

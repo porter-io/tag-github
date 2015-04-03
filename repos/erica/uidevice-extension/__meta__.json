@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:41.146896", 
+  "description": "Add functionality to UIDevice to distinguish between platforms like iPod touch 1G and 2G and iPhone", 
+  "fork": false, 
+  "full_name": "erica/uidevice-extension", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:43:15.752454"
+}

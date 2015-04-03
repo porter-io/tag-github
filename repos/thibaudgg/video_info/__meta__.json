@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:44.340704", 
+  "description": "Get video info from Dailymotion, VK, Vimeo, Wistia and YouTube url.", 
+  "fork": false, 
+  "full_name": "thibaudgg/video_info", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:03:22.886988"
+}

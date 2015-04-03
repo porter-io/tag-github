@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.377592", 
+  "description": "A Python library that provides better selection of common timezones, can output HTML and auto select the best timezone based on user's IP.", 
+  "fork": false, 
+  "full_name": "Doist/python-timezones", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:22.488863"
+}

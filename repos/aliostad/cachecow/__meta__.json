@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.139710", 
+  "description": "An ASP.NET Web API HTTP caching implementation both on client and server", 
+  "fork": false, 
+  "full_name": "aliostad/CacheCow", 
+  "language": "C#", 
+  "updated_at": "2015-02-27T23:41:51.298903"
+}

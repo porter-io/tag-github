@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.244378", 
+  "description": "C++ library  to apply similarity measures and classi\ufb01cations on the results of audio analysis, including Python bindings. Together with Essentia it can be used to compute high-level descriptions of music.", 
+  "fork": false, 
+  "full_name": "MTG/gaia", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:41:47.841796"
+}

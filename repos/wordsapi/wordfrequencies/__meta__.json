@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.620902", 
+  "description": "Counts frequencies of words using movie and television subtitles.", 
+  "fork": false, 
+  "full_name": "WordsAPI/wordfrequencies", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:53.614499"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.846520", 
+  "description": "Easy two-factor authentication for node.js. Calculate time-based or counter-based one-time passwords. Supports the Google Authenticator mobile app.", 
+  "fork": false, 
+  "full_name": "markbao/speakeasy", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:45.135625"
+}

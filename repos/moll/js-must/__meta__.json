@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.742073", 
+  "description": "An assertion library for JavaScript and Node.js with a friendly BDD syntax (awesome.must.be.true()). It ships with many expressive matchers and is test runner and framework agnostic. Follows RFC 2119 with its use of MUST. Good stuff and well tested.", 
+  "fork": false, 
+  "full_name": "moll/js-must", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:31:11.579855"
+}

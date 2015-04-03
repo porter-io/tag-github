@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.293464", 
+  "description": "A plugin to manage DNS records for vagrant environments", 
+  "fork": false, 
+  "full_name": "BerlinVagrant/vagrant-dns", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:58.680705"
+}

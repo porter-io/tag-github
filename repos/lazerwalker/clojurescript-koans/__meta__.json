@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.535350", 
+  "description": "A ClojureScript adaptation of the Clojure koans that runs purely in-browser", 
+  "fork": false, 
+  "full_name": "lazerwalker/clojurescript-koans", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:55.293385"
+}

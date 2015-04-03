@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:48.392981", 
+  "description": "Redis-backed timeline for activity feeds", 
+  "fork": false, 
+  "full_name": "felixclack/redis-timeline", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:25.036407"
+}

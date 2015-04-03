@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:14.113020", 
+  "description": "A utility for processing PNG, JPEG, BMP, and WebP images. Features include resize/resample, dither, grayscale, apply background color, subpixel rendering.", 
+  "fork": false, 
+  "full_name": "jsummers/imageworsener", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:42:18.019440"
+}

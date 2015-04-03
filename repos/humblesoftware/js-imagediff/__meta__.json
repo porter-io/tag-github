@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.916689", 
+  "description": "JavaScript / Canvas based image diff utility with Jasmine matchers for testing canvas.", 
+  "fork": false, 
+  "full_name": "HumbleSoftware/js-imagediff", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:06.069784"
+}

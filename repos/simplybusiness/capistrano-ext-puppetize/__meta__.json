@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.990850", 
+  "description": "A Capistrano extension to run Puppet manifests contained in the application repository before deploying the application.", 
+  "fork": false, 
+  "full_name": "simplybusiness/capistrano-ext-puppetize", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:50.733151"
+}

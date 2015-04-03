@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.434885", 
+  "description": "Browse your starred repositories in Emacs helm interface", 
+  "fork": false, 
+  "full_name": "Sliim/helm-github-stars", 
+  "language": "Emacs Lisp", 
+  "updated_at": "2015-02-27T23:43:23.082100"
+}

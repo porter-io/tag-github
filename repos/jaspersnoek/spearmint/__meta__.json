@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.461687", 
+  "description": "Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper:  Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochelle and Ryan P. Adams.  Advances in Neural Information Processing Systems, 2012 ", 
+  "fork": false, 
+  "full_name": "JasperSnoek/spearmint", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:43.689204"
+}

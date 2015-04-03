@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:33.694607", 
+  "description": "It prevents the browser of sending the http referrer when clicking a link (not latests IE) and loading an image.", 
+  "fork": false, 
+  "full_name": "jpgerek/referrer-killer", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:32.364991"
+}

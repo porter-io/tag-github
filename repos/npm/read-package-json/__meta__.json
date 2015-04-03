@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.909668", 
+  "description": "The thing npm uses to read package.json files with semantics and defaults and validation and stuff", 
+  "fork": false, 
+  "full_name": "npm/read-package-json", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:24.526373"
+}

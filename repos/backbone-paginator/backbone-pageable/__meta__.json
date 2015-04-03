@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.883089", 
+  "description": "DEPRECATED!!!  backbone-pageable and backbone.paginator have merged. Please use backbone-paginator/backbone.paginator instead.", 
+  "fork": false, 
+  "full_name": "backbone-paginator/backbone-pageable", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:29:08.398979"
+}

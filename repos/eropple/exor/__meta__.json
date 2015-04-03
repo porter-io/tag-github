@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:03.906898", 
+  "description": "Exor.Core is a simple, attribute-driven extension framework. Exor.Compiler is a runtime compiler and ExtensionLoader factory.", 
+  "fork": false, 
+  "full_name": "eropple/Exor", 
+  "language": "C#", 
+  "updated_at": "2015-04-01T19:30:03.352386"
+}

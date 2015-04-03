@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.829462", 
+  "description": "This library provides a simple wrapper around the HTTP calls required for using Tableau's truated authentication mechanism.", 
+  "fork": false, 
+  "full_name": "caiges/tableau_trusted_authentication", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:10.097312"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:20.275643", 
+  "description": "A mixin for Mongoid document models allowing for publishing them after authentication", 
+  "fork": false, 
+  "full_name": "ryantownsend/mongoid-publishable", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:24.423350"
+}

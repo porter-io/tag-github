@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:49.455195", 
+  "description": "Fully featured admin interface with both DSL and raw controller resource definition based on bootstrap, inherited_resources, simple_form, device, cancan", 
+  "fork": false, 
+  "full_name": "leschenko/ab_admin", 
+  "language": "Ruby", 
+  "updated_at": "2015-03-10T07:01:18.220207"
+}

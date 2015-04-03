@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.702032", 
+  "description": "Storehaus is a library that makes it easy to work with asynchronous key value stores", 
+  "fork": false, 
+  "full_name": "twitter/storehaus", 
+  "language": "Scala", 
+  "updated_at": "2015-03-10T08:16:00.308106"
+}

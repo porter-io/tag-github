@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.523631", 
+  "description": "Mopidy SQLite local library extension", 
+  "fork": false, 
+  "full_name": "tkem/mopidy-local-sqlite", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:14.631345"
+}

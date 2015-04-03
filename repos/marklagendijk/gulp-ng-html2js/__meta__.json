@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.793603", 
+  "description": "Gulp plugin for compiling the HTML files of your Angular app to Javascript.", 
+  "fork": false, 
+  "full_name": "marklagendijk/gulp-ng-html2js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:40.895071"
+}

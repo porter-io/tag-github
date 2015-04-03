@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.286187", 
+  "description": "Node.js module to validate email address using Mailgun's API", 
+  "fork": false, 
+  "full_name": "evanlucas/mailgun-validator", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:13.261480"
+}

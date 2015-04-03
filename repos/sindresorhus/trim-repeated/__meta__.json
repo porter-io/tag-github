@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.254942", 
+  "description": "Trim a consecutively repeated substring: foo--bar---baz \u2192 foo-bar-baz", 
+  "fork": false, 
+  "full_name": "sindresorhus/trim-repeated", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:15.801336"
+}

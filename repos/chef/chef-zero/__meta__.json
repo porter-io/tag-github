@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:09.142033", 
+  "description": "Simple, easy-run, fast-start in-memory Chef server for testing and solo purposes", 
+  "fork": false, 
+  "full_name": "chef/chef-zero", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:44:01.199566"
+}

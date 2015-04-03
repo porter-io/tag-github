@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.334212", 
+  "description": "A Simple Counter Cache Gem for the Mongoid ORM", 
+  "fork": false, 
+  "full_name": "jah2488/mongoid-magic-counter-cache", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:59.282559"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.805775", 
+  "description": "HBase DSL for Scala with MapReduce support", 
+  "fork": false, 
+  "full_name": "GravityLabs/HPaste", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:42:50.148083"
+}

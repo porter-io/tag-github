@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:43.070983", 
+  "description": "An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.", 
+  "fork": false, 
+  "full_name": "panicinc/PunchClock", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:09.035406"
+}

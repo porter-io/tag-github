@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.816218", 
+  "description": "Manage child views for your Backbone.View (and other parents)", 
+  "fork": false, 
+  "full_name": "marionettejs/backbone.babysitter", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:15.248612"
+}

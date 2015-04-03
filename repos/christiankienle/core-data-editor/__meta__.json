@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:28.068398", 
+  "description": "Core Data Editor lets you easily view, edit and analyze applications\u2018 data. Core Data Editor is compatible with Mac and iOS applications and supports XML, SQLite and binary stores, visualizes all relationships and is able to edit the data and generate Objective-C code for the data model.", 
+  "fork": false, 
+  "full_name": "ChristianKienle/Core-Data-Editor", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:00:58.669732"
+}

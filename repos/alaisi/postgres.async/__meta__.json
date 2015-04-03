@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:07.106278", 
+  "description": "Asynchronous PostgreSQL client for Clojure", 
+  "fork": false, 
+  "full_name": "alaisi/postgres.async", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:42:10.300033"
+}

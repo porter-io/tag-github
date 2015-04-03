@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:39.806853", 
+  "description": "Java multi protocols (CAS, OAuth, OpenID, SAML, HTTP...) client for the Apache Shiro library (based on pac4j) ", 
+  "fork": false, 
+  "full_name": "bujiio/buji-pac4j", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:45.111864"
+}

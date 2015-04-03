@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:02.568789", 
+  "description": "These are the code listings from the Learning Core Audio book, in Swift. I hope to illustrate how to call to low-level C APIs (such as Core Audio) from Swift", 
+  "fork": false, 
+  "full_name": "victor/Learning-Core-Audio-in-Swift", 
+  "language": "Swift", 
+  "updated_at": "2015-02-27T23:42:04.782057"
+}

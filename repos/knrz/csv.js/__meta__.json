@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.406460", 
+  "description": "A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance.", 
+  "fork": false, 
+  "full_name": "knrz/CSV.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:37.332011"
+}

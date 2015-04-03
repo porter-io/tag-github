@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.383613", 
+  "description": "SuperPutty is a Windows GUI Application that allows the PuTTY SSH Client to be opened in Tabs. Additionally there is support for SCP to transfer files. This project is a fork from http://code.google.com/p/superputty/ which appears to be abandoned by the owner.", 
+  "fork": false, 
+  "full_name": "phendryx/superputty", 
+  "language": "C#", 
+  "updated_at": "2015-03-10T07:01:52.314326"
+}

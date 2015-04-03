@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.749411", 
+  "description": "A colorful and highly configurable alternative to the standard \"adb logcat\" command from the Android SDK", 
+  "fork": false, 
+  "full_name": "marshall/logcat-color", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:44:00.573002"
+}

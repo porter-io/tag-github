@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.457064", 
+  "description": "A relational object synchronization library. Serialize your SQLAlchemy mapper classes to JSON, submit updates back to the server, and let Minisync figure out the rest. A minimalist approach to web application architecture.", 
+  "fork": false, 
+  "full_name": "Tutorspree/minisync", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:01.385250"
+}

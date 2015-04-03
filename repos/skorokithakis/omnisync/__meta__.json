@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.524444", 
+  "description": "omnisync is a universal file synchroniser and backup program (think rsync) that supports multiple transport systems (such as plain files, sftp, s3 and virtual, currently, and support for ftp, http, et al is planned). It is designed to be fast, small, extensible, portable and bandwidth-efficient. It is available for Linux, Windows and Mac.", 
+  "fork": false, 
+  "full_name": "skorokithakis/omnisync", 
+  "language": "Python", 
+  "updated_at": "2015-03-10T07:04:20.425833"
+}

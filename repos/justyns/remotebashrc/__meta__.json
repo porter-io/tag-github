@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.246271", 
+  "description": "SSH to a remote server and automatically source your local .bashrc bringing all those lovely aliases with you", 
+  "fork": false, 
+  "full_name": "justyns/remotebashrc", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:50.959317"
+}

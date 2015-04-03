@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.308092", 
+  "description": "Enables \"rails generate scaffold\" to create Rails code that matches an existing database", 
+  "fork": false, 
+  "full_name": "frenesim/schema_to_scaffold", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:35.893062"
+}

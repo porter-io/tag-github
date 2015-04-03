@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.636430", 
+  "description": "A script to measure and limit CPU time and memory consumption of black-box processes in Linux", 
+  "fork": false, 
+  "full_name": "pshved/timeout", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:42:43.534938"
+}

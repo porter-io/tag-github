@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.255726", 
+  "description": "Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.", 
+  "fork": false, 
+  "full_name": "Netflix/Hystrix", 
+  "language": "Java", 
+  "updated_at": "2015-03-21T14:55:08.182048"
+}

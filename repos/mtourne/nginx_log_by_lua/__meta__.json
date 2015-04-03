@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:50.675180", 
+  "description": "Simple example of aggregated logging using log_by_lua hooks", 
+  "fork": false, 
+  "full_name": "mtourne/nginx_log_by_lua", 
+  "language": "Lua", 
+  "updated_at": "2015-02-27T23:43:28.836678"
+}

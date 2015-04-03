@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.352437", 
+  "description": "Get the iCloud tabs for all synced devices (OS X)", 
+  "fork": false, 
+  "full_name": "sindresorhus/icloud-tabs", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.169176"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.096322", 
+  "description": "A library for parsing and manipulating IPv6 (and v4) addresses in JavaScript", 
+  "fork": false, 
+  "full_name": "beaugunderson/javascript-ipv6", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:03.444851"
+}

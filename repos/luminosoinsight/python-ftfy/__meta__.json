@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.283029", 
+  "description": "Given Unicode text, make its representation consistent and possibly less broken.", 
+  "fork": false, 
+  "full_name": "LuminosoInsight/python-ftfy", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:40.200554"
+}

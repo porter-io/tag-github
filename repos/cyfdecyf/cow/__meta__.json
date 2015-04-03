@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.290156", 
+  "description": "HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.", 
+  "fork": false, 
+  "full_name": "cyfdecyf/cow", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:40:55.436991"
+}

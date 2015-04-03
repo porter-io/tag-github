@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.165006", 
+  "description": "Pizco is Python module/package that allows python objects to communicate via ZMQ. Objects can be exposed to other process in the same computer or over the network, allowing clear separation of concerns, resources and permissions.", 
+  "fork": false, 
+  "full_name": "hgrecco/pizco", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:49.887187"
+}

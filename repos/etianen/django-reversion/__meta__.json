@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:00.985646", 
+  "description": "An extension to the Django web framework that provides comprehensive version control facilities.", 
+  "fork": false, 
+  "full_name": "etianen/django-reversion", 
+  "language": "Python", 
+  "updated_at": "2015-04-01T19:29:58.731618"
+}

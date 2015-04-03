@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.441650", 
+  "description": "A maximal port of `clojure.test` to ClojureScript.", 
+  "fork": false, 
+  "full_name": "cemerick/clojurescript.test", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:23.697130"
+}

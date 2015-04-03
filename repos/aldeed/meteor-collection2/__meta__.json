@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:04.145004", 
+  "description": "A Meteor package that extends Mongo.Collection to provide support for specifying a schema and then validating against that schema when inserting and updating.", 
+  "fork": false, 
+  "full_name": "aldeed/meteor-collection2", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:54.444827"
+}

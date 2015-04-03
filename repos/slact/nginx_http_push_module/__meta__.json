@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:26.740080", 
+  "description": "Turn NGiNX into an adept HTTP push server.", 
+  "fork": false, 
+  "full_name": "slact/nginx_http_push_module", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:16.433482"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.073349", 
+  "description": "A Javascript library for working with Audio. Features a simple interface as the front end to multiple audio APIs via a plugin model. Currently supports WebAudio, HTML5 Audio, & a Flash fallback.", 
+  "fork": false, 
+  "full_name": "CreateJS/SoundJS", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:28.065802"
+}

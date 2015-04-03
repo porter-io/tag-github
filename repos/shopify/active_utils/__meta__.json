@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:33.984512", 
+  "description": "Active Utils extracts commonly used modules and classes used by Active Merchant, Active Shipping, and Active Fulfillment", 
+  "fork": false, 
+  "full_name": "Shopify/active_utils", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:03.051710"
+}

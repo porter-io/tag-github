@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.288411", 
+  "description": "An RFC 3986 compliant, scheme extendable URI parsing/validating/normalizing/resolving library for JavaScript", 
+  "fork": false, 
+  "full_name": "garycourt/uri-js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:12.682353"
+}

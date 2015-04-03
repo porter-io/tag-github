@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.460616", 
+  "description": "Gradle plugin to integrate Robolectric tests into Android Studio", 
+  "fork": false, 
+  "full_name": "kageiit/gradle-robojava-plugin", 
+  "language": "Groovy", 
+  "updated_at": "2015-02-27T23:42:22.873827"
+}

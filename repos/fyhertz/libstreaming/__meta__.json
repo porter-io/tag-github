@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.567971", 
+  "description": "A solution for streaming H.264, H.263, AMR, AAC using RTP on Android", 
+  "fork": false, 
+  "full_name": "fyhertz/libstreaming", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:41:21.831049"
+}

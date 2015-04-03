@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.061472", 
+  "description": "Asynchronous browser storage with multiple back-ends (IndexedDB, WebSQL, localStorage)", 
+  "fork": false, 
+  "full_name": "alekseykulikov/storage", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:20.025853"
+}

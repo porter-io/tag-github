@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:26.149692", 
+  "description": "ruby based curses widgets: fields, buttons, textarea. menus, message boxes, tabbed panes, tables, listboxes, splitpanes, scrollpanes. Event based, MVC architecture. (DEPRECATED - PLS USE rbcurse-core)", 
+  "fork": false, 
+  "full_name": "rkumar/rbcurse", 
+  "language": "Ruby", 
+  "updated_at": "2015-04-01T19:30:51.098092"
+}

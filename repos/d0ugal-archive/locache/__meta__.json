@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.168485", 
+  "description": "JavaScript caching framework for client side caching in the browser using localStorage - gracefully degrades when the browser doesn't support localStorage.", 
+  "fork": false, 
+  "full_name": "d0ugal-archive/locache", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:28:22.896723"
+}

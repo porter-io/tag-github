@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:06.596427", 
+  "description": "Compare block based Foundation and UIKit stuff vs RAC implementation - for science. ", 
+  "fork": false, 
+  "full_name": "seivan/SHRACComparison", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:09.889994"
+}

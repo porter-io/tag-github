@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:19.606862", 
+  "description": "Create Finagle servers and clients that use the serialization library of your choice!", 
+  "fork": false, 
+  "full_name": "finagle/finagle-serial", 
+  "language": "Scala", 
+  "updated_at": "2015-02-27T23:44:22.771240"
+}

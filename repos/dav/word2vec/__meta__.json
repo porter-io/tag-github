@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.669319", 
+  "description": "This tool provides an efficient implementation of the continuous bag-of-words and skip-gram architectures for computing vector representations of words. These representations can be subsequently used in many natural language processing applications and for further research. ", 
+  "fork": false, 
+  "full_name": "dav/word2vec", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:37.214406"
+}

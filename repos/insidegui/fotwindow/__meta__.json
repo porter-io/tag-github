@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:55.216050", 
+  "description": "A NSWindow subclass that makes auto hiding and showing the title bar (\u00e0 la QuickTime X) a lot easier, and allows for a custom title bar drawing block.", 
+  "fork": false, 
+  "full_name": "insidegui/FOTWindow", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:58.388529"
+}

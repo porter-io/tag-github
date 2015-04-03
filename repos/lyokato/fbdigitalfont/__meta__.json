@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:51.779823", 
+  "description": "This library includes some kind of digital fonts (not TTF or something, just CoreGraphics drawing)", 
+  "fork": false, 
+  "full_name": "lyokato/FBDigitalFont", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:41:55.616543"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:52.951204", 
+  "description": "This is imporved from rails-settings, added caching for all settings", 
+  "fork": true, 
+  "full_name": "huobazi/rails-settings-cached", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:52.951316"
+}

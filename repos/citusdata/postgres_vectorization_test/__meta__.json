@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:46.655297", 
+  "description": "Vectorized executor to speed up PostgreSQL", 
+  "fork": false, 
+  "full_name": "citusdata/postgres_vectorization_test", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:50.689175"
+}

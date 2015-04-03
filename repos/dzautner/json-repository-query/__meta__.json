@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.347099", 
+  "description": "Query like syntax to filter repositories represented in JSON", 
+  "fork": false, 
+  "full_name": "dzautner/json-repository-query", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:22.387210"
+}

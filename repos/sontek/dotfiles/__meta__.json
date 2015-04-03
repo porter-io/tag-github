@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:42.148414", 
+  "description": "My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc)", 
+  "fork": false, 
+  "full_name": "sontek/dotfiles", 
+  "language": "Perl", 
+  "updated_at": "2015-02-27T23:41:46.702625"
+}

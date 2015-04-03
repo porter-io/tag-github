@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.359440", 
+  "description": "Calculate the specificity of a CSS selector", 
+  "fork": false, 
+  "full_name": "atom/clear-cut", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:55:01.959948"
+}

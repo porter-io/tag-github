@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:28.074275", 
+  "description": "Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!", 
+  "fork": false, 
+  "full_name": "rogaha/docker-desktop", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:20.056109"
+}

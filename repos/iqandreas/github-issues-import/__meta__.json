@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:38.090906", 
+  "description": "Python script to import issues from one repository into another, either one at a time or all of them at once.", 
+  "fork": false, 
+  "full_name": "IQAndreas/github-issues-import", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:42.147725"
+}

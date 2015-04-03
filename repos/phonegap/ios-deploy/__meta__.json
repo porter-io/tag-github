@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:51.502241", 
+  "description": "Install and debug iPhone apps from the command line, without using Xcode", 
+  "fork": true, 
+  "full_name": "phonegap/ios-deploy", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:03:46.315804"
+}

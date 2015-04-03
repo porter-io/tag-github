@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.138698", 
+  "description": "A sample provider for Koop used to build new providers", 
+  "fork": false, 
+  "full_name": "chelm/koop-sample-provider", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:08.883024"
+}

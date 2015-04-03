@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:37.913343", 
+  "description": "ACLLib is a bunch of C functions covers Win32API and provides simpler API to beginners for programming Windows GUI applications. It compiles with MinGW and MS Visual Studio Express", 
+  "fork": false, 
+  "full_name": "wengkai/ACLLib", 
+  "language": "C", 
+  "updated_at": "2015-03-10T07:03:06.877937"
+}

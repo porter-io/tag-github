@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:20.456810", 
+  "description": "Make gvim-only colorschemes work transparently in terminal vim", 
+  "fork": false, 
+  "full_name": "godlygeek/csapprox", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:42:31.385697"
+}

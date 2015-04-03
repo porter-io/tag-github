@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:24.606571", 
+  "description": "turn ruby strings encoding to unicode (utf-8) from any other", 
+  "fork": false, 
+  "full_name": "qhwa/string_utf8", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:38.037039"
+}

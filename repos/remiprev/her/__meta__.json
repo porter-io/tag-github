@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.741953", 
+  "description": "Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. It is designed to build applications that are powered by a RESTful API instead of a database.", 
+  "fork": false, 
+  "full_name": "remiprev/her", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:40.857381"
+}

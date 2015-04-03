@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:22.007330", 
+  "description": "Modification of TuioKinect using face detection to set threshold", 
+  "fork": false, 
+  "full_name": "zebradog/TuioKinectHaar", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:44:28.555293"
+}

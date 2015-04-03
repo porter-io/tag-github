@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.567994", 
+  "description": "A JavaScript library for escaping JavaScript strings while generating the shortest possible valid ASCII-only output.", 
+  "fork": false, 
+  "full_name": "mathiasbynens/jsesc", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:14.736928"
+}

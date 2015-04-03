@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:08.710912", 
+  "description": "A shell which places users into individual docker containers", 
+  "fork": false, 
+  "full_name": "Yelp/dockersh", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:44:00.511949"
+}

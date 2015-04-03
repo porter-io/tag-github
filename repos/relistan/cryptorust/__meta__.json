@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:34.686785", 
+  "description": "An experimental library for Rust that wraps hashing from OpenSSL and implements Rust-native HMAC.", 
+  "fork": false, 
+  "full_name": "relistan/cryptorust", 
+  "language": "Rust", 
+  "updated_at": "2015-02-27T23:43:05.087889"
+}

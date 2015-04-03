@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:15.661682", 
+  "description": "browserify >=v2 transform to compile JavaScript.next (ES6) to JavaScript.current (ES5) on the fly.", 
+  "fork": false, 
+  "full_name": "thlorenz/es6ify", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:19.485886"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:46.458979", 
+  "description": "A backport of the Switch widget (http://developer.android.com/reference/android/widget/Switch.html) that was introduced on Android 4.  This port works on Android 2.1+.", 
+  "fork": false, 
+  "full_name": "BoD/android-switch-backport", 
+  "language": "Java", 
+  "updated_at": "2015-02-27T23:43:23.101955"
+}

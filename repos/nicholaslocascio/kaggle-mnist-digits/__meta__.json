@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.769245", 
+  "description": "My neural net based solution for the Kaggle MNIST digit recognition competition.", 
+  "fork": false, 
+  "full_name": "nicholaslocascio/kaggle-mnist-digits", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:08.022660"
+}

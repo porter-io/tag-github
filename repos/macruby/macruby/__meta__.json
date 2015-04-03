@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:57.070635", 
+  "description": "MacRuby is an implementation of Ruby 1.9 directly on top of Mac OS X core technologies such as the Objective-C runtime and garbage collector, the LLVM compiler infrastructure and the Foundation and ICU frameworks.", 
+  "fork": false, 
+  "full_name": "MacRuby/MacRuby", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:00.174329"
+}

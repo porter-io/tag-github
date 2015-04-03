@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.198473", 
+  "description": "An IE8-9 CORS driver for jQuery that uses XDomainRequest (XDR). This is not the official repo", 
+  "fork": false, 
+  "full_name": "dkastner/jquery.iecors", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:44.901627"
+}

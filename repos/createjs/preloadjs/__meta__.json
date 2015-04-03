@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:19.078708", 
+  "description": "PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.", 
+  "fork": false, 
+  "full_name": "CreateJS/PreloadJS", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:28.078866"
+}

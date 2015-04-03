@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:50.091065", 
+  "description": "Curl is a tool and libcurl is a library for transferring data with URL syntax, supporting FTP, FTPS, HTTP, HTTPS, GOPHER, TFTP, SCP, SFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features", 
+  "fork": false, 
+  "full_name": "bagder/curl", 
+  "language": "C", 
+  "updated_at": "2015-02-27T23:41:53.947221"
+}

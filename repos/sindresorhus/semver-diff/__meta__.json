@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:17.528540", 
+  "description": "Get the diff type of two semver versions: 0.0.1 0.0.2 \u2192 patch", 
+  "fork": false, 
+  "full_name": "sindresorhus/semver-diff", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:16.712681"
+}

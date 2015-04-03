@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:13.370934", 
+  "description": "The BClose Vim plugin for deleting a buffer without closing the window", 
+  "fork": false, 
+  "full_name": "rbgrouleff/bclose.vim", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:44:07.816690"
+}

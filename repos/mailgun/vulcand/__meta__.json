@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.649193", 
+  "description": " Programmatic load balancer backed by Etcd", 
+  "fork": false, 
+  "full_name": "mailgun/vulcand", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:43:38.200316"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:59.474102", 
+  "description": "haystack.vim: fuzzy matching algorithm", 
+  "fork": false, 
+  "full_name": "tpope/vim-haystack", 
+  "language": "VimL", 
+  "updated_at": "2015-02-27T23:43:43.858156"
+}

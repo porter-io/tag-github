@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:07.593599", 
+  "description": "MessagePack implementation for F# msgpack.org[F#] http://msgpack.org/", 
+  "fork": false, 
+  "full_name": "Gab-km/msgpack-fsharp", 
+  "language": "F#", 
+  "updated_at": "2015-02-27T23:43:59.016905"
+}

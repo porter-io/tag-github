@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:23.788867", 
+  "description": "A simple socks4/socks4a/socks5 server written in C++/Qt. I run/test it mainly on Windows 7 with MSVC2010, but it should work in any place Qt does with minimal issues.", 
+  "fork": false, 
+  "full_name": "raptorswing/Qt-Socks-Server", 
+  "language": "C++", 
+  "updated_at": "2015-03-10T07:04:59.694512"
+}

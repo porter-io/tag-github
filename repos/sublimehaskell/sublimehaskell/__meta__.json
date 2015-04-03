@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.210995", 
+  "description": "A Sublime Text 2/3 plugin for Haskell. Features cabal building, error and warning highlighting, smart completion and ghc-mod integration.", 
+  "fork": false, 
+  "full_name": "SublimeHaskell/SublimeHaskell", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:41.413552"
+}

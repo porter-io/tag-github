@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:38.748407", 
+  "description": "CQRS/ES toolkit for Go", 
+  "fork": false, 
+  "full_name": "looplab/eventhorizon", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:18.850557"
+}

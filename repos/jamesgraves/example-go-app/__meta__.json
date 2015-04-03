@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:28:49.577456", 
+  "description": "Example golang application for vendoring dependences and using git subtree.", 
+  "fork": false, 
+  "full_name": "jamesgraves/example-go-app", 
+  "updated_at": "2015-02-28T08:41:21.963315"
+}

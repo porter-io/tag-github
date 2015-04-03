@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.230629", 
+  "description": "An application skeleton using express, mongoose, backbone.js, socket.io", 
+  "fork": true, 
+  "full_name": "conan007ai/backbone-express-mongoose-socketio", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T22:28:56.230686"
+}

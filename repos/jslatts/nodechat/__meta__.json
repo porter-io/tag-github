@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:54.174924", 
+  "description": "using node.js, socket.io, backbone.js, and jade to make a chat app demo. Demo @ http://nodechat.no.de/", 
+  "fork": false, 
+  "full_name": "jslatts/nodechat", 
+  "language": "ActionScript", 
+  "updated_at": "2015-03-10T07:01:25.029522"
+}

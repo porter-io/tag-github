@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:34.312378", 
+  "description": " Yeoman plugin for Oh My ZSH, compatible with yeoman version \u22651.0 (options and command auto-completion).", 
+  "fork": false, 
+  "full_name": "edouard-lopez/yeoman-zsh-plugin", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:41:33.608791"
+}

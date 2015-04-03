@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:47.670232", 
+  "description": "An example OAuth 2 provider application using the Doorkeeper gem, Rails and Devise", 
+  "fork": false, 
+  "full_name": "doorkeeper-gem/doorkeeper-provider-app", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:51.693595"
+}

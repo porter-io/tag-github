@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.970926", 
+  "description": "Read .ini-files into Clojure maps", 
+  "fork": false, 
+  "full_name": "jonase/clojure-ini", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:24.643169"
+}

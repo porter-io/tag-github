@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:57.608083", 
+  "description": "A polyfill for ES6-style Promises in 402 bytes (gzip)", 
+  "fork": false, 
+  "full_name": "Zolmeister/promiz", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:30:36.860343"
+}

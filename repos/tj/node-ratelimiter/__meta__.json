@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:11.685225", 
+  "description": "Abstract rate limiter for nodejs", 
+  "fork": false, 
+  "full_name": "tj/node-ratelimiter", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:15.421564"
+}

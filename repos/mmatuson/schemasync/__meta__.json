@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:02.459122", 
+  "description": "A MySQL Schema Versioning and Migration Utility", 
+  "fork": false, 
+  "full_name": "mmatuson/SchemaSync", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:50.165585"
+}

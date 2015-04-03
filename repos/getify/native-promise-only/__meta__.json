@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:10.508176", 
+  "description": "A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.", 
+  "fork": false, 
+  "full_name": "getify/native-promise-only", 
+  "language": "JavaScript", 
+  "updated_at": "2015-04-01T19:30:13.133067"
+}

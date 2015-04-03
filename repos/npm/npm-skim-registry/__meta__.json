@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:29.906027", 
+  "description": "Move attachments into Manta and out of the registry", 
+  "fork": false, 
+  "full_name": "npm/npm-skim-registry", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:41:24.520956"
+}

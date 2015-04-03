@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:05.527111", 
+  "description": "FFmpeg based media transcoder that operates on streams.", 
+  "fork": false, 
+  "full_name": "trenskow/stream-transcoder.js", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:07.731704"
+}

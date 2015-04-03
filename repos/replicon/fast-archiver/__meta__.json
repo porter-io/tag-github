@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:12.694627", 
+  "description": "Alternative archiving tool with fast performance for huge numbers of small files", 
+  "fork": false, 
+  "full_name": "replicon/fast-archiver", 
+  "language": "Go", 
+  "updated_at": "2015-02-27T23:42:16.628725"
+}

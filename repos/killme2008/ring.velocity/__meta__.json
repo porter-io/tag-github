@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:30.286372", 
+  "description": "Render apache velocity template for ring in clojure.", 
+  "fork": false, 
+  "full_name": "killme2008/ring.velocity", 
+  "language": "Clojure", 
+  "updated_at": "2015-02-27T23:41:25.218430"
+}

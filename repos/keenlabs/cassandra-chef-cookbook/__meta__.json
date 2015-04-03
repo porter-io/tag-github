@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.659954", 
+  "description": "This is an OpsCode Chef cookbook for Apache Cassandra", 
+  "fork": true, 
+  "full_name": "keenlabs/cassandra-chef-cookbook", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T22:28:27.660008"
+}

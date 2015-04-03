@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:56.952965", 
+  "description": "Mustache template engine for Erlang.", 
+  "fork": false, 
+  "full_name": "mojombo/mustache.erl", 
+  "language": "Erlang", 
+  "updated_at": "2015-02-27T23:42:00.027120"
+}

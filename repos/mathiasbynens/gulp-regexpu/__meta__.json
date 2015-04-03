@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:16.574477", 
+  "description": "Gulp plugin to transpile ES6 Unicode regular expressions to ES5 with regexpu.", 
+  "fork": false, 
+  "full_name": "mathiasbynens/gulp-regexpu", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:44:14.759003"
+}

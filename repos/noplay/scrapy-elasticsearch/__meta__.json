@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:30.163120", 
+  "description": "A scrapy pipeline which send items to Elastic Search server", 
+  "fork": false, 
+  "full_name": "noplay/scrapy-elasticsearch", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:42:53.044351"
+}

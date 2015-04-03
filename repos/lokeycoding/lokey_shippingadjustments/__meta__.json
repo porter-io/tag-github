@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:56.920035", 
+  "description": "Magento module that provides a few events to allow adjustment of shipping rate requests", 
+  "fork": false, 
+  "full_name": "LokeyCoding/Lokey_ShippingAdjustments", 
+  "language": "PHP", 
+  "updated_at": "2015-02-27T23:43:41.099925"
+}

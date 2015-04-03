@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:13.570911", 
+  "description": "A leftside menu that shows up either by tapping the stripes or swiping stripes to right. It can be used as an alternative to bottom tabs in the iOS application to gain maximum space.", 
+  "fork": false, 
+  "full_name": "simhanature/SHStripeMenu", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:01:54.735423"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:54.271974", 
+  "description": "Tool that generates web documentation, controller stubs and test stubs from swagger api spec's", 
+  "fork": false, 
+  "full_name": "braitz/node-swagger-api", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:37.804456"
+}

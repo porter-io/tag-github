@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:31.919175", 
+  "description": "\u5168\u81ea\u52a8\u7684\u63d2\u5165,\u67e5\u8be2,\u66f4\u65b0,\u5220\u9664\uff0c an automatic database operation  thread-safe and not afraid of recursive deadlock", 
+  "fork": false, 
+  "full_name": "li6185377/LKDBHelper-SQLite-ORM", 
+  "language": "Objective-C", 
+  "updated_at": "2015-02-27T23:42:57.638574"
+}

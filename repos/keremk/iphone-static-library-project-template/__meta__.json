@@ -1,0 +1,7 @@
+{
+  "created_at": "2015-02-27T22:29:19.461172", 
+  "description": "A project template for creating static libraries for the IPhone SDK. The template also includes unit testing support that uses Google Toolkit for Mac Unit Testing Kit and OCMock.", 
+  "fork": false, 
+  "full_name": "keremk/iphone-static-library-project-template", 
+  "updated_at": "2015-02-27T23:44:22.260499"
+}

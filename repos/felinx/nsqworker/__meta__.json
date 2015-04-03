@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:58.646813", 
+  "description": "A skeletal guide of one way to implement a nsq consumer", 
+  "fork": false, 
+  "full_name": "felinx/nsqworker", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:42.982497"
+}

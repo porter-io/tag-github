@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:53.570886", 
+  "description": "Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.", 
+  "fork": false, 
+  "full_name": "jcalazan/ansible-django-stack", 
+  "language": "Shell", 
+  "updated_at": "2015-02-27T23:43:36.699270"
+}

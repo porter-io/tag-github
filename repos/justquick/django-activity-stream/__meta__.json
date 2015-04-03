@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:37.767806", 
+  "description": "Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.", 
+  "fork": false, 
+  "full_name": "justquick/django-activity-stream", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:40.946533"
+}

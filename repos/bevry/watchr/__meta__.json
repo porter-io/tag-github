@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.734530", 
+  "description": "Better file system watching for Node.js. Provides a normalised API the file watching APIs of different node versions, nested/recursive file and directory watching, and accurate detailed events for file/directory changes, deletions and creations.", 
+  "fork": false, 
+  "full_name": "bevry/watchr", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-03-10T07:01:46.202524"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:09.142012", 
+  "description": "Recursive fs.watch for watching entire directory trees", 
+  "fork": false, 
+  "full_name": "busterjs/fs-watch-tree", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:42:12.236687"
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:17.925108", 
+  "description": "This is an adaptation of the jQuery Live Form Validation found at http://www.geektantra.com/2009/09/jquery-live-form-validation/ for Twitter Boostrap. The modified script will allow for live form validation using the Twitter Bootstrap HTML pattern for forms.", 
+  "fork": false, 
+  "full_name": "ddarren/jQuery-Live-Form-Validation-For-Twitter-Bootstrap", 
+  "language": "JavaScript", 
+  "updated_at": "2015-03-10T07:02:05.731054"
+}

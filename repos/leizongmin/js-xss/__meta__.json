@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.591136", 
+  "description": "Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist. \u6839\u636e\u767d\u540d\u5355\u8fc7\u6ee4HTML(\u9632\u6b62XSS\u653b\u51fb)", 
+  "fork": false, 
+  "full_name": "leizongmin/js-xss", 
+  "language": "JavaScript", 
+  "updated_at": "2015-02-27T23:43:51.430287"
+}

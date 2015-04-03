@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:59.143546", 
+  "description": "ASIC and FPGA miner in c for bitcoin", 
+  "fork": true, 
+  "full_name": "ckolivas/cgminer", 
+  "language": "C", 
+  "updated_at": "2015-02-27T22:27:59.146543"
+}

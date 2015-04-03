@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:25.994620", 
+  "description": "Easy to use open source hardware to drive WS2811 LEDs with high-quality color", 
+  "fork": false, 
+  "full_name": "scanlime/fadecandy", 
+  "language": "C++", 
+  "updated_at": "2015-02-27T23:42:41.276368"
+}

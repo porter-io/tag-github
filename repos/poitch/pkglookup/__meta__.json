@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:58.102022", 
+  "description": "Looks up packages on PyPI, CPAN, RubyGems, NPM, Maven Central, Clojars, GitHub, Bitbucket, Ubuntu, Arch User Repository, FreeBSD ports, Fedora and Homebrew. ", 
+  "fork": false, 
+  "full_name": "poitch/pkglookup", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:42:01.066480"
+}

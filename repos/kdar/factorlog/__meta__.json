@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:27.555959", 
+  "description": "FactorLog is a logging infrastructure for Go that provides numerous logging functions for whatever your style may be", 
+  "fork": false, 
+  "full_name": "kdar/factorlog", 
+  "language": "Go", 
+  "updated_at": "2015-02-28T08:41:14.860749"
+}

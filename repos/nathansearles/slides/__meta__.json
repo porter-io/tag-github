@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.059446", 
+  "description": "Slides is a crazy simple slideshow plugin for jQuery. With features like looping, auto play, fade or slide transition effects, crossfading, image preloading, and auto generated pagination.  With Slides you\u2019ll never see multiple slides fly by. Slides elegantly just slides from one slide to the next. Awesome.", 
+  "fork": false, 
+  "full_name": "nathansearles/Slides", 
+  "language": "CoffeeScript", 
+  "updated_at": "2015-02-27T23:41:12.369563"
+}

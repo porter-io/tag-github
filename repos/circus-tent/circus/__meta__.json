@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:24.596661", 
+  "description": "A Process & Socket Manager built with zmq", 
+  "fork": false, 
+  "full_name": "circus-tent/circus", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:13.071903"
+}

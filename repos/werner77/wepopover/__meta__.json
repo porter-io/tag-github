@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:14.652862", 
+  "description": "Generic popover implementation for iOS with same API as the UIPopoverController for the iPad, but configurable with custom background and available for iPhone as well.", 
+  "fork": false, 
+  "full_name": "werner77/WEPopover", 
+  "language": "Objective-C", 
+  "updated_at": "2015-03-10T07:04:29.962338"
+}

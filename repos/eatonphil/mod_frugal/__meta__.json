@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:35.796176", 
+  "description": "Calling Golang functions from an Apache Module.", 
+  "fork": false, 
+  "full_name": "eatonphil/mod_frugal", 
+  "language": "C", 
+  "updated_at": "2015-02-28T08:40:51.837926"
+}

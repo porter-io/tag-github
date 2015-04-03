@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:36.253366", 
+  "description": "A Python module for decorators, wrappers and monkey patching.", 
+  "fork": false, 
+  "full_name": "GrahamDumpleton/wrapt", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:41:38.112994"
+}

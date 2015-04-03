@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:29:03.766765", 
+  "description": "A Redis-backed statistics storage and querying library written in Ruby.", 
+  "fork": false, 
+  "full_name": "jimeh/redistat", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:43:52.399349"
+}

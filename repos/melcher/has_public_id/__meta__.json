@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:27:52.728703", 
+  "description": "ActiveRecord extension to make it easy to generate and use random, unique object ID's instead of your databases internal, sequential id's", 
+  "fork": false, 
+  "full_name": "melcher/has_public_id", 
+  "language": "Ruby", 
+  "updated_at": "2015-02-27T23:41:56.691320"
+}

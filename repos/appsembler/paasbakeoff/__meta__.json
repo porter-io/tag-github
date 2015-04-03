@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-02-27T22:28:36.710863", 
+  "description": "A skeleton Mezzanine project demonstrating how to deploy it to each PaaS provider", 
+  "fork": false, 
+  "full_name": "appsembler/paasbakeoff", 
+  "language": "Python", 
+  "updated_at": "2015-02-27T23:43:10.074189"
+}
