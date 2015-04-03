@@ -112,7 +112,7 @@ print repostore.find_links([tag_python, tag_framework])
 
 **1. How large is this dataset?**
 
-For performance reasons, we've only added repos mentioned by at lease one HackerNews story.
+For performance reasons, we've only added repos mentioned by at least one HackerNews story.
 Currently there are 37190 tagged repos and 518 tags. More repos and tags will be added in the future.
 
 **2. Why plain text?**
