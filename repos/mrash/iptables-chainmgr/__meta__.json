@@ -1,0 +1,8 @@
+{
+  "created_at": "2015-04-06T00:22:30.854367", 
+  "description": "The IPTables::ChainMgr perl module provides an interface to manipulate iptables policies on Linux systems through the direct execution of iptables commands.", 
+  "fork": false, 
+  "full_name": "mrash/IPTables-ChainMgr", 
+  "language": "Perl", 
+  "updated_at": "2015-04-06T00:22:31.328896"
+}
